@@ -1,0 +1,401 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Elmer B\u00e4ck",
+                "gender": "m",
+                "id": 4978,
+                "slug": "elmer-back",
+                "url": "https://www.filminlatino.mx/actor/elmer-back"
+            },
+            {
+                "full_name": "Luis Alberti",
+                "gender": "m",
+                "id": 3403,
+                "slug": "luis-alberti",
+                "url": "https://www.filminlatino.mx/actor/luis-alberti"
+            },
+            {
+                "full_name": "Cristina Velasco Lozano",
+                "gender": "f",
+                "id": 4979,
+                "slug": "cristina-velasco-lozano",
+                "url": "https://www.filminlatino.mx/actriz/cristina-velasco-lozano"
+            },
+            {
+                "full_name": "Jos\u00e9 Montini",
+                "gender": "m",
+                "id": 3858,
+                "slug": "jose-montini",
+                "url": "https://www.filminlatino.mx/actor/jose-montini"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Secci\u00f3n Oficial de Largometrajes",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Peter Greenaway",
+                "gender": "m",
+                "id": 1701,
+                "slug": "peter-greenaway",
+                "url": "https://www.filminlatino.mx/director/peter-greenaway"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Esta pel\u00edcula narra el particular momento de la vida de Sergei Eisenstein en que vislumbr\u00f3 la pel\u00edcula \"\u00a1Que viva M\u00e9xico!\"",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3267,
+        "image_card": "https://static.filminlatino.mx/images/media/3267/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3267/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3267/15/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3267/13/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3267/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3267/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3267/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3267/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3267/9/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 97,
+        "original_title": "Eisenstein in Guanajuato",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1804,
+                "name": "Submarine",
+                "slug": "submarine",
+                "url": "https://www.filminlatino.mx/producer/submarine"
+            },
+            {
+                "acronym": "",
+                "id": 1805,
+                "name": "Fu Works",
+                "slug": "fu-works",
+                "url": "https://www.filminlatino.mx/producer/fu-works"
+            },
+            {
+                "acronym": "",
+                "id": 1806,
+                "name": "Paloma Negra Films",
+                "slug": "paloma-negra-films",
+                "url": "https://www.filminlatino.mx/producer/paloma-negra-films"
+            },
+            {
+                "acronym": "",
+                "id": 1807,
+                "name": "Potemkino",
+                "slug": "potemkino",
+                "url": "https://www.filminlatino.mx/producer/potemkino"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "eisenstein-en-guanajuato",
+        "synopsis": "Rechazado por Hollywood y bajo la presi\u00f3n de regresar a la Rusia estalinista, el cineasta sovi\u00e9tico\u00a0Sergei Eisenstein\u00a0vivi\u00f3 m\u00e1s de un a\u00f1o en M\u00e9xico para plasmar en celuloide su fascinaci\u00f3n por el D\u00eda de Muertos y los ritos religiosos de la cultura popular mexicana. Esta pel\u00edcula narra el particular momento de la vida del director de \u201cEl Acorazado Potemkin\u201d en que vislumbr\u00f3 la cinta inconclusa \"\u00a1Que viva M\u00e9xico!\".",
+        "tags": [
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 31,
+                "name": "Cine de \u00e9poca",
+                "slug": "cine-de-epoca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-epoca"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 589,
+                "name": "D\u00eda de Muertos ",
+                "slug": "dia-de-muertos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos"
+            },
+            {
+                "id": 388,
+                "name": " A\u00f1os 30",
+                "slug": "anos-30",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-30"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 553,
+                "name": "Fama",
+                "slug": "fama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fama"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 850,
+                "name": "Sergei Eisenstein",
+                "slug": "sergei-eisenstein",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sergei-eisenstein"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 891,
+                "name": "Eisenstein vs Griffith",
+                "slug": "eisenstein-vs-griffith",
+                "url": "https://www.filminlatino.mx/catalogo/tema/eisenstein-vs-griffith"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1740,
+                "name": "Desde el m\u00e1s all\u00e1",
+                "slug": "desde-el-mas-alla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-el-mas-alla"
+            },
+            {
+                "id": 1502,
+                "name": "Mari Paz Robles",
+                "slug": "mari-paz-robles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mari-paz-robles"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2320,
+                "name": "D\u00eda de muertos | Cine Club UG",
+                "slug": "dia-de-muertos-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos-cine-club-ug"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Eisenstein en Guanajuato",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/eisenstein-en-guanajuato",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2599,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/EISENSTEIN-EN-GUANAJUATO-mp4.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/EISENSTEIN-EN-GUANAJUATO-mp4/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/EISENSTEIN-EN-GUANAJUATO-mp4/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

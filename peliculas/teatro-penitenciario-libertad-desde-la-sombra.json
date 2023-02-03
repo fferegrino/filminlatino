@@ -1,0 +1,221 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Gonz\u00e1lez Garc\u00eda",
+                "gender": "m",
+                "id": 1856,
+                "slug": "carlos-gonzalez-garcia",
+                "url": "https://www.filminlatino.mx/director/carlos-gonzalez-garcia"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Jorge Correa alcanza a vislumbrar su sue\u00f1o: montar una obra teatral con exconvictos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3440,
+        "image_card": "https://static.filminlatino.mx/images/media/3440/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3440/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3440/2/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Teatro penitenciario: libertad desde la sombra",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "teatro-penitenciario-libertad-desde-la-sombra",
+        "synopsis": "Luego de 32 a\u00f1os de hacer teatro penitenciario, Jorge Correa tiene la visi\u00f3n de alcanzar su sue\u00f1o: montar una obra con exconvictos. Su vida se desenvuelve entre c\u00e1rceles, foros de teatro y su prop\u00f3sito de vida.  Hombres y mujeres se olvidan de los horrores de la prisi\u00f3n y a trav\u00e9s del teatro inician una danza ritual que les permitir\u00e1 despojarse de sus miedos y ser libres por algunos eternos instantes.<br>",
+        "tags": [
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 143,
+                "name": "Crisis creativa",
+                "slug": "crisis-creativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-creativa"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1761,
+                "name": "Miguel Hidalgo | Promotores Culturales Comunitarios",
+                "slug": "miguel-hidalgo-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miguel-hidalgo-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Teatro penitenciario: libertad desde la sombra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/teatro-penitenciario-libertad-desde-la-sombra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3191,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rachelle  Lefevre",
+                "gender": "f",
+                "id": 4179,
+                "slug": "rachelle-lefevre",
+                "url": "https://www.filminlatino.mx/actriz/rachelle-lefevre"
+            },
+            {
+                "full_name": " Stephen  Moyer",
+                "gender": "m",
+                "id": 4180,
+                "slug": "stephen-moyer",
+                "url": "https://www.filminlatino.mx/actor/stephen-moyer"
+            },
+            {
+                "full_name": "Lorna  Raver",
+                "gender": "f",
+                "id": 4181,
+                "slug": "lorna-raver",
+                "url": "https://www.filminlatino.mx/actriz/lorna-raver"
+            }
+        ],
+        "avg_votes": 6.5,
+        "avg_votes_formatted": "6,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            },
+            {
+                "id": 181,
+                "name": "Puerto Rico",
+                "slug": "puerto-rico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/puerto-rico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Matthew  Parkhill",
+                "gender": "m",
+                "id": 1459,
+                "slug": "matthew-parkhill",
+                "url": "https://www.filminlatino.mx/director/matthew-parkhill"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Un tel\u00e9fono antiguo se convertir\u00e1 la peor pesadilla de una adolescente que s\u00f3lo quer\u00eda empezar de nuevo...",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2777,
+        "image_card": "https://static.filminlatino.mx/images/media/2777/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2777/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2777/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2777/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2777/3/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "The Caller",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 346,
+                "name": "Pimienta Films",
+                "slug": "pimienta-films",
+                "url": "https://www.filminlatino.mx/producer/pimienta-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "llamada-siniestra",
+        "synopsis": "Tras un divorcio, Mary Kee se muda para iniciar una nueva vida. Sin embargo, las cosas no son como planea cuando una mujer comienza a hacer un sinf\u00edn de llamadas a su tel\u00e9fono.",
+        "tags": [
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 675,
+                "name": "Terror psicol\u00f3gico",
+                "slug": "terror-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-psicologico"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 655,
+                "name": "Acosar",
+                "slug": "acosar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/acosar"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -61752412800,
+        "theater_release_date": -61752412800,
+        "theater_spectators_formatted": null,
+        "title": "Llamada siniestra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/llamada-siniestra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2172,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/llamada-siniestra.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/llamada-siniestra/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/llamada-siniestra/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Isabel Cristina Fregoso Centeno",
+                "gender": "f",
+                "id": 2070,
+                "slug": "isabel-cristina-fregoso-centeno",
+                "url": "https://www.filminlatino.mx/directora/isabel-cristina-fregoso-centeno"
+            }
+        ],
+        "duration_in_minutes": 71,
+        "excerpt": "Mujeres dentro de la Iglesia cat\u00f3lica, consagradas e inteligentes, pero minor\u00eda al final de cuentas, comparten su manera de vivir la fe.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4160,
+        "image_card": "https://static.filminlatino.mx/images/media/4160/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/4160/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4160/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4160/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/4160/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/4160/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/4160/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4160/1/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4160/2/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/4160/3/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 24,
+        "original_title": "El aliento de Dios",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 91,
+                "name": "Fundaci\u00f3n Rockefeller",
+                "slug": "fundacion-rockefeller",
+                "url": "https://www.filminlatino.mx/producer/fundacion-rockefeller"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-aliento-de-dios",
+        "synopsis": "\u00bfCu\u00e1l ha sido el papel de las mujeres dentro de la Iglesia cat\u00f3lica? Este documental indaga en las reflexiones de monjas sobre la discriminaci\u00f3n y exclusi\u00f3n que las rodea; a la vez que\u00a0muestra, desde una mirada femenina,\u00a0su misticismo y entrega hacia Dios y hacia la lucha\u00a0por la\u00a0liberaci\u00f3n de las mujeres. Su voz de rebeld\u00eda\u00a0es el aliento de Dios.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 592,
+                "name": "Misticismo",
+                "slug": "misticismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misticismo"
+            },
+            {
+                "id": 488,
+                "name": "Discriminaci\u00f3n",
+                "slug": "discriminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/discriminacion"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 345,
+                "name": "Liberaci\u00f3n",
+                "slug": "liberacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/liberacion"
+            },
+            {
+                "id": 370,
+                "name": "Rebeld\u00eda",
+                "slug": "rebeldia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rebeldia"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 127,
+                "name": "Cine religioso",
+                "slug": "cine-religioso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-religioso"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 405,
+                "name": "Machismo",
+                "slug": "machismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/machismo"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2787,
+                "name": "Calendario de Adviento | 2022",
+                "slug": "calendario-de-adviento-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/calendario-de-adviento-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1203552000,
+        "theater_release_date": 1203552000,
+        "theater_spectators_formatted": null,
+        "title": "El aliento de Dios",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-aliento-de-dios",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 3481,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2007
+    }
+}

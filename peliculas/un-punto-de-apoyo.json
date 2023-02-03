@@ -1,0 +1,196 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Daniel  Glick",
+                "gender": "m",
+                "id": 1632,
+                "slug": "daniel-glick",
+                "url": "https://www.filminlatino.mx/director/daniel-glick"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Nunca es demasiado tarde para cambiar tu vida. Jimmy Santiago Baca, la historia a trav\u00e9s de la poes\u00eda, de criminal condenado a uno de los escritores mexico-americano m\u00e1s reconocido del pa\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3179,
+        "image_card": "https://static.filminlatino.mx/images/media/3179/14/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3179/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3179/14/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/15/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/19/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/18/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/23/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/22/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/20/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/21/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/17/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3179/16/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "A place to Stand",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1716,
+                "name": "Catamount Films",
+                "slug": "catamount-films",
+                "url": "https://www.filminlatino.mx/producer/catamount-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-punto-de-apoyo",
+        "synopsis": "Un viaje a trav\u00e9s de las palabras que lleva a los espectadores al pasado y al presente de Jimmy Santiago Baca, para descubrir c\u00f3mo el poder de la escritura lo hizo fabricar un nuevo destino, lejos de la violencia y el dolor que hab\u00eda definido su vida temprana. Se convirti\u00f3 en un c\u00e9lebre maestro, poeta, novelista y guionista. Revelaciones impactantes de familiares, amigos y compa\u00f1eros, as\u00ed como una fabulosa visi\u00f3n de los primeros escritos que atraparon la imaginaci\u00f3n de Jimmy. Un trabajo en donde los espectadores reflexionan el por qu\u00e9 nunca es demasiado tarde para cambiar tu vida, siempre y cuando tengas un punto de apoyo.",
+        "tags": [
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 350,
+                "name": "Bandas callejeras",
+                "slug": "bandas-callejeras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bandas-callejeras"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 396,
+                "name": "Chicanos",
+                "slug": "chicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chicanos"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1044,
+                "name": "Catamount Films",
+                "slug": "catamount-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/catamount-films"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1411689600,
+        "theater_release_date": 1411689600,
+        "theater_spectators_formatted": null,
+        "title": "Un punto de apoyo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-punto-de-apoyo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2512,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-punto-de-apoyo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-punto-de-apoyo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-punto-de-apoyo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

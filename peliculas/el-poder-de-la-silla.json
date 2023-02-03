@@ -1,0 +1,269 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Enrique Osorno",
+                "gender": "m",
+                "id": 1310,
+                "slug": "diego-enrique-osorno",
+                "url": "https://www.filminlatino.mx/director/diego-enrique-osorno"
+            }
+        ],
+        "duration_in_minutes": 65,
+        "excerpt": "El documental muestra la experiencia personal y directa del acto de gobernar a trav\u00e9s de cuatro protagonistas que revelan c\u00f3mo es 'El poder de la silla'.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3421,
+        "image_card": "https://static.filminlatino.mx/images/media/3421/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3421/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3421/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3421/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "El poder de la silla",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2100,
+                "name": "Cinematogr\u00e1fica CR",
+                "slug": "cinematografica-cr",
+                "url": "https://www.filminlatino.mx/producer/cinematografica-cr"
+            },
+            {
+                "acronym": "",
+                "id": 1402,
+                "name": "Agencia Bengala",
+                "slug": "agencia-bengala",
+                "url": "https://www.filminlatino.mx/producer/agencia-bengala"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-poder-de-la-silla",
+        "synopsis": "No hay mejores piezas para comprender por qu\u00e9 los pol\u00edticos est\u00e1n perdiendo el poder que las recuperadas por el periodista Diego E. Osorno en\u00a0el documental 'El poder de la silla', quien a trav\u00e9s de distintas entrevistas\u00a0nos acerca a la manera tradicional de hacer pol\u00edtica en nuestro pa\u00eds en palabras de sus\u00a0propios protagonistas. Los cuestionamientos al poder y la corrupci\u00f3n de cuatro l\u00edderes pol\u00edticos de Nuevo Le\u00f3n\u00a0aumentan cada d\u00eda por parte de ciudadanos indignados.",
+        "tags": [
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 1001,
+                "name": "Participantes 2018 Shorts MX",
+                "slug": "participantes-2018-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/participantes-2018-shorts-mx"
+            },
+            {
+                "id": 1018,
+                "name": "Agencia Bengala",
+                "slug": "agencia-bengala",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agencia-bengala"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 1261,
+                "name": "Monterrey",
+                "slug": "monterrey",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monterrey"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 1420,
+                "name": "Especial Bengala",
+                "slug": "especial-bengala",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-bengala"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El poder de la silla",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-poder-de-la-silla",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2774,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SILLA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SILLA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SILLA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

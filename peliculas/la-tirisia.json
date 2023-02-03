@@ -1,0 +1,508 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gustavo S\u00e1nchez Parra",
+                "gender": "m",
+                "id": 1403,
+                "slug": "gustavo-sanchez-parra",
+                "url": "https://www.filminlatino.mx/actor/gustavo-sanchez-parra"
+            },
+            {
+                "full_name": "Adriana Paz",
+                "gender": "f",
+                "id": 955,
+                "slug": "adriana-paz",
+                "url": "https://www.filminlatino.mx/actriz/adriana-paz"
+            },
+            {
+                "full_name": "No\u00e9 Hern\u00e1ndez",
+                "gender": "m",
+                "id": 816,
+                "slug": "noe-hernandez",
+                "url": "https://www.filminlatino.mx/actor/noe-hernandez"
+            },
+            {
+                "full_name": "Gabriela Cartol",
+                "gender": "m",
+                "id": 2465,
+                "slug": "gabriela-cartol",
+                "url": "https://www.filminlatino.mx/actor/gabriela-cartol"
+            },
+            {
+                "full_name": "Alfredo Herrera",
+                "gender": "m",
+                "id": 2466,
+                "slug": "alfredo-herrera",
+                "url": "https://www.filminlatino.mx/actor/alfredo-herrera"
+            },
+            {
+                "full_name": "Mercedes Hern\u00e1ndez ",
+                "gender": "m",
+                "id": 1407,
+                "slug": "mercedes-hernandez",
+                "url": "https://www.filminlatino.mx/actor/mercedes-hernandez"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2014
+            },
+            {
+                "category": "Premio del jurado joven",
+                "icon": "",
+                "name": "Festival FILMAR en Am\u00e9rica Latina",
+                "slug": "festival-filmar-en-america-latina",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jorge P\u00e9rez Solano",
+                "gender": "m",
+                "id": 177,
+                "slug": "jorge-perez-solano",
+                "url": "https://www.filminlatino.mx/director/jorge-perez-solano"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Un largometraje realista, con un gui\u00f3n basado en las historias de cientos de mujeres que se ven obligadas a elegir.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1342,
+        "image_card": "https://static.filminlatino.mx/images/media/1342/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1342/7/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1342/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1342/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1342/7/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 145,
+        "original_title": "La tirisia",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 943,
+                "name": "Tirisia Cine S. de R.L. de C.V.",
+                "slug": "tirisia-cine-s-de-rl-de-cv",
+                "url": "https://www.filminlatino.mx/producer/tirisia-cine-s-de-rl-de-cv"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-tirisia",
+        "synopsis": "Un largometraje realista que expone la vida de Cheba y Serafina, dos mujeres que viven en la Mixteca poblana. Ellas deben de tomar decisiones dr\u00e1sticas en torno a su futuro, entre elegir a sus hijos o conservar a sus hombres para no caer enfermas a causa de tirisia, una tristeza perpetua. <br>Hablada en espa\u00f1ol y mixteco, \"La tirisia\" es una funci\u00f3n especial gratuita hasta el 28 de febrero y forma parte de\u00a0la Muestra de Cine en Lenguas Ind\u00edgenas.",
+        "tags": [
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 475,
+                "name": "Depresi\u00f3n",
+                "slug": "depresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/depresion"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 898,
+                "name": "Derechos sexuales",
+                "slug": "derechos-sexuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-sexuales"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 923,
+                "name": "Seleccionados FICG",
+                "slug": "seleccionados-ficg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-ficg"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 935,
+                "name": "Actrices imprescindibles",
+                "slug": "actrices-imprescindibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actrices-imprescindibles"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 1343,
+                "name": "Especial Fetival Mix",
+                "slug": "especial-fetival-mix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fetival-mix"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 1366,
+                "name": "Revelaci\u00f3n femenina Ariel",
+                "slug": "revelacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revelacion-femenina-ariel"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1885,
+                "name": "16 d\u00edas de activismo",
+                "slug": "16-dias-de-activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo"
+            },
+            {
+                "id": 1805,
+                "name": "Ciclo perspectiva de g\u00e9nero",
+                "slug": "ciclo-perspectiva-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-perspectiva-de-genero"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La tirisia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-tirisia",
+        "versions": [
+            {
+                "codes": [],
+                "id": 871,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-trisia.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-trisia/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-trisia/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

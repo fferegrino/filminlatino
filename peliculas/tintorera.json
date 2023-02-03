@@ -1,0 +1,319 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Andr\u00e9s Garc\u00eda",
+                "gender": "m",
+                "id": 775,
+                "slug": "andres-garcia",
+                "url": "https://www.filminlatino.mx/actor/andres-garcia"
+            },
+            {
+                "full_name": "Susan George",
+                "gender": "f",
+                "id": 831,
+                "slug": "susan-george",
+                "url": "https://www.filminlatino.mx/actriz/susan-george"
+            },
+            {
+                "full_name": "Hugo Stiglitz",
+                "gender": "m",
+                "id": 832,
+                "slug": "hugo-stiglitz",
+                "url": "https://www.filminlatino.mx/actor/hugo-stiglitz"
+            },
+            {
+                "full_name": "Fiona Lewis",
+                "gender": "f",
+                "id": 833,
+                "slug": "fiona-lewis",
+                "url": "https://www.filminlatino.mx/actriz/fiona-lewis"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ren\u00e9 Cardona",
+                "gender": "m",
+                "id": 119,
+                "slug": "rene-cardona",
+                "url": "https://www.filminlatino.mx/director/rene-cardona"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Basada en la novela del ocean\u00f3grafo Ram\u00f3n Bravo. Una aventura llena de pasi\u00f3n y tiburones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 314,
+        "image_card": "https://static.filminlatino.mx/images/media/314/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/314/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/314/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/314/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/314/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/314/4/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Tintorera",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "",
+                "id": 231,
+                "name": "Hemdale ",
+                "slug": "hemdale",
+                "url": "https://www.filminlatino.mx/producer/hemdale"
+            },
+            {
+                "acronym": "",
+                "id": 232,
+                "name": "Productora F\u00edlmica Real ",
+                "slug": "productora-filmica-real",
+                "url": "https://www.filminlatino.mx/producer/productora-filmica-real"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tintorera",
+        "synopsis": "En alg\u00fan lugar del Caribe, un millonario termina su relaci\u00f3n con una amiga turista; m\u00e1s tarde \u00e9l la ve con un vividor en la playa y agrede al tipo.Tiempo despu\u00e9s los pretendientes, el millonario y el vividor, ignoran la desaparici\u00f3n de la mujer, y se hacen compa\u00f1eros de juerga creyendo que ella los abandon\u00f3; se ligan a otra turista que va a vivir con los dos al yate del millonario. Adem\u00e1s del amor compartido entre los tres, har\u00e1n una exploraci\u00f3n submarina que los llevar\u00e1 a una aventura inimaginable.",
+        "tags": [
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 743,
+                "name": "Aventuras_MX",
+                "slug": "aventuras-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 989,
+                "name": "Especial Macabro",
+                "slug": "especial-macabro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-macabro"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1181,
+                "name": "1977",
+                "slug": "1977",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1977"
+            },
+            {
+                "id": 1240,
+                "name": "Quintana Roo",
+                "slug": "quintana-roo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quintana-roo"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 644,
+                "name": "Miedo al amor",
+                "slug": "miedo-al-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo-al-amor"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 229219200,
+        "theater_release_date": 229219200,
+        "theater_spectators_formatted": null,
+        "title": "Tintorera",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tintorera",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 790,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/tintorera.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/tintorera/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/tintorera/master.m3u8"
+                }
+            ]
+        },
+        "year": 1976
+    }
+}

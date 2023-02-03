@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Juliette Binoche",
+                "gender": "f",
+                "id": 1151,
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/actriz/juliette-binoche"
+            },
+            {
+                "full_name": "Jean-Luc Vincent",
+                "gender": "m",
+                "id": 1163,
+                "slug": "jean-luc-vincent",
+                "url": "https://www.filminlatino.mx/actor/jean-luc-vincent"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2012
+            },
+            {
+                "category": "Secci\u00f3n oficial a concurso \"Un certain regard\"",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Bruno Dumont",
+                "gender": "m",
+                "id": 53,
+                "slug": "bruno-dumont",
+                "url": "https://www.filminlatino.mx/director/bruno-dumont"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Dumont retrata la vida de la artista Camille Claudel, personaje piadoso y atormentado en medio de un ambiente naturalista.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 479,
+        "image_card": "https://static.filminlatino.mx/images/media/479/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/479/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/479/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/479/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/479/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/479/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/479/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/479/10/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "Camille Claudel",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 514,
+                "name": "3B Productions",
+                "slug": "3b-productions",
+                "url": "https://www.filminlatino.mx/producer/3b-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "camille-claudel",
+        "synopsis": "En el invierno 1915, la artista Camille Claudel es internada por su familia en un manicomio al sur de Francia. En este lugar ya no podr\u00e1 esculpir y pasa sus d\u00eda esperando la visita de su hermano Paul Claudel para salir de ah\u00ed.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 865,
+                "name": "Juliette Binoche",
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juliette-binoche"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Camille Claudel",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/camille-claudel",
+        "versions": [
+            {
+                "codes": [],
+                "id": 267,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Camille.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Camille/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Camille/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

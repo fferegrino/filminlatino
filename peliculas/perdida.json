@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial al largometraje documental mexicano",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2011
+            },
+            {
+                "category": "Premio especial",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Viviana Garc\u00eda Besn\u00e9",
+                "gender": "f",
+                "id": 494,
+                "slug": "viviana-garcia-besne",
+                "url": "https://www.filminlatino.mx/directora/viviana-garcia-besne"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Perdida se desarrolla con una narrativa que nos lleva de una historia personal a un terreno hist\u00f3rico y cultural sobre nuestro pa\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 513,
+        "image_card": "https://static.filminlatino.mx/images/media/513/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/513/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/513/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/513/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/513/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/513/11/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "Perdida",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 571,
+                "name": "Viviana Garc\u00eda Besn\u00e9",
+                "slug": "viviana-garcia-besne",
+                "url": "https://www.filminlatino.mx/producer/viviana-garcia-besne"
+            },
+            {
+                "acronym": "",
+                "id": 572,
+                "name": "Arte, M\u00fasica y Video, S.A de C.V.",
+                "slug": "arte-musica-y-video-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/arte-musica-y-video-sa-de-cv"
+            },
+            {
+                "acronym": "",
+                "id": 573,
+                "name": "Alistair Tremps",
+                "slug": "alistair-tremps",
+                "url": "https://www.filminlatino.mx/producer/alistair-tremps"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "perdida",
+        "synopsis": "\"Las memorias de mi abuelita no se parec\u00edan nada a la historia que los libros de cine contaban de mi familia. No hay nada escrito de mi bisabuelo, y mi abuelita insiste en que \u00e9l trajo el cine sonoro a M\u00e9xico. Al buscar esta historia descubro cosas incre\u00edbles, tales como rollos de pel\u00edculas antiguas con im\u00e1genes de mi bisabuelo y Lupe V\u00e9lez, los amores entre mi abuelita y Ricardo Montalb\u00e1n, que mis t\u00edos abuelos fueron pioneros de los desnudos mexicanos, el c\u00f3mo comenz\u00f3 el g\u00e9nero de rumberas, que mi abuelo produjo las primeras pel\u00edculas de El Santo, que el presidente Echeverr\u00eda les dijo a mis t\u00edos que dejaran de producir y se dedicaran a negocios de viudas\u0085\".",
+        "tags": [
+            {
+                "id": 736,
+                "name": "Oto\u00f1o y vino",
+                "slug": "otono-y-vino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otono-y-vino"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 2770,
+                "name": "Pel\u00edculas de archivo",
+                "slug": "peliculas-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-de-archivo"
+            },
+            {
+                "id": 2771,
+                "name": "Muestra del Patrimonio Audiovisual 2022",
+                "slug": "muestra-del-patrimonio-audiovisual-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-del-patrimonio-audiovisual-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Perdida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/perdida",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 748,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

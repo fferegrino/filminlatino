@@ -1,0 +1,354 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Ignacio L\u00f3pez Tarso",
+                "gender": "m",
+                "id": 274,
+                "slug": "ignacio-lopez-tarso",
+                "url": "https://www.filminlatino.mx/actor/ignacio-lopez-tarso"
+            },
+            {
+                "full_name": "Ana Luisa Peluffo",
+                "gender": "f",
+                "id": 275,
+                "slug": "ana-luisa-peluffo",
+                "url": "https://www.filminlatino.mx/actriz/ana-luisa-peluffo"
+            },
+            {
+                "full_name": "Tina Romero",
+                "gender": "f",
+                "id": 276,
+                "slug": "tina-romero",
+                "url": "https://www.filminlatino.mx/actriz/tina-romero"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1976
+            },
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Actriz Secundaria",
+                "icon": "festival-internacional-de-cine-de-panama",
+                "name": "Festival Internacional de Cine de Panam\u00e1",
+                "slug": "festival-internacional-de-cine-de-panama",
+                "year": 1976
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-panama",
+                "name": "Festival Internacional de Cine de Panam\u00e1",
+                "slug": "festival-internacional-de-cine-de-panama",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-internacional-de-cine-de-panama",
+                "name": "Festival Internacional de Cine de Panam\u00e1",
+                "slug": "festival-internacional-de-cine-de-panama",
+                "year": 1976
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juli\u00e1n Pastor",
+                "gender": "m",
+                "id": 80,
+                "slug": "julian-pastor",
+                "url": "https://www.filminlatino.mx/director/julian-pastor"
+            }
+        ],
+        "duration_in_minutes": 113,
+        "excerpt": "Un drama hist\u00f3rico ubicado a principios del siglo XX, que relata la llegada de un general carrancista a Yucat\u00e1n, donde tierra y gente son propiedad de un grupo denominado la \"casta divina\".",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 108,
+        "image_card": "https://static.filminlatino.mx/images/media/108/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/108/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/108/7/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/108/8/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/108/7/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 68,
+        "original_title": "La casta divina",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 14,
+                "name": "Dasa Films S.A.",
+                "slug": "dasa-films-sa",
+                "url": "https://www.filminlatino.mx/producer/dasa-films-sa"
+            },
+            {
+                "acronym": "",
+                "id": 10,
+                "name": "CONACITE Dos",
+                "slug": "conacite-dos",
+                "url": "https://www.filminlatino.mx/producer/conacite-dos"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-casta-divina",
+        "synopsis": "Cr\u00f3nica de la Guerra de Castas que tuvo lugar en Yucat\u00e1n en el siglo XIX, donde la tierra y las personas eran propiedad de los hacendados, quienes se autonombraban \"casta divina\". Por un lado, el general Salvador Alvarado organiza la revoluci\u00f3n; por otro, los hacendados arman al coronel Ortiz Argumedo para defender su autonom\u00eda.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 285,
+                "name": "Hacienda",
+                "slug": "hacienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hacienda"
+            },
+            {
+                "id": 286,
+                "name": "Revuelta social",
+                "slug": "revuelta-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revuelta-social"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1181,
+                "name": "1977",
+                "slug": "1977",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1977"
+            },
+            {
+                "id": 1179,
+                "name": "Yucat\u00e1n",
+                "slug": "yucatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/yucatan"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1858,
+                "name": "La revoluci\u00f3n mexicana a trav\u00e9s del cine",
+                "slug": "la-revolucion-mexicana-a-traves-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-revolucion-mexicana-a-traves-del-cine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 248572800,
+        "theater_release_date": 248572800,
+        "theater_spectators_formatted": null,
+        "title": "La casta divina",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-casta-divina",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 124,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1976
+    }
+}

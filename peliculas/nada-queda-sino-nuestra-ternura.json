@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": null
+            },
+            {
+                "category": "Proyecci\u00f3n Especial",
+                "icon": "",
+                "name": "Internacional de Cine Las Am\u00e9ricas 2018 ",
+                "slug": "internacional-de-cine-las-americas-2018",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "S\u00e9bastien Jallade",
+                "gender": "m",
+                "id": 2153,
+                "slug": "sebastien-jallade",
+                "url": "https://www.filminlatino.mx/director/sebastien-jallade"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Relato de cinco historias marcadas por la violencia sufrida en el conflicto armado que vulner\u00f3 a Per\u00fa a fines del siglo XX.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4628,
+        "image_card": "https://static.filminlatino.mx/images/media/4628/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4628/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4628/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/1/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4628/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Nada queda sino nuestra ternura",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1979,
+                "name": "Docu Per\u00fa",
+                "slug": "docu-peru",
+                "url": "https://www.filminlatino.mx/producer/docu-peru"
+            },
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "nada-queda-sino-nuestra-ternura",
+        "synopsis": "Cortometraje proyectado en el Festival Internacional de Cine de Las Am\u00e9ricas 2018 y ganador en el Festival de Cine de Lima 2017. Relato de cinco historias marcadas por la violencia sufrida en el conflicto armado que vulner\u00f3 a Per\u00fa a fines del siglo XX, el cual cambio para siempre el rostro del pa\u00eds. Sus protagonistas emprenden un camino personal de reparaci\u00f3n mediante procesos simb\u00f3licos como la m\u00fasica, viajes, poemas, entre otros.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 540,
+                "name": "Competencia",
+                "slug": "competencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/competencia"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Nada queda sino nuestra ternura",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nada-queda-sino-nuestra-ternura",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4111,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

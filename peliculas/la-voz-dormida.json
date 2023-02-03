@@ -1,0 +1,432 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Inma Cuesta",
+                "gender": "f",
+                "id": 3005,
+                "slug": "inma-cuesta",
+                "url": "https://www.filminlatino.mx/actriz/inma-cuesta"
+            },
+            {
+                "full_name": "Mar\u00eda Le\u00f3n",
+                "gender": "f",
+                "id": 3006,
+                "slug": "maria-leon",
+                "url": "https://www.filminlatino.mx/actriz/maria-leon"
+            },
+            {
+                "full_name": "Marc Clotet",
+                "gender": "m",
+                "id": 3007,
+                "slug": "marc-clotet",
+                "url": "https://www.filminlatino.mx/actor/marc-clotet"
+            },
+            {
+                "full_name": "Daniel Holgu\u00edn",
+                "gender": "m",
+                "id": 3008,
+                "slug": "daniel-holguin",
+                "url": "https://www.filminlatino.mx/actor/daniel-holguin"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Secundario Cine - Categor\u00eda femenina",
+                "icon": "union-de-actores-espanoles",
+                "name": "Uni\u00f3n de Actores Espa\u00f1oles",
+                "slug": "union-de-actores-espanoles",
+                "year": 2011
+            },
+            {
+                "category": "Protagonista Cine - Categor\u00eda femenina",
+                "icon": "union-de-actores-espanoles",
+                "name": "Uni\u00f3n de Actores Espa\u00f1oles",
+                "slug": "union-de-actores-espanoles",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n al Gran Premio del Jurado - Knight Ibero-American Competition",
+                "icon": "festival-internacional-de-cine-de-miami",
+                "name": "Festival Internacional de Cine de Miami",
+                "slug": "festival-internacional-de-cine-de-miami",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz de Cine",
+                "icon": "fotogramas-de-plata",
+                "name": "Fotogramas de Plata",
+                "slug": "fotogramas-de-plata",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n al Golden India Catalina a Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "name": " Festival Internacional de Cine de Cartagena de Indias, Colombia",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "year": 2011
+            },
+            {
+                "category": "Premio Turia a Mejor nuevo Actor",
+                "icon": "premios-turia",
+                "name": "Premios Turia",
+                "slug": "premios-turia",
+                "year": 2011
+            },
+            {
+                "category": "Premio especial",
+                "icon": "premios-turia",
+                "name": "Premios Turia",
+                "slug": "premios-turia",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "premios-jose-maria-forque",
+                "name": "Premios Jos\u00e9 Mar\u00eda Forqu\u00e9",
+                "slug": "premios-jose-maria-forque",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz",
+                "icon": "premios-jose-maria-forque",
+                "name": "Premios Jos\u00e9 Mar\u00eda Forqu\u00e9",
+                "slug": "premios-jose-maria-forque",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz Secundaria",
+                "icon": "premios-de-cine-del-circulo-de-criticos-espana",
+                "name": "Premios de Cine del C\u00edrculo de Cr\u00edticos, Espa\u00f1a",
+                "slug": "premios-de-cine-del-circulo-de-criticos-espana",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz",
+                "icon": "premios-de-cine-del-circulo-de-criticos-espana",
+                "name": "Premios de Cine del C\u00edrculo de Cr\u00edticos, Espa\u00f1a",
+                "slug": "premios-de-cine-del-circulo-de-criticos-espana",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Actor o Actriz Revelaci\u00f3n",
+                "icon": "premios-de-cine-del-circulo-de-criticos-espana",
+                "name": "Premios de Cine del C\u00edrculo de Cr\u00edticos, Espa\u00f1a",
+                "slug": "premios-de-cine-del-circulo-de-criticos-espana",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Gui\u00f3n Adaptado",
+                "icon": "premios-de-cine-del-circulo-de-criticos-espana",
+                "name": "Premios de Cine del C\u00edrculo de Cr\u00edticos, Espa\u00f1a",
+                "slug": "premios-de-cine-del-circulo-de-criticos-espana",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Gui\u00f3n Adaptado",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Dise\u00f1o de Vestuario",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Concha de Plata a Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n a la Concha de Oro a Mejor Pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Actriz Revelaci\u00f3n",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Mejor canci\u00f3n original",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz principal",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Benito Zambrano",
+                "gender": "m",
+                "id": 1067,
+                "slug": "benito-zambrano",
+                "url": "https://www.filminlatino.mx/director/benito-zambrano"
+            }
+        ],
+        "duration_in_minutes": 123,
+        "excerpt": "El amor de hermanas contra la guerra y las injusticias.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1815,
+        "image_card": "https://static.filminlatino.mx/images/media/1815/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1815/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1815/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1815/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "La voz dormida",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1228,
+                "name": "Audiovisual Aval SGR",
+                "slug": "audiovisual-aval-sgr",
+                "url": "https://www.filminlatino.mx/producer/audiovisual-aval-sgr"
+            },
+            {
+                "acronym": "",
+                "id": 790,
+                "name": "Maestranza Films",
+                "slug": "maestranza-films",
+                "url": "https://www.filminlatino.mx/producer/maestranza-films"
+            },
+            {
+                "acronym": "",
+                "id": 612,
+                "name": "Warner Bros Pictures",
+                "slug": "warner-bros-pictures",
+                "url": "https://www.filminlatino.mx/producer/warner-bros-pictures"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-voz-dormida",
+        "synopsis": "En plena postguerra, Pepita, una joven cordobesa, abandona su aldea y viaja a Madrid para estar cerca de su hermana Hortensia que est\u00e1 embarazada y en prisi\u00f3n. Ambas est\u00e1n involucradas en un movimiento guerrillero. Hortensia es obligada a dar a luz en la c\u00e1rcel. Una vez en la capital, Pepita intenta encontrar una manera de ayudar a la guerrilla y a su hermana.<br>",
+        "tags": [
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 172,
+                "name": "Post-guerra",
+                "slug": "post-guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-guerra"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 630,
+                "name": "Ganadores del Goya",
+                "slug": "ganadores-del-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-del-goya"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1418,
+                "name": "Guerra civil espa\u00f1ola",
+                "slug": "guerra-civil-espanola",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil-espanola"
+            },
+            {
+                "id": 2022,
+                "name": "Ciclo: Literatura llevada al cine",
+                "slug": "ciclo-literatura-llevada-al-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-literatura-llevada-al-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La voz dormida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-voz-dormida",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1265,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

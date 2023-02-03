@@ -1,0 +1,288 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Mourtada Seck",
+                "gender": "m",
+                "id": 76,
+                "slug": "mourtada-seck",
+                "url": "https://www.filminlatino.mx/character/mourtada-seck"
+            },
+            {
+                "full_name": "Samuel (nombre ficticio)",
+                "gender": "m",
+                "id": 77,
+                "slug": "samuel-nombre-ficticio",
+                "url": "https://www.filminlatino.mx/character/samuel-nombre-ficticio"
+            },
+            {
+                "full_name": "Peggy Abiemwense",
+                "gender": "f",
+                "id": 78,
+                "slug": "peggy-abiemwense",
+                "url": "https://www.filminlatino.mx/character/peggy-abiemwense"
+            }
+        ],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "David Marrades",
+                "gender": "m",
+                "id": 2145,
+                "slug": "david-marrades",
+                "url": "https://www.filminlatino.mx/director/david-marrades"
+            }
+        ],
+        "duration_in_minutes": 71,
+        "excerpt": "En el documental se muestra el lado m\u00e1s oscuro e inquietante del sistema en su lucha para frenar la migraci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4518,
+        "image_card": "https://static.filminlatino.mx/images/media/4518/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4518/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4518/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4518/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "23 30 Una historia cautiva",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "23-30-una-historia-cautiva",
+        "synopsis": "Miles\u00a0de inmigrantes en situaci\u00f3n irregular son detenidos y conducidos a centros de internamiento para indocumentados, muchos de ellos\u00a0no han cometido crimen alguno y a\u00fan as\u00ed son rigurosamente castigados.\u00a0El documental muestra el lado m\u00e1s oscuro e inquietante del sistema en su lucha para frenar la migraci\u00f3n. A trav\u00e9s de las historias, descubriremos y analizaremos el fen\u00f3meno en voz de expertos y personas relacionadas.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 473,
+                "name": "Libertad",
+                "slug": "libertad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 270,
+                "name": "Encierro",
+                "slug": "encierro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encierro"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1461110400,
+        "theater_release_date": 1461110400,
+        "theater_spectators_formatted": null,
+        "title": "23 30 Una historia cautiva",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/23-30-una-historia-cautiva",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4105,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/23.30.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/23.30/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/23.30/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

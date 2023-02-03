@@ -1,0 +1,499 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roshell  Terranova",
+                "gender": "m",
+                "id": 5785,
+                "slug": "roshell-terranova",
+                "url": "https://www.filminlatino.mx/actor/roshell-terranova"
+            },
+            {
+                "full_name": "Liliana  Alba",
+                "gender": "f",
+                "id": 5786,
+                "slug": "liliana-alba",
+                "url": "https://www.filminlatino.mx/actriz/liliana-alba"
+            },
+            {
+                "full_name": "Lia  Garc\u00eda",
+                "gender": "f",
+                "id": 5787,
+                "slug": "lia-garcia",
+                "url": "https://www.filminlatino.mx/actriz/lia-garcia"
+            },
+            {
+                "full_name": "Diego  Alberico",
+                "gender": "m",
+                "id": 5788,
+                "slug": "diego-alberico",
+                "url": "https://www.filminlatino.mx/actor/diego-alberico"
+            },
+            {
+                "full_name": "Cristian  Aravena",
+                "gender": "m",
+                "id": 5789,
+                "slug": "cristian-aravena",
+                "url": "https://www.filminlatino.mx/actor/cristian-aravena"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Menci\u00f3n de Jurado",
+                "icon": "",
+                "name": "FICUNAM",
+                "slug": "ficunam",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "67\u00b0 Internationale Filmfestspiele Berlin",
+                "slug": "670-internationale-filmfestspiele-berlin",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Jeonju Intl",
+                "slug": "jeonju-intl",
+                "year": null
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "",
+                "name": "FICVALDIVIA ",
+                "slug": "ficvaldivia",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Filmadrid",
+                "slug": "filmadrid",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Queer Lisboa",
+                "slug": "queer-lisboa",
+                "year": null
+            },
+            {
+                "category": "Premiere Latina",
+                "icon": "",
+                "name": "Festival Do Rio ",
+                "slug": "festival-do-rio",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": " Camila  Jos\u00e9 Donoso",
+                "gender": "f",
+                "id": 2212,
+                "slug": "camila-jose-donoso",
+                "url": "https://www.filminlatino.mx/directora/camila-jose-donoso"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "Una noche, un peque\u00f1o sal\u00f3n y un escenario reciben a sus invitados entre perfomances pol\u00edticos y playbacks interpretados en la oscuridad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5021,
+        "image_card": "https://static.filminlatino.mx/images/media/5021/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5021/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5021/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5021/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5021/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/5/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/5021/6/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "Casa Roshell",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2041,
+                "name": "TONAL\u00c1 LAB ",
+                "slug": "tonala-lab",
+                "url": "https://www.filminlatino.mx/producer/tonala-lab"
+            },
+            {
+                "acronym": "",
+                "id": 182,
+                "name": "Interior 13",
+                "slug": "interior-13",
+                "url": "https://www.filminlatino.mx/producer/interior-13"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "casa-roshell",
+        "synopsis": "Roshell y Liliana administran juntas Casa Roshell. Como un espacio ut\u00f3pico, este lugar es un escondite para aquellos hombres que viven reprimidos en sus deseos de feminizaci\u00f3n y travestismo.\u00a0 En una noche, un peque\u00f1o sal\u00f3n con un escenario recibe con intimidad a sus invitados entre perfomances pol\u00edticos y playbacks.\u00a0\u00a0La conversaci\u00f3n entra en un tono existencialista cuando se habla de las frustraciones y los sue\u00f1os. De la dualidad de g\u00e9neros y su realidad como hombres biol\u00f3gicos. De sus deseos m\u00e1s innatos y de la constante b\u00fasqueda de la identidad.<br><br>",
+        "tags": [
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 944,
+                "name": "Cine Trans",
+                "slug": "cine-trans",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-trans"
+            },
+            {
+                "id": 710,
+                "name": "Transexual",
+                "slug": "transexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transexual"
+            },
+            {
+                "id": 709,
+                "name": "Transg\u00e9nero",
+                "slug": "transgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transgenero"
+            },
+            {
+                "id": 376,
+                "name": "Cabaret",
+                "slug": "cabaret",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cabaret"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 1129,
+                "name": "Reality",
+                "slug": "reality",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reality"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1386,
+                "name": "Funciones especiales D\u00eda Nacional MX",
+                "slug": "funciones-especiales-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-dia-nacional-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1391,
+                "name": "A\u00f1o 2017",
+                "slug": "ano-2017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-2017"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 1498,
+                "name": "Orgullo LGBT+",
+                "slug": "orgullo-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullo-lgbt"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1748,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chile"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2657,
+                "name": "Deseo",
+                "slug": "deseo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deseo"
+            },
+            {
+                "id": 2659,
+                "name": "identidad de g\u00e9nero",
+                "slug": "identidad-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad-de-genero"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            },
+            {
+                "id": 2716,
+                "name": "Panorama LGBTQ+ M\u00e9xico | Cinema Queer M\u00e9xico 2022",
+                "slug": "panorama-lgbtq-mexico-cinema-queer-mexico-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/panorama-lgbtq-mexico-cinema-queer-mexico-2022"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Casa Roshell",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/casa-roshell",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12921,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Casa-Roshell.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Casa-Roshell/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Casa-Roshell/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,443 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Marcos Hern\u00e1ndez",
+                "gender": "m",
+                "id": 294,
+                "slug": "marcos-hernandez",
+                "url": "https://www.filminlatino.mx/actor/marcos-hernandez"
+            },
+            {
+                "full_name": "Anapola Mushkadiz",
+                "gender": "f",
+                "id": 295,
+                "slug": "anapola-mushkadiz",
+                "url": "https://www.filminlatino.mx/actriz/anapola-mushkadiz"
+            },
+            {
+                "full_name": "Bertha Ruiz",
+                "gender": "f",
+                "id": 296,
+                "slug": "bertha-ruiz",
+                "url": "https://www.filminlatino.mx/actriz/bertha-ruiz"
+            },
+            {
+                "full_name": "David Bornstein",
+                "gender": "m",
+                "id": 297,
+                "slug": "david-bornstein",
+                "url": "https://www.filminlatino.mx/actor/david-bornstein"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Premio de la Universidad",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano en La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "year": 2004
+            },
+            {
+                "category": "Premio Pantalla Internacional",
+                "icon": "european-film-awards",
+                "name": "European Film Awards",
+                "slug": "european-film-awards",
+                "year": 2004
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "rio-de-janeiro-international-film-festival",
+                "name": "R\u00edo de Janeiro International Film Festival",
+                "slug": "rio-de-janeiro-international-film-festival",
+                "year": 2004
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-lima-encuentro-latinoamericano-de-cine",
+                "name": "Festival de Lima - Encuentro Latinoamericano de Cine",
+                "slug": "festival-de-lima-encuentro-latinoamericano-de-cine",
+                "year": 2004
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-ibero-latinoamericano-de-montreal-canada",
+                "name": "Festival de Cine Ibero-Latinoamericano de Montr\u00e9al, Canad\u00e1",
+                "slug": "festival-de-cine-ibero-latinoamericano-de-montreal-canada",
+                "year": 2004
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Reygadas",
+                "gender": "m",
+                "id": 97,
+                "slug": "carlos-reygadas",
+                "url": "https://www.filminlatino.mx/director/carlos-reygadas"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Un conductor\u00a0de la Ciudad de M\u00e9xico y su esposa secuestran a un beb\u00e9, pero \u00e9ste muere desatando tr\u00e1gicas consecuencias para todos los involucrados.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 112,
+        "image_card": "https://static.filminlatino.mx/images/media/112/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/112/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/112/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/112/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/112/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 103,
+        "original_title": "Batalla en el cielo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 32,
+                "name": "Coproduction Office",
+                "slug": "coproduction-office",
+                "url": "https://www.filminlatino.mx/producer/coproduction-office"
+            },
+            {
+                "acronym": "",
+                "id": 33,
+                "name": "No Dream Cinema",
+                "slug": "no-dream-cinema",
+                "url": "https://www.filminlatino.mx/producer/no-dream-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 34,
+                "name": "Tarantula",
+                "slug": "tarantula",
+                "url": "https://www.filminlatino.mx/producer/tarantula"
+            },
+            {
+                "acronym": "",
+                "id": 35,
+                "name": "Arte France Cin\u00e9ma",
+                "slug": "arte-france-cinema",
+                "url": "https://www.filminlatino.mx/producer/arte-france-cinema"
+            },
+            {
+                "acronym": "UDG",
+                "id": 36,
+                "name": "Universidad de Guadalajara",
+                "slug": "universidad-de-guadalajara",
+                "url": "https://www.filminlatino.mx/producer/universidad-de-guadalajara"
+            },
+            {
+                "acronym": "",
+                "id": 37,
+                "name": "ZDF/Arte",
+                "slug": "zdfarte",
+                "url": "https://www.filminlatino.mx/producer/zdfarte"
+            },
+            {
+                "acronym": "",
+                "id": 38,
+                "name": "Essential Filmproduktion GmbH",
+                "slug": "essential-filmproduktion-gmbh",
+                "url": "https://www.filminlatino.mx/producer/essential-filmproduktion-gmbh"
+            },
+            {
+                "acronym": "",
+                "id": 39,
+                "name": "Mackey Co.",
+                "slug": "mackey-co",
+                "url": "https://www.filminlatino.mx/producer/mackey-co"
+            },
+            {
+                "acronym": "",
+                "id": 40,
+                "name": "Hubert Bals Fund",
+                "slug": "hubert-bals-fund",
+                "url": "https://www.filminlatino.mx/producer/hubert-bals-fund"
+            },
+            {
+                "acronym": "",
+                "id": 41,
+                "name": "Fonds Sud",
+                "slug": "fonds-sud",
+                "url": "https://www.filminlatino.mx/producer/fonds-sud"
+            },
+            {
+                "acronym": "",
+                "id": 42,
+                "name": "Centre du Cin\u00e9ma et de l'Audiovisuel de la Communaut\u00e9 Fran\u00e7aise de Belgique",
+                "slug": "centre-du-cinema-et-de-laudiovisuel-de-la-communaute-francaise-de-belgique",
+                "url": "https://www.filminlatino.mx/producer/centre-du-cinema-et-de-laudiovisuel-de-la-communaute-francaise-de-belgique"
+            },
+            {
+                "acronym": "",
+                "id": 43,
+                "name": "Lumi\u00e8re Productie",
+                "slug": "lumiere-productie",
+                "url": "https://www.filminlatino.mx/producer/lumiere-productie"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "batalla-en-el-cielo",
+        "synopsis": "Marcos, conductor particular de un general del ej\u00e9rcito, en complicidad con su mujer, secuestran un beb\u00e9, pero \u00e9ste fallece accidentalmente. Conmocionado, Marcos confiesa lo sucedido a la hija de su jefe, una chica que es una trabajadora sexual\u00a0por elecci\u00f3n. Junto a ella emprende un extra\u00f1o peregrinaje a la Bas\u00edlica de Guadalupe.",
+        "tags": [
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 193,
+                "name": "Erotismo",
+                "slug": "erotismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/erotismo"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 545,
+                "name": "The Story of Film",
+                "slug": "the-story-of-film",
+                "url": "https://www.filminlatino.mx/catalogo/tema/the-story-of-film"
+            },
+            {
+                "id": 554,
+                "name": "Semana Alem\u00e1n",
+                "slug": "semana-aleman",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-aleman"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 79,
+                "name": "Prostituci\u00f3n",
+                "slug": "prostitucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prostitucion"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1087,
+                "name": "M\u00e9xico en San Sebasti\u00e1n 2018",
+                "slug": "mexico-en-san-sebastian-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-en-san-sebastian-2018"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1183,
+                "name": "2005",
+                "slug": "2005",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2005"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2657,
+                "name": "Deseo",
+                "slug": "deseo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deseo"
+            },
+            {
+                "id": 2658,
+                "name": "Pasi\u00f3n",
+                "slug": "pasion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasion"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1120953600,
+        "theater_release_date": 1120953600,
+        "theater_spectators_formatted": null,
+        "title": "Batalla en el cielo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/batalla-en-el-cielo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 154,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/batalla-en-el-cielo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/batalla-en-el-cielo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/batalla-en-el-cielo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2004
+    }
+}

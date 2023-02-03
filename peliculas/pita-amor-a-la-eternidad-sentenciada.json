@@ -1,0 +1,381 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Pita  Amor ",
+                "gender": "f",
+                "id": 95,
+                "slug": "pita-amor",
+                "url": "https://www.filminlatino.mx/character/pita-amor"
+            },
+            {
+                "full_name": "Jacobo  Zabludovsky",
+                "gender": "m",
+                "id": 102,
+                "slug": "jacobo-zabludovsky",
+                "url": "https://www.filminlatino.mx/character/jacobo-zabludovsky"
+            },
+            {
+                "full_name": "Elena  Poniatowska",
+                "gender": "f",
+                "id": 96,
+                "slug": "elena-poniatowska",
+                "url": "https://www.filminlatino.mx/character/elena-poniatowska"
+            },
+            {
+                "full_name": "Juan Jos\u00e9 Arreola",
+                "gender": "m",
+                "id": 71,
+                "slug": "juan-jose-arreola",
+                "url": "https://www.filminlatino.mx/character/juan-jose-arreola"
+            },
+            {
+                "full_name": "Michael  Schuessler ",
+                "gender": "m",
+                "id": 98,
+                "slug": "michael-schuessler",
+                "url": "https://www.filminlatino.mx/character/michael-schuessler"
+            },
+            {
+                "full_name": "Patricia  Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 99,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/character/patricia-reyes-spindola"
+            },
+            {
+                "full_name": "Daniela Romo",
+                "gender": "f",
+                "id": 100,
+                "slug": "daniela-romo",
+                "url": "https://www.filminlatino.mx/character/daniela-romo"
+            },
+            {
+                "full_name": "Miguel  Sabido",
+                "gender": "m",
+                "id": 101,
+                "slug": "miguel-sabido",
+                "url": "https://www.filminlatino.mx/character/miguel-sabido"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo  Sep\u00falveda Amor",
+                "gender": "m",
+                "id": 2185,
+                "slug": "eduardo-sepulveda-amor",
+                "url": "https://www.filminlatino.mx/director/eduardo-sepulveda-amor"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Documental que aborda la vida y obra de la poeta mexicana Guadalupe Amor, mejor conocida como Pita Amor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4897,
+        "image_card": "https://static.filminlatino.mx/images/media/4897/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4897/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4897/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/1/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4897/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 98,
+        "original_title": "Pita Amor: A la eternidad sentenciada",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2005,
+                "name": "Eduardo Sep\u00falveda",
+                "slug": "eduardo-sepulveda",
+                "url": "https://www.filminlatino.mx/producer/eduardo-sepulveda"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "pita-amor-a-la-eternidad-sentenciada",
+        "synopsis": "El director Eduardo Sep\u00falveda nos entrega un retrato \u00edntimo de su t\u00eda Guadalupe Amor, mejor conocida como Pita Amor. A trav\u00e9s de entrevistas con personajes como la escritora Elena Poniatowska, el escritor Juan Jos\u00e9 Arreola, su bi\u00f3grafo Michael Schuessler, adem\u00e1s de amigos y admiradores como Patricia Reyes Sp\u00edndola, Daniela Romo, Miguel Sabido y Jacobo Zabludovsky. En el documental se\u00a0incluyen fotograf\u00edas y material de archivo que adentran en las etapas cruciales de la vida de Pita, as\u00ed como las representaciones de su poes\u00eda en la danza y literatura.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1326,
+                "name": "UNAM",
+                "slug": "unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/unam"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1885,
+                "name": "16 d\u00edas de activismo",
+                "slug": "16-dias-de-activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2021,
+                "name": "Ciclo: Acercamiento a autores desde el cine",
+                "slug": "ciclo-acercamiento-a-autores-desde-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-acercamiento-a-autores-desde-el-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Pita Amor: A la eternidad sentenciada",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/pita-amor-a-la-eternidad-sentenciada",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4297,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PITA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PITA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PITA/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PITA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PITA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PITA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

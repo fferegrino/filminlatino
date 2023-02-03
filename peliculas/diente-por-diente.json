@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carlos Cobos",
+                "gender": "m",
+                "id": 964,
+                "slug": "carlos-cobos",
+                "url": "https://www.filminlatino.mx/actor/carlos-cobos"
+            },
+            {
+                "full_name": "Dar\u00edo Ripoll",
+                "gender": "m",
+                "id": 1155,
+                "slug": "dario-ripoll",
+                "url": "https://www.filminlatino.mx/actor/dario-ripoll"
+            },
+            {
+                "full_name": "Ximena Ayala",
+                "gender": "f",
+                "id": 971,
+                "slug": "ximena-ayala",
+                "url": "https://www.filminlatino.mx/actriz/ximena-ayala"
+            },
+            {
+                "full_name": "Vanessa Ciangherotti",
+                "gender": "f",
+                "id": 1156,
+                "slug": "vanessa-ciangherotti",
+                "url": "https://www.filminlatino.mx/actriz/vanessa-ciangherotti"
+            }
+        ],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Miguel  Bonilla Schnaas",
+                "gender": "m",
+                "id": 442,
+                "slug": "miguel-bonilla-schnaas",
+                "url": "https://www.filminlatino.mx/director/miguel-bonilla-schnaas"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "Una comedia con tintes de humor negro, que hace una critica a las absurdas situaciones en las que te pone el sistema despu\u00e9s de un crimen.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 476,
+        "image_card": "https://static.filminlatino.mx/images/media/476/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/476/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/476/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/476/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/476/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/476/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/476/8/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "Diente por diente",
+        "producers": [
+            {
+                "acronym": "FIDECINE",
+                "id": 29,
+                "name": "FIDECINE",
+                "slug": "fidecine",
+                "url": "https://www.filminlatino.mx/producer/fidecine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "diente-por-diente",
+        "synopsis": "Pablo Kramsky, escritor de nota roja, es v\u00edctima de un robo a su casa habitaci\u00f3n. Un compa\u00f1ero de trabajo le ofrece un arma, con la cual cometer\u00e1 un crimen. Kramsky no es brillante en su trabajo, pero una nota sobre un posible vigilante que hace justicia por su propia mano le otorga reconocimiento laboral y admiraci\u00f3n por parte de sus compa\u00f1eros. De esta manera, Kramsky repite la f\u00f3rmula cometiendo cr\u00edmenes y redact\u00e1ndolos, creando as\u00ed un personaje, un h\u00e9roe nacional que combate el crimen.",
+        "tags": [
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1378425600,
+        "theater_release_date": 1378425600,
+        "theater_spectators_formatted": null,
+        "title": "Diente por diente",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/diente-por-diente",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 344,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/deinte-por-deinte.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/deinte-por-deinte/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/deinte-por-deinte/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

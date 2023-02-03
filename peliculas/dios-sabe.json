@@ -1,0 +1,208 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Silvia Rey",
+                "gender": "f",
+                "id": 2132,
+                "slug": "silvia-rey",
+                "url": "https://www.filminlatino.mx/directora/silvia-rey"
+            }
+        ],
+        "duration_in_minutes": 63,
+        "excerpt": "Documental basado en dos terremotos que sacudieron la ciudad de Lorca, Espa\u00f1a, en mayo de 2011.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4503,
+        "image_card": "https://static.filminlatino.mx/images/media/4503/1/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4503/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4503/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4503/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4503/1/still_5_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Dios sabe",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "dios-sabe",
+        "synopsis": "Documental basado en los dos terremotos que sacudieron la ciudad de Lorca, Espa\u00f1a, en mayo de 2011. Silvia Rey, en su \u00f3pera prima, introduce al espectador hacia el\u00a0momento en que los terremotos acontecieron en aquella localidad, adem\u00e1s de\u00a0la angustia y el miedo que sus habitantes vivieron mientras observaron con resignaci\u00f3n c\u00f3mo su mundo empez\u00f3 a desaparecer sin que pudieran hacer algo para evitarlo.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 568,
+                "name": "Cine espa\u00f1ol",
+                "slug": "cine-espanol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-espanol"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 1287,
+                "name": "Angustia",
+                "slug": "angustia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/angustia"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Dios sabe",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dios-sabe",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3803,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2012
+    }
+}

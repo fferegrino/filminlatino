@@ -1,0 +1,289 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Thimot\u00e9e  Robart",
+                "gender": "m",
+                "id": 8901,
+                "slug": "thimotee-robart",
+                "url": "https://www.filminlatino.mx/actor/thimotee-robart"
+            },
+            {
+                "full_name": "Joseph Olivennes",
+                "gender": "m",
+                "id": 12928,
+                "slug": "joseph-olivennes",
+                "url": "https://www.filminlatino.mx/actor/joseph-olivennes"
+            },
+            {
+                "full_name": "Marie Colomb",
+                "gender": "f",
+                "id": 12929,
+                "slug": "marie-colomb",
+                "url": "https://www.filminlatino.mx/actriz/marie-colomb"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio SACD",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Sonido",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Vincent Ma\u00ebl Cardona",
+                "gender": "m",
+                "id": 6995,
+                "slug": "vincent-mael-cardona",
+                "url": "https://www.filminlatino.mx/director/vincent-mael-cardona"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "El inicio de las radios independientes, la llegada de la izquierda al poder en Francia, el principio\u00a0de la d\u00e9cada de los 80: es el escenario de la vida de dos hermanos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 28,
+                "name": "Dramedy",
+                "slug": "dramedy",
+                "url": "https://www.filminlatino.mx/catalogo/genero/dramedy"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11900,
+        "image_card": "https://static.filminlatino.mx/images/media/11900/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11900/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11900/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11900/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11900/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11900/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11900/9/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Les magn\u00e9tiques",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-magneticos",
+        "synopsis": "Una peque\u00f1a ciudad del interior de Francia, a comienzos de los a\u00f1os 80. Philippe vive bajo la sombra de su hermano, J\u00e9r\u00f4me, la oveja negra de la pandilla. Entre la radio pirata, el taller del padre y la amenaza del servicio militar, no son conscientes de que est\u00e1n viviendo los \u00faltimos momentos de un mundo a punto de desaparecer.",
+        "tags": [
+            {
+                "id": 821,
+                "name": "Comedia cl\u00e1sica",
+                "slug": "comedia-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-clasica"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 439,
+                "name": "Radio",
+                "slug": "radio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/radio"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 370,
+                "name": "Rebeld\u00eda",
+                "slug": "rebeldia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rebeldia"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2792,
+                "name": "France has got talent | MyFFF 2023",
+                "slug": "france-has-got-talent-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/france-has-got-talent-myfff-2023"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los magn\u00e9ticos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-magneticos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13757,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

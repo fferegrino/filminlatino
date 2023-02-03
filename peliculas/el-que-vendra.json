@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Swan Hefner",
+                "gender": "f",
+                "id": 5230,
+                "slug": "swan-hefner",
+                "url": "https://www.filminlatino.mx/actriz/swan-hefner"
+            },
+            {
+                "full_name": "Marianna Burelli",
+                "gender": "f",
+                "id": 4822,
+                "slug": "marianna-burelli",
+                "url": "https://www.filminlatino.mx/actriz/marianna-burelli"
+            },
+            {
+                "full_name": "Francesca Guill\u00e9n",
+                "gender": "m",
+                "id": 2293,
+                "slug": "francesca-guillen",
+                "url": "https://www.filminlatino.mx/actor/francesca-guillen"
+            }
+        ],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "SUSTEFEST",
+                "slug": "sustefest",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "feratum-film-festival",
+                "name": "Feratum Film Festival",
+                "slug": "feratum-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Russel \u00c1lvarez",
+                "gender": "m",
+                "id": 1843,
+                "slug": "russel-alvarez",
+                "url": "https://www.filminlatino.mx/director/russel-alvarez"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Fantasmas, brujas y s\u00edmbolos demon\u00edacos son realidad y ficci\u00f3n en\u00a0la \u00f3pera prima de Russel \u00c1lvarez.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 2,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/horror"
+            },
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3422,
+        "image_card": "https://static.filminlatino.mx/images/media/3422/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3422/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3422/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3422/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3422/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3422/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3422/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "El que vendr\u00e1",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-que-vendra",
+        "synopsis": "La \u00f3pera prima del director guanajuatense Luis Russel \u00c1lvarez maneja con maestr\u00eda la representaci\u00f3n del\u00a0miedo ocasionado a partir de\u00a0eventos\u00a0imaginarios, causales de\u00a0conducir\u00a0a la locura misma. La relaci\u00f3n de una mujer con un ente diab\u00f3lico\u00a0dar\u00e1 como resultado el nacimiento de\u00a0una beb\u00e9.\u00a0",
+        "tags": [
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 257,
+                "name": "Bizarro",
+                "slug": "bizarro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bizarro"
+            },
+            {
+                "id": 650,
+                "name": "Criaturas imaginarias",
+                "slug": "criaturas-imaginarias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/criaturas-imaginarias"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 844,
+                "name": "Terror hecho en M\u00e9xico",
+                "slug": "terror-hecho-en-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-hecho-en-mexico"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 1101,
+                "name": "Oc\u00e9lotl",
+                "slug": "ocelotl",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ocelotl"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El que vendr\u00e1",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-que-vendra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2776,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/VENDRA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/VENDRA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/VENDRA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Florencio Oceguera Villanueva",
+                "gender": "m",
+                "id": 7002,
+                "slug": "florencio-oceguera-villanueva",
+                "url": "https://www.filminlatino.mx/director/florencio-oceguera-villanueva"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "En la historia de M\u00e9xico, los j\u00f3venes han sido muy importantes en la lucha por tener un pa\u00eds mejor. Esta ha sido vital cuando el poder quiere imponer sus condiciones sobre los mexicano.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11908,
+        "image_card": "https://static.filminlatino.mx/images/media/11908/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11908/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11908/31/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11908/29/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11908/27/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11908/25/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11908/23/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Lucha contra el monstruo poderoso",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lucha-contra-el-monstruo-poderoso",
+        "synopsis": "Los j\u00f3venes han sido impulsores de un\u00a0M\u00e9xico mejor. Este recorrido por la historia\u00a0inicia con Cuauht\u00e9moc y su lucha contra Hern\u00e1n Cortez; el ejemplo sigue con una joven Juana de Asbaje en su lucha contra el poder clerical de su \u00e9poca, los ni\u00f1os h\u00e9roes y la defensa del Castillo de Chapultepec. La lucha de Rub\u00e9n Jaramillo con el Ejercito Libertador del Sur, siguiendo a Zapata apenas a los 14 a\u00f1os. Contin\u00faa con la presencia de los j\u00f3venes en los 60's, desde el asalto al Cuartel Madera en Chihuahua, hasta el Movimiento Estudiantil del 68. Finalmente, se aborda la participaci\u00f3n de cuatro luchadores sociales y el de una joven ama de casa que fortuitamente se hace parte en la masacre del 2 de octubre en la Plaza de Tlatelolco.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lucha contra el monstruo poderoso",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lucha-contra-el-monstruo-poderoso",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13746,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LUCHA-CONTRA-EL-MONSTRUO-PODEROSO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2022
+    }
+}

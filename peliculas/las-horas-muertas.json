@@ -1,0 +1,403 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adriana Paz",
+                "gender": "f",
+                "id": 955,
+                "slug": "adriana-paz",
+                "url": "https://www.filminlatino.mx/actriz/adriana-paz"
+            },
+            {
+                "full_name": "Kristyan A. Ferrer",
+                "gender": "m",
+                "id": 5842,
+                "slug": "kristyan-a-ferrer",
+                "url": "https://www.filminlatino.mx/actor/kristyan-a-ferrer"
+            },
+            {
+                "full_name": "Eliseo  Lara Mart\u00ednez",
+                "gender": "m",
+                "id": 956,
+                "slug": "eliseo-lara-martinez",
+                "url": "https://www.filminlatino.mx/actor/eliseo-lara-martinez"
+            },
+            {
+                "full_name": "Ferm\u00edn Mart\u00ednez",
+                "gender": "m",
+                "id": 959,
+                "slug": "fermin-martinez",
+                "url": "https://www.filminlatino.mx/actor/fermin-martinez"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Mejor Contribuci\u00f3n Art\u00edstica ",
+                "icon": "festival-internacional-de-cine-de-tokio-japon",
+                "name": "Festival Internacional de Cine de Tokio, Jap\u00f3n",
+                "slug": "festival-internacional-de-cine-de-tokio-japon",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-tokio-japon",
+                "name": "Festival Internacional de Cine de Tokio, Jap\u00f3n",
+                "slug": "festival-internacional-de-cine-de-tokio-japon",
+                "year": 2013
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2013
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Aar\u00f3n Fern\u00e1ndez Lesur",
+                "gender": "m",
+                "id": 217,
+                "slug": "aaron-fernandez-lesur",
+                "url": "https://www.filminlatino.mx/director/aaron-fernandez-lesur"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Una pel\u00edcula contemplativa y pausada que nos hace apreciar la belleza de la historia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 391,
+        "image_card": "https://static.filminlatino.mx/images/media/391/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/391/7/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/391/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/391/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/391/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/391/7/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 46,
+        "original_title": "Las horas muertas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 129,
+                "name": "Tit\u00e1n Producciones",
+                "slug": "titan-producciones",
+                "url": "https://www.filminlatino.mx/producer/titan-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 319,
+                "name": "Comunicaci\u00f3n Fractal",
+                "slug": "comunicacion-fractal",
+                "url": "https://www.filminlatino.mx/producer/comunicacion-fractal"
+            },
+            {
+                "acronym": "",
+                "id": 320,
+                "name": "Santa Luc\u00eda Cine",
+                "slug": "santa-lucia-cine",
+                "url": "https://www.filminlatino.mx/producer/santa-lucia-cine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "las-horas-muertas",
+        "synopsis": "Sebasti\u00e1n cuida el peque\u00f1o motel de su t\u00edo que est\u00e1 en la desolada costa tropical de Veracruz. Miranda, una corredora de inmuebles de la zona, se encuentra ocasionalmente en el motel con Mario, su amante. Mario siempre llega tarde al encuentro amoroso por lo que Miranda debe esperarlo. Durante esos tiempos muertos, Sebasti\u00e1n y Miranda se conocen e ir\u00e1n estableciendo lazos a pesar de que en el fondo saben que su historia es pasajera.",
+        "tags": [
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 624,
+                "name": "Friend Zone",
+                "slug": "friend-zone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/friend-zone"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 761,
+                "name": "Seleccionados F\u00e9nix",
+                "slug": "seleccionados-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-fenix"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 923,
+                "name": "Seleccionados FICG",
+                "slug": "seleccionados-ficg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-ficg"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1131,
+                "name": "Sex and dating",
+                "slug": "sex-and-dating",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sex-and-dating"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Las horas muertas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-horas-muertas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 885,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/las-horas-muertas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/las-horas-muertas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/las-horas-muertas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

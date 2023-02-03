@@ -1,0 +1,497 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Luca Ortega",
+                "gender": "m",
+                "id": 5884,
+                "slug": "luca-ortega",
+                "url": "https://www.filminlatino.mx/actor/luca-ortega"
+            },
+            {
+                "full_name": "Mauricio Isaac",
+                "gender": "m",
+                "id": 3095,
+                "slug": "mauricio-isaac",
+                "url": "https://www.filminlatino.mx/actor/mauricio-isaac"
+            },
+            {
+                "full_name": "Joel Figueroa",
+                "gender": "m",
+                "id": 986,
+                "slug": "joel-figueroa",
+                "url": "https://www.filminlatino.mx/actor/joel-figueroa"
+            },
+            {
+                "full_name": "Martha Claudia Moreno",
+                "gender": "f",
+                "id": 4220,
+                "slug": "martha-claudia-moreno",
+                "url": "https://www.filminlatino.mx/actriz/martha-claudia-moreno"
+            },
+            {
+                "full_name": "Mayra  Hermosillo",
+                "gender": "f",
+                "id": 5885,
+                "slug": "mayra-hermosillo",
+                "url": "https://www.filminlatino.mx/actriz/mayra-hermosillo"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Festa del Cinema di Roma",
+                "slug": "festa-del-cinema-di-roma",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor coactuaci\u00f3n masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor revelaci\u00f3n masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor \u00f3pera prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor guion original",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Festival Internacional de Cine de M\u00e9rida y Yucat\u00e1n (FICMY)",
+                "slug": "festival-internacional-de-cine-de-merida-y-yucatan-ficmy",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "International Film Festival of India",
+                "slug": "international-film-festival-of-india",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "",
+                "name": "Mannheim - Heidelberg International Film Festival",
+                "slug": "mannheim-heidelberg-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Tallin Black Nights Film Festival",
+                "slug": "tallin-black-nights-film-festival",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Festival de Cine de Fresnillo",
+                "slug": "festival-de-cine-de-fresnillo",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-du-nouveau-cinema-montreal",
+                "name": "Festival du nouveau cin\u00e9ma Montr\u00e9al",
+                "slug": "festival-du-nouveau-cinema-montreal",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-de-cine-de-estocolomo",
+                "name": "Festival de Cine de Estocolomo",
+                "slug": "festival-de-cine-de-estocolomo",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro  Guzm\u00e1n \u00c1lvarez",
+                "gender": "m",
+                "id": 2271,
+                "slug": "alejandro-guzman-alvarez",
+                "url": "https://www.filminlatino.mx/director/alejandro-guzman-alvarez"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Fede es un hombre con sobrepeso, que le cuesta desplazarse sobre su propia casa. Un d\u00eda \u00e9l encuentra en la fotograf\u00eda una manera de cambiar su vida para siempre.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5103,
+        "image_card": "https://static.filminlatino.mx/images/media/5103/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5103/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5103/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5103/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5103/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5103/1/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5103/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 182,
+        "original_title": "Distancias cortas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1702,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/producer/ccc"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "distancias-cortas",
+        "synopsis": "Un hombre de 200 kg llamado Fede, al cual le cuesta trabajo moverse, encuentra un rollo fotogr\u00e1fico lo que lo har\u00e1 salir de su encierro para poder revelarlo. \u00c9l conoce a Paulo, un chico que gusta de los comics y que le vender\u00e1 una c\u00e1mara usada. Fede encontrar\u00e1 en la fotograf\u00eda no s\u00f3lo un hobbie, sino la oportunidad de desarrollar una amistad con su cu\u00f1ado Raul y Paulo. Est\u00e1 es la \u00f3pera primera del director, la cual ya se ha exhibido en diferentes festivales a nivel internacional.\u00a0<br>",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 50,
+                "name": "Humor",
+                "slug": "humor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor"
+            },
+            {
+                "id": 1349,
+                "name": "Alimentaci\u00f3n ",
+                "slug": "alimentacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alimentacion"
+            },
+            {
+                "id": 64,
+                "name": "Fotograf\u00eda",
+                "slug": "fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fotografia"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 681,
+                "name": "Salud",
+                "slug": "salud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/salud"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1465,
+                "name": "Atrapados",
+                "slug": "atrapados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/atrapados"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1570,
+                "name": "Selecciones en suscripci\u00f3n | 24 Risas x Segundo",
+                "slug": "selecciones-en-suscripcion-24-risas-x-segundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/selecciones-en-suscripcion-24-risas-x-segundo"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1566,
+                "name": "24 Risas x Segundo",
+                "slug": "24-risas-x-segundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/24-risas-x-segundo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2502,
+                "name": "Retrospectiva FENACIR",
+                "slug": "retrospectiva-fenacir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-fenacir"
+            },
+            {
+                "id": 2506,
+                "name": "Largometraje | Retrospectiva FENACIR",
+                "slug": "largometraje-retrospectiva-fenacir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-retrospectiva-fenacir"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2583,
+                "name": "SEP - Educaci\u00f3n est\u00e9tica",
+                "slug": "sep-educacion-estetica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-educacion-estetica"
+            },
+            {
+                "id": 2584,
+                "name": "SEP - Vida saludable",
+                "slug": "sep-vida-saludable",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-vida-saludable"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Distancias cortas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/distancias-cortas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4392,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DISTANCIAS-CORTAS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DISTANCIAS-CORTAS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DISTANCIAS-CORTAS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

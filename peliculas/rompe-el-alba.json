@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            },
+            {
+                "full_name": "\u00d3scar Ch\u00e1vez",
+                "gender": "m",
+                "id": 739,
+                "slug": "oscar-chavez",
+                "url": "https://www.filminlatino.mx/actor/oscar-chavez"
+            },
+            {
+                "full_name": "Kamala L\u00f3pez - Dawson",
+                "gender": "f",
+                "id": 740,
+                "slug": "kamala-lopez-dawson",
+                "url": "https://www.filminlatino.mx/actriz/kamala-lopez-dawson"
+            },
+            {
+                "full_name": "Tony Plana",
+                "gender": "m",
+                "id": 741,
+                "slug": "tony-plana",
+                "url": "https://www.filminlatino.mx/actor/tony-plana"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Isaac Artenstein",
+                "gender": "m",
+                "id": 101,
+                "slug": "isaac-artenstein",
+                "url": "https://www.filminlatino.mx/director/isaac-artenstein"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Filme que provoca la reflexi\u00f3n, generando conciencia sobre la fuerza que tenemos para reiniciar una nueva vida lejos de los nuestros.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 266,
+        "image_card": "https://static.filminlatino.mx/images/media/266/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/266/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/266/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/266/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/266/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/266/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/266/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/266/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 43,
+        "original_title": "Rompe el alba",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 207,
+                "name": "Cine West",
+                "slug": "cine-west",
+                "url": "https://www.filminlatino.mx/producer/cine-west"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "rompe-el-alba",
+        "synopsis": "A finales de la d\u00e9cada de los veinte, Pedro J. Gonz\u00e1lez, el ex revolucionario y telegrafista de Pancho Villa, abandona M\u00e9xico en compa\u00f1\u00eda de su mujer para emigrar a la ca\u00f3tica y multirracial ciudad de Los \u00c1ngeles. Una vez all\u00ed, consigue trabajo en una estaci\u00f3n radiodifusora como lector de anuncios dirigidos a los hispanos. Al poco tiempo, Gonz\u00e1lez tiene a su cargo un programa matutino, \u201cLos madrugadores\u201d, en el que interpreta baladas y corridos mexicanos. Su \u00e9xito y popularidad despiertan la codicia de algunos pol\u00edticos norteamericanos, que pretenden usarlo con fines electorales en una \u00e9poca marcada por la depresi\u00f3n econ\u00f3mica y las deportaciones masivas de inmigrantes. Sin embargo, el locutor decide utilizar su espacio para ayudar a los suyos, aunque ello signifique un desaf\u00edo al poder establecido.",
+        "tags": [
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 318,
+                "name": "Sue\u00f1o americano",
+                "slug": "sueno-americano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sueno-americano"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 396,
+                "name": "Chicanos",
+                "slug": "chicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chicanos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 598,
+                "name": "Hechos Reales MX",
+                "slug": "hechos-reales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hechos-reales-mx"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1202,
+                "name": "1988",
+                "slug": "1988",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1988"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1753,
+                "name": "Coyoac\u00e1n | Promotores Culturales Comunitarios",
+                "slug": "coyoacan-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coyoacan-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 590025600,
+        "theater_release_date": 590025600,
+        "theater_spectators_formatted": null,
+        "title": "Rompe el alba",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/rompe-el-alba",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 342,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1989
+    }
+}

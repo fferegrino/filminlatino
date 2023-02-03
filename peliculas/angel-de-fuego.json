@@ -1,0 +1,448 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Farnesio de Bernal",
+                "gender": "m",
+                "id": 111,
+                "slug": "farnesio-de-bernal",
+                "url": "https://www.filminlatino.mx/actor/farnesio-de-bernal"
+            },
+            {
+                "full_name": "Martha Aura",
+                "gender": "f",
+                "id": 1269,
+                "slug": "martha-aura",
+                "url": "https://www.filminlatino.mx/actriz/martha-aura"
+            },
+            {
+                "full_name": "Evangelina Sosa",
+                "gender": "f",
+                "id": 1267,
+                "slug": "evangelina-sosa",
+                "url": "https://www.filminlatino.mx/actriz/evangelina-sosa"
+            },
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Lilia Arag\u00f3n",
+                "gender": "f",
+                "id": 1268,
+                "slug": "lilia-aragon",
+                "url": "https://www.filminlatino.mx/actriz/lilia-aragon"
+            },
+            {
+                "full_name": "Alejandro Parodi",
+                "gender": "m",
+                "id": 140,
+                "slug": "alejandro-parodi",
+                "url": "https://www.filminlatino.mx/actor/alejandro-parodi"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-cinema-de-oporto-portugal",
+                "name": "Festival Internacional Cinema de Oporto, Portugal.",
+                "slug": "festival-internacional-cinema-de-oporto-portugal",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-cinema-de-oporto-portugal",
+                "name": "Festival Internacional Cinema de Oporto, Portugal.",
+                "slug": "festival-internacional-cinema-de-oporto-portugal",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": 1992
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 1992
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 1992
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 1992
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 1992
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 1992
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 1992
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dana Rotberg",
+                "gender": "f",
+                "id": 473,
+                "slug": "dana-rotberg",
+                "url": "https://www.filminlatino.mx/directora/dana-rotberg"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Haciendo una revisi\u00f3n de un grupo de personas marginales, que habitan los cinturones de miseria de la ciudad. En la b\u00fasqueda del perd\u00f3n y la fe en un mundo que apenas te permite vivir.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 291,
+        "image_card": "https://static.filminlatino.mx/images/media/291/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/291/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/291/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/291/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 46,
+        "original_title": "\u00c1ngel de fuego",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "angel-de-fuego",
+        "synopsis": "Una pel\u00edcula que inaugur\u00f3 la secci\u00f3n Quincena de los Realizadores (La Quinzaine des R\u00e9alisateurs) en el Festival de Cannes en 1993. \u00c1ngel de fuego es la b\u00fasqueda del perd\u00f3n y la fe en un mundo que apenas se permite vivir antes de agotar todo signo de vida y de amor. Haciendo una profunda revisi\u00f3n de un grupo de personas marginales, Dana Rotberg brinda la oportunidad de dar un vistazo a los despose\u00eddos, aquellos que habitan los cinturones de miseria de la gran ciudad. El filme se compara con \u00abSanta Sangre\u00bb de Alejandro Jodorowsky por el ambiente circense que recrea, el manejo de elementos narrativos bizarros y violentos, as\u00ed como la fuerza y energ\u00eda de cada una de sus escenas.",
+        "tags": [
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 372,
+                "name": "Circo",
+                "slug": "circo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/circo"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1157,
+                "name": "Curadur\u00eda Del Toro",
+                "slug": "curaduria-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/curaduria-del-toro"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 824,
+                "name": "Las favoritas de Guillermo Del Toro",
+                "slug": "las-favoritas-de-guillermo-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-guillermo-del-toro"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1697,
+                "name": "Vindictas cine",
+                "slug": "vindictas-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vindictas-cine"
+            },
+            {
+                "id": 1713,
+                "name": "D\u00eda Mundial del Patrimonio Audiovisual",
+                "slug": "dia-mundial-del-patrimonio-audiovisual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-mundial-del-patrimonio-audiovisual"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00c1ngel de fuego",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/angel-de-fuego",
+        "versions": [
+            {
+                "codes": [],
+                "id": 737,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/angel-de-fuego.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/angel-de-fuego/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/angel-de-fuego/master.m3u8"
+                }
+            ]
+        },
+        "year": 1992
+    }
+}

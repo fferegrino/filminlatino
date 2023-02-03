@@ -1,0 +1,298 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jacaranda Correa ",
+                "gender": "f",
+                "id": 411,
+                "slug": "jacaranda-correa",
+                "url": "https://www.filminlatino.mx/directora/jacaranda-correa"
+            }
+        ],
+        "duration_in_minutes": 52,
+        "excerpt": "Documental testimonial donde el dato se desdibuja para dar paso a la voz de las mujeres que han sido v\u00edctimas de violencia cultural e institucional en el Estado de M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3428,
+        "image_card": "https://static.filminlatino.mx/images/media/3428/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3428/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3428/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3428/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3428/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3428/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 82,
+        "original_title": "Hab\u00eda una vez ",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "habia-una-vez",
+        "synopsis": "Documental que expone la violencia que viven las mujeres del Estado de M\u00e9xico a trav\u00e9s de m\u00faltiples testimonios y vivencias \u00edntimas contadas en su propia voz. La entidad se ha convertido en\u00a0uno de los lugares donde recientemente se\u00a0 comenten tres veces m\u00e1s feminicidios que en Ciudad Ju\u00e1rez. Do\u00f1a Mere, Antonia, Gloria y Pilar nos introducen a sus espacios para relatar sus historias y experiencias en torno a la realidad de violencia de g\u00e9nero que viven d\u00eda a d\u00eda. Todas concluyen que M\u00e9xico es un pa\u00eds en donde los hombres asesinan a las mujeres, cuyos cr\u00edmenes\u00a0no son producto de mafias, sectas, ni crimen organizado.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 717,
+                "name": "Violencia dom\u00e9stica",
+                "slug": "violencia-domestica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-domestica"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1407,
+                "name": "Pacifismo",
+                "slug": "pacifismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pacifismo"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Hab\u00eda una vez",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/habia-una-vez",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2780,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/HABIA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/HABIA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/HABIA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

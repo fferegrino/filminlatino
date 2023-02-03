@@ -1,0 +1,442 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "DocuLab 6 FICG 29",
+                "slug": "doculab-6-ficg-29",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "C\u00d3DEC/Festival de V\u00eddeo y Creaciones Sonoras",
+                "slug": "codecfestival-de-video-y-creaciones-sonoras",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine de M\u00e9rida y Yucat\u00e1n (FICMY)",
+                "slug": "festival-internacional-de-cine-de-merida-y-yucatan-ficmy",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Adriana Ch\u00e1vez",
+                "gender": "f",
+                "id": 2731,
+                "slug": "adriana-chavez",
+                "url": "https://www.filminlatino.mx/character/adriana-chavez"
+            },
+            {
+                "full_name": " Nila Guiss",
+                "gender": "f",
+                "id": 2732,
+                "slug": "nila-guiss",
+                "url": "https://www.filminlatino.mx/character/nila-guiss"
+            },
+            {
+                "full_name": "Daniel Barjau",
+                "gender": "m",
+                "id": 2733,
+                "slug": "daniel-barjau",
+                "url": "https://www.filminlatino.mx/character/daniel-barjau"
+            },
+            {
+                "full_name": "Gregorio Rocha",
+                "gender": "m",
+                "id": 2734,
+                "slug": "gregorio-rocha",
+                "url": "https://www.filminlatino.mx/character/gregorio-rocha"
+            },
+            {
+                "full_name": "Margarita Sosa",
+                "gender": "f",
+                "id": 2735,
+                "slug": "margarita-sosa",
+                "url": "https://www.filminlatino.mx/character/margarita-sosa"
+            },
+            {
+                "full_name": "Francisco Gayt\u00e1n",
+                "gender": "m",
+                "id": 2736,
+                "slug": "francisco-gaytan",
+                "url": "https://www.filminlatino.mx/character/francisco-gaytan"
+            },
+            {
+                "full_name": "Ricardo Monfort",
+                "gender": "m",
+                "id": 2737,
+                "slug": "ricardo-monfort",
+                "url": "https://www.filminlatino.mx/character/ricardo-monfort"
+            },
+            {
+                "full_name": "Arturo Talavera",
+                "gender": "m",
+                "id": 2738,
+                "slug": "arturo-talavera",
+                "url": "https://www.filminlatino.mx/character/arturo-talavera"
+            },
+            {
+                "full_name": "Gerardo Ortiz",
+                "gender": "m",
+                "id": 2739,
+                "slug": "gerardo-ortiz",
+                "url": "https://www.filminlatino.mx/character/gerardo-ortiz"
+            },
+            {
+                "full_name": "Juli\u00e1n Hern\u00e1ndez",
+                "gender": "m",
+                "id": 2740,
+                "slug": "julian-hernandez",
+                "url": "https://www.filminlatino.mx/character/julian-hernandez"
+            },
+            {
+                "full_name": "Aurora G\u00f3mez",
+                "gender": "f",
+                "id": 2741,
+                "slug": "aurora-gomez",
+                "url": "https://www.filminlatino.mx/character/aurora-gomez"
+            },
+            {
+                "full_name": "Abel G\u00f3mez",
+                "gender": "m",
+                "id": 2742,
+                "slug": "abel-gomez",
+                "url": "https://www.filminlatino.mx/character/abel-gomez"
+            },
+            {
+                "full_name": "Mois\u00e9s Hern\u00e1ndez",
+                "gender": "m",
+                "id": 2743,
+                "slug": "moises-hernandez",
+                "url": "https://www.filminlatino.mx/character/moises-hernandez"
+            },
+            {
+                "full_name": "  Colectivo Mnemocine ",
+                "gender": "m",
+                "id": 2744,
+                "slug": "colectivo-mnemocine",
+                "url": "https://www.filminlatino.mx/character/colectivo-mnemocine"
+            },
+            {
+                "full_name": "H\u00e9ctor Chavarr\u00eda",
+                "gender": "m",
+                "id": 2745,
+                "slug": "hector-chavarria",
+                "url": "https://www.filminlatino.mx/character/hector-chavarria"
+            },
+            {
+                "full_name": "Ezequiel Reyes",
+                "gender": "m",
+                "id": 2746,
+                "slug": "ezequiel-reyes",
+                "url": "https://www.filminlatino.mx/character/ezequiel-reyes"
+            },
+            {
+                "full_name": " Miguel \u00c1ngel Dom\u00ednguez",
+                "gender": "m",
+                "id": 2747,
+                "slug": "miguel-angel-dominguez",
+                "url": "https://www.filminlatino.mx/character/miguel-angel-dominguez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nila Guiss ",
+                "gender": "f",
+                "id": 6350,
+                "slug": "nila-guiss",
+                "url": "https://www.filminlatino.mx/directora/nila-guiss"
+            }
+        ],
+        "duration_in_minutes": 77,
+        "excerpt": "Con m\u00e1s de mil fragmentos in\u00e9ditos digitalizados de pel\u00edculas mexicanas se enmarca la importancia del acceso a la memoria nacional y a nuestras ra\u00edces.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10815,
+        "image_card": "https://static.filminlatino.mx/images/media/10815/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10815/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10815/17/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/10815/13/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10815/19/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10815/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10815/15/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/10815/8/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Dispositio. Fragmentos de Memoria y Olvido",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "dispositio",
+        "synopsis": "Un poema documental sobre el nacimiento y la decadencia de la memoria humana sobre el cuerpo f\u00edsico de las pel\u00edculas.\u00a0<br>Nila Guiss rescata la belleza del celuloide en fragmentos digitalizados, muchos de ellos, nunca antes vistos. Es un coral de recuerdos personales e hist\u00f3ricos que dan contexto a su propia historia de vida.\u00a0<br><br><br>",
+        "tags": [
+            {
+                "id": 1962,
+                "name": "Archivo",
+                "slug": "archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/archivo"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2545,
+                "name": "Patrimonio audiovisual",
+                "slug": "patrimonio-audiovisual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/patrimonio-audiovisual"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 1918,
+                "name": " belleza",
+                "slug": "belleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/belleza"
+            },
+            {
+                "id": 1713,
+                "name": "D\u00eda Mundial del Patrimonio Audiovisual",
+                "slug": "dia-mundial-del-patrimonio-audiovisual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-mundial-del-patrimonio-audiovisual"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1738,
+                "name": "Inter\u00e9s Cultural  ",
+                "slug": "interes-cultural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interes-cultural"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1224,
+                "name": "Michoac\u00e1n",
+                "slug": "michoacan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michoacan"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 1217,
+                "name": "Sonora",
+                "slug": "sonora",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonora"
+            },
+            {
+                "id": 1221,
+                "name": "Hidalgo",
+                "slug": "hidalgo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hidalgo"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Dispositio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dispositio",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12598,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

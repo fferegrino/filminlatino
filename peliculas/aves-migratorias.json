@@ -1,0 +1,316 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Tom\u00e1s Guzm\u00e1n ",
+                "gender": "m",
+                "id": 9186,
+                "slug": "jose-tomas-guzman",
+                "url": "https://www.filminlatino.mx/actor/jose-tomas-guzman"
+            },
+            {
+                "full_name": "Sebasti\u00e1n  Plaza",
+                "gender": "m",
+                "id": 9187,
+                "slug": "sebastian-plaza",
+                "url": "https://www.filminlatino.mx/actor/sebastian-plaza"
+            },
+            {
+                "full_name": "Paulina Garc\u00eda",
+                "gender": "f",
+                "id": 3941,
+                "slug": "paulina-garcia",
+                "url": "https://www.filminlatino.mx/actriz/paulina-garcia"
+            },
+            {
+                "full_name": "Constanza Mackena",
+                "gender": "f",
+                "id": 9188,
+                "slug": "constanza-mackena",
+                "url": "https://www.filminlatino.mx/actriz/constanza-mackena"
+            },
+            {
+                "full_name": "Mat\u00edas  Assler",
+                "gender": "m",
+                "id": 9189,
+                "slug": "matias-assler",
+                "url": "https://www.filminlatino.mx/actor/matias-assler"
+            },
+            {
+                "full_name": "Giselle  Rubio ",
+                "gender": "f",
+                "id": 9190,
+                "slug": "giselle-rubio",
+                "url": "https://www.filminlatino.mx/actriz/giselle-rubio"
+            },
+            {
+                "full_name": "Santiago  Menenghelo",
+                "gender": "m",
+                "id": 9191,
+                "slug": "santiago-menenghelo",
+                "url": "https://www.filminlatino.mx/actor/santiago-menenghelo"
+            },
+            {
+                "full_name": "Andr\u00e9s  G\u00f3mez",
+                "gender": "m",
+                "id": 9192,
+                "slug": "andres-gomez",
+                "url": "https://www.filminlatino.mx/actor/andres-gomez"
+            },
+            {
+                "full_name": "Mar\u00eda Jes\u00fas  G\u00f3mez ",
+                "gender": "f",
+                "id": 9193,
+                "slug": "maria-jesus-gomez",
+                "url": "https://www.filminlatino.mx/actriz/maria-jesus-gomez"
+            },
+            {
+                "full_name": "Alejandro  Le\u00f3n",
+                "gender": "m",
+                "id": 9194,
+                "slug": "alejandro-leon",
+                "url": "https://www.filminlatino.mx/actor/alejandro-leon"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mateo Chicharro Benavente ",
+                "gender": "m",
+                "id": 4457,
+                "slug": "mateo-chicharro-benavente",
+                "url": "https://www.filminlatino.mx/director/mateo-chicharro-benavente"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Diego decide hacer una fiesta de despedida en su casa. Nadie sabe del viaje que realizar\u00e1.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7790,
+        "image_card": "https://static.filminlatino.mx/images/media/7790/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7790/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7790/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7790/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7790/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7790/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/7790/2/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Aves migratorias",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "aves-migratorias",
+        "synopsis": "Diego, un arquitecto de 35 a\u00f1os, decide hacer una fiesta en su casa invitando a sus familiares y amigos m\u00e1s cercanos para as\u00ed poder despedirse. Al parecer, nadie est\u00e1 al tanto del viaje que realizar\u00e1.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 1748,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chile"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 154,
+                "name": "Reuni\u00f3n de amigos",
+                "slug": "reunion-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reunion-de-amigos"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 185,
+                "name": "Crisis de mediana edad",
+                "slug": "crisis-de-mediana-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-mediana-edad"
+            },
+            {
+                "id": 1285,
+                "name": "Crisis",
+                "slug": "crisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1750,
+                "name": "\u00c1lvaro Obreg\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "alvaro-obregon-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alvaro-obregon-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Aves migratorias",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/aves-migratorias",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 8560,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/AVES-MIGRATORIAS-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/AVES-MIGRATORIAS-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/AVES-MIGRATORIAS-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

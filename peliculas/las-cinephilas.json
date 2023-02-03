@@ -1,0 +1,290 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "",
+                "name": "Premios Sur",
+                "slug": "premios-sur",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Luc\u00eda Aguirre",
+                "gender": "f",
+                "id": 185,
+                "slug": "lucia-aguirre",
+                "url": "https://www.filminlatino.mx/character/lucia-aguirre"
+            },
+            {
+                "full_name": "Chelo Plaza Dom\u00ednguez",
+                "gender": "f",
+                "id": 189,
+                "slug": "chelo-plaza-dominguez",
+                "url": "https://www.filminlatino.mx/character/chelo-plaza-dominguez"
+            },
+            {
+                "full_name": "Leopoldina Novoa",
+                "gender": "f",
+                "id": 190,
+                "slug": "leopoldina-novoa",
+                "url": "https://www.filminlatino.mx/character/leopoldina-novoa"
+            },
+            {
+                "full_name": "Norma B\u00e1rbaro",
+                "gender": "f",
+                "id": 186,
+                "slug": "norma-barbaro",
+                "url": "https://www.filminlatino.mx/character/norma-barbaro"
+            },
+            {
+                "full_name": "Estela Claver\u00eda",
+                "gender": "f",
+                "id": 187,
+                "slug": "estela-claveria",
+                "url": "https://www.filminlatino.mx/character/estela-claveria"
+            },
+            {
+                "full_name": "Paloma Diez-Picazo",
+                "gender": "f",
+                "id": 188,
+                "slug": "paloma-diez-picazo",
+                "url": "https://www.filminlatino.mx/character/paloma-diez-picazo"
+            }
+        ],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mar\u00eda \u00c1lvarez",
+                "gender": "f",
+                "id": 2424,
+                "slug": "maria-alvarez",
+                "url": "https://www.filminlatino.mx/directora/maria-alvarez"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Documental coral sobre la pasi\u00f3n por el s\u00e9ptimo arte que acompa\u00f1a a mujeres jubiladas de diferentes pa\u00edses.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5298,
+        "image_card": "https://static.filminlatino.mx/images/media/5298/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5298/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5298/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5298/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5298/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5298/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5298/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 49,
+        "original_title": "Las cin\u00e9philas",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "las-cinephilas",
+        "synopsis": "Documental coral sobre la pasi\u00f3n por el s\u00e9ptimo arte. Acompa\u00f1a a mujeres jubiladas de Espa\u00f1a, Argentina y Uruguay que van al cine todos los d\u00edas y capta c\u00f3mo la ficci\u00f3n se ha colado en sus vidas, dejando una huella indeleble en su memoria.",
+        "tags": [
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 1731,
+                "name": "Argentina ",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argentina"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Las cin\u00e9philas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-cinephilas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10586,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

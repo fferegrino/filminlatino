@@ -1,0 +1,254 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "C\u00e9sar Parra Olmedo",
+                "gender": "m",
+                "id": 1852,
+                "slug": "cesar-parra-olmedo",
+                "url": "https://www.filminlatino.mx/director/cesar-parra-olmedo"
+            }
+        ],
+        "duration_in_minutes": 52,
+        "excerpt": "En Santa Mar\u00eda Tlahuitoltepec, Oaxaca, se funde la historia de un pueblo de la sierra oaxaque\u00f1a que eligi\u00f3 cultivar la educaci\u00f3n musical de los pueblos mixes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3434,
+        "image_card": "https://static.filminlatino.mx/images/media/3434/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3434/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3434/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3434/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3434/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3434/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "La armon\u00eda del viento",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-armonia-del-viento",
+        "synopsis": "En Santa Mar\u00eda Tlahuitoltepec, Oaxaca, se funde la historia de un pueblo de la sierra oaxaque\u00f1a que eligi\u00f3 cultivar la educaci\u00f3n musical de los pueblos mixes. El Centro de Capacitaci\u00f3n Musical y Desarrollo de la Cultura Mixe logr\u00f3 consolidar varias generaciones exitosas que han dado prestigio internacional a aquella regi\u00f3n del pa\u00eds. Han pasado 40 a\u00f1os y contin\u00faa una de las experiencias m\u00e1s importantes de la formaci\u00f3n musical en toda Am\u00e9rica Latina, con creatividad se super\u00f3 la adversidad.",
+        "tags": [
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 15,
+                "name": "Cine reinvindicativo",
+                "slug": "cine-reinvindicativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-reinvindicativo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1802,
+                "name": "Zaa' (M\u00fasica) | MIC Istmo",
+                "slug": "zaa-musica-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zaa-musica-mic-istmo"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La armon\u00eda del viento",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-armonia-del-viento",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2785,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

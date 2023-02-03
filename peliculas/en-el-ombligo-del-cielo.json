@@ -1,0 +1,248 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Magali Boysselle",
+                "gender": "f",
+                "id": 3143,
+                "slug": "magali-boysselle",
+                "url": "https://www.filminlatino.mx/actriz/magali-boysselle"
+            },
+            {
+                "full_name": "No\u00e9 Hern\u00e1ndez",
+                "gender": "m",
+                "id": 816,
+                "slug": "noe-hernandez",
+                "url": "https://www.filminlatino.mx/actor/noe-hernandez"
+            },
+            {
+                "full_name": "Emilio Guerrero",
+                "gender": "m",
+                "id": 982,
+                "slug": "emilio-guerrero",
+                "url": "https://www.filminlatino.mx/actor/emilio-guerrero"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos G\u00f3mez Oliver",
+                "gender": "m",
+                "id": 1447,
+                "slug": "carlos-gomez-oliver",
+                "url": "https://www.filminlatino.mx/director/carlos-gomez-oliver"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Aislados todo un fin de semana casi sin alimentos ni agua y sin posibilidad de pedir ayuda, estos personajes reflexionar\u00e1n sobre sus vidas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2749,
+        "image_card": "https://static.filminlatino.mx/images/media/2749/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2749/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2749/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2749/2/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "En el ombligo del cielo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 345,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/producer/canal-22"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 1638,
+                "name": "Malicia Producciones",
+                "slug": "malicia-producciones",
+                "url": "https://www.filminlatino.mx/producer/malicia-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "en-el-ombligo-del-cielo",
+        "synopsis": "Una joven ejecutiva, Andrea, se queda atrapada durante un fin de semana en la azotea del edificio donde trabaja, en compa\u00f1\u00eda de Gualberto, un intendente de limpieza. Aut\u00e9nticos n\u00e1ufragos en un mar de concreto y vidrio, los personajes reflexionar\u00e1n sobre sus vidas y su escala de valores.",
+        "tags": [
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1089,
+                "name": "Malicia Producciones",
+                "slug": "malicia-producciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/malicia-producciones"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1501,
+                "name": "Festival Aleph 2020",
+                "slug": "festival-aleph-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-aleph-2020"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1352937600,
+        "theater_release_date": 1352937600,
+        "theater_spectators_formatted": null,
+        "title": "En el ombligo del cielo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/en-el-ombligo-del-cielo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2108,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/en-el-hombligo-del-cielo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/en-el-hombligo-del-cielo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/en-el-hombligo-del-cielo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

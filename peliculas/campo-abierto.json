@@ -1,0 +1,298 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Gabriel Orozco",
+                "gender": "m",
+                "id": 97,
+                "slug": "gabriel-orozco",
+                "url": "https://www.filminlatino.mx/character/gabriel-orozco"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Carlos Mart\u00edn M\u00e9ndez",
+                "gender": "m",
+                "id": 349,
+                "slug": "juan-carlos-martin-mendez",
+                "url": "https://www.filminlatino.mx/director/juan-carlos-martin-mendez"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "La vida del artista contempor\u00e1neo Gabriel Orozco documentada en diferentes formatos divididos en 10 secuencias.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4898,
+        "image_card": "https://static.filminlatino.mx/images/media/4898/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4898/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4898/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4898/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4898/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4898/4/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/4898/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Campo abierto",
+        "producers": [
+            {
+                "acronym": "8568",
+                "id": 267,
+                "name": "Hidr\u00f3geno Films",
+                "slug": "hidrogeno-films",
+                "url": "https://www.filminlatino.mx/producer/hidrogeno-films"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "campo-abierto",
+        "synopsis": "Un documental que registra cronol\u00f3gicamente los \u00faltimos 10 a\u00f1os de la vida y trabajo del artista Gabriel Orozco. Dividido en 10 secuencias en 10 formatos que registran los momentos que lo consolidaron como\u00a0una figura clave en el mundo del arte. La vida del artista contempor\u00e1neo documentada por Juan Carlos Mart\u00edn M\u00e9ndez.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 1315,
+                "name": "Museos ",
+                "slug": "museos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/museos"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 339,
+                "name": "Proceso creativo",
+                "slug": "proceso-creativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/proceso-creativo"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 1577,
+                "name": "11\u00ba edici\u00f3n Shorts MX",
+                "slug": "11o-edicion-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/11o-edicion-shorts-mx"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            },
+            {
+                "id": 2654,
+                "name": "Arte contempor\u00e1neo",
+                "slug": "arte-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Campo abierto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/campo-abierto",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4324,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CampoAbierto.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CampoAbierto/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CampoAbierto/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

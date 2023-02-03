@@ -1,0 +1,291 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Borce Nacev",
+                "gender": "m",
+                "id": 1801,
+                "slug": "borce-nacev",
+                "url": "https://www.filminlatino.mx/actor/borce-nacev"
+            },
+            {
+                "full_name": "Vesna Stanojevska",
+                "gender": "m",
+                "id": 1802,
+                "slug": "vesna-stanojevska",
+                "url": "https://www.filminlatino.mx/actor/vesna-stanojevska"
+            },
+            {
+                "full_name": "Salaetin Bilal",
+                "gender": "m",
+                "id": 1804,
+                "slug": "salaetin-bilal",
+                "url": "https://www.filminlatino.mx/actor/salaetin-bilal"
+            },
+            {
+                "full_name": "Sabin Ajrula-Tozija",
+                "gender": "m",
+                "id": 1805,
+                "slug": "sabin-ajrula-tozija",
+                "url": "https://www.filminlatino.mx/actor/sabin-ajrula-tozija"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Medalla de Oro por excelencia",
+                "icon": "park-city-film-music-festival",
+                "name": "Park City Film Music Festival",
+                "slug": "park-city-film-music-festival",
+                "year": 2007
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 144,
+                "name": "Rep\u00fablica de Macedonia",
+                "slug": "republica-de-macedonia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/republica-de-macedonia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Milcho Manchevsky",
+                "gender": "m",
+                "id": 654,
+                "slug": "milcho-manchevsky",
+                "url": "https://www.filminlatino.mx/director/milcho-manchevsky"
+            }
+        ],
+        "duration_in_minutes": 120,
+        "excerpt": "El director Manchevski maneja un estilo visual \u00fanico que lo separa de las dem\u00e1s historias de fantasmas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 995,
+        "image_card": "https://static.filminlatino.mx/images/media/995/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/995/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/995/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/995/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/995/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/995/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/995/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/995/10/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Senki (Shadows)",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 628,
+                "name": "Blue Eyes Fiction",
+                "slug": "blue-eyes-fiction",
+                "url": "https://www.filminlatino.mx/producer/blue-eyes-fiction"
+            },
+            {
+                "acronym": "",
+                "id": 629,
+                "name": "Senka DOOEL Film Production",
+                "slug": "senka-dooel-film-production",
+                "url": "https://www.filminlatino.mx/producer/senka-dooel-film-production"
+            },
+            {
+                "acronym": "",
+                "id": 630,
+                "name": "Tornasol Films",
+                "slug": "tornasol-films",
+                "url": "https://www.filminlatino.mx/producer/tornasol-films"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "entre-los-muertos",
+        "synopsis": "El Dr. Lazar Perkov es un joven doctor que pareciera tener todo, pero en realidad no es as\u00ed. Una noche sufre de un terrible accidente automovil\u00edstico y milagrosamente sobrevive, a partir de ah\u00ed decide reconstruir su vida y se muda a Skopje. Lazar empieza a recibir visitas de una misteriosa anciana quien habla un extra\u00f1o dialecto, \u00e9l decide buscar ayuda para entender el mensaje sin saber que tiene un secreto oscuro.",
+        "tags": [
+            {
+                "id": 126,
+                "name": "Ambientada en hospital",
+                "slug": "ambientada-en-hospital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-hospital"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 561,
+                "name": "Fantasmas",
+                "slug": "fantasmas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasmas"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 1307,
+                "name": "Extremo ",
+                "slug": "extremo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/extremo"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 404,
+                "name": "Visiones",
+                "slug": "visiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/visiones"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1253836800,
+        "theater_release_date": 1253836800,
+        "theater_spectators_formatted": null,
+        "title": "Entre los muertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/entre-los-muertos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2436,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/entre-los-muertos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/entre-los-muertos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/entre-los-muertos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2007
+    }
+}

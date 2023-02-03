@@ -1,0 +1,232 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Farid  Escalante ",
+                "gender": "m",
+                "id": 7898,
+                "slug": "farid-escalante",
+                "url": "https://www.filminlatino.mx/actor/farid-escalante"
+            },
+            {
+                "full_name": "Kari  Romu",
+                "gender": "f",
+                "id": 7899,
+                "slug": "kari-romu",
+                "url": "https://www.filminlatino.mx/actriz/kari-romu"
+            },
+            {
+                "full_name": "Erick  Galicia ",
+                "gender": "m",
+                "id": 7900,
+                "slug": "erick-galicia",
+                "url": "https://www.filminlatino.mx/actor/erick-galicia"
+            },
+            {
+                "full_name": "Jos\u00e9 \u00c1ngel  Garc\u00eda ",
+                "gender": "m",
+                "id": 7902,
+                "slug": "jose-angel-garcia",
+                "url": "https://www.filminlatino.mx/actor/jose-angel-garcia"
+            },
+            {
+                "full_name": "Jos\u00e9 Luis \u201cEl M\u00e1quinas\u201d Gonz\u00e1lez",
+                "gender": "m",
+                "id": 7903,
+                "slug": "jose-luis-el-maquinas-gonzalez",
+                "url": "https://www.filminlatino.mx/actor/jose-luis-el-maquinas-gonzalez"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Premio FIPRESCI a Mejor pel\u00edcula de lengua extranjera",
+                "icon": "premio-fipresci",
+                "name": "Premio FIPRESCI ",
+                "slug": "premio-fipresci",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Andr\u00e9s  Kaiser ",
+                "gender": "m",
+                "id": 3600,
+                "slug": "andres-kaiser",
+                "url": "https://www.filminlatino.mx/director/andres-kaiser"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "El destino de\u00a0tres peque\u00f1os acostumbrados a la vida salvaje\u00a0cambiar\u00e1 con la intervenci\u00f3n de un sacerdote y un\u00a0tr\u00e1gico accidente que dejar\u00e1 inc\u00f3gnitas y misterios por resolver.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6929,
+        "image_card": "https://static.filminlatino.mx/images/media/6929/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6929/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6929/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6929/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6929/1/still_2_3.JPG",
+            "https://static.filminlatino.mx/images/media/6929/2/still_2_3.JPG",
+            "https://static.filminlatino.mx/images/media/6929/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6929/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6929/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/6929/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Feral ",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "feral",
+        "synopsis": "En 1986 el sacerdote Juan Felipe de Jes\u00fas document\u00f3 en decenas de videocassetteses el duro proceso para reincorporar a tres ni\u00f1os salvajes a la sociedad oaxaque\u00f1a. Sus buenas intenciones son interrumpidas por un tr\u00e1gico incendio que marc\u00f3 el destino de Juan Felipe y los tres peque\u00f1os. Hoy en d\u00eda, varias inc\u00f3gnitas rodean el caso y los pobladores que vivieron el suceso guardan un misterioso silencio.<br>",
+        "tags": [
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 759,
+                "name": "Horror_MX",
+                "slug": "horror-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror-mx"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1705,
+                "name": "horror religioso ",
+                "slug": "horror-religioso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror-religioso"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 1706,
+                "name": "Premio FIPRESCI,",
+                "slug": "premio-fipresci",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premio-fipresci"
+            },
+            {
+                "id": 197,
+                "name": "Found footage",
+                "slug": "found-footage",
+                "url": "https://www.filminlatino.mx/catalogo/tema/found-footage"
+            },
+            {
+                "id": 1708,
+                "name": "mejor director ",
+                "slug": "mejor-director",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director"
+            },
+            {
+                "id": 1707,
+                "name": "Competencia M\u00e9xico Primero en Los Cabos",
+                "slug": "competencia-mexico-primero-en-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/competencia-mexico-primero-en-los-cabos"
+            },
+            {
+                "id": 1709,
+                "name": "RIFF Oslo",
+                "slug": "riff-oslo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/riff-oslo"
+            },
+            {
+                "id": 1806,
+                "name": "Retrospectiva Los Cabos Film Festival",
+                "slug": "retrospectiva-los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-los-cabos-film-festival"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Feral",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/feral",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7049,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "standard"
+                    }
+                ],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2018
+    }
+}

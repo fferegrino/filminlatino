@@ -1,0 +1,522 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Zaragoza",
+                "gender": "m",
+                "id": 289,
+                "slug": "mario-zaragoza",
+                "url": "https://www.filminlatino.mx/actor/mario-zaragoza"
+            },
+            {
+                "full_name": "Diego Cata\u00f1o",
+                "gender": "m",
+                "id": 907,
+                "slug": "diego-catano",
+                "url": "https://www.filminlatino.mx/actor/diego-catano"
+            },
+            {
+                "full_name": "Memo Dorantes",
+                "gender": "m",
+                "id": 908,
+                "slug": "memo-dorantes",
+                "url": "https://www.filminlatino.mx/actor/memo-dorantes"
+            },
+            {
+                "full_name": "Eileen Y\u00e1\u00f1ez",
+                "gender": "f",
+                "id": 909,
+                "slug": "eileen-yanez",
+                "url": "https://www.filminlatino.mx/actriz/eileen-yanez"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-amiens-francia",
+                "name": "Festival de Amiens, Francia.",
+                "slug": "festival-de-amiens-francia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "premio-mezcal",
+                "name": "Premio Mezcal ",
+                "slug": "premio-mezcal",
+                "year": 2009
+            },
+            {
+                "category": "Premio Golden Goose Award ",
+                "icon": "festival-on-wheels-turquia",
+                "name": "Festival on Wheels, Turqu\u00eda ",
+                "slug": "festival-on-wheels-turquia",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-cinematografico-internacional-de-uruguay",
+                "name": "Festival Cinematogr\u00e1fico Internacional de Uruguay ",
+                "slug": "festival-cinematografico-internacional-de-uruguay",
+                "year": 2009
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-amiens-francia",
+                "name": "Festival de Amiens, Francia.",
+                "slug": "festival-de-amiens-francia",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-cinematografico-internacional-de-uruguay",
+                "name": "Festival Cinematogr\u00e1fico Internacional de Uruguay ",
+                "slug": "festival-cinematografico-internacional-de-uruguay",
+                "year": 2009
+            },
+            {
+                "category": "Premio Cooperaci\u00f3n ",
+                "icon": "",
+                "name": "Muestra de Cine Latinoamericano de Catalu\u00f1a, Espa\u00f1a",
+                "slug": "muestra-de-cine-latinoamericano-de-cataluna-espana",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "",
+                "name": "Festival de Cine de Zagreb, Croacia ",
+                "slug": "festival-de-cine-de-zagreb-croacia",
+                "year": 2009
+            },
+            {
+                "category": "Premio Cooperaci\u00f3n ",
+                "icon": "",
+                "name": "Muestra de Cine Latinoamericano de Catalu\u00f1a, Espa\u00f1a",
+                "slug": "muestra-de-cine-latinoamericano-de-cataluna-espana",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "",
+                "name": "Festival de Cine de Zagreb, Croacia ",
+                "slug": "festival-de-cine-de-zagreb-croacia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor M\u00fasica Original ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor direcci\u00f3n de arte ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": " Mejor maquillaje",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejores Efectos Especiales",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejores Efectos Visuales",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula iberoamericana ",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula iberoamericana ",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premio-mayahuel",
+                "name": "Premio  Mayahuel",
+                "slug": "premio-mayahuel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premio-mayahuel",
+                "name": "Premio  Mayahuel",
+                "slug": "premio-mayahuel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premio-mayahuel",
+                "name": "Premio  Mayahuel",
+                "slug": "premio-mayahuel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premio-mayahuel",
+                "name": "Premio  Mayahuel",
+                "slug": "premio-mayahuel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premio-mayahuel",
+                "name": "Premio  Mayahuel",
+                "slug": "premio-mayahuel",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo  Pl\u00e1",
+                "gender": "m",
+                "id": 352,
+                "slug": "rodrigo-pla",
+                "url": "https://www.filminlatino.mx/director/rodrigo-pla"
+            }
+        ],
+        "duration_in_minutes": 113,
+        "excerpt": "Pel\u00edcula acerca de la transformaci\u00f3n de un hombre, cuya obsesi\u00f3n por obtener el perd\u00f3n de Dios lo desquicia, condenando a sus hijos al m\u00e1s profundo encierro.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 373,
+        "image_card": "https://static.filminlatino.mx/images/media/373/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/373/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/373/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/373/6/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Desierto adentro",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 181,
+                "name": "ECHASA",
+                "slug": "echasa",
+                "url": "https://www.filminlatino.mx/producer/echasa"
+            },
+            {
+                "acronym": "",
+                "id": 270,
+                "name": "Instituto Cinematogr\u00e1fico Lumiere",
+                "slug": "instituto-cinematografico-lumiere",
+                "url": "https://www.filminlatino.mx/producer/instituto-cinematografico-lumiere"
+            },
+            {
+                "acronym": "",
+                "id": 271,
+                "name": " Elisa Salinas Corp",
+                "slug": "elisa-salinas-corp",
+                "url": "https://www.filminlatino.mx/producer/elisa-salinas-corp"
+            },
+            {
+                "acronym": "",
+                "id": 272,
+                "name": "Buenaventura Producciones",
+                "slug": "buenaventura-producciones",
+                "url": "https://www.filminlatino.mx/producer/buenaventura-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "desierto-adentro",
+        "synopsis": "El\u00edas ha cometido un gran pecado contra Dios y est\u00e1 convencido de que sobre sus hijos caer\u00e1 la condena de una muerte prematura. Queriendo detener el temible castigo, dedicar\u00e1 su vida a construir una iglesia para obtener el perd\u00f3n de Dios. La historia es narrada a trav\u00e9s de la mirada de Aureliano, el hijo m\u00e1s joven y vulnerable, quien retratar\u00e1 la saga familiar en retablos religiosos.",
+        "tags": [
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1363,
+                "name": "Efectos Especiales y visuales Ariel",
+                "slug": "efectos-especiales-y-visuales-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/efectos-especiales-y-visuales-ariel"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1506,
+                "name": "Escribe Cine Recomienda",
+                "slug": "escribe-cine-recomienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escribe-cine-recomienda"
+            },
+            {
+                "id": 1740,
+                "name": "Desde el m\u00e1s all\u00e1",
+                "slug": "desde-el-mas-alla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-el-mas-alla"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1236902400,
+        "theater_release_date": 1236902400,
+        "theater_spectators_formatted": null,
+        "title": "Desierto adentro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/desierto-adentro",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 541,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/desierto-adentro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/desierto-adentro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/desierto-adentro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luis Mandoki",
+                "gender": "m",
+                "id": 728,
+                "slug": "luis-mandoki",
+                "url": "https://www.filminlatino.mx/director/luis-mandoki"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "Bajo el agua de la Presa Miguel Alem\u00e1n, descansan los restos de los antepasados de los mazatecos de San Jos\u00e9 Independencia y sus alrededores.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9654,
+        "image_card": "https://static.filminlatino.mx/images/media/9654/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9654/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9654/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9654/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9654/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/9654/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/9654/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/9654/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "El d\u00eda en que vienen los muertos. Mazatecos I.",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-dia-en-que-vienen-los-muertos",
+        "synopsis": "La celebraci\u00f3n del D\u00eda de Muertos en la comunidad de San Jos\u00e9 Independencia, en el estado de Oaxaca, es el motivo central de este documental. Esta comunidad fue una de las desplazadas durante la construcci\u00f3n de la presa Miguel Alem\u00e1n. El documental registra la celebraci\u00f3n de Todos Santos entre los mazatecos y culmina con la visita que hacen a su lugar de origen bajo las aguas de la presa.<br>\u00a0Bajo el agua de la Presa Miguel Alem\u00e1n, descansan los restos de los antepasados de los mazatecos de San Jos\u00e9 Independencia y sus alrededores. Ellos van en busca de ese reencuentro a la luz de las veladoras y los altares que construyen para recordarles que no los olvidan.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 589,
+                "name": "D\u00eda de Muertos ",
+                "slug": "dia-de-muertos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 1047,
+                "name": "Regreso de la muerte",
+                "slug": "regreso-de-la-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-de-la-muerte"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 623,
+                "name": "Or\u00edgenes",
+                "slug": "origenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/origenes"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2740,
+                "name": "D\u00eda de muertos UG: Tradici\u00f3n con vida",
+                "slug": "dia-de-muertos-ug-tradicion-con-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos-ug-tradicion-con-vida"
+            },
+            {
+                "id": 2741,
+                "name": "Muestra de Lenguas Ind\u00edgenas Nacional",
+                "slug": "muestra-de-lenguas-indigenas-nacional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-lenguas-indigenas-nacional"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El d\u00eda en que vienen los muertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-dia-en-que-vienen-los-muertos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 11369,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1981
+    }
+}

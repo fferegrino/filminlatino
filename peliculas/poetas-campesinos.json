@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nicol\u00e1s Echevarr\u00eda",
+                "gender": "m",
+                "id": 41,
+                "slug": "nicolas-echevarria",
+                "url": "https://www.filminlatino.mx/director/nicolas-echevarria"
+            }
+        ],
+        "duration_in_minutes": 47,
+        "excerpt": "Echevarr\u00eda nos muestra ese punto donde se mezcla la visi\u00f3n religiosa de una poblaci\u00f3n rural con el ambiente m\u00edstico de su comunidad ind\u00edgena.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 223,
+        "image_card": "https://static.filminlatino.mx/images/media/223/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/223/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/223/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/223/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/223/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/223/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/223/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 88,
+        "original_title": "Poetas campesinos",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "poetas-campesinos",
+        "synopsis": "Nicol\u00e1s Echevarr\u00eda sigue a un grupo local de circo \u2013compuesto por un poeta y dos peque\u00f1as acr\u00f3batas\u2013 durante los festejos de San Felipe Otlaltepec, un lugar de Puebla cuyos habitantes muestran una gran devoci\u00f3n hacia sus espect\u00e1culos locales. Al grado que sin darse cuenta, son part\u00edcipes de manera activa en el espect\u00e1culo.",
+        "tags": [
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 372,
+                "name": "Circo",
+                "slug": "circo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/circo"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 410,
+                "name": "Acrobacia",
+                "slug": "acrobacia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/acrobacia"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1211,
+                "name": "1979",
+                "slug": "1979",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1979"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1489,
+                "name": "Centro de Producci\u00f3n de Cortometraje",
+                "slug": "centro-de-produccion-de-cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/centro-de-produccion-de-cortometraje"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1804,
+                "name": "Xquenda (Origen) | MIC Istmo",
+                "slug": "xquenda-origen-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/xquenda-origen-mic-istmo"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1751,
+                "name": "Azcapotzalco | Promotores Culturales Comunitarios",
+                "slug": "azcapotzalco-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/azcapotzalco-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1752,
+                "name": "Benito Ju\u00e1rez | Promotores Culturales Comunitarios",
+                "slug": "benito-juarez-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/benito-juarez-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 292464000,
+        "theater_release_date": 292464000,
+        "theater_spectators_formatted": null,
+        "title": "Poetas campesinos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/poetas-campesinos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 72,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1979
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "",
+                "name": "Festival Internacional de Documentales, Hot Docs Canad\u00e1",
+                "slug": "festival-internacional-de-documentales-hot-docs-canada",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Eduardo  San Juan Bre\u00f1a",
+                "gender": "m",
+                "id": 933,
+                "slug": "eduardo-san-juan-brena",
+                "url": "https://www.filminlatino.mx/character/eduardo-san-juan-brena"
+            }
+        ],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo  Reyes ",
+                "gender": "m",
+                "id": 388,
+                "slug": "rodrigo-reyes",
+                "url": "https://www.filminlatino.mx/director/rodrigo-reyes"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Un conquistador espa\u00f1ol del siglo XVI llega a M\u00e9xico en pleno 2020. Sigue la ruta de Cort\u00e9s, siendo testigo de la realidad del pa\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7105,
+        "image_card": "https://static.filminlatino.mx/images/media/7105/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7105/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7105/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7105/1/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7105/3/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "499",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3246,
+                "name": "Rodrigo Reyes",
+                "slug": "rodrigo-reyes",
+                "url": "https://www.filminlatino.mx/producer/rodrigo-reyes"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "499",
+        "synopsis": "Un conquistador espa\u00f1ol del siglo XVI llega a M\u00e9xico en pleno 2020, 499 a\u00f1os despu\u00e9s de la ca\u00edda de M\u00e9xico-Tenochtitl\u00e1n. Sigue la ruta de Cort\u00e9s, en un entorno tan extra\u00f1o como familiar, siendo testigo de la realidad del pa\u00eds, encontr\u00e1ndose con migrantes, familiares de gente asesinada y desaparecida y cuestionando el papel del colonizador en la construcci\u00f3n de esta violencia.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 1842,
+                "name": "Pel\u00edcula de clausura | Festival Zanate",
+                "slug": "pelicula-de-clausura-festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-clausura-festival-zanate"
+            },
+            {
+                "id": 1837,
+                "name": "Festival Zanate",
+                "slug": "festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-zanate"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "499",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/499",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7395,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/499-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/499-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/499-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/499-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/499-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/499-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

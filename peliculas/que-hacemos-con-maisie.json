@@ -1,0 +1,464 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Julianne Moore",
+                "gender": "f",
+                "id": 2852,
+                "slug": "julianne-moore",
+                "url": "https://www.filminlatino.mx/actriz/julianne-moore"
+            },
+            {
+                "full_name": "Steve Coogan",
+                "gender": "m",
+                "id": 2853,
+                "slug": "steve-coogan",
+                "url": "https://www.filminlatino.mx/actor/steve-coogan"
+            },
+            {
+                "full_name": "Onata Aprile",
+                "gender": "f",
+                "id": 2854,
+                "slug": "onata-aprile",
+                "url": "https://www.filminlatino.mx/actriz/onata-aprile"
+            },
+            {
+                "full_name": "Alexander Skarsg\u00e5rd",
+                "gender": "m",
+                "id": 2855,
+                "slug": "alexander-skarsgard",
+                "url": "https://www.filminlatino.mx/actor/alexander-skarsgard"
+            },
+            {
+                "full_name": "Joanna Vanderham",
+                "gender": "f",
+                "id": 2856,
+                "slug": "joanna-vanderham",
+                "url": "https://www.filminlatino.mx/actriz/joanna-vanderham"
+            },
+            {
+                "full_name": "Jesse Stone Spadaccini",
+                "gender": "m",
+                "id": 4746,
+                "slug": "jesse-stone-spadaccini",
+                "url": "https://www.filminlatino.mx/actor/jesse-stone-spadaccini"
+            },
+            {
+                "full_name": "Diana Garc\u00eda",
+                "gender": "f",
+                "id": 1825,
+                "slug": "diana-garcia",
+                "url": "https://www.filminlatino.mx/actriz/diana-garcia"
+            },
+            {
+                "full_name": "Trevor Long",
+                "gender": "m",
+                "id": 4747,
+                "slug": "trevor-long",
+                "url": "https://www.filminlatino.mx/actor/trevor-long"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-internacional-de-cine-de-tokio-japon",
+                "name": "Festival Internacional de Cine de Tokio, Jap\u00f3n",
+                "slug": "festival-internacional-de-cine-de-tokio-japon",
+                "year": null
+            },
+            {
+                "category": " Premio WFCC a Mejor Actriz Joven",
+                "icon": "",
+                "name": "Women Film Critics Circle Awards",
+                "slug": "women-film-critics-circle-awards",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al ALFS a Mejor Actor Brit\u00e1nico del A\u00f1o",
+                "icon": "circulo-de-criticos-cinematograficos-de-londres",
+                "name": "C\u00edrculo de Cr\u00edticos Cinematogr\u00e1ficos de Londres",
+                "slug": "circulo-de-criticos-cinematograficos-de-londres",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Tokyo Grand Prix",
+                "icon": "festival-internacional-de-cine-de-tokyo-japon",
+                "name": "Festival Internacional de Cine de Tokyo, Jap\u00f3n",
+                "slug": "festival-internacional-de-cine-de-tokyo-japon",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al DFCC a Mejor Actriz",
+                "icon": "dublin-film-critics-circle-awards",
+                "name": "Dublin Film Critics Circle Awards",
+                "slug": "dublin-film-critics-circle-awards",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al DFCC a Mejor Pel\u00edcula",
+                "icon": "dublin-film-critics-circle-awards",
+                "name": "Dublin Film Critics Circle Awards",
+                "slug": "dublin-film-critics-circle-awards",
+                "year": 2012
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Honores a Logro Sobresaliente en Actuaci\u00f3n",
+                "icon": "newport-beach-film-festival",
+                "name": "Newport Beach Film Festival",
+                "slug": "newport-beach-film-festival",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al USC Scripter Award",
+                "icon": "usc-scripter-award",
+                "name": "USC Scripter Award",
+                "slug": "usc-scripter-award",
+                "year": 2012
+            },
+            {
+                "category": "Premio de la Semana de Directores a Mejor Actriz",
+                "icon": "fantasporto",
+                "name": "Fantasporto",
+                "slug": "fantasporto",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Premio de la Semana de Directores a Mejor Pel\u00edcula",
+                "icon": "fantasporto",
+                "name": "Fantasporto",
+                "slug": "fantasporto",
+                "year": 2012
+            },
+            {
+                "category": "Segundo lugar del Golden Space Needle Award a Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-seattle",
+                "name": "Festival Internacional de Cine de Seattle",
+                "slug": "festival-internacional-de-cine-de-seattle",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Scott McGehee",
+                "gender": "m",
+                "id": 1025,
+                "slug": "scott-mcgehee",
+                "url": "https://www.filminlatino.mx/director/scott-mcgehee"
+            },
+            {
+                "full_name": "David Siegel",
+                "gender": "m",
+                "id": 1026,
+                "slug": "david-siegel",
+                "url": "https://www.filminlatino.mx/director/david-siegel"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "Bell\u00edsima adaptaci\u00f3n de la novela de Henry James, tra\u00edda a la ciudad de Nueva York que se vuelve testigo de la amarga batalla de los padres de Maisie por su custodia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1508,
+        "image_card": "https://static.filminlatino.mx/images/media/1508/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1508/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1508/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1508/10/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "What Maisie Knew",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1124,
+                "name": "Red Crown Productions",
+                "slug": "red-crown-productions",
+                "url": "https://www.filminlatino.mx/producer/red-crown-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1125,
+                "name": "Weinstock Productions",
+                "slug": "weinstock-productions",
+                "url": "https://www.filminlatino.mx/producer/weinstock-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1126,
+                "name": "10th Hole Productions",
+                "slug": "10th-hole-productions",
+                "url": "https://www.filminlatino.mx/producer/10th-hole-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1128,
+                "name": "120dB Films",
+                "slug": "120db-films",
+                "url": "https://www.filminlatino.mx/producer/120db-films"
+            },
+            {
+                "acronym": "",
+                "id": 1129,
+                "name": "Dreambridge Films",
+                "slug": "dreambridge-films",
+                "url": "https://www.filminlatino.mx/producer/dreambridge-films"
+            },
+            {
+                "acronym": "",
+                "id": 1130,
+                "name": "Image Entertainment",
+                "slug": "image-entertainment",
+                "url": "https://www.filminlatino.mx/producer/image-entertainment"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "que-hacemos-con-maisie",
+        "synopsis": "Una revisi\u00f3n contempor\u00e1nea y neoyorquina de la novela de Henry James, \"What Maisie Knew\".\u00a0Maisie es una ni\u00f1a de seis a\u00f1os que se encuentra en medio de la lucha por su custodia entre su madre Susanna, una madura estrella del rock, y su padre, Beale, un importante marchante de arte. En la pugna por conseguir el favor del juez, Beale se casa con Margo, la ni\u00f1era de Maisie, lo que empuja a Suzanne a casarse con su amigo Lincoln. Con Susanna y Beale inmersos en una batalla que no beneficia a nadie, Maisie se encari\u00f1ar\u00e1 de las nuevas parejas de sus padres.",
+        "tags": [
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 506,
+                "name": "Nueva York",
+                "slug": "nueva-york",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-york"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 691,
+                "name": "Henry James",
+                "slug": "henry-james",
+                "url": "https://www.filminlatino.mx/catalogo/tema/henry-james"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 139,
+                "name": "Sobre el divorcio",
+                "slug": "sobre-el-divorcio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-divorcio"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 2022,
+                "name": "Ciclo: Literatura llevada al cine",
+                "slug": "ciclo-literatura-llevada-al-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-literatura-llevada-al-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            },
+            {
+                "id": 2027,
+                "name": "Ciclo El ni\u00f1o actor, la ni\u00f1a actriz",
+                "slug": "ciclo-el-nino-actor-la-nina-actriz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-nino-actor-la-nina-actriz"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00bfQu\u00e9 hacemos con Maisie?",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/que-hacemos-con-maisie",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1959,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/que-hacemos-con-maisie.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/que-hacemos-con-maisie/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/que-hacemos-con-maisie/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

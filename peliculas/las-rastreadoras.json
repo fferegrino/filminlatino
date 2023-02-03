@@ -1,0 +1,323 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Adri\u00e1n Gonz\u00e1lez Robles ",
+                "gender": "m",
+                "id": 2685,
+                "slug": "adrian-gonzalez-robles",
+                "url": "https://www.filminlatino.mx/director/adrian-gonzalez-robles"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Un grupo de mujeres comparte al mundo sus historias de p\u00e9rdida, dolor y desesperaci\u00f3n, pero tambi\u00e9n de amor y lucha",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5834,
+        "image_card": "https://static.filminlatino.mx/images/media/5834/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5834/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5834/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5834/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5834/2/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 125,
+        "original_title": "Las rastreadoras",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2185,
+                "name": "Time Lapse Producciones ",
+                "slug": "time-lapse-producciones",
+                "url": "https://www.filminlatino.mx/producer/time-lapse-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "las-rastreadoras",
+        "synopsis": "Un grupo de mujeres va\u00a0en busca de sus desaparecidos en lugares donde \"an\u00f3nimos\" les indican que pueden tener cuerpos de personas sin vida, todo esto con sus propios recursos, con sus manos, pero con toda la fe y esperanza de lograr encontrar un sus \"tesoros\".",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 52,
+                "name": "Mafia",
+                "slug": "mafia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mafia"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1805,
+                "name": "Ciclo perspectiva de g\u00e9nero",
+                "slug": "ciclo-perspectiva-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-perspectiva-de-genero"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2017,
+                "name": " Ciclo documentales mexicanos | UASLP",
+                "slug": "ciclo-documentales-mexicanos-uaslp",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-documentales-mexicanos-uaslp"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            },
+            {
+                "id": 2778,
+                "name": "16 d\u00edas de activismo INMUJERES 2022",
+                "slug": "16-dias-de-activismo-inmujeres-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo-inmujeres-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Las rastreadoras",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-rastreadoras",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5382,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LAS-RASTREADORAS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LAS-RASTREADORAS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LAS-RASTREADORAS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carmen Salinas",
+                "gender": "f",
+                "id": 645,
+                "slug": "carmen-salinas",
+                "url": "https://www.filminlatino.mx/actriz/carmen-salinas"
+            },
+            {
+                "full_name": "Alfonso Arau",
+                "gender": "m",
+                "id": 649,
+                "slug": "alfonso-arau",
+                "url": "https://www.filminlatino.mx/actor/alfonso-arau"
+            },
+            {
+                "full_name": "Pancho C\u00f3rdova",
+                "gender": "m",
+                "id": 650,
+                "slug": "pancho-cordova",
+                "url": "https://www.filminlatino.mx/actor/pancho-cordova"
+            },
+            {
+                "full_name": "Lyn May",
+                "gender": "f",
+                "id": 651,
+                "slug": "lyn-may",
+                "url": "https://www.filminlatino.mx/actriz/lyn-may"
+            }
+        ],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Isaac",
+                "gender": "m",
+                "id": 44,
+                "slug": "alberto-isaac",
+                "url": "https://www.filminlatino.mx/director/alberto-isaac"
+            }
+        ],
+        "duration_in_minutes": 113,
+        "excerpt": "Una pel\u00edcula que retrata con nostalgia el ambiente nocturno de la Ciudad de M\u00e9xico de los a\u00f1os cuarenta y cincuenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 232,
+        "image_card": "https://static.filminlatino.mx/images/media/232/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/232/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/232/9/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/232/8/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 81,
+        "original_title": "T\u00edvoli",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "",
+                "id": 14,
+                "name": "Dasa Films S.A.",
+                "slug": "dasa-films-sa",
+                "url": "https://www.filminlatino.mx/producer/dasa-films-sa"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tivoli",
+        "synopsis": "La trama se sit\u00faa en los a\u00f1os cincuenta. El T\u00edvoli es un teatro de variedades ubicado en el centro de la capital, que corre el riesgo de ser demolido porque las autoridades tienen planes de ampliar el Paseo de la Reforma en una trayectoria que cruza esos terrenos. El empresario del teatro, secundado por su comediante estrella de s\u00e1tira pol\u00edtica, \"el Talachas\", y por otros empleados y actores, intentan hallar una alternativa para salvar su fuente de trabajo.",
+        "tags": [
+            {
+                "id": 743,
+                "name": "Aventuras_MX",
+                "slug": "aventuras-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 376,
+                "name": "Cabaret",
+                "slug": "cabaret",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cabaret"
+            },
+            {
+                "id": 420,
+                "name": "Femme Fatale MX",
+                "slug": "femme-fatale-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/femme-fatale-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1157,
+                "name": "Curadur\u00eda Del Toro",
+                "slug": "curaduria-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/curaduria-del-toro"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1214,
+                "name": "1975",
+                "slug": "1975",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1975"
+            },
+            {
+                "id": 824,
+                "name": "Las favoritas de Guillermo Del Toro",
+                "slug": "las-favoritas-de-guillermo-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-guillermo-del-toro"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1513,
+                "name": "Homenaje a H\u00e9ctor Ortega",
+                "slug": "homenaje-a-hector-ortega",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homenaje-a-hector-ortega"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 172972800,
+        "theater_release_date": 172972800,
+        "theater_spectators_formatted": null,
+        "title": "T\u00edvoli",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tivoli",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 131,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/tivoli.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/tivoli/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/tivoli/master.m3u8"
+                }
+            ]
+        },
+        "year": 1974
+    }
+}

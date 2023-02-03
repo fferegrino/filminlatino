@@ -1,0 +1,226 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Daniel Mart\u00ednez",
+                "gender": "m",
+                "id": 658,
+                "slug": "daniel-martinez",
+                "url": "https://www.filminlatino.mx/actor/daniel-martinez"
+            },
+            {
+                "full_name": "Ferm\u00edn Mart\u00ednez",
+                "gender": "m",
+                "id": 959,
+                "slug": "fermin-martinez",
+                "url": "https://www.filminlatino.mx/actor/fermin-martinez"
+            },
+            {
+                "full_name": "Ximena Herrera",
+                "gender": "m",
+                "id": 2258,
+                "slug": "ximena-herrera",
+                "url": "https://www.filminlatino.mx/actor/ximena-herrera"
+            },
+            {
+                "full_name": "Federico Porras Jr.",
+                "gender": "m",
+                "id": 3112,
+                "slug": "federico-porras-jr",
+                "url": "https://www.filminlatino.mx/actor/federico-porras-jr"
+            },
+            {
+                "full_name": "Metztli Adamina",
+                "gender": "f",
+                "id": 1889,
+                "slug": "metztli-adamina",
+                "url": "https://www.filminlatino.mx/actriz/metztli-adamina"
+            },
+            {
+                "full_name": "Mario  Escalante",
+                "gender": "m",
+                "id": 4760,
+                "slug": "mario-escalante",
+                "url": "https://www.filminlatino.mx/actor/mario-escalante"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Octavio Reyes L\u00f3pez ",
+                "gender": "m",
+                "id": 1788,
+                "slug": "octavio-reyes-lopez",
+                "url": "https://www.filminlatino.mx/director/octavio-reyes-lopez"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Vladimir es un hombre adinerado, bien parecido, que pese a tener las cualidades necesarias para enamorar a una mujer, tiene problemas para relacionarse con los dem\u00e1s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3351,
+        "image_card": "https://static.filminlatino.mx/images/media/3351/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3351/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3351/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3351/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3351/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3351/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3351/9/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Vladimir en m\u00ed",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "vladimir-en-mi",
+        "synopsis": "Vladimir no sabe qui\u00e9n es aunque\u00a0tiene el dinero que quiere. Teme volverse esquizofr\u00e9nico; es\u00a0un vampiro, un extraterrestre, un millonario exc\u00e9ntrico, o las tres cosas a la vez. Enamora a la mujer m\u00e1s bella e inteligente que se cruza su camino, pero\u00a0vive angustiado por encontrar su identidad y descubrir el sentido de su existencia.\u00a0",
+        "tags": [
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Vladimir en m\u00ed",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vladimir-en-mi",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2695,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2013
+    }
+}

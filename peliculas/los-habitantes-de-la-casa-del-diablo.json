@@ -1,0 +1,313 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "",
+                "name": "Est\u00edmulo a Realizaci\u00f3n Documental del Fondo para el Desarrollo Cinematogr\u00e1fico FDC-Colombia. 2013 ",
+                "slug": "estimulo-a-realizacion-documental-del-fondo-para-el-desarrollo-cinematografico-fdc-colombia-2013",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Fernando  Castellanos",
+                "gender": "m",
+                "id": 736,
+                "slug": "fernando-castellanos",
+                "url": "https://www.filminlatino.mx/character/fernando-castellanos"
+            },
+            {
+                "full_name": "Jefferson  Portilla",
+                "gender": "m",
+                "id": 737,
+                "slug": "jefferson-portilla",
+                "url": "https://www.filminlatino.mx/character/jefferson-portilla"
+            },
+            {
+                "full_name": "Jorge  G\u00f3mez",
+                "gender": "m",
+                "id": 738,
+                "slug": "jorge-gomez",
+                "url": "https://www.filminlatino.mx/character/jorge-gomez"
+            },
+            {
+                "full_name": "Rosa  Ismenia Herrera",
+                "gender": "f",
+                "id": 739,
+                "slug": "rosa-ismenia-herrera",
+                "url": "https://www.filminlatino.mx/character/rosa-ismenia-herrera"
+            }
+        ],
+        "countries": [
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Iv\u00e1n Reina Ortiz",
+                "gender": "m",
+                "id": 2175,
+                "slug": "ivan-reina-ortiz",
+                "url": "https://www.filminlatino.mx/director/ivan-reina-ortiz"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "\"La casa del diablo\" es un rinc\u00f3n en el cual las personas de escasos recursos se van a refugiar\u00a0un rinc\u00f3n en todo el mundo en donde les permiten tener una familia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4839,
+        "image_card": "https://static.filminlatino.mx/images/media/4839/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4839/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4839/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4839/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4839/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4839/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4839/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4839/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Los habitantes de la casa del diablo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1993,
+                "name": "Loboronco Media",
+                "slug": "loboronco-media",
+                "url": "https://www.filminlatino.mx/producer/loboronco-media"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-habitantes-de-la-casa-del-diablo",
+        "synopsis": "\"La casa del diablo\" es un rinc\u00f3n en el cual las personas de escasos recursos se van a refugiar, un rinc\u00f3n en todo el mundo en donde les permiten tener una rutina, sobrevivir, pasar los d\u00edas y el tiempo, al mismo tiempo convertirse en una familia.   En voz del 'El Diablo' y 'El Jipi' nos enteramos como es vivir en esta situaci\u00f3n\u00a0y como es ser due\u00f1o de una tierra de nadie.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 519,
+                "name": "Barrio",
+                "slug": "barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barrio"
+            },
+            {
+                "id": 487,
+                "name": "Tribus",
+                "slug": "tribus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tribus"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1699,
+                "name": "CINETEKTON 7",
+                "slug": "cinetekton-7",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7"
+            },
+            {
+                "id": 1700,
+                "name": "CINETEKTON 7 a\u00f1os",
+                "slug": "cinetekton-7-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7-anos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los habitantes de la casa del diablo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-habitantes-de-la-casa-del-diablo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4131,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LosHabitantesDeLaCasaDelDiablo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LosHabitantesDeLaCasaDelDiablo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LosHabitantesDeLaCasaDelDiablo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

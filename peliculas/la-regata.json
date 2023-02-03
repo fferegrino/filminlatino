@@ -1,0 +1,297 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Joffrey Verbruggen",
+                "gender": "m",
+                "id": 1826,
+                "slug": "joffrey-verbruggen",
+                "url": "https://www.filminlatino.mx/actor/joffrey-verbruggen"
+            },
+            {
+                "full_name": "Thierry Hancisse",
+                "gender": "m",
+                "id": 1827,
+                "slug": "thierry-hancisse",
+                "url": "https://www.filminlatino.mx/actor/thierry-hancisse"
+            },
+            {
+                "full_name": "Sergi L\u00f3pez",
+                "gender": "m",
+                "id": 1828,
+                "slug": "sergi-lopez",
+                "url": "https://www.filminlatino.mx/actor/sergi-lopez"
+            },
+            {
+                "full_name": "P\u00e9n\u00e9lope Leveque",
+                "gender": "m",
+                "id": 1829,
+                "slug": "penelope-leveque",
+                "url": "https://www.filminlatino.mx/actor/penelope-leveque"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-magritte-belgica",
+                "name": "Premios Magritte, B\u00e9lgica",
+                "slug": "premios-magritte-belgica",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Bernard Bellefroid",
+                "gender": "m",
+                "id": 4,
+                "slug": "bernard-bellefroid",
+                "url": "https://www.filminlatino.mx/director/bernard-bellefroid"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "El deporte puede ser t\u00fa \u00fanica salida de la cruel realidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1014,
+        "image_card": "https://static.filminlatino.mx/images/media/1014/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1014/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1014/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1014/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1014/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1014/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1014/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1014/11/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "La r\u00e9gate",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 639,
+                "name": "Liaison Cin\u00e9matographique",
+                "slug": "liaison-cinematographique",
+                "url": "https://www.filminlatino.mx/producer/liaison-cinematographique"
+            },
+            {
+                "acronym": "",
+                "id": 640,
+                "name": "Art\u00e9mis Productions",
+                "slug": "artemis-productions",
+                "url": "https://www.filminlatino.mx/producer/artemis-productions"
+            },
+            {
+                "acronym": "",
+                "id": 641,
+                "name": "Samsa Film",
+                "slug": "samsa-film",
+                "url": "https://www.filminlatino.mx/producer/samsa-film"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-regata",
+        "synopsis": "Alex tiene 15 a\u00f1os y vive con su padre en un ambiente lleno de violencia, donde se siente limitado e intimidado. Durante el verano trabaja con \u00e9l en el mismo supermercado, lugar en el que todo el tiempo est\u00e1n en conflicto. Para escaparse de su insoportable realidad cotidiana, Alex se refugia en su deporte favorito, el remo, proponi\u00e9ndose a toda costa ganar el campeonato de B\u00e9lgica.",
+        "tags": [
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 1531,
+                "name": "Encuentros",
+                "slug": "encuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encuentros"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1342137600,
+        "theater_release_date": 1342137600,
+        "theater_spectators_formatted": null,
+        "title": "La regata",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-regata",
+        "versions": [
+            {
+                "codes": [],
+                "id": 879,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-regata.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-regata/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-regata/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

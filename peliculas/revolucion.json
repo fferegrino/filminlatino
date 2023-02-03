@@ -1,0 +1,426 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Yolanda Abbud",
+                "gender": "f",
+                "id": 1030,
+                "slug": "yolanda-abbud",
+                "url": "https://www.filminlatino.mx/actriz/yolanda-abbud"
+            },
+            {
+                "full_name": "Adriana Barraza",
+                "gender": "f",
+                "id": 545,
+                "slug": "adriana-barraza",
+                "url": "https://www.filminlatino.mx/actriz/adriana-barraza"
+            },
+            {
+                "full_name": "M\u00f3nica Bejarano",
+                "gender": "f",
+                "id": 1031,
+                "slug": "monica-bejarano",
+                "url": "https://www.filminlatino.mx/actriz/monica-bejarano"
+            },
+            {
+                "full_name": "Ari Brickman",
+                "gender": "m",
+                "id": 859,
+                "slug": "ari-brickman",
+                "url": "https://www.filminlatino.mx/actor/ari-brickman"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [
+            {
+                "category": "Premio AFCAE",
+                "icon": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "name": "Festival Internacional de Cine Iberoamericano de Biarritz",
+                "slug": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "year": 2010
+            },
+            {
+                "category": "Golden Sun",
+                "icon": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "name": "Festival Internacional de Cine Iberoamericano de Biarritz",
+                "slug": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Luna",
+                "gender": "m",
+                "id": 401,
+                "slug": "diego-luna",
+                "url": "https://www.filminlatino.mx/director/diego-luna"
+            },
+            {
+                "full_name": "Gael Garc\u00eda Bernal",
+                "gender": "m",
+                "id": 402,
+                "slug": "gael-garcia-bernal",
+                "url": "https://www.filminlatino.mx/director/gael-garcia-bernal"
+            },
+            {
+                "full_name": "Mariana Chenillo",
+                "gender": "f",
+                "id": 403,
+                "slug": "mariana-chenillo",
+                "url": "https://www.filminlatino.mx/directora/mariana-chenillo"
+            },
+            {
+                "full_name": "Patricia Riggen",
+                "gender": "f",
+                "id": 404,
+                "slug": "patricia-riggen",
+                "url": "https://www.filminlatino.mx/directora/patricia-riggen"
+            },
+            {
+                "full_name": "Rodrigo Garc\u00eda",
+                "gender": "m",
+                "id": 405,
+                "slug": "rodrigo-garcia",
+                "url": "https://www.filminlatino.mx/director/rodrigo-garcia"
+            },
+            {
+                "full_name": "Fernando Eimbcke",
+                "gender": "m",
+                "id": 407,
+                "slug": "fernando-eimbcke",
+                "url": "https://www.filminlatino.mx/director/fernando-eimbcke"
+            },
+            {
+                "full_name": "Carlos Reygadas",
+                "gender": "m",
+                "id": 97,
+                "slug": "carlos-reygadas",
+                "url": "https://www.filminlatino.mx/director/carlos-reygadas"
+            },
+            {
+                "full_name": "Gerardo Naranjo",
+                "gender": "m",
+                "id": 408,
+                "slug": "gerardo-naranjo",
+                "url": "https://www.filminlatino.mx/director/gerardo-naranjo"
+            },
+            {
+                "full_name": "Amat Escalante",
+                "gender": "m",
+                "id": 353,
+                "slug": "amat-escalante",
+                "url": "https://www.filminlatino.mx/director/amat-escalante"
+            },
+            {
+                "full_name": "Rodrigo  Pl\u00e1",
+                "gender": "m",
+                "id": 352,
+                "slug": "rodrigo-pla",
+                "url": "https://www.filminlatino.mx/director/rodrigo-pla"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Un grupo de directores y productores de cine mexicano tratan en 10 cortometrajes el significado de la Revoluci\u00f3n Mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 431,
+        "image_card": "https://static.filminlatino.mx/images/media/431/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/431/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/431/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/431/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/431/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Revoluci\u00f3n",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "1021",
+                "id": 389,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/producer/canana"
+            },
+            {
+                "acronym": "147",
+                "id": 390,
+                "name": "Tequila Tres Generaciones ",
+                "slug": "tequila-tres-generaciones",
+                "url": "https://www.filminlatino.mx/producer/tequila-tres-generaciones"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "revolucion",
+        "synopsis": "Diez cineastas mexicanos indagan sobre el significado real de la palabra \"Revoluci\u00f3n\". La cinta est\u00e1 integrada por diez cortometrajes, la cual pretende dar una visi\u00f3n plural sobre lo que dej\u00f3 la lucha armada iniciada oficialmente por Francisco I. Madero el 20 de noviembre de 1910.",
+        "tags": [
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 763,
+                "name": "Diego y Gael",
+                "slug": "diego-y-gael",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diego-y-gael"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 872,
+                "name": "Gael Garcia",
+                "slug": "gael-garcia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gael-garcia"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1087,
+                "name": "M\u00e9xico en San Sebasti\u00e1n 2018",
+                "slug": "mexico-en-san-sebastian-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-en-san-sebastian-2018"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 1210,
+                "name": "2006",
+                "slug": "2006",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2006"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1289260800,
+        "theater_release_date": 1289260800,
+        "theater_spectators_formatted": null,
+        "title": "Revoluci\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/revolucion",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 376,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

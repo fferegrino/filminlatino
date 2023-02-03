@@ -1,0 +1,338 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adam Ekeli",
+                "gender": "m",
+                "id": 5732,
+                "slug": "adam-ekeli",
+                "url": "https://www.filminlatino.mx/actor/adam-ekeli"
+            },
+            {
+                "full_name": "Kathrine Fagerland",
+                "gender": "f",
+                "id": 5733,
+                "slug": "kathrine-fagerland",
+                "url": "https://www.filminlatino.mx/actriz/kathrine-fagerland"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "toronto-international-film-fest-canada",
+                "name": "Toronto International Film Fest, Canad\u00e1 ",
+                "slug": "toronto-international-film-fest-canada",
+                "year": null
+            },
+            {
+                "category": "Proyecci\u00f3n Especial",
+                "icon": "toronto-international-film-fest-canada",
+                "name": "Toronto International Film Fest, Canad\u00e1 ",
+                "slug": "toronto-international-film-fest-canada",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "premios-amanda-noruega",
+                "name": "Premios Amanda, Noruega",
+                "slug": "premios-amanda-noruega",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-riga",
+                "name": "Festival de Riga",
+                "slug": "festival-de-riga",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "name": "Festival Internacional de Cine de S\u00e3o Paulo, Brasil",
+                "slug": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 166,
+                "name": "Noruega",
+                "slug": "noruega",
+                "url": "https://www.filminlatino.mx/catalogo/pais/noruega"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jonas Matzow Gulbrandsen",
+                "gender": "m",
+                "id": 2188,
+                "slug": "jonas-matzow-gulbrandsen",
+                "url": "https://www.filminlatino.mx/director/jonas-matzow-gulbrandsen"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Largometraje basado en la tradici\u00f3n escandinava g\u00f3tica donde una serie de hechos perturbadores llevan a Aslak\u00a0a un viaje del que no hay vuelta atr\u00e1s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4902,
+        "image_card": "https://static.filminlatino.mx/images/media/4902/2/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4902/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4902/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4902/2/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 36,
+        "original_title": "Skyggenes Dal",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1788,
+                "name": "Film Farms",
+                "slug": "film-farms",
+                "url": "https://www.filminlatino.mx/producer/film-farms"
+            },
+            {
+                "acronym": "",
+                "id": 2011,
+                "name": "Them Girls Film ",
+                "slug": "them-girls-film",
+                "url": "https://www.filminlatino.mx/producer/them-girls-film"
+            },
+            {
+                "acronym": "",
+                "id": 2012,
+                "name": "Anna Kron Film",
+                "slug": "anna-kron-film",
+                "url": "https://www.filminlatino.mx/producer/anna-kron-film"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "en-el-valle-de-las-sombras",
+        "synopsis": "Aslak es un ni\u00f1o de seis a\u00f1os que vive con su madre en una aislada regi\u00f3n de Noruega. Un tr\u00e1gico evento que le ocurre desatar\u00e1 una serie de sucesos que \u00e9l no logra entender. Con el objetivo de encontrar respuestas, Aslak se aventura a trav\u00e9s del bosque cercano a su casa. Lo hechos perturbadores en su traves\u00eda, \u00bfser\u00e1n producto de su imaginaci\u00f3n o es la realidad? Lo que es cierto, es que no habr\u00e1 vuelta atr\u00e1s. Opera prima de Matzow,\u00a0basado en la tradici\u00f3n escandinava g\u00f3tica.",
+        "tags": [
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 59,
+                "name": "Esp\u00edritus",
+                "slug": "espiritus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritus"
+            },
+            {
+                "id": 562,
+                "name": "Sobrenatural",
+                "slug": "sobrenatural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrenatural"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 1299,
+                "name": "Mitos",
+                "slug": "mitos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mitos"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2022,
+                "name": "Ciclo: Literatura llevada al cine",
+                "slug": "ciclo-literatura-llevada-al-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-literatura-llevada-al-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2656,
+                "name": "filme silente",
+                "slug": "filme-silente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filme-silente"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "En el valle de las sombras",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/en-el-valle-de-las-sombras",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4304,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

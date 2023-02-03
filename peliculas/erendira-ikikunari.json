@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rub\u00e9n Bautista",
+                "gender": "m",
+                "id": 941,
+                "slug": "ruben-bautista",
+                "url": "https://www.filminlatino.mx/actor/ruben-bautista"
+            },
+            {
+                "full_name": "Carlos Enrique Alarc\u00f3n",
+                "gender": "m",
+                "id": 937,
+                "slug": "carlos-enrique-alarcon",
+                "url": "https://www.filminlatino.mx/actor/carlos-enrique-alarcon"
+            },
+            {
+                "full_name": "\u00c9dgar Alejandre",
+                "gender": "m",
+                "id": 938,
+                "slug": "edgar-alejandre",
+                "url": "https://www.filminlatino.mx/actor/edgar-alejandre"
+            },
+            {
+                "full_name": "Erandini Catalina",
+                "gender": "f",
+                "id": 939,
+                "slug": "erandini-catalina",
+                "url": "https://www.filminlatino.mx/actriz/erandini-catalina"
+            },
+            {
+                "full_name": "Alvarado Villegas",
+                "gender": "m",
+                "id": 940,
+                "slug": "alvarado-villegas",
+                "url": "https://www.filminlatino.mx/actor/alvarado-villegas"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "rencontres-du-cinema-sud-americain-francia",
+                "name": "Rencontres du Cin\u00e9ma Sud-Am\u00e9ricain, Francia ",
+                "slug": "rencontres-du-cinema-sud-americain-francia",
+                "year": 2006
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Mora Catlett",
+                "gender": "m",
+                "id": 362,
+                "slug": "juan-mora-catlett",
+                "url": "https://www.filminlatino.mx/director/juan-mora-catlett"
+            }
+        ],
+        "duration_in_minutes": 115,
+        "excerpt": "Pel\u00edcula basada que narra un episodio de la conquista de M\u00e9xico. El directo recurre a animaciones inspiradas en c\u00f3dices y lenguaje pur\u00e9pecha.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 384,
+        "image_card": "https://static.filminlatino.mx/images/media/384/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/384/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/384/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/384/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/384/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/384/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Er\u00e9ndira Ikikunari",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 58,
+                "name": "Er\u00e9ndira Producciones",
+                "slug": "erendira-producciones",
+                "url": "https://www.filminlatino.mx/producer/erendira-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "erendira-ikikunari",
+        "synopsis": "Esta es la leyenda de Er\u00e9ndira, una joven mujer ind\u00edgena que robo el caballo a los conquistadores espa\u00f1oles y lo monto en la guerra contra ellos, sin abandonar jam\u00e1s el mundo terrenal.",
+        "tags": [
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1247,
+                "name": "2007",
+                "slug": "2007",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2007"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 337,
+                "name": "Prehisp\u00e1nico",
+                "slug": "prehispanico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prehispanico"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 2246,
+                "name": "Los pueblos originarios y su propia mirada",
+                "slug": "los-pueblos-originarios-y-su-propia-mirada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-pueblos-originarios-y-su-propia-mirada"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 2507,
+                "name": "Apatzing\u00e1n Festival Internacional de Cine",
+                "slug": "apatzingan-festival-internacional-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apatzingan-festival-internacional-de-cine"
+            },
+            {
+                "id": 2512,
+                "name": "Largo Homenaje Juan Mora Cattlet | Apatzing\u00e1n Festival Internacional de Cine",
+                "slug": "largo-homenaje-juan-mora-cattlet-apatzingan-festival-internacional-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-homenaje-juan-mora-cattlet-apatzingan-festival-internacional-de-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1179360000,
+        "theater_release_date": 1179360000,
+        "theater_spectators_formatted": null,
+        "title": "Er\u00e9ndira Ikikunari",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/erendira-ikikunari",
+        "versions": [
+            {
+                "codes": [],
+                "id": 990,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/erendira-ikikunari.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/erendira-ikikunari/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/erendira-ikikunari/master.m3u8"
+                }
+            ]
+        },
+        "year": 2006
+    }
+}

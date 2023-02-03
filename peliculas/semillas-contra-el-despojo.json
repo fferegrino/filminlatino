@@ -1,0 +1,283 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-puerto-vallarta",
+                "name": "Festival Internacional de Cine de Puerto Vallarta",
+                "slug": "festival-internacional-de-cine-de-puerto-vallarta",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Cinema Planeta ",
+                "slug": "cinema-planeta",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mar\u00eda Antonieta de la Puente D\u00edaz",
+                "gender": "f",
+                "id": 2569,
+                "slug": "maria-antonieta-de-la-puente-diaz",
+                "url": "https://www.filminlatino.mx/directora/maria-antonieta-de-la-puente-diaz"
+            }
+        ],
+        "duration_in_minutes": 85,
+        "excerpt": "La defensa del territorio, la lucha contra el despojo y la creaci\u00f3n de otro mundo posible son las historias unidas en esta pel\u00edcula.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5581,
+        "image_card": "https://static.filminlatino.mx/images/media/5581/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5581/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5581/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5581/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5581/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5581/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5581/2/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Semillas contra el despojo",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "semillas-contra-el-despojo",
+        "synopsis": "La pel\u00edcula es una antolog\u00eda de tres historias unidas por la tem\u00e1tica. La defensa del territorio, la lucha contra el despojo y la creaci\u00f3n de otro mundo posible. En el documental, somos testigos de una comunidad ind\u00edgena \"Mezcala\", un comit\u00e9 de barrio \"Comit\u00e9 Salvabosque del Nixticuil\" y una cooperativa de mujeres \"Las Papatistas\". Las formas colectivas y aut\u00f3nomas de organizaci\u00f3n son semillas de vida en un mundo de destrucci\u00f3n.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 1496,
+                "name": "Abuso de poder",
+                "slug": "abuso-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuso-de-poder"
+            },
+            {
+                "id": 1507,
+                "name": "Muestra en defensa del territorio y el agua",
+                "slug": "muestra-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 1775,
+                "name": "Largometraje documental | Muestra de Mujeres en el Cine y la TV",
+                "slug": "largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1787,
+                "name": "Derechos ambientales | Muestra de Mujeres en el Cine y la TV",
+                "slug": "derechos-ambientales-muestra-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-ambientales-muestra-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1796,
+                "name": "Muestra Internacional de Mujeres en el Cine y la TV",
+                "slug": "muestra-internacional-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-internacional-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1803,
+                "name": "Rul\u00e1 (Salvar) | MIC Istmo",
+                "slug": "rula-salvar-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rula-salvar-mic-istmo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2095,
+                "name": "Promotor de difusi\u00f3n y cultura CDC",
+                "slug": "promotor-de-difusion-y-cultura-cdc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/promotor-de-difusion-y-cultura-cdc"
+            },
+            {
+                "id": 1749,
+                "name": "Selecci\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "seleccion-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Semillas contra el despojo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/semillas-contra-el-despojo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5582,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SEMILLASC.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SEMILLASC/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SEMILLASC/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

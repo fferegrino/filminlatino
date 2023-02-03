@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roberto Cobo",
+                "gender": "m",
+                "id": 108,
+                "slug": "roberto-cobo",
+                "url": "https://www.filminlatino.mx/actor/roberto-cobo"
+            },
+            {
+                "full_name": "Diego Luna",
+                "gender": "m",
+                "id": 1008,
+                "slug": "diego-luna",
+                "url": "https://www.filminlatino.mx/actor/diego-luna"
+            },
+            {
+                "full_name": "Daniel Mart\u00ednez",
+                "gender": "m",
+                "id": 658,
+                "slug": "daniel-martinez",
+                "url": "https://www.filminlatino.mx/actor/daniel-martinez"
+            }
+        ],
+        "avg_votes": 3,
+        "avg_votes_formatted": "3",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Los \u00c1ngeles Latino International Film Festival",
+                "slug": "los-angeles-latino-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "rio-de-janeiro-international-film-festival",
+                "name": "R\u00edo de Janeiro International Film Festival",
+                "slug": "rio-de-janeiro-international-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Kurt  Hollander",
+                "gender": "m",
+                "id": 1472,
+                "slug": "kurt-hollander",
+                "url": "https://www.filminlatino.mx/director/kurt-hollander"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Una comedia ligera sobre un holgaz\u00e1n que tendr\u00e1 que convertirse en jefe de un negocio que toda su vida lo ha apasionado: el billar.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2792,
+        "image_card": "https://static.filminlatino.mx/images/media/2792/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2792/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2792/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2792/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2792/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2792/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2792/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 31,
+        "original_title": "Carambola",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 141,
+                "name": "Instituto Mexicano de Cinematograf\u00eda ",
+                "slug": "instituto-mexicano-de-cinematografia",
+                "url": "https://www.filminlatino.mx/producer/instituto-mexicano-de-cinematografia"
+            },
+            {
+                "acronym": "",
+                "id": 2004,
+                "name": "Pata de Gallo Productions",
+                "slug": "pata-de-gallo-productions",
+                "url": "https://www.filminlatino.mx/producer/pata-de-gallo-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "carambola",
+        "synopsis": "Es la sagaz y divertida historia de \"El Vago\", un holgazan experto en jugar\u00a0carambola de tres bandas que acaba de ganarse un sal\u00f3n de billares en una partida.\u00a0Su nula experiencia empresarial ser\u00e1 el reto para mantener este negocio. El director Kurt Hollander tambi\u00e9n se ha desempe\u00f1ado como fot\u00f3grafo, escritor y editor.<br>",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1103,
+                "name": "Pata de Gallo Producciones",
+                "slug": "pata-de-gallo-producciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pata-de-gallo-producciones"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 1166,
+                "name": "Econom\u00eda y negocios",
+                "slug": "economia-y-negocios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/economia-y-negocios"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1131667200,
+        "theater_release_date": 1131667200,
+        "theater_spectators_formatted": null,
+        "title": "Carambola",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/carambola",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4305,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CARAMBOLA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CARAMBOLA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CARAMBOLA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2003
+    }
+}

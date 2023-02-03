@@ -1,0 +1,359 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jorge Galv\u00e1n",
+                "gender": "m",
+                "id": 1257,
+                "slug": "jorge-galvan",
+                "url": "https://www.filminlatino.mx/actor/jorge-galvan"
+            },
+            {
+                "full_name": "Ignacio Retes",
+                "gender": "m",
+                "id": 1258,
+                "slug": "ignacio-retes",
+                "url": "https://www.filminlatino.mx/actor/ignacio-retes"
+            },
+            {
+                "full_name": "Justo Mar\u00ednez",
+                "gender": "m",
+                "id": 1259,
+                "slug": "justo-marinez",
+                "url": "https://www.filminlatino.mx/actor/justo-marinez"
+            },
+            {
+                "full_name": "Max Kerlow",
+                "gender": "m",
+                "id": 114,
+                "slug": "max-kerlow",
+                "url": "https://www.filminlatino.mx/actor/max-kerlow"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Ariel de Oro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Actor de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Mejor Argumento Original escrito para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1997
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 1997
+            },
+            {
+                "category": "Premio DICINE",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 1997
+            },
+            {
+                "category": "Sol de Oro",
+                "icon": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "name": "Festival Internacional de Cine Iberoamericano de Biarritz",
+                "slug": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "year": 1997
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Pablo Villase\u00f1or",
+                "gender": "m",
+                "id": 471,
+                "slug": "juan-pablo-villasenor",
+                "url": "https://www.filminlatino.mx/director/juan-pablo-villasenor"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "Un quinteto musical formado por ancianos tienen la misi\u00f3n de entregar las cenizas de su amiga.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 285,
+        "image_card": "https://static.filminlatino.mx/images/media/285/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/285/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/285/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/285/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/285/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "Por si no te vuelvo a ver",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 16,
+                "name": "Estudios Churubusco Azteca S.A.",
+                "slug": "estudios-churubusco-azteca-sa",
+                "url": "https://www.filminlatino.mx/producer/estudios-churubusco-azteca-sa"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "por-si-no-te-vuelvo-a-ver",
+        "synopsis": "Cinco ancianos que han formado un grupo musical escapan del asilo donde se encuentran internados con la ilusi\u00f3n de tener una presentaci\u00f3n en p\u00fablico. As\u00ed, se enfrentan a la gran ciudad, perseguidos por las autoridades del asilo, buscados por sus familiares, por la polic\u00eda y por todos aquellos que tratan de destruir su sue\u00f1o.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1230,
+                "name": "1997",
+                "slug": "1997",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1997"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 872640000,
+        "theater_release_date": 872640000,
+        "theater_spectators_formatted": null,
+        "title": "Por si no te vuelvo a ver",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/por-si-no-te-vuelvo-a-ver",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5517,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/por-si-no-te-vuelvo-a-ver.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/por-si-no-te-vuelvo-a-ver/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/por-si-no-te-vuelvo-a-ver/master.m3u8"
+                }
+            ]
+        },
+        "year": 1997
+    }
+}

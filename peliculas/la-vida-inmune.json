@@ -1,0 +1,295 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carmen Beato",
+                "gender": "f",
+                "id": 609,
+                "slug": "carmen-beato",
+                "url": "https://www.filminlatino.mx/actriz/carmen-beato"
+            },
+            {
+                "full_name": "Roc\u00edo Verdejo",
+                "gender": "f",
+                "id": 610,
+                "slug": "rocio-verdejo",
+                "url": "https://www.filminlatino.mx/actriz/rocio-verdejo"
+            },
+            {
+                "full_name": "Sandra Rodr\u00edguez",
+                "gender": "f",
+                "id": 611,
+                "slug": "sandra-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/sandra-rodriguez"
+            },
+            {
+                "full_name": "Estephani Aguilar",
+                "gender": "f",
+                "id": 612,
+                "slug": "estephani-aguilar",
+                "url": "https://www.filminlatino.mx/actriz/estephani-aguilar"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": 2006
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ram\u00f3n Cervantes",
+                "gender": "m",
+                "id": 189,
+                "slug": "ramon-cervantes",
+                "url": "https://www.filminlatino.mx/director/ramon-cervantes"
+            }
+        ],
+        "duration_in_minutes": 106,
+        "excerpt": "El personaje de Aurelia, la madre, vuelve literal el t\u00edtulo de la pel\u00edcula: insensible al dolor f\u00edsico, la inmunidad de su cuerpo corresponde a su par\u00e1lisis emocional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 213,
+        "image_card": "https://static.filminlatino.mx/images/media/213/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/213/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/213/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/213/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/213/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "La vida inmune",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CUEC",
+                "id": 95,
+                "name": "Centro Universitario de Estudios Cinematogr\u00e1ficos",
+                "slug": "centro-universitario-de-estudios-cinematograficos",
+                "url": "https://www.filminlatino.mx/producer/centro-universitario-de-estudios-cinematograficos"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-vida-inmune",
+        "synopsis": "Aurelia vive feliz con su familia. En v\u00edsperas de tener a su tercera hija, su marido muere en un accidente. A\u00f1os despu\u00e9s, Leonor, la hija mayor, ha dejado los estudios para ayudar a Aurelia a mantener la casa. Beatriz, inmersa en la m\u00fasica, deja que la vida le resbale como una extra\u00f1a melod\u00eda. La adolescente Nadia tiene un solo inter\u00e9s: buscar nuevas experiencias. Aurelia comienza a perder la sensibilidad al dolor y las relaciones familiares se enrarecen al punto en que se van desintegrando como la casa que habitan.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 367,
+                "name": "Matriarcado",
+                "slug": "matriarcado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/matriarcado"
+            },
+            {
+                "id": 368,
+                "name": "Paranoia",
+                "slug": "paranoia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paranoia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1210,
+                "name": "2006",
+                "slug": "2006",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2006"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 742,
+                "name": "Familiar_MX",
+                "slug": "familiar-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familiar-mx"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1143417600,
+        "theater_release_date": 1143417600,
+        "theater_spectators_formatted": null,
+        "title": "La vida inmune",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-vida-inmune",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 112,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-vida-inmune.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-vida-inmune/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-vida-inmune/master.m3u8"
+                }
+            ]
+        },
+        "year": 2006
+    }
+}

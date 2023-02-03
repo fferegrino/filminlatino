@@ -1,0 +1,326 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Fanny Ardant",
+                "gender": "f",
+                "id": 235,
+                "slug": "fanny-ardant",
+                "url": "https://www.filminlatino.mx/actriz/fanny-ardant"
+            },
+            {
+                "full_name": "Tewfik  Jallab",
+                "gender": "m",
+                "id": 5763,
+                "slug": "tewfik-jallab",
+                "url": "https://www.filminlatino.mx/actor/tewfik-jallab"
+            },
+            {
+                "full_name": "Nadia  Kaci",
+                "gender": "f",
+                "id": 5764,
+                "slug": "nadia-kaci",
+                "url": "https://www.filminlatino.mx/actriz/nadia-kaci"
+            },
+            {
+                "full_name": "Lucie Debay",
+                "gender": "f",
+                "id": 7,
+                "slug": "lucie-debay",
+                "url": "https://www.filminlatino.mx/actriz/lucie-debay"
+            },
+            {
+                "full_name": "Lubna Azabal",
+                "gender": "f",
+                "id": 2961,
+                "slug": "lubna-azabal",
+                "url": "https://www.filminlatino.mx/actriz/lubna-azabal"
+            },
+            {
+                "full_name": "Rapha\u00eblle Lubansu",
+                "gender": "f",
+                "id": 5765,
+                "slug": "raphaelle-lubansu",
+                "url": "https://www.filminlatino.mx/actriz/raphaelle-lubansu"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nadir  Mokn\u00e8che",
+                "gender": "m",
+                "id": 2196,
+                "slug": "nadir-mokneche",
+                "url": "https://www.filminlatino.mx/director/nadir-mokneche"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Zino sale en b\u00fasqueda de su padre pero en este viaje se encuentra con Lola, una amable mujer que\u00a0le revelar\u00e1 qui\u00e9n es su progenitor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5002,
+        "image_card": "https://static.filminlatino.mx/images/media/5002/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5002/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5002/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5002/2/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 42,
+        "original_title": "Lola Pater",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2022,
+                "name": "Blue Monday Productions",
+                "slug": "blue-monday-productions",
+                "url": "https://www.filminlatino.mx/producer/blue-monday-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mi-papa-se-llama-lola",
+        "synopsis": "Producci\u00f3n francesa que\u00a0narra la traves\u00eda del joven Zino Chekib en b\u00fasqueda de su padre Farid, qui\u00e9n lo abandon\u00f3 25 a\u00f1os atr\u00e1s, con el fin de decirle que su madre ha fallecido. Al llegar a la direcci\u00f3n en la que se supone debe estar, se encuentra con una amable mujer, Lola, la cual da clases de danza.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 709,
+                "name": "Transg\u00e9nero",
+                "slug": "transgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transgenero"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 657,
+                "name": "Sentimientos",
+                "slug": "sentimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sentimientos"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 151,
+                "name": "Cine franc\u00e9s de autor",
+                "slug": "cine-frances-de-autor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-frances-de-autor"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            },
+            {
+                "id": 2659,
+                "name": "identidad de g\u00e9nero",
+                "slug": "identidad-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad-de-genero"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mi pap\u00e1 se llama Lola",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-papa-se-llama-lola",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4342,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PAPALOLA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PAPALOLA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PAPALOLA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

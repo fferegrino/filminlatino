@@ -1,0 +1,223 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eugenio Polgovsky",
+                "gender": "m",
+                "id": 1902,
+                "slug": "eugenio-polgovsky",
+                "url": "https://www.filminlatino.mx/director/eugenio-polgovsky"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "Desde la entra\u00f1able visi\u00f3n\u00a0del realizador Eugenio Polgovsky, 'Mitote' propicia el\u00a0encuentro de dos sectores populares en M\u00e9xico: electricistas en huelga y fan\u00e1ticos del futbol.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3494,
+        "image_card": "https://static.filminlatino.mx/images/media/3494/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3494/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3494/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3494/2/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Mitote",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mitote",
+        "synopsis": "Documental que re\u00fane una serie de celebraciones, invocaciones y protestas que revelan el rostro de un pa\u00eds euf\u00f3rico y enfurecido. Chamanes, electricistas en huelga y fan\u00e1ticos del f\u00fatbol se re\u00fanen en un mismo espacio: el Z\u00f3calo de la Ciudad de M\u00e9xico.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 131,
+                "name": "F\u00fatbol",
+                "slug": "futbol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/futbol"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 1091,
+                "name": "Marah Polvogsky",
+                "slug": "marah-polvogsky",
+                "url": "https://www.filminlatino.mx/catalogo/tema/marah-polvogsky"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1352,
+                "name": "Mejor Cortometrajes Ariel",
+                "slug": "mejor-cortometrajes-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-cortometrajes-ariel"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1407,
+                "name": "Pacifismo",
+                "slug": "pacifismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pacifismo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mitote",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mitote",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2836,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Mitote.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Mitote/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Mitote/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Sandra Echeverr\u00eda",
+                "gender": "f",
+                "id": 350,
+                "slug": "sandra-echeverria",
+                "url": "https://www.filminlatino.mx/actriz/sandra-echeverria"
+            },
+            {
+                "full_name": "Manuel Balbi",
+                "gender": "m",
+                "id": 351,
+                "slug": "manuel-balbi",
+                "url": "https://www.filminlatino.mx/actor/manuel-balbi"
+            },
+            {
+                "full_name": "Gala Montes de Oca",
+                "gender": "f",
+                "id": 352,
+                "slug": "gala-montes-de-oca",
+                "url": "https://www.filminlatino.mx/actriz/gala-montes-de-oca"
+            },
+            {
+                "full_name": "Fernando Becerril",
+                "gender": "m",
+                "id": 353,
+                "slug": "fernando-becerril",
+                "url": "https://www.filminlatino.mx/actor/fernando-becerril"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-terror-y-ciencia-ficcion-montevideo-fantastico-uruguay",
+                "name": "Festival Internacional de Terror y Ciencia Ficci\u00f3n (Montevideo Fant\u00e1stico), Uruguay",
+                "slug": "festival-internacional-de-terror-y-ciencia-ficcion-montevideo-fantastico-uruguay",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Molina",
+                "gender": "m",
+                "id": 129,
+                "slug": "alejandro-molina",
+                "url": "https://www.filminlatino.mx/director/alejandro-molina"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Relato de ciencia ficci\u00f3n que evoca los conflictos que habitan en la sociedad actual en las ciudades del mundo: la sobrepoblaci\u00f3n, la falta de recursos y las divisiones sociales.",
+        "external_links": [],
+        "genres": [],
+        "has_new_episodes": false,
+        "id": 131,
+        "image_card": "https://static.filminlatino.mx/images/media/131/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/131/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/131/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/131/2/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "De d\u00eda y de noche",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 68,
+                "name": "Arte 7",
+                "slug": "arte-7",
+                "url": "https://www.filminlatino.mx/producer/arte-7"
+            },
+            {
+                "acronym": "",
+                "id": 69,
+                "name": "EFICINE",
+                "slug": "eficine",
+                "url": "https://www.filminlatino.mx/producer/eficine"
+            },
+            {
+                "acronym": "",
+                "id": 70,
+                "name": "Cadereyta Films",
+                "slug": "cadereyta-films",
+                "url": "https://www.filminlatino.mx/producer/cadereyta-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "de-dia-y-de-noche",
+        "synopsis": "Cuando la sobrepoblaci\u00f3n del planeta imposibilit\u00f3 la convivencia, el gobierno decidi\u00f3 dividir a la ciudadan\u00eda a trav\u00e9s de una enzima implantada en el ADN de las personas para que sus cuerpos fueran regulados por la luz solar y la oscuridad de la noche, convirti\u00e9ndolos en habitantes del d\u00eda a unos y de la noche a otros.",
+        "tags": [
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 308,
+                "name": "Ciencia ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia-ficcion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 819,
+                "name": "Mundo digital",
+                "slug": "mundo-digital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-digital"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 846,
+                "name": "Sci - Fi",
+                "slug": "sci-fi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sci-fi"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 103,
+                "name": "Apocalipsis",
+                "slug": "apocalipsis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apocalipsis"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1437,
+                "name": "Festival del Puerto",
+                "slug": "festival-del-puerto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-del-puerto"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1501,
+                "name": "Festival Aleph 2020",
+                "slug": "festival-aleph-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-aleph-2020"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1318982400,
+        "theater_release_date": 1318982400,
+        "theater_spectators_formatted": null,
+        "title": "De d\u00eda y de noche",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/de-dia-y-de-noche",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 117,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/de-dia-y-de-noche.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/de-dia-y-de-noche/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/de-dia-y-de-noche/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

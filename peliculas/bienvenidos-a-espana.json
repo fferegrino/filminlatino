@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "BFI London Film Festival",
+                "slug": "bfi-london-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "DOCSMX",
+                "slug": "docsmx",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Cinematogr\u00e1fico Internacional del Uruguay",
+                "slug": "festival-cinematografico-internacional-del-uruguay",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Navarra International Film Festival NIFF",
+                "slug": "navarra-international-film-festival-niff",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Hot Docs",
+                "slug": "hot-docs",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine de Bogot\u00e1",
+                "slug": "festival-de-cine-de-bogota",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Atlantida Mallorca Film Fest",
+                "slug": "atlantida-mallorca-film-fest",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Antonio Moreno Amador",
+                "gender": "m",
+                "id": 7017,
+                "slug": "juan-antonio-moreno-amador",
+                "url": "https://www.filminlatino.mx/director/juan-antonio-moreno-amador"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "Un grupo de refugiados reci\u00e9n llegado al sur de Espa\u00f1a es acogido en un antiguo puticlub con la ilusi\u00f3n y el miedo ante lo inesperado y el deseo de aprender c\u00f3mo\u00a0son los espa\u00f1oles.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11923,
+        "image_card": "https://static.filminlatino.mx/images/media/11923/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11923/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11923/31/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/25/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/24/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/21/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/20/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/27/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/17/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/29/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/15/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/11923/13/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Bienvenidos a Espa\u00f1a",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bienvenidos-a-espana",
+        "synopsis": "Torreblanca es el \u00faltimo barrio de Sevilla. All\u00ed, junto a la autov\u00eda, est\u00e1 situado el antiguo puticlub Maravilla, que acaba de cerrar para ser reconvertido en un centro de acogida para refugiados. Es Navidad y, ante la curiosidad de los vecinos, los reci\u00e9n llegados a Espa\u00f1a son recibidos por un Rey Mago a quien pueden pedir sus deseos. Con la ilusi\u00f3n y el miedo ante lo inesperado, los nuevos inquilinos tendr\u00e1n que aprender todo sobre su nuevo pa\u00eds y ser\u00e1n sorprendidos por los espa\u00f1oles tanto como los espa\u00f1oles por ellos.",
+        "tags": [
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 132,
+                "name": "Navidad",
+                "slug": "navidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/navidad"
+            },
+            {
+                "id": 1339,
+                "name": "Reyes",
+                "slug": "reyes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reyes"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Bienvenidos a Espa\u00f1a",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bienvenidos-a-espana",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13774,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/BIENVENIDOS-A-ESPANA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/BIENVENIDOS-A-ESPANA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/BIENVENIDOS-A-ESPANA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/BIENVENIDOS-A-ESPANA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/BIENVENIDOS-A-ESPANA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/BIENVENIDOS-A-ESPANA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2021
+    }
+}

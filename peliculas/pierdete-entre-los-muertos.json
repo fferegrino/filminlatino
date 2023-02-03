@@ -1,0 +1,322 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Horacio Salinas",
+                "gender": "m",
+                "id": 10807,
+                "slug": "horacio-salinas",
+                "url": "https://www.filminlatino.mx/actor/horacio-salinas"
+            },
+            {
+                "full_name": "Anajos\u00e9 Aldrete Echevarr\u00eda",
+                "gender": "f",
+                "id": 3965,
+                "slug": "anajose-aldrete-echevarria",
+                "url": "https://www.filminlatino.mx/actriz/anajose-aldrete-echevarria"
+            }
+        ],
+        "avg_votes": 5.7,
+        "avg_votes_formatted": "5,7",
+        "awards": [
+            {
+                "category": "Ahora M\u00e9xico",
+                "icon": "",
+                "name": "FICUNAM",
+                "slug": "ficunam",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-rotterdam",
+                "name": "Festival Internacional de Cine de Rotterdam",
+                "slug": "festival-internacional-de-cine-de-rotterdam",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ruben Gutierrez",
+                "gender": "m",
+                "id": 5593,
+                "slug": "ruben-gutierrez",
+                "url": "https://www.filminlatino.mx/director/ruben-gutierrez"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "Un hombre mayor permanece indefinidamente enterrado hasta el cuello en un desierto desolado, cuando una verdadera amenaza aparece.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            },
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9454,
+        "image_card": "https://static.filminlatino.mx/images/media/9454/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9454/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9454/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9454/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9454/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/9454/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Pi\u00e9rdete entre los muertos",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "pierdete-entre-los-muertos",
+        "synopsis": "En un desierto desolado, un viejo permanece enterrado hasta el cuello sin que sepamos c\u00f3mo lleg\u00f3 ah\u00ed o cuanto tiempo lleva as\u00ed. Una extra\u00f1a mujer que deambula el terreno arrastrando un bate con clavos lo encuentra, dispuesta a matarlo. Para salvarse, el condenado la distrae con historias sobre un umbral m\u00edtico donde se encuentra la verdad absoluta. Ella queda atrapada por las palabras del condenado mientras lucha con sus propios conflictos existenciales en un mundo donde los limites entre la verdad y la mentira, la realidad y la imaginaci\u00f3n son borrosos. Esta situaci\u00f3n bizarra es el detonante de un mon\u00f3logo en torno a la soledad, el amor, el poder, el miedo a la muerte y la fragilidad de las pasiones humana.",
+        "tags": [
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1261,
+                "name": "Monterrey",
+                "slug": "monterrey",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monterrey"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 119,
+                "name": "Cine de aventuras",
+                "slug": "cine-de-aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-aventuras"
+            },
+            {
+                "id": 1710,
+                "name": "emoci\u00f3n",
+                "slug": "emocion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/emocion"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 456,
+                "name": "Relaciones de poder",
+                "slug": "relaciones-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-de-poder"
+            },
+            {
+                "id": 646,
+                "name": "Escapar de la realidad",
+                "slug": "escapar-de-la-realidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escapar-de-la-realidad"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 1497,
+                "name": "Desafiantes",
+                "slug": "desafiantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desafiantes"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Pi\u00e9rdete entre los muertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/pierdete-entre-los-muertos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11126,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PIERDETE-ENTRE-LOS-MUERTOS-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PIERDETE-ENTRE-LOS-MUERTOS-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PIERDETE-ENTRE-LOS-MUERTOS-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

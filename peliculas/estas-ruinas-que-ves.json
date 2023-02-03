@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Blanca Guerra",
+                "gender": "f",
+                "id": 484,
+                "slug": "blanca-guerra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-guerra"
+            },
+            {
+                "full_name": "Fernando Luj\u00e1n",
+                "gender": "m",
+                "id": 515,
+                "slug": "fernando-lujan",
+                "url": "https://www.filminlatino.mx/actor/fernando-lujan"
+            },
+            {
+                "full_name": "Guillermo Orea",
+                "gender": "m",
+                "id": 516,
+                "slug": "guillermo-orea",
+                "url": "https://www.filminlatino.mx/actor/guillermo-orea"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juli\u00e1n Pastor",
+                "gender": "m",
+                "id": 80,
+                "slug": "julian-pastor",
+                "url": "https://www.filminlatino.mx/director/julian-pastor"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "El maestro Paco, originario del estado de Cu\u00e9vano, ha residido varios a\u00f1os en la capital y vuelve a su estado natal a impartir clases en la universidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 182,
+        "image_card": "https://static.filminlatino.mx/images/media/182/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/182/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/182/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/182/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/182/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/182/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/182/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/182/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 140,
+        "original_title": "Estas ruinas que ves",
+        "producers": [
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "estas-ruinas-que-ves",
+        "synopsis": "Paco Aldebar\u00e1n, profesor de literatura en la Universidad, regresa a su pueblo natal. \u00c9l se integrar\u00e1 en un peque\u00f1o grupo de maestros universitarios de escasas ambiciones, cuya vida cotidiana, al margen de la ense\u00f1anza, consiste en propagar chismes, beber, pasear por su peque\u00f1a ciudad que recuerda un pasado y mejores tiempos, enfrentarse a autoridades sin prestigio merecido y ser conscientes de formar parte de una minor\u00eda privilegiada que se sit\u00faa, gracias a sus conocimientos, por encima de sus conciudadanos.\u00a0Adaptaci\u00f3n de la novela de Jorge Ibarg\u00fcengoitia.",
+        "tags": [
+            {
+                "id": 758,
+                "name": "Romance_MX",
+                "slug": "romance-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1211,
+                "name": "1979",
+                "slug": "1979",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1979"
+            },
+            {
+                "id": 1191,
+                "name": "Guanajuato",
+                "slug": "guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guanajuato"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1425,
+                "name": "Jorge Ibarg\u00fcengoitia",
+                "slug": "jorge-ibarguengoitia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jorge-ibarguengoitia"
+            },
+            {
+                "id": 2160,
+                "name": "Semana por el D\u00eda Nacional del Bibliotecario",
+                "slug": "semana-por-el-dia-nacional-del-bibliotecario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-por-el-dia-nacional-del-bibliotecario"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 304819200,
+        "theater_release_date": 304819200,
+        "theater_spectators_formatted": null,
+        "title": "Estas ruinas que ves",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/estas-ruinas-que-ves",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 114,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1978
+    }
+}

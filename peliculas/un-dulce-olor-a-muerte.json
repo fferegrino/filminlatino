@@ -1,0 +1,450 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Karra Elejalde",
+                "gender": "m",
+                "id": 1006,
+                "slug": "karra-elejalde",
+                "url": "https://www.filminlatino.mx/actor/karra-elejalde"
+            },
+            {
+                "full_name": "Ana \u00c1lvarez",
+                "gender": "f",
+                "id": 1007,
+                "slug": "ana-alvarez",
+                "url": "https://www.filminlatino.mx/actriz/ana-alvarez"
+            },
+            {
+                "full_name": "Diego Luna",
+                "gender": "m",
+                "id": 1008,
+                "slug": "diego-luna",
+                "url": "https://www.filminlatino.mx/actor/diego-luna"
+            },
+            {
+                "full_name": "H\u00e9ctor Alterio",
+                "gender": "m",
+                "id": 1009,
+                "slug": "hector-alterio",
+                "url": "https://www.filminlatino.mx/actor/hector-alterio"
+            },
+            {
+                "full_name": "Vanessa Bauche",
+                "gender": "f",
+                "id": 291,
+                "slug": "vanessa-bauche",
+                "url": "https://www.filminlatino.mx/actriz/vanessa-bauche"
+            },
+            {
+                "full_name": "Flor Edwarda Gurrola",
+                "gender": "f",
+                "id": 1262,
+                "slug": "flor-edwarda-gurrola",
+                "url": "https://www.filminlatino.mx/actriz/flor-edwarda-gurrola"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [
+            {
+                "category": "Segundo lugar",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1997
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz, Bolivia ",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "year": 1997
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 1997
+            },
+            {
+                "category": "Premio india Catalina de Oro al Mejor Director",
+                "icon": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "name": " Festival Internacional de Cine de Cartagena de Indias, Colombia",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "year": 1997
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gabriel Retes",
+                "gender": "m",
+                "id": 368,
+                "slug": "gabriel-retes",
+                "url": "https://www.filminlatino.mx/director/gabriel-retes"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "Un gui\u00f3n de Guillermo Arriaga, una cinta de Gabriel Retes, un joven Diego Luna en una atm\u00f3sfera literaria que no le pide nada a Comala.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 418,
+        "image_card": "https://static.filminlatino.mx/images/media/418/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/418/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/418/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/418/6/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/418/10/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 85,
+        "original_title": "Un dulce olor a muerte",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 48,
+                "name": "Ivania Films",
+                "slug": "ivania-films",
+                "url": "https://www.filminlatino.mx/producer/ivania-films"
+            },
+            {
+                "acronym": "",
+                "id": 268,
+                "name": "FFCC",
+                "slug": "ffcc",
+                "url": "https://www.filminlatino.mx/producer/ffcc"
+            },
+            {
+                "acronym": "",
+                "id": 363,
+                "name": "Mirador Films",
+                "slug": "mirador-films",
+                "url": "https://www.filminlatino.mx/producer/mirador-films"
+            },
+            {
+                "acronym": "",
+                "id": 364,
+                "name": "Lola Films",
+                "slug": "lola-films",
+                "url": "https://www.filminlatino.mx/producer/lola-films"
+            },
+            {
+                "acronym": "",
+                "id": 365,
+                "name": "Aleph Media",
+                "slug": "aleph-media",
+                "url": "https://www.filminlatino.mx/producer/aleph-media"
+            },
+            {
+                "acronym": "",
+                "id": 366,
+                "name": "Instituto Nacional de Cinematograf\u00eda y Artes Audiovisuales de Argentina",
+                "slug": "instituto-nacional-de-cinematografia-y-artes-audiovisuales-de-argentina",
+                "url": "https://www.filminlatino.mx/producer/instituto-nacional-de-cinematografia-y-artes-audiovisuales-de-argentina"
+            },
+            {
+                "acronym": "",
+                "id": 367,
+                "name": "V\u00eda Digital",
+                "slug": "via-digital",
+                "url": "https://www.filminlatino.mx/producer/via-digital"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "un-dulce-olor-a-muerte",
+        "synopsis": "La linterna de un cazador descubre el encuentro amoroso de El Gitano y Gabriela. \u00c9l, un vendedor ambulante; ella, la mujer de un hacendado local. Muy cerca de all\u00ed una muchacha es asesinada. El escenario es Carranco, un pueblo con muy pocos habitantes. Ram\u00f3n, un joven enamorado en secreto de la fallecida Adela, asume ante todo el mundo que la joven era su novia. Los hombres se unen en su acusaci\u00f3n contra El Gitano, a quien culpan del asesinato. Tambi\u00e9n se encargan de convencer a Ram\u00f3n de que debe vengar la muerte de su novia. Poco a poco, Justino, el polic\u00eda local, va desentra\u00f1ando la verdad. No es el \u00fanico en el pueblo en descubrir qui\u00e9n es el verdadero asesino. Pero como en un pacto de silencio todos prefieren llevar la farsa hasta el final.",
+        "tags": [
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1205,
+                "name": "San Luis Potos\u00ed",
+                "slug": "san-luis-potosi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/san-luis-potosi"
+            },
+            {
+                "id": 1251,
+                "name": "1999",
+                "slug": "1999",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1999"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1739,
+                "name": "Conmemorando a Nuestros Muertos",
+                "slug": "conmemorando-a-nuestros-muertos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conmemorando-a-nuestros-muertos"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 193,
+                "name": "Erotismo",
+                "slug": "erotismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/erotismo"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 743,
+                "name": "Aventuras_MX",
+                "slug": "aventuras-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras-mx"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 938131200,
+        "theater_release_date": 938131200,
+        "theater_spectators_formatted": null,
+        "title": "Un dulce olor a muerte",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-dulce-olor-a-muerte",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 383,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-dulce-olor-a-muerte.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-dulce-olor-a-muerte/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-dulce-olor-a-muerte/master.m3u8"
+                }
+            ]
+        },
+        "year": 1997
+    }
+}

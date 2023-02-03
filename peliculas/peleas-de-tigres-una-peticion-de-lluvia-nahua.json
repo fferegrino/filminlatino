@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival de Cine de los Pueblos Ind\u00edgenas",
+                "slug": "festival-de-cine-de-los-pueblos-indigenas",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-margaret-mead-usa",
+                "name": "Festival Margaret Mead, USA",
+                "slug": "festival-margaret-mead-usa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Becerril",
+                "gender": "m",
+                "id": 6145,
+                "slug": "alberto-becerril",
+                "url": "https://www.filminlatino.mx/director/alberto-becerril"
+            },
+            {
+                "full_name": "Alfredo Portilla",
+                "gender": "m",
+                "id": 6144,
+                "slug": "alfredo-portilla",
+                "url": "https://www.filminlatino.mx/director/alfredo-portilla"
+            }
+        ],
+        "duration_in_minutes": 60,
+        "excerpt": "El tiempo de lluvias en el pueblo nahua de Guerrero, est\u00e1 marcado por una tradici\u00f3n donde se realizan peleas de hombres y ni\u00f1os perfectamente ataviados de tigres y tecuanes respectivamente.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10253,
+        "image_card": "https://static.filminlatino.mx/images/media/10253/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10253/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10253/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10253/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10253/2/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Peleas de tigres: una petici\u00f3n de lluvia nahua",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "peleas-de-tigres-una-peticion-de-lluvia-nahua",
+        "synopsis": "La fiesta de la Santa Cruz tiene como fundamento esencial para gran parte de los pueblos ind\u00edgenas pedir lluvias para el pr\u00f3ximo ciclo de siembra; el ritual propiciatorio tiene elementos de origen prehisp\u00e1nico, en profundo sincretismo con el catolicismo. Entre danzas y m\u00fasica, la pelea de tigres se perfila como una catarsis general dentro de la comunidad. Mientras m\u00e1s peleas se lleven a cabo ser\u00e1 mayor la cantidad de lluvia y la abundancia beneficiar\u00e1 a todos.",
+        "tags": [
+            {
+                "id": 2355,
+                "name": "Fiestas y tradiciones",
+                "slug": "fiestas-y-tradiciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-tradiciones"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 2246,
+                "name": "Los pueblos originarios y su propia mirada",
+                "slug": "los-pueblos-originarios-y-su-propia-mirada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-pueblos-originarios-y-su-propia-mirada"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 2358,
+                "name": "Fiestas y costumbres | INPI ",
+                "slug": "fiestas-y-costumbres-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-costumbres-inpi"
+            },
+            {
+                "id": 2467,
+                "name": "Nahua",
+                "slug": "nahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahua"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2501,
+                "name": "Lengua Materna | INPI",
+                "slug": "lengua-materna-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna-inpi"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Peleas de tigres: una petici\u00f3n de lluvia nahua",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/peleas-de-tigres-una-peticion-de-lluvia-nahua",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12164,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1987
+    }
+}

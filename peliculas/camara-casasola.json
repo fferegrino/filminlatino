@@ -1,0 +1,230 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Rodrigo  Montes de Oca",
+                "gender": "m",
+                "id": 127,
+                "slug": "carlos-rodrigo-montes-de-oca",
+                "url": "https://www.filminlatino.mx/director/carlos-rodrigo-montes-de-oca"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Una indagaci\u00f3n sobre el uso de la imagen en la apropiaci\u00f3n hist\u00f3rica, en espec\u00edfico, la Revoluci\u00f3n Mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 12,
+                "name": "B\u00e9lico",
+                "slug": "belico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/belico"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 129,
+        "image_card": "https://static.filminlatino.mx/images/media/129/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/129/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/129/6/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/129/8/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/129/10/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/129/12/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/129/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/129/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "C\u00e1mara Casasola",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 54,
+                "name": "In\u00e9ditas Films",
+                "slug": "ineditas-films",
+                "url": "https://www.filminlatino.mx/producer/ineditas-films"
+            },
+            {
+                "acronym": "",
+                "id": 55,
+                "name": "Media Center",
+                "slug": "media-center",
+                "url": "https://www.filminlatino.mx/producer/media-center"
+            },
+            {
+                "acronym": "",
+                "id": 58,
+                "name": "Er\u00e9ndira Producciones",
+                "slug": "erendira-producciones",
+                "url": "https://www.filminlatino.mx/producer/erendira-producciones"
+            },
+            {
+                "acronym": "INAH",
+                "id": 60,
+                "name": "INAH",
+                "slug": "inah",
+                "url": "https://www.filminlatino.mx/producer/inah"
+            },
+            {
+                "acronym": "",
+                "id": 61,
+                "name": "SINAFO",
+                "slug": "sinafo",
+                "url": "https://www.filminlatino.mx/producer/sinafo"
+            },
+            {
+                "acronym": "UASLP",
+                "id": 62,
+                "name": "Universidad Aut\u00f3noma de San Luis Potos\u00ed",
+                "slug": "universidad-autonoma-de-san-luis-potosi",
+                "url": "https://www.filminlatino.mx/producer/universidad-autonoma-de-san-luis-potosi"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "camara-casasola",
+        "synopsis": "Indaga sobre el uso de la imagen en la apropiaci\u00f3n hist\u00f3rica. Dentro del sal\u00f3n de clases los ni\u00f1os describen las fotograf\u00edas de sus libros del Archivo Casasola, ofreci\u00e9ndonos un testimonio sobre los procesos educativos, el poder de la imagen y la construcci\u00f3n del discurso hist\u00f3rico.",
+        "tags": [
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 64,
+                "name": "Fotograf\u00eda",
+                "slug": "fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fotografia"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "C\u00e1mara Casasola",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/camara-casasola",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 118,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "David Kross",
+                "gender": "m",
+                "id": 4003,
+                "slug": "david-kross",
+                "url": "https://www.filminlatino.mx/actor/david-kross"
+            },
+            {
+                "full_name": "Apinya Sakuljaroensuk",
+                "gender": "f",
+                "id": 4004,
+                "slug": "apinya-sakuljaroensuk",
+                "url": "https://www.filminlatino.mx/actriz/apinya-sakuljaroensuk"
+            },
+            {
+                "full_name": "Jens Harzer",
+                "gender": "m",
+                "id": 4005,
+                "slug": "jens-harzer",
+                "url": "https://www.filminlatino.mx/actor/jens-harzer"
+            },
+            {
+                "full_name": "Stefan Konarske",
+                "gender": "m",
+                "id": 4006,
+                "slug": "stefan-konarske",
+                "url": "https://www.filminlatino.mx/actor/stefan-konarske"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premios-de-cine-de-bavaria",
+                "name": "Premios de cine de Bavaria",
+                "slug": "premios-de-cine-de-bavaria",
+                "year": null
+            },
+            {
+                "category": "Premio de la Variedad Piazza Grande",
+                "icon": "festival-de-locarno",
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Detlev Buck",
+                "gender": "m",
+                "id": 1384,
+                "slug": "detlev-buck",
+                "url": "https://www.filminlatino.mx/director/detlev-buck"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Basada en hechos reales, la historia de Benjamin Prufer y Sreykeo Solvan. Un amor inesperado entre Sreykeo y Ben, un estudiante alem\u00e1n viajando por Camboya.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2663,
+        "image_card": "https://static.filminlatino.mx/images/media/2663/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2663/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2663/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2663/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Same but different",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1579,
+                "name": "Biscuit Films",
+                "slug": "biscuit-films",
+                "url": "https://www.filminlatino.mx/producer/biscuit-films"
+            },
+            {
+                "acronym": "",
+                "id": 1580,
+                "name": " Boje Buck Produktion",
+                "slug": "boje-buck-produktion",
+                "url": "https://www.filminlatino.mx/producer/boje-buck-produktion"
+            },
+            {
+                "acronym": "",
+                "id": 1581,
+                "name": "Bophana Production",
+                "slug": "bophana-production",
+                "url": "https://www.filminlatino.mx/producer/bophana-production"
+            },
+            {
+                "acronym": "",
+                "id": 1582,
+                "name": "Norddeutscher Rundfunk",
+                "slug": "norddeutscher-rundfunk",
+                "url": "https://www.filminlatino.mx/producer/norddeutscher-rundfunk"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "lo-mismo-pero-diferente",
+        "synopsis": "Tras acabar el colegio Benjamin se embarca en un largo viaje por Asia. En Phnom Penh conoce a una chica camboyana llamada Sreykeo y se enamora de ella. Dejando a un lado la soledad de su viaje, se adentra con la muchacha en la fascinante y desconcertante realidad de Camboya. Contra todo pron\u00f3stico Benjamin intentar\u00e1 lo imposible: quedarse con Sreykeo para siempre.",
+        "tags": [
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 134,
+                "name": "Basada en un bestseller",
+                "slug": "basada-en-un-bestseller",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-bestseller"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 952,
+                "name": "Roomies",
+                "slug": "roomies",
+                "url": "https://www.filminlatino.mx/catalogo/tema/roomies"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lo mismo, pero diferente",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lo-mismo-pero-diferente",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2125,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/lo-mismo-pero-diferente.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/lo-mismo-pero-diferente/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/lo-mismo-pero-diferente/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

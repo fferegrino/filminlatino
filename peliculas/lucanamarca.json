@@ -1,0 +1,273 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Perufest at New York University",
+                "slug": "perufest-at-new-york-university",
+                "year": null
+            },
+            {
+                "category": "Mejor Postproducci\u00f3n ",
+                "icon": "",
+                "name": "Fondo JAN VRIJMAN de Holanda",
+                "slug": "fondo-jan-vrijman-de-holanda",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "19\u00ba Festival de Cine de Lima",
+                "slug": "19o-festival-de-cine-de-lima",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "H\u00e9ctor G\u00e1lvez",
+                "gender": "m",
+                "id": 2180,
+                "slug": "hector-galvez",
+                "url": "https://www.filminlatino.mx/director/hector-galvez"
+            },
+            {
+                "full_name": "Carlos C\u00e1rdenas",
+                "gender": "m",
+                "id": 2179,
+                "slug": "carlos-cardenas",
+                "url": "https://www.filminlatino.mx/director/carlos-cardenas"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "Veinte a\u00f1os despu\u00e9s de los sucesos del 3 de abril en Lucanamarca (Per\u00fa) la Comisi\u00f3n de la Verdad y Reconciliaci\u00f3n Peruana decidi\u00f3 abrir y estudiar el caso.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4842,
+        "image_card": "https://static.filminlatino.mx/images/media/4842/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4842/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4842/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4842/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4842/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4842/2/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Lucanamarca",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1994,
+                "name": "TV Cultura",
+                "slug": "tv-cultura",
+                "url": "https://www.filminlatino.mx/producer/tv-cultura"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lucanamarca",
+        "synopsis": "La historia se centra en contar los sucesos ocurridos el 3 de abril de 1983 en el distrito Santiago de Lucanamarca (Per\u00fa), cuando 60 integrantes de Sendero Luminoso ingresaron a dicho poblado, irrumpieron en las viviendas de los campesinos y atacaron a los pobladores, dejando 69 personas muertas. Veinte a\u00f1os despu\u00e9s de los sucesos la Comisi\u00f3n de la Verdad y Reconciliaci\u00f3n Peruana decidi\u00f3 abrir y estudiar el caso a trav\u00e9s de un trabajo cient\u00edfico en donde se exhumaron los cuerpos de las v\u00edctimas.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 29,
+                "name": "Terrorismo",
+                "slug": "terrorismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terrorismo"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 557,
+                "name": "Ciencia",
+                "slug": "ciencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lucanamarca",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lucanamarca",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4197,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

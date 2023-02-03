@@ -1,0 +1,368 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gabino Rodr\u00edguez",
+                "gender": "m",
+                "id": 492,
+                "slug": "gabino-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/gabino-rodriguez"
+            },
+            {
+                "full_name": "Teresa S\u00e1nchez",
+                "gender": "f",
+                "id": 663,
+                "slug": "teresa-sanchez",
+                "url": "https://www.filminlatino.mx/actriz/teresa-sanchez"
+            },
+            {
+                "full_name": "Jos\u00e9 Rolo Rodr\u00edguez",
+                "gender": "m",
+                "id": 664,
+                "slug": "jose-rolo-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/jose-rolo-rodriguez"
+            },
+            {
+                "full_name": "Luis Rodr\u00edguez",
+                "gender": "m",
+                "id": 665,
+                "slug": "luis-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/luis-rodriguez"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Gran Prix Premier Francesa",
+                "icon": "festival-international-du-film-de-la-roche-sur-yon-francia",
+                "name": "Festival International du Film de La Roche sur Yon, Francia",
+                "slug": "festival-international-du-film-de-la-roche-sur-yon-francia",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "baja-festival-internacional-de-cine-en-los-cabos",
+                "name": "Baja Festival Internacional de Cine en los Cabos",
+                "slug": "baja-festival-internacional-de-cine-en-los-cabos",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nicol\u00e1s Pereda",
+                "gender": "m",
+                "id": 207,
+                "slug": "nicolas-pereda",
+                "url": "https://www.filminlatino.mx/director/nicolas-pereda"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Filme experimental en el que los actores se comportan como ellos mismos en las situaciones que les son planteadas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 241,
+        "image_card": "https://static.filminlatino.mx/images/media/241/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/241/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/241/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/241/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/241/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 29,
+        "original_title": "Los mejores temas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 182,
+                "name": "Interior 13",
+                "slug": "interior-13",
+                "url": "https://www.filminlatino.mx/producer/interior-13"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-mejores-temas",
+        "synopsis": "Mezcla de ficci\u00f3n y documental, la historia cuenta la vida de Emilio, un hombre de 50 a\u00f1os, quien regresa a casa luego de 15 a\u00f1os de ausencia. Su esposa y su hijo lo reciben con recelo y confusi\u00f3n. Luego de unos d\u00edas, deciden correrlo, pero se percatan de que \u00e9l ya se ha marchado por cuenta propia. El hijo sale en su b\u00fasqueda para estar con \u00e9l.",
+        "tags": [
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 2576,
+                "name": "Retrospectiva Nicol\u00e1s Pereda",
+                "slug": "retrospectiva-nicolas-pereda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-nicolas-pereda"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1343865600,
+        "theater_release_date": 1343865600,
+        "theater_spectators_formatted": null,
+        "title": "Los mejores temas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-mejores-temas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 353,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-mejores-temas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-mejores-temas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-mejores-temas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

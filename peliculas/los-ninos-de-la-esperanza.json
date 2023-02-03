@@ -1,0 +1,208 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jean Reno",
+                "gender": "m",
+                "id": 1474,
+                "slug": "jean-reno",
+                "url": "https://www.filminlatino.mx/actor/jean-reno"
+            },
+            {
+                "full_name": "Gad Elmaleh",
+                "gender": "m",
+                "id": 2110,
+                "slug": "gad-elmaleh",
+                "url": "https://www.filminlatino.mx/actor/gad-elmaleh"
+            },
+            {
+                "full_name": "M\u00e9lanie  Laurent",
+                "gender": "f",
+                "id": 4195,
+                "slug": "melanie-laurent",
+                "url": "https://www.filminlatino.mx/actriz/melanie-laurent"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rose  Bosch",
+                "gender": "f",
+                "id": 1465,
+                "slug": "rose-bosch",
+                "url": "https://www.filminlatino.mx/directora/rose-bosch"
+            }
+        ],
+        "duration_in_minutes": 125,
+        "excerpt": "El Holocausto visto a trav\u00e9s de la inocencia de unos ni\u00f1os.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 12,
+                "name": "B\u00e9lico",
+                "slug": "belico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/belico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2783,
+        "image_card": "https://static.filminlatino.mx/images/media/2783/8/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2783/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2783/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2783/8/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "La rafle",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1183,
+                "name": "Gaumont ",
+                "slug": "gaumont",
+                "url": "https://www.filminlatino.mx/producer/gaumont"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "los-ninos-de-la-esperanza",
+        "synopsis": "Es la historia de las familias Weisman y Traubede que fueron trasladadas junto con alrededor de 65 mil jud\u00edos al campamento de Drancy, donde esperar\u00e1n su traslado a Auschwitz. A trav\u00e9s de testimonios conoceremos sus historias.",
+        "tags": [
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 332,
+                "name": "Juda\u00edsmo",
+                "slug": "judaismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/judaismo"
+            },
+            {
+                "id": 23,
+                "name": "Segunda Guerra Mundial",
+                "slug": "segunda-guerra-mundial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segunda-guerra-mundial"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 2748,
+                "name": "18\u00ba Festival de Cine Todos Santos 2022",
+                "slug": "18o-festival-de-cine-todos-santos-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/18o-festival-de-cine-todos-santos-2022"
+            },
+            {
+                "id": 2750,
+                "name": "Documental mexicano en competencia | 18\u00ba Festival de Cine Todos Santos 2022",
+                "slug": "documental-mexicano-en-competencia-18o-festival-de-cine-todos-santos-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mexicano-en-competencia-18o-festival-de-cine-todos-santos-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1332460800,
+        "theater_release_date": 1332460800,
+        "theater_spectators_formatted": null,
+        "title": "Los ni\u00f1os de la esperanza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-ninos-de-la-esperanza",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2173,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-ninos-de.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-ninos-de/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-ninos-de/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

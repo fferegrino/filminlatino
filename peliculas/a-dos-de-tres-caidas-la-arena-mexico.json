@@ -1,0 +1,227 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "David Ferreira",
+                "gender": "m",
+                "id": 1847,
+                "slug": "david-ferreira",
+                "url": "https://www.filminlatino.mx/director/david-ferreira"
+            },
+            {
+                "full_name": "Gala  Lutteroth",
+                "gender": "f",
+                "id": 1848,
+                "slug": "gala-lutteroth",
+                "url": "https://www.filminlatino.mx/directora/gala-lutteroth"
+            }
+        ],
+        "duration_in_minutes": 55,
+        "excerpt": "Documental sobre la historia de la catedral de la lucha libre: la Arena M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3429,
+        "image_card": "https://static.filminlatino.mx/images/media/3429/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3429/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3429/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3429/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3429/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3429/4/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 105,
+        "original_title": "A dos de tres ca\u00eddas: la Arena M\u00e9xico",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "a-dos-de-tres-caidas-la-arena-mexico",
+        "synopsis": "Documental de un m\u00edtico recinto, un lugar que en sus asientos guarda los gritos y las emociones de miles de mexicanos; esta es la historia de la catedral de la lucha libre: la Arena M\u00e9xico. Bajo la producci\u00f3n Arturo Y\u00e1\u00f1ez y la codirecci\u00f3n de David Ferreira y Gala Lutteroth, este filme narra el nacimiento, crecimiento y transformaciones que ha tenido el lugar, y al mismo tiempo habla sobre la lucha libre a trav\u00e9s de los a\u00f1os.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 395,
+                "name": "M\u00e1scaras",
+                "slug": "mascaras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mascaras"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 1046,
+                "name": "En el ring",
+                "slug": "en-el-ring",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-ring"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "A dos de tres ca\u00eddas: la Arena M\u00e9xico",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/a-dos-de-tres-caidas-la-arena-mexico",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2781,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

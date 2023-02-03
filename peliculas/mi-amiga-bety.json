@@ -1,0 +1,335 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": null
+            },
+            {
+                "category": "Mejor largometraje documental",
+                "icon": "",
+                "name": "Festival de Cine Documental Mexicano Zanate",
+                "slug": "festival-de-cine-documental-mexicano-zanate",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Guanajuato",
+                "slug": "festival-internacional-de-cine-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Mejor documental estudiantil",
+                "icon": "premio-jose-rovirosa",
+                "name": "Premio Jos\u00e9 Rovirosa",
+                "slug": "premio-jose-rovirosa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diana Garay Vi\u00f1as",
+                "gender": "f",
+                "id": 3327,
+                "slug": "diana-garay-vinas",
+                "url": "https://www.filminlatino.mx/directora/diana-garay-vinas"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Bety fue condenada a treinta a\u00f1os de prisi\u00f3n por el asesinato de su madre. Documental que intenta comprender las circunstancias para que perdiera su libertad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6575,
+        "image_card": "https://static.filminlatino.mx/images/media/6575/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6575/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6575/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6575/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6575/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6575/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/6575/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 38,
+        "original_title": "Mi amiga Bety",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mi-amiga-bety",
+        "synopsis": "Bety, mi amiga de la infancia, fue condenada a treinta a\u00f1os de prisi\u00f3n por el asesinato de su madre.  Ella y yo compartimos la misma escuela, los mismos amigos, los mismos caminos. \u00bfQu\u00e9 hace que yo est\u00e9 aqu\u00ed y ella all\u00e1?  El documental intenta comprender las circunstancias por las cuales Bety perdi\u00f3 su libertad.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 1654,
+                "name": "Otro Cine | Quienes somos",
+                "slug": "otro-cine-quienes-somos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otro-cine-quienes-somos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 2182,
+                "name": "Aprendizaje",
+                "slug": "aprendizaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aprendizaje"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 473,
+                "name": "Libertad",
+                "slug": "libertad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 2788,
+                "name": "Los t\u00edtulos m\u00e1s vistos del 2022",
+                "slug": "los-titulos-mas-vistos-del-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-titulos-mas-vistos-del-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mi amiga Bety",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-amiga-bety",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6382,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MIAMIGABETYTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MIAMIGABETYTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MIAMIGABETYTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

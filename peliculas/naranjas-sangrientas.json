@@ -1,0 +1,283 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Denis Podalyd\u00e8s",
+                "gender": "m",
+                "id": 12911,
+                "slug": "denis-podalydes",
+                "url": "https://www.filminlatino.mx/actor/denis-podalydes"
+            },
+            {
+                "full_name": "Blanche Gardin",
+                "gender": "f",
+                "id": 12912,
+                "slug": "blanche-gardin",
+                "url": "https://www.filminlatino.mx/actriz/blanche-gardin"
+            },
+            {
+                "full_name": "Alexandre Steiger",
+                "gender": "m",
+                "id": 12913,
+                "slug": "alexandre-steiger",
+                "url": "https://www.filminlatino.mx/actor/alexandre-steiger"
+            }
+        ],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Europeo de Cine Fant\u00e1stico de Estrasburgo",
+                "slug": "festival-europeo-de-cine-fantastico-de-estrasburgo",
+                "year": null
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "",
+                "name": "MotelX Horror Film Festival",
+                "slug": "motelx-horror-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Atlantida Mallorca Film Fest",
+                "slug": "atlantida-mallorca-film-fest",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jean-Christophe Meurisse",
+                "gender": "m",
+                "id": 6984,
+                "slug": "jean-christophe-meurisse",
+                "url": "https://www.filminlatino.mx/director/jean-christophe-meurisse"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "En su segundo largometraje, Jean-Christophe Meurisse utiliza varios g\u00e9neros para reflejar los monstruos de nuestra sociedad contempor\u00e1nea, en una comedia negra y agria.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11891,
+        "image_card": "https://static.filminlatino.mx/images/media/11891/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11891/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11891/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11891/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11891/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11891/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11891/11/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Oranges Sanguines",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "naranjas-sangrientas",
+        "synopsis": "Al mismo tiempo, en Francia, una pareja de jubilados endeudados intenta ganar un concurso de rock and roll, se sospecha de un ministro por evasi\u00f3n de impuestos, una joven adolescente se cruza con un man\u00edaco sexual. Empieza una larga noche. Han soltado los perros.",
+        "tags": [
+            {
+                "id": 684,
+                "name": "Comedia de terror",
+                "slug": "comedia-de-terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-terror"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 50,
+                "name": "Humor",
+                "slug": "humor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor"
+            },
+            {
+                "id": 58,
+                "name": "Humor absurdo",
+                "slug": "humor-absurdo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor-absurdo"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 1154,
+                "name": "Adultos mayores",
+                "slug": "adultos-mayores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adultos-mayores"
+            },
+            {
+                "id": 503,
+                "name": "Alta Sociedad",
+                "slug": "alta-sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alta-sociedad"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2790,
+                "name": "Doing in their way | MyFFF 2023",
+                "slug": "doing-in-their-way-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doing-in-their-way-myfff-2023"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Naranjas sangrientas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/naranjas-sangrientas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13748,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

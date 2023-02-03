@@ -1,0 +1,243 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "filmoteca-de-la-unam",
+                "name": "Filmoteca de la UNAM ",
+                "slug": "filmoteca-de-la-unam",
+                "year": 2006
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "name": "Festival Internacional de Cine de Canc\u00fan y la Riviera Maya",
+                "slug": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "year": 2006
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-documental-as-marinas-xom-galicia",
+                "name": "Festival de Cine Documental As Mari\u00f1as, XOM, Galicia",
+                "slug": "festival-de-cine-documental-as-marinas-xom-galicia",
+                "year": 2006
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francesco Taboada Tabone",
+                "gender": "m",
+                "id": 485,
+                "slug": "francesco-taboada-tabone",
+                "url": "https://www.filminlatino.mx/director/francesco-taboada-tabone"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "La historia de Pancho Villa contada por aquellos que lo conocieron y lo vieron convertirse en un h\u00e9roe nacional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 505,
+        "image_card": "https://static.filminlatino.mx/images/media/505/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/505/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/505/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/505/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/505/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Pancho Villa, la revoluci\u00f3n no ha terminado",
+        "producers": [
+            {
+                "acronym": "FOECA",
+                "id": 1628,
+                "name": "Fondo Estatal para la Cultura y las Artes",
+                "slug": "fondo-estatal-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-estatal-para-la-cultura-y-las-artes"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "pancho-villa-la-revolucion-no-ha-terminado",
+        "synopsis": "En el mismo d\u00eda que Pancho Villa invadi\u00f3 el pueblo de Columbus, perpetuando el primer ataque al territorio estadounidense realizado por un ej\u00e9rcito latinoamericano, naci\u00f3 un ni\u00f1o con el nombre de Ernesto Villa Nava, hijo del General Francisco Villa. A la muerte del Caudillo, su madre lo llev\u00f3 a vivir a Estados Unidos y le dijo: \u00a1Nunca reveles qui\u00e9n es tu padre, pues nuestras vidas corren peligro!. Despu\u00e9s de 83 a\u00f1os, el viejo Ernesto regresa a M\u00e9xico para descubrir que su padre es ahora uno de los gu\u00edas morales de los campesinos en M\u00e9xico y un h\u00e9roe nacional.",
+        "tags": [
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 465,
+                "name": "H\u00e9roes",
+                "slug": "heroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroes"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 834,
+                "name": "4\u00b0 FICM",
+                "slug": "40-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/40-ficm"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1071,
+                "name": "Francesco Taboada",
+                "slug": "francesco-taboada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/francesco-taboada"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1210,
+                "name": "2006",
+                "slug": "2006",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2006"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 1858,
+                "name": "La revoluci\u00f3n mexicana a trav\u00e9s del cine",
+                "slug": "la-revolucion-mexicana-a-traves-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-revolucion-mexicana-a-traves-del-cine"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1140825600,
+        "theater_release_date": 1140825600,
+        "theater_spectators_formatted": null,
+        "title": "Pancho Villa, la revoluci\u00f3n no ha terminado",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/pancho-villa-la-revolucion-no-ha-terminado",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 855,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/pancho-villa-la-revolucion.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/pancho-villa-la-revolucion/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/pancho-villa-la-revolucion/master.m3u8"
+                }
+            ]
+        },
+        "year": 2006
+    }
+}

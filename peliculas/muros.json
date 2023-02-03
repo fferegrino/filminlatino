@@ -1,0 +1,244 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Premio M\u00e9xico mira al mundo",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gregorio Rocha",
+                "gender": "m",
+                "id": 150,
+                "slug": "gregorio-rocha",
+                "url": "https://www.filminlatino.mx/director/gregorio-rocha"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Rocha es un vagabundo que camin\u00f3 y cruz\u00f3 fronteras a lo largo de seis a\u00f1os. Cuatro continentes con sus respectivos muros, tanto f\u00edsicos como ideol\u00f3gicos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 220,
+        "image_card": "https://static.filminlatino.mx/images/media/220/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/220/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/220/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/220/7/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Muros",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 149,
+                "name": "Programa Ibermedia",
+                "slug": "programa-ibermedia",
+                "url": "https://www.filminlatino.mx/producer/programa-ibermedia"
+            },
+            {
+                "acronym": "",
+                "id": 74,
+                "name": "Archivia Films",
+                "slug": "archivia-films",
+                "url": "https://www.filminlatino.mx/producer/archivia-films"
+            },
+            {
+                "acronym": "",
+                "id": 150,
+                "name": "Fundaci\u00f3n John S. Guggenheim",
+                "slug": "fundacion-john-s-guggenheim",
+                "url": "https://www.filminlatino.mx/producer/fundacion-john-s-guggenheim"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "muros",
+        "synopsis": "En el mundo hay muros visibles e invisibles y todos crean guetos, separatismo, discriminaci\u00f3n, racismo, dolor, violencia, muerte. Seguimos a un vagabundo en sus viajes a zonas de conflicto en diferentes partes del mundo, donde se han levantado muros de segregaci\u00f3n. El vagabundo encuentra historias de personas que al trascender sus muros mentales logran derribar simb\u00f3licamente los muros f\u00edsicos. Son los saltadores de muros.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 345,
+                "name": "Liberaci\u00f3n",
+                "slug": "liberacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/liberacion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1270,
+                "name": "Magallanes",
+                "slug": "magallanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magallanes"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1397001600,
+        "theater_release_date": 1397001600,
+        "theater_spectators_formatted": null,
+        "title": "Muros",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/muros",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 199,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2014
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luis Mandoki",
+                "gender": "m",
+                "id": 728,
+                "slug": "luis-mandoki",
+                "url": "https://www.filminlatino.mx/director/luis-mandoki"
+            }
+        ],
+        "duration_in_minutes": 50,
+        "excerpt": "Muchas personas de origen mazateco fueron desalojadas de sus comunidades, dejar sus recuerdos, sus antepasados, sus difuntos en el pante\u00f3n municipal, su tierra y todo qued\u00f3 cubierto por agua",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10258,
+        "image_card": "https://static.filminlatino.mx/images/media/10258/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10258/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10258/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10258/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10258/2/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Mazatecos II",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "papaloapan",
+        "synopsis": "\u201cAl sacarnos de nuestro lugar es como si nos enterraran\u201d. Esta producci\u00f3n del reconocido cineasta Luis Mandoki es un importante testimonio visual sobre el reacomodo de las poblaciones mazatecas y chinantecas afectadas por la construcci\u00f3n de las presas Miguel Alem\u00e1n (1951-1957) y Cerro de Oro (1974-1989). Las im\u00e1genes se acompa\u00f1an de entrevistas a funcionarios del INI de esa \u00e9poca y de relatos de ind\u00edgenas que vivieron en carne propia la experiencia de abandonar sus tierras y migrar a territorios desconocidos. Estos testimonios dan cuenta de los cambios que a partir de la construcci\u00f3n de las presas ha sufrido la zona en aspectos ambientales, econ\u00f3micos, culturales y sociales.<br>",
+        "tags": [
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 2441,
+                "name": "Mazateco",
+                "slug": "mazateco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mazateco"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1738,
+                "name": "Inter\u00e9s Cultural  ",
+                "slug": "interes-cultural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interes-cultural"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 1285,
+                "name": "Crisis",
+                "slug": "crisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 500,
+                "name": "Dolor",
+                "slug": "dolor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dolor"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 2413,
+                "name": "Migraci\u00f3n | INPI",
+                "slug": "migracion-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion-inpi"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Papaloapan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/papaloapan",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12036,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1981
+    }
+}

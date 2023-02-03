@@ -1,0 +1,207 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo Gonz\u00e1lez Ibarra",
+                "gender": "m",
+                "id": 1851,
+                "slug": "eduardo-gonzalez-ibarra",
+                "url": "https://www.filminlatino.mx/director/eduardo-gonzalez-ibarra"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "Documental dedicado al poeta\u00a0Octavio Paz, narrado con fragmentos de su\u00a0poes\u00eda, im\u00e1genes del pasado y el testimonio de distintos escritores mexicanos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3433,
+        "image_card": "https://static.filminlatino.mx/images/media/3433/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3433/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3433/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3433/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3433/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3433/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3433/4/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 31,
+        "original_title": "El viento ha entrado en la arboleda: Octavio Paz, poeta",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-viento-ha-entrado-en-la-arboleda-octavio-paz-poeta",
+        "synopsis": "Documental dedicado al poeta Octavio Paz, narrado con fragmentos de su poes\u00eda e im\u00e1genes del pasado. Algunos poetas y escritores como Elena Poniatowska, Braulio Peralta, Ram\u00f3n Xirau, Alberto Blanco, Rafael Lemus y Alberto Ruy S\u00e1nchez acompa\u00f1an la memoria del escritor mexicano.\u00a0",
+        "tags": [
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 484,
+                "name": "Paz",
+                "slug": "paz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El viento ha entrado en la arboleda: Octavio Paz, poeta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-viento-ha-entrado-en-la-arboleda-octavio-paz-poeta",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2784,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-internacional-de-cine-expresion-en-corto",
+                "name": "Festival Internacional de Cine Expresi\u00f3n en Corto",
+                "slug": "festival-internacional-de-cine-expresion-en-corto",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": 2009
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Festival de la Memoria Documental Iberoamericano",
+                "slug": "festival-de-la-memoria-documental-iberoamericano",
+                "year": 2009
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luciano Larobina",
+                "gender": "m",
+                "id": 488,
+                "slug": "luciano-larobina",
+                "url": "https://www.filminlatino.mx/director/luciano-larobina"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Documental que aborda la evoluci\u00f3n del hip hop a trav\u00e9s de la voz de artistas cubanos y norteamericanos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 509,
+        "image_card": "https://static.filminlatino.mx/images/media/509/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/509/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/509/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/509/11/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Havanyork",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "havanyork",
+        "synopsis": "El discurso rebelde y contestatario de los m\u00fasicos cubanos y norteamericanos nos invita a reflexionar sobre la contracultura y las realidades paralelas que nacen en todo sistema de gobierno. Los sue\u00f1os, la familia, el barrio, la ciudad, la vida, la guerra y la pol\u00edtica son algunos de los temas que pernean su m\u00fasica y nutren nuestra historia. Desde los barrios de La Habana y Nueva York, la c\u00e1mara retrata con una visi\u00f3n c\u00f3mplice las reflexiones que los m\u00fasicos de ambas ciudades han ido elaborando en relaci\u00f3n a sus ra\u00edces, a la evoluci\u00f3n del tambor y al alma del hip hop.",
+        "tags": [
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 156,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuba"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "Havanyork",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/havanyork",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 401,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/havanyork.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/havanyork/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/havanyork/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Chace  Crawford",
+                "gender": "m",
+                "id": 4192,
+                "slug": "chace-crawford",
+                "url": "https://www.filminlatino.mx/actor/chace-crawford"
+            },
+            {
+                "full_name": "Emma  Roberts",
+                "gender": "f",
+                "id": 4193,
+                "slug": "emma-roberts",
+                "url": "https://www.filminlatino.mx/actriz/emma-roberts"
+            },
+            {
+                "full_name": "Rory  Culkin",
+                "gender": "m",
+                "id": 4194,
+                "slug": "rory-culkin",
+                "url": "https://www.filminlatino.mx/actor/rory-culkin"
+            }
+        ],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Joel  Schumacher",
+                "gender": "m",
+                "id": 1464,
+                "slug": "joel-schumacher",
+                "url": "https://www.filminlatino.mx/director/joel-schumacher"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Adaptaci\u00f3n de la novela de Nick McDonell, escrita cuando s\u00f3lo ten\u00eda 17 a\u00f1os, sobre\u00a0los excesos y adicciones en el universo \u00e9lite de New York.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 18,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/accion"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2782,
+        "image_card": "https://static.filminlatino.mx/images/media/2782/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2782/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2782/12/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/13/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/6/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2782/7/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Twelve",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1183,
+                "name": "Gaumont ",
+                "slug": "gaumont",
+                "url": "https://www.filminlatino.mx/producer/gaumont"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "efecto-prohibido",
+        "synopsis": "En un ambiente de adolescentes ricos, las vacaciones se tornan en un mundo de excesos y de adicciones, las cuales son proporcionadas por White Mike, el vendedor de drogas predilecto de sus antiguos compa\u00f1eros de clase.La comodidad de Mike se ve interrumpida tras el asesinato de su primo en el cual el \u00fanico sospechoso resulta ser su mejor amigo.",
+        "tags": [
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 714,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 167,
+                "name": "Delincuencia juvenil",
+                "slug": "delincuencia-juvenil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/delincuencia-juvenil"
+            },
+            {
+                "id": 42,
+                "name": "Cr\u00edtica a la burgues\u00eda",
+                "slug": "critica-a-la-burguesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-burguesia"
+            },
+            {
+                "id": 818,
+                "name": "Otras chicas pesadas",
+                "slug": "otras-chicas-pesadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-chicas-pesadas"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 398,
+                "name": "Adaptaciones imposibles",
+                "slug": "adaptaciones-imposibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adaptaciones-imposibles"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Efecto prohibido",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/efecto-prohibido",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2680,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/efecto.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/efecto/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/efecto/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

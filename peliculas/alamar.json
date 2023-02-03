@@ -1,0 +1,616 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jorge Machado",
+                "gender": "m",
+                "id": 914,
+                "slug": "jorge-machado",
+                "url": "https://www.filminlatino.mx/actor/jorge-machado"
+            },
+            {
+                "full_name": "Roberta Palombini",
+                "gender": "f",
+                "id": 915,
+                "slug": "roberta-palombini",
+                "url": "https://www.filminlatino.mx/actriz/roberta-palombini"
+            },
+            {
+                "full_name": "Natan Machado Palombini",
+                "gender": "m",
+                "id": 916,
+                "slug": "natan-machado-palombini",
+                "url": "https://www.filminlatino.mx/actor/natan-machado-palombini"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-cinematografico-internacional-de-uruguay",
+                "name": "Festival Cinematogr\u00e1fico Internacional de Uruguay ",
+                "slug": "festival-cinematografico-internacional-de-uruguay",
+                "year": 2009
+            },
+            {
+                "category": "Mejor largometraje latinoamericano",
+                "icon": "festival-des-films-du-monde-de-montreal",
+                "name": "Festival Des Films Du Monde de Montr\u00e9al",
+                "slug": "festival-des-films-du-monde-de-montreal",
+                "year": 2009
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-des-films-du-monde-de-montreal",
+                "name": "Festival Des Films Du Monde de Montr\u00e9al",
+                "slug": "festival-des-films-du-monde-de-montreal",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Director Debutante",
+                "icon": "festival-internacional-de-cine-de-san-francisco",
+                "name": "Festival Internacional de Cine de San Francisco",
+                "slug": "festival-internacional-de-cine-de-san-francisco",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-santiago",
+                "name": "Festival Internacional de Cine de Santiago",
+                "slug": "festival-internacional-de-cine-de-santiago",
+                "year": 2009
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-internacional-de-cine-de-santiago",
+                "name": "Festival Internacional de Cine de Santiago",
+                "slug": "festival-internacional-de-cine-de-santiago",
+                "year": 2009
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-cinematografico-internacional-de-uruguay",
+                "name": "Festival Cinematogr\u00e1fico Internacional de Uruguay ",
+                "slug": "festival-cinematografico-internacional-de-uruguay",
+                "year": 2009
+            },
+            {
+                "category": "Mejor largometraje latinoamericano",
+                "icon": "festival-des-films-du-monde-de-montreal",
+                "name": "Festival Des Films Du Monde de Montr\u00e9al",
+                "slug": "festival-des-films-du-monde-de-montreal",
+                "year": 2009
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-des-films-du-monde-de-montreal",
+                "name": "Festival Des Films Du Monde de Montr\u00e9al",
+                "slug": "festival-des-films-du-monde-de-montreal",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Director Debutante",
+                "icon": "festival-internacional-de-cine-de-san-francisco",
+                "name": "Festival Internacional de Cine de San Francisco",
+                "slug": "festival-internacional-de-cine-de-san-francisco",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-santiago",
+                "name": "Festival Internacional de Cine de Santiago",
+                "slug": "festival-internacional-de-cine-de-santiago",
+                "year": 2009
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-internacional-de-cine-de-santiago",
+                "name": "Festival Internacional de Cine de Santiago",
+                "slug": "festival-internacional-de-cine-de-santiago",
+                "year": 2009
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2009
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Pel\u00edcula Mexicana",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Pel\u00edcula Mexicana",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Premio Tigre",
+                "icon": "circulo-de-periodistas-filmicos-del-festival-internacional-de-cine-de-rotterdam",
+                "name": "C\u00edrculo de Periodistas F\u00edlmicos del Festival Internacional de Cine de Rotterdam",
+                "slug": "circulo-de-periodistas-filmicos-del-festival-internacional-de-cine-de-rotterdam",
+                "year": 2009
+            },
+            {
+                "category": "Premio Tigre",
+                "icon": "circulo-de-periodistas-filmicos-del-festival-internacional-de-cine-de-rotterdam",
+                "name": "C\u00edrculo de Periodistas F\u00edlmicos del Festival Internacional de Cine de Rotterdam",
+                "slug": "circulo-de-periodistas-filmicos-del-festival-internacional-de-cine-de-rotterdam",
+                "year": 2009
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": 2009
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor largometraje latinoamericano",
+                "icon": "festival-internacional-de-cine-de-miami",
+                "name": "Festival Internacional de Cine de Miami",
+                "slug": "festival-internacional-de-cine-de-miami",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Premio SIGNIS",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Premio SIGNIS",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Premio Unicef",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Premio Unicef",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2009
+            },
+            {
+                "category": "Mejor largometraje latinoamericano",
+                "icon": "festival-internacional-de-cine-de-miami",
+                "name": "Festival Internacional de Cine de Miami",
+                "slug": "festival-internacional-de-cine-de-miami",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pedro Gonz\u00e1lez-Rubio",
+                "gender": "m",
+                "id": 354,
+                "slug": "pedro-gonzalez-rubio",
+                "url": "https://www.filminlatino.mx/director/pedro-gonzalez-rubio"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "Un filme cuya sencillez nos obliga a hacer una pausa para respirar el mar en una sucesi\u00f3n de cuadros que son poes\u00eda f\u00edlmica.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 375,
+        "image_card": "https://static.filminlatino.mx/images/media/375/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/375/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/375/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/375/9/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 128,
+        "original_title": "Alamar",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 280,
+                "name": "Xkalakarma",
+                "slug": "xkalakarma",
+                "url": "https://www.filminlatino.mx/producer/xkalakarma"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "alamar",
+        "synopsis": "Antes de su inevitable separaci\u00f3n, Jorge, un joven de ra\u00edces Mayas y Natan, su hijo de madre italiana, se embarcan en un viaje ancestral hacia el mar abierto.",
+        "tags": [
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 720,
+                "name": "Barco",
+                "slug": "barco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barco"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 210,
+                "name": "FilminLatino Ni\u00f1os",
+                "slug": "filminlatino-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-ninos"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 969,
+                "name": "Recomendadas de Ana Laura P\u00e9rez",
+                "slug": "recomendadas-de-ana-laura-perez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ana-laura-perez"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1240,
+                "name": "Quintana Roo",
+                "slug": "quintana-roo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quintana-roo"
+            },
+            {
+                "id": 1469,
+                "name": "Funciones especiales CinemaMX",
+                "slug": "funciones-especiales-cinemamx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-cinemamx"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2581,
+                "name": "SEP - Interculturalidad cr\u00edtica",
+                "slug": "sep-interculturalidad-critica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-interculturalidad-critica"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Alamar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/alamar",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 384,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Alamar.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Alamar/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Alamar/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Juliette Binoche",
+                "gender": "f",
+                "id": 1151,
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/actriz/juliette-binoche"
+            },
+            {
+                "full_name": "William Shimell",
+                "gender": "m",
+                "id": 1152,
+                "slug": "william-shimell",
+                "url": "https://www.filminlatino.mx/actor/william-shimell"
+            },
+            {
+                "full_name": "Jean-Claude Carri\u00e8re",
+                "gender": "m",
+                "id": 1153,
+                "slug": "jean-claude-carriere",
+                "url": "https://www.filminlatino.mx/actor/jean-claude-carriere"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Palma de Oro",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Abbas Kiarostami",
+                "gender": "m",
+                "id": 62,
+                "slug": "abbas-kiarostami",
+                "url": "https://www.filminlatino.mx/director/abbas-kiarostami"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Un relato de coincidencias que se convierte en una historia que bien podr\u00eda ser universal: un hombre y una mujer que juegan a ser una pareja.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 474,
+        "image_card": "https://static.filminlatino.mx/images/media/474/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/474/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/474/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/474/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/474/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/474/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 93,
+        "original_title": "Copie conforme",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 50,
+                "name": "MK2 Productions",
+                "slug": "mk2-productions",
+                "url": "https://www.filminlatino.mx/producer/mk2-productions"
+            },
+            {
+                "acronym": "",
+                "id": 525,
+                "name": "BiBi Film ",
+                "slug": "bibi-film",
+                "url": "https://www.filminlatino.mx/producer/bibi-film"
+            },
+            {
+                "acronym": "",
+                "id": 526,
+                "name": "Abbas Kiarostami Productions",
+                "slug": "abbas-kiarostami-productions",
+                "url": "https://www.filminlatino.mx/producer/abbas-kiarostami-productions"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "copia-fiel",
+        "synopsis": "Esta es la historia del encuentro entre un hombre y una mujer en un peque\u00f1o pueblo italiano de la Toscana. \u00c9l es un escritor ingl\u00e9s que ha venido para dar una conferencia. Ella es una galerista francesa. Un relato de coincidencias que se convierte en una historia que bien podr\u00eda ser universal: un hombre y una mujer que juegan a ser una pareja en las peque\u00f1as calles de la Toscana italiana.",
+        "tags": [
+            {
+                "id": 595,
+                "name": "Los que se fueron",
+                "slug": "los-que-se-fueron",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-que-se-fueron"
+            },
+            {
+                "id": 736,
+                "name": "Oto\u00f1o y vino",
+                "slug": "otono-y-vino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otono-y-vino"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 731,
+                "name": "BBC Top S. XXI",
+                "slug": "bbc-top-s-xxi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bbc-top-s-xxi"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 861,
+                "name": "Cl\u00e1sicos franceses",
+                "slug": "clasicos-franceses",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-franceses"
+            },
+            {
+                "id": 865,
+                "name": "Juliette Binoche",
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juliette-binoche"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 961,
+                "name": "Las favoritas de Dolan",
+                "slug": "las-favoritas-de-dolan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-dolan"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 970,
+                "name": "Recomendadas de Andrea Rend\u00f3n ",
+                "slug": "recomendadas-de-andrea-rendon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-andrea-rendon"
+            },
+            {
+                "id": 972,
+                "name": "Recomendadas Arturo Aguilar",
+                "slug": "recomendadas-arturo-aguilar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-arturo-aguilar"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1431216000,
+        "theater_release_date": 1431216000,
+        "theater_spectators_formatted": null,
+        "title": "Copia fiel",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/copia-fiel",
+        "versions": [
+            {
+                "codes": [],
+                "id": 291,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/copia-fiel.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/copia-fiel/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/copia-fiel/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

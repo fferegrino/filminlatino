@@ -1,0 +1,280 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Mejor director Latinoam\u00e9rica",
+                "icon": "",
+                "name": "BAWF 2015 ",
+                "slug": "bawf-2015",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Miami Web Fest (2014)",
+                "slug": "miami-web-fest-2014",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Rome Web Awards",
+                "slug": "rome-web-awards",
+                "year": null
+            },
+            {
+                "category": "Ganador",
+                "icon": "",
+                "name": "Latino Web Fest",
+                "slug": "latino-web-fest",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Baja Webfest Documental",
+                "slug": "baja-webfest-documental",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Hollyweb Festival (2015)",
+                "slug": "hollyweb-festival-2015",
+                "year": null
+            },
+            {
+                "category": "Mejor Serie Web en Lengua Extranjera",
+                "icon": "",
+                "name": "NYC Web Fes",
+                "slug": "nyc-web-fes",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Francisco  \"Chihuas\" Rodr\u00edguez",
+                "gender": "m",
+                "id": 110,
+                "slug": "francisco-chihuas-rodriguez",
+                "url": "https://www.filminlatino.mx/character/francisco-chihuas-rodriguez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Antonio  Guajardo",
+                "gender": "m",
+                "id": 2215,
+                "slug": "antonio-guajardo",
+                "url": "https://www.filminlatino.mx/director/antonio-guajardo"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "Documental que narra la historia de Francisco \"Chihuas\" Rodr\u00edguez, un boxeador que alcanz\u00f3 la cima del \u00e9xito.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5025,
+        "image_card": "https://static.filminlatino.mx/images/media/5025/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5025/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5025/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/5025/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5025/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5025/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5025/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5025/1/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Por el \u00faltimo round",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2045,
+                "name": "CAMUS FILMS",
+                "slug": "camus-films",
+                "url": "https://www.filminlatino.mx/producer/camus-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "por-el-ultimo-round",
+        "synopsis": "Documental que recorre el camino que\u00a0el boxeador Francisco \"Chihuas\" Rodr\u00edguez ha tomado, desde que era un boxeador en busca de alguna oportunidad hasta recibir la noticia de que disputar\u00eda el t\u00edtulo mundial; la pelea y el triunfo que le dio fama.",
+        "tags": [
+            {
+                "id": 158,
+                "name": "Boxeo",
+                "slug": "boxeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeo"
+            },
+            {
+                "id": 951,
+                "name": "Boxeadores",
+                "slug": "boxeadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeadores"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1046,
+                "name": "En el ring",
+                "slug": "en-el-ring",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-ring"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 1198,
+                "name": "Nuevo Le\u00f3n",
+                "slug": "nuevo-leon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-leon"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 1262,
+                "name": "2016",
+                "slug": "2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2016"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Por el \u00faltimo round",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/por-el-ultimo-round",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4325,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Por-el-ultimo-round.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Por-el-ultimo-round/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Por-el-ultimo-round/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

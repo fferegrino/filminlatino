@@ -1,0 +1,321 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "H\u00e9lo\u00efse Godet",
+                "gender": "f",
+                "id": 2876,
+                "slug": "heloise-godet",
+                "url": "https://www.filminlatino.mx/actriz/heloise-godet"
+            },
+            {
+                "full_name": "Kamel Abdelli",
+                "gender": "m",
+                "id": 2877,
+                "slug": "kamel-abdelli",
+                "url": "https://www.filminlatino.mx/actor/kamel-abdelli"
+            },
+            {
+                "full_name": "Richard Chevallier",
+                "gender": "m",
+                "id": 2878,
+                "slug": "richard-chevallier",
+                "url": "https://www.filminlatino.mx/actor/richard-chevallier"
+            },
+            {
+                "full_name": "Zo\u00e9 Bruneau",
+                "gender": "f",
+                "id": 2879,
+                "slug": "zoe-bruneau",
+                "url": "https://www.filminlatino.mx/actriz/zoe-bruneau"
+            },
+            {
+                "full_name": "Christian Gregori",
+                "gender": "m",
+                "id": 2880,
+                "slug": "christian-gregori",
+                "url": "https://www.filminlatino.mx/actor/christian-gregori"
+            },
+            {
+                "full_name": "Jessica Erickson",
+                "gender": "f",
+                "id": 2881,
+                "slug": "jessica-erickson",
+                "url": "https://www.filminlatino.mx/actriz/jessica-erickson"
+            },
+            {
+                "full_name": "Marie Ruchat",
+                "gender": "f",
+                "id": 2882,
+                "slug": "marie-ruchat",
+                "url": "https://www.filminlatino.mx/actriz/marie-ruchat"
+            },
+            {
+                "full_name": "Jeremy Zampatti",
+                "gender": "m",
+                "id": 2883,
+                "slug": "jeremy-zampatti",
+                "url": "https://www.filminlatino.mx/actor/jeremy-zampatti"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-sitges-espana",
+                "name": "Festival de Cine de Sitges, Espa\u00f1a ",
+                "slug": "festival-de-cine-de-sitges-espana",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jean-Luc Godard",
+                "gender": "m",
+                "id": 21,
+                "slug": "jean-luc-godard",
+                "url": "https://www.filminlatino.mx/director/jean-luc-godard"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Jean-Luc Godard transmite muy a su estilo; una relaci\u00f3n entre una mujer casada y un hombre soltero que se aman y se pelean.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 7,
+                "name": "Experimental",
+                "slug": "experimental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/experimental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1514,
+        "image_card": "https://static.filminlatino.mx/images/media/1514/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1514/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1514/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1514/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Adieu au langage",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "adios-al-lenguaje",
+        "synopsis": "A pesar de la fragmentaci\u00f3n del relato, se puede entrever la relaci\u00f3n entre una mujer casada y un hombre soltero que se aman y se pelean. Mientras, un perro vaga entre el campo y la ciudad.",
+        "tags": [
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 105,
+                "name": "Animales dom\u00e9sticos",
+                "slug": "animales-domesticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-domesticos"
+            },
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 731,
+                "name": "BBC Top S. XXI",
+                "slug": "bbc-top-s-xxi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bbc-top-s-xxi"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 961,
+                "name": "Las favoritas de Dolan",
+                "slug": "las-favoritas-de-dolan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-dolan"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1400630400,
+        "theater_release_date": 1400630400,
+        "theater_spectators_formatted": null,
+        "title": "Adi\u00f3s al lenguaje",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/adios-al-lenguaje",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1031,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/adios-al-lenguaje.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/adios-al-lenguaje/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/adios-al-lenguaje/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

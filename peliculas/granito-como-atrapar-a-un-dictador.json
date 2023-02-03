@@ -1,0 +1,225 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Justice Matters Award",
+                "icon": "",
+                "name": "Washington DC Filmfest",
+                "slug": "washington-dc-filmfest",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Ojai Film Festival",
+                "slug": "ojai-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 91,
+                "name": "Guatemala",
+                "slug": "guatemala",
+                "url": "https://www.filminlatino.mx/catalogo/pais/guatemala"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pamela Yates",
+                "gender": "f",
+                "id": 1839,
+                "slug": "pamela-yates",
+                "url": "https://www.filminlatino.mx/directora/pamela-yates"
+            }
+        ],
+        "duration_in_minutes": 104,
+        "excerpt": "Revela la lucha de 30 a\u00f1os de todo un pueblo por llevar a su ex dictador a\u00a0juicio por genocidio.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3413,
+        "image_card": "https://static.filminlatino.mx/images/media/3413/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3413/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3413/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3413/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Granito: How to Nail a Dictator",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "granito-como-atrapar-a-un-dictador",
+        "synopsis": "En un sorprendente ciclo de tiempo y memoria, despu\u00e9s de 30 a\u00f1os de impunidad legal, el ex general y dictador guatemalteco Efra\u00edn R\u00edos Montt fue acusado por un tribunal guatemalteco de cr\u00edmenes de lesa humanidad. D\u00e9cadas despu\u00e9s de los acontecimientos, fue acusado de cometer genocidio contra los mayas del pa\u00eds en la d\u00e9cada de 1980 convirti\u00e9ndose en el primer ex jefe de Estado en ser juzgado en su propio pa\u00eds por genocidio. Parte thriller pol\u00edtico, parte de memorias, Yates nos regresa al presente con un elenco de personajes unidos por el destino y la misi\u00f3n de llevar ante la justicia a un dictador malvado, como si un dios maya vigilante estuviera tejiendo juntos.",
+        "tags": [
+            {
+                "id": 295,
+                "name": "Dictadura",
+                "slug": "dictadura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dictadura"
+            },
+            {
+                "id": 438,
+                "name": "Viaje en el tiempo",
+                "slug": "viaje-en-el-tiempo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-en-el-tiempo"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 104,
+                "name": "Juicios",
+                "slug": "juicios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juicios"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 941,
+                "name": "Directores en MICA",
+                "slug": "directores-en-mica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-en-mica"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 1114,
+                "name": "Skylight",
+                "slug": "skylight",
+                "url": "https://www.filminlatino.mx/catalogo/tema/skylight"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Granito: c\u00f3mo atrapar a un dictador",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/granito-como-atrapar-a-un-dictador",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2764,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

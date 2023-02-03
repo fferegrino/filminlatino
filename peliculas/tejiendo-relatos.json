@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "FICWALLMAPU: Festival Internacional de Cine y Video",
+                "slug": "ficwallmapu-festival-internacional-de-cine-y-video",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 29,
+                "name": "Bolivia",
+                "slug": "bolivia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/bolivia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Clara Calvet Casulleras",
+                "gender": "f",
+                "id": 2136,
+                "slug": "clara-calvet-casulleras",
+                "url": "https://www.filminlatino.mx/directora/clara-calvet-casulleras"
+            }
+        ],
+        "duration_in_minutes": 57,
+        "excerpt": "Tejiendo relatos es un documental que refleja el rol de la mujer tejedora en las comunidades andinas de Bolivia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4506,
+        "image_card": "https://static.filminlatino.mx/images/media/4506/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4506/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4506/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/1/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_6_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_6_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_7_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_7_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_8_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_8_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_9_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_9_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_10_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_10_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_11_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4506/2/still_11_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Tejiendo relatos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tejiendo-relatos",
+        "synopsis": "Documental que refleja el rol de la mujer tejedora en las comunidades andinas de Bolivia, expresando las t\u00e9cnicas textiles ancestrales que practican estas mujeres. El filme contiene 22 entrevistas realizadas a artesanas de distintas regiones con el objeto de reflejar fielmente su realidad y la opini\u00f3n de sus familiares y algunos especialistas. En este trabajo se pone en cuesti\u00f3n la herencia textil y el futuro de las t\u00e9cnicas ancestrales que estas mujeres han aprendido.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 571,
+                "name": "Herencia",
+                "slug": "herencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/herencia"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 2652,
+                "name": "Arte textil",
+                "slug": "arte-textil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte-textil"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tejiendo relatos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tejiendo-relatos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3807,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

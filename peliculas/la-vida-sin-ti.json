@@ -1,0 +1,264 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Isabelle Huppert",
+                "gender": "f",
+                "id": 22,
+                "slug": "isabelle-huppert",
+                "url": "https://www.filminlatino.mx/actriz/isabelle-huppert"
+            },
+            {
+                "full_name": "Lars Eidinger",
+                "gender": "m",
+                "id": 2914,
+                "slug": "lars-eidinger",
+                "url": "https://www.filminlatino.mx/actor/lars-eidinger"
+            },
+            {
+                "full_name": "Swann Arlaud",
+                "gender": "m",
+                "id": 1486,
+                "slug": "swann-arlaud",
+                "url": "https://www.filminlatino.mx/actor/swann-arlaud"
+            },
+            {
+                "full_name": "Freya Mavor",
+                "gender": "f",
+                "id": 12920,
+                "slug": "freya-mavor",
+                "url": "https://www.filminlatino.mx/actriz/freya-mavor"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Golden Horse Film Festival",
+                "slug": "golden-horse-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-dublin-irlanda",
+                "name": "Festival Internacional de Cine de Dubl\u00edn. Irlanda",
+                "slug": "festival-internacional-de-cine-de-dublin-irlanda",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Laurent Larivi\u00e8re",
+                "gender": "m",
+                "id": 6988,
+                "slug": "laurent-lariviere",
+                "url": "https://www.filminlatino.mx/director/laurent-lariviere"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Laurent Larivi\u00e8re hace viajar al espectador por 3 \u00e9pocas distintas. Nos demuestra la necesidad y la fuerza de la ficci\u00f3n como una herramienta para la reconstrucci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11894,
+        "image_card": "https://static.filminlatino.mx/images/media/11894/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11894/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11894/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11894/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11894/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11894/7/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "\u00c0 propos de Joan",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-vida-sin-ti",
+        "synopsis": "Joan Verra siempre ha sido una mujer independiente, enamorada, con un esp\u00edritu libre y aventurero. Cuando su primer amor regresa, sin avisar, tras a\u00f1os de ausencia, Joan decide no confesarle que tienen un hijo en com\u00fan. Esta mentira por omisi\u00f3n le permitir\u00e1 hacer un repaso a su vida: su juventud en Irlanda, su \u00e9xito profesional, sus amores y la relaci\u00f3n con su hijo. Una vida en apariencia plena, pero que esconde un secreto que Joan tendr\u00e1 que afrontar...",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 2526,
+                "name": "Melodramas diferentes",
+                "slug": "melodramas-diferentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodramas-diferentes"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 357,
+                "name": "Matrimonio",
+                "slug": "matrimonio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/matrimonio"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2791,
+                "name": "Face + Places | MyFFF 2023",
+                "slug": "face-places-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/face-places-myfff-2023"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La vida sin ti",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-vida-sin-ti",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13751,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

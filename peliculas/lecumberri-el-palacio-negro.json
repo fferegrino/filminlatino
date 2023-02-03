@@ -1,0 +1,327 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Emilio Ebergenyi",
+                "gender": "m",
+                "id": 613,
+                "slug": "emilio-ebergenyi",
+                "url": "https://www.filminlatino.mx/actor/emilio-ebergenyi"
+            },
+            {
+                "full_name": "Tom\u00e1s P\u00e9rez Turrent",
+                "gender": "m",
+                "id": 614,
+                "slug": "tomas-perez-turrent",
+                "url": "https://www.filminlatino.mx/actor/tomas-perez-turrent"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arturo Ripstein",
+                "gender": "m",
+                "id": 75,
+                "slug": "arturo-ripstein",
+                "url": "https://www.filminlatino.mx/director/arturo-ripstein"
+            }
+        ],
+        "duration_in_minutes": 106,
+        "excerpt": "Documental que registra la vida cotidiana de la c\u00e1rcel poco antes de su clausura y convertirse en el Archivo General de la Naci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 214,
+        "image_card": "https://static.filminlatino.mx/images/media/214/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/214/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/214/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/214/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/214/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 157,
+        "original_title": "Lecumberri, El Palacio Negro",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 16,
+                "name": "Estudios Churubusco Azteca S.A.",
+                "slug": "estudios-churubusco-azteca-sa",
+                "url": "https://www.filminlatino.mx/producer/estudios-churubusco-azteca-sa"
+            },
+            {
+                "acronym": "",
+                "id": 144,
+                "name": "Centro de Producci\u00f3n de Cortometraje",
+                "slug": "centro-de-produccion-de-cortometraje",
+                "url": "https://www.filminlatino.mx/producer/centro-de-produccion-de-cortometraje"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "lecumberri-el-palacio-negro",
+        "synopsis": "El 24 de abril de 1976 cuatro hombres escaparon de la C\u00e1rcel Preventiva de la Ciudad de M\u00e9xico, mejor conocida por sus dos nombres alternativos: Lecumberri, el nombre que una de las calles vecinas de la prisi\u00f3n hab\u00eda tomado de un noble espa\u00f1ol, y el palacio negro, imagen de connotaciones diversas, ninguna de ellas agradable. La fuga sirvi\u00f3 de motivo para el cierre de un lugar que fue testigo de buena parte de la historia mexicana del siglo XX: all\u00ed fue asesinado Francisco I. Madero por orden de Victoriano Huerta, encerrados los hombres de Carranza, de Villa y de Zapata; all\u00ed pasaron sus d\u00edas ladrones, asesinos y militantes de izquierda. Ripstein se enfrenta a este espacio de manera distante, como muestra del minucioso registro de la burocracia carcelaria, pero sin renunciar por ello a la empat\u00eda.",
+        "tags": [
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 270,
+                "name": "Encierro",
+                "slug": "encierro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encierro"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1181,
+                "name": "1977",
+                "slug": "1977",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1977"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1489,
+                "name": "Centro de Producci\u00f3n de Cortometraje",
+                "slug": "centro-de-produccion-de-cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/centro-de-produccion-de-cortometraje"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1653,
+                "name": "Retratos de M\u00e9xico, De la conquista a los cristeros",
+                "slug": "retratos-de-mexico-de-la-conquista-a-los-cristeros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos-de-mexico-de-la-conquista-a-los-cristeros"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 1752,
+                "name": "Benito Ju\u00e1rez | Promotores Culturales Comunitarios",
+                "slug": "benito-juarez-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/benito-juarez-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1759,
+                "name": "Iztapalapa | Promotores Culturales Comunitarios",
+                "slug": "iztapalapa-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iztapalapa-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1765,
+                "name": "Venustiano Carranza | Promotores Culturales Comunitarios",
+                "slug": "venustiano-carranza-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venustiano-carranza-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 247276800,
+        "theater_release_date": 247276800,
+        "theater_spectators_formatted": null,
+        "title": "Lecumberri, El Palacio Negro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lecumberri-el-palacio-negro",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 111,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1976
+    }
+}

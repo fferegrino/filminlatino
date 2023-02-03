@@ -1,0 +1,314 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Marat Descartes",
+                "gender": "m",
+                "id": 3026,
+                "slug": "marat-descartes",
+                "url": "https://www.filminlatino.mx/actor/marat-descartes"
+            },
+            {
+                "full_name": "Renata Jesion",
+                "gender": "f",
+                "id": 3027,
+                "slug": "renata-jesion",
+                "url": "https://www.filminlatino.mx/actriz/renata-jesion"
+            },
+            {
+                "full_name": "Cristiano Karnas",
+                "gender": "m",
+                "id": 3028,
+                "slug": "cristiano-karnas",
+                "url": "https://www.filminlatino.mx/actor/cristiano-karnas"
+            },
+            {
+                "full_name": "Clarissa Kiste",
+                "gender": "f",
+                "id": 3029,
+                "slug": "clarissa-kiste",
+                "url": "https://www.filminlatino.mx/actriz/clarissa-kiste"
+            },
+            {
+                "full_name": "Jair Rodrigues",
+                "gender": "m",
+                "id": 3030,
+                "slug": "jair-rodrigues",
+                "url": "https://www.filminlatino.mx/actor/jair-rodrigues"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [
+            {
+                "category": "Golden Kikito a Mejor Actor",
+                "icon": "festival-de-cine-de-gramado",
+                "name": "Festival de Cine de Gramado",
+                "slug": "festival-de-cine-de-gramado",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rubens Rewald",
+                "gender": "m",
+                "id": 1072,
+                "slug": "rubens-rewald",
+                "url": "https://www.filminlatino.mx/director/rubens-rewald"
+            },
+            {
+                "full_name": "Rossana Foglia",
+                "gender": "f",
+                "id": 1073,
+                "slug": "rossana-foglia",
+                "url": "https://www.filminlatino.mx/directora/rossana-foglia"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "Retrato de la incansable lucha de la comunidad art\u00edstica de la actuaci\u00f3n para salir adelante y conseguir trabajo en una sociedad tercermundista.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1823,
+        "image_card": "https://static.filminlatino.mx/images/media/1823/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1823/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1823/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1823/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1823/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1823/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "S\u00faper nada",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1246,
+                "name": "Confeitaria de Cinema",
+                "slug": "confeitaria-de-cinema",
+                "url": "https://www.filminlatino.mx/producer/confeitaria-de-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 320,
+                "name": "Santa Luc\u00eda Cine",
+                "slug": "santa-lucia-cine",
+                "url": "https://www.filminlatino.mx/producer/santa-lucia-cine"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "super-nada",
+        "synopsis": "En la ca\u00f3tica ciudad de S\u00e3o Paulo, Brasil, Guto sue\u00f1a en ser un gran actor. Se prepara, ensaya, va a todos los castings, cree que su hora va a llegar en cualquier momento. Su \u00eddolo y modelo es Zeca, un viejo comediante, muy decadente pero que todav\u00eda es el \u00eddolo de toda una generaci\u00f3n. Sus caminos se cruzan y la suerte de Guto parece cambiar. \u00bfSer\u00e1?",
+        "tags": [
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 559,
+                "name": "Desempleo",
+                "slug": "desempleo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desempleo"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 143,
+                "name": "Crisis creativa",
+                "slug": "crisis-creativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-creativa"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 719,
+                "name": "Personajes actores",
+                "slug": "personajes-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-actores"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1353196800,
+        "theater_release_date": 1353196800,
+        "theater_spectators_formatted": null,
+        "title": "S\u00faper nada",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/super-nada",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1284,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/super-nada.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/super-nada/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/super-nada/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

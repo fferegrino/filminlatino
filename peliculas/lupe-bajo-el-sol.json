@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Daniel Muratalla ",
+                "gender": "m",
+                "id": 6015,
+                "slug": "daniel-muratalla",
+                "url": "https://www.filminlatino.mx/actor/daniel-muratalla"
+            },
+            {
+                "full_name": "Ana  Muratalla ",
+                "gender": "f",
+                "id": 6016,
+                "slug": "ana-muratalla",
+                "url": "https://www.filminlatino.mx/actriz/ana-muratalla"
+            },
+            {
+                "full_name": "Luis Prado",
+                "gender": "m",
+                "id": 6017,
+                "slug": "luis-prado",
+                "url": "https://www.filminlatino.mx/actor/luis-prado"
+            },
+            {
+                "full_name": "Christian  Jaskowiak",
+                "gender": "m",
+                "id": 6018,
+                "slug": "christian-jaskowiak",
+                "url": "https://www.filminlatino.mx/actor/christian-jaskowiak"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Grand Chameleon",
+                "icon": "",
+                "name": "Brookyn International Film Festival",
+                "slug": "brookyn-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Chameleon",
+                "icon": "",
+                "name": "Brookyn International Film Festival",
+                "slug": "brookyn-international-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo  Reyes ",
+                "gender": "m",
+                "id": 388,
+                "slug": "rodrigo-reyes",
+                "url": "https://www.filminlatino.mx/director/rodrigo-reyes"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Un migrante que trabaja en un huerto de durazno en California decide regresar a M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5200,
+        "image_card": "https://static.filminlatino.mx/images/media/5200/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5200/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5200/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5200/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5200/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5200/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Lupe bajo el sol ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lupe-bajo-el-sol",
+        "synopsis": "Lupe, un trabajador migrante que radica en California, tendr\u00e1 la intenci\u00f3n de volver a su pa\u00eds de origen: M\u00e9xico. Tras el nulo contacto con su familia, la rutina diaria en el huerto de duraznos y los remordimientos que lo acechan se ver\u00e1n contrastados por la relaci\u00f3n sentimental que mantiene con Gloria, otra migrante.",
+        "tags": [
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 318,
+                "name": "Sue\u00f1o americano",
+                "slug": "sueno-americano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sueno-americano"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lupe bajo el sol",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lupe-bajo-el-sol",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4474,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LUPE-BAJO-EL-SOL.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LUPE-BAJO-EL-SOL/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LUPE-BAJO-EL-SOL/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

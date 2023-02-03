@@ -1,0 +1,338 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Sol de Oro",
+                "icon": "",
+                "name": "FICMA",
+                "slug": "ficma",
+                "year": null
+            },
+            {
+                "category": "Mejor largometraje documental",
+                "icon": "",
+                "name": "15\u00b0 Festival Internacional de Cine de Morelia",
+                "slug": "150-festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Proyecto ganador",
+                "icon": "",
+                "name": "Gabriel Figueroa Film Fund",
+                "slug": "gabriel-figueroa-film-fund",
+                "year": null
+            },
+            {
+                "category": "Estreno Internacional",
+                "icon": "",
+                "name": "South by Southwest Film Festival 2017",
+                "slug": "south-by-southwest-film-festival-2017",
+                "year": null
+            },
+            {
+                "category": "Mejor largometraje documental",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luciana Kaplan ",
+                "gender": "f",
+                "id": 345,
+                "slug": "luciana-kaplan",
+                "url": "https://www.filminlatino.mx/directora/luciana-kaplan"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Todos sienten que esta\u0301n perdiendo algo esencial en sus vidas que no va a regresar.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7789,
+        "image_card": "https://static.filminlatino.mx/images/media/7789/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7789/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7789/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7789/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7789/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7789/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/7789/3/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/7789/2/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Rush Hour ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3526,
+                "name": "Jos\u00e9 Cohen",
+                "slug": "jose-cohen",
+                "url": "https://www.filminlatino.mx/producer/jose-cohen"
+            },
+            {
+                "acronym": "",
+                "id": 3527,
+                "name": "Carlos Hagerman",
+                "slug": "carlos-hagerman",
+                "url": "https://www.filminlatino.mx/producer/carlos-hagerman"
+            },
+            {
+                "acronym": "",
+                "id": 3462,
+                "name": "Martha Sosa",
+                "slug": "martha-sosa",
+                "url": "https://www.filminlatino.mx/producer/martha-sosa"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "rush-hour",
+        "synopsis": "Retrato i\u0301ntimo de las historias paralelas de tres personajes en tres de las ciudades ma\u0301s complejas y emblema\u0301ticas alrededor del mundo: la Ciudad de Me\u0301xico, Los A\u0301ngeles y Estambul. Los tres comparten el hecho de pasar la mitad del di\u0301a transporta\u0301ndose al trabajo. Todos sienten que esta\u0301n perdiendo algo esencial en sus vidas que no va a regresar. Mientras sus conflictos evolucionan, no pueden dejar de preguntarse: \u00bfsera\u0301 posible cambiar de vida?",
+        "tags": [
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1638,
+                "name": "Asia",
+                "slug": "asia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 640,
+                "name": "Transporte p\u00fablico",
+                "slug": "transporte-publico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transporte-publico"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 519,
+                "name": "Barrio",
+                "slug": "barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barrio"
+            },
+            {
+                "id": 1421,
+                "name": "Sonidos del barrio",
+                "slug": "sonidos-del-barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonidos-del-barrio"
+            },
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2492,
+                "name": "Viajes transformadores",
+                "slug": "viajes-transformadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-transformadores"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Rush Hour",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/rush-hour",
+        "versions": [
+            {
+                "codes": [],
+                "id": 8583,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/RUSH-HOUR-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/RUSH-HOUR-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/RUSH-HOUR-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Arturo Berist\u00e1in",
+                "gender": "m",
+                "id": 267,
+                "slug": "arturo-beristain",
+                "url": "https://www.filminlatino.mx/actor/arturo-beristain"
+            },
+            {
+                "full_name": "Valent\u00edn Trujillo",
+                "gender": "m",
+                "id": 522,
+                "slug": "valentin-trujillo",
+                "url": "https://www.filminlatino.mx/actor/valentin-trujillo"
+            },
+            {
+                "full_name": "Mercedes Carre\u00f1o",
+                "gender": "f",
+                "id": 523,
+                "slug": "mercedes-carreno",
+                "url": "https://www.filminlatino.mx/actriz/mercedes-carreno"
+            },
+            {
+                "full_name": "Leticia Perdig\u00f3n",
+                "gender": "f",
+                "id": 524,
+                "slug": "leticia-perdigon",
+                "url": "https://www.filminlatino.mx/actriz/leticia-perdigon"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            },
+            {
+                "full_name": "Margarita Isabel ",
+                "gender": "f",
+                "id": 4558,
+                "slug": "margarita-isabel",
+                "url": "https://www.filminlatino.mx/actriz/margarita-isabel"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1974
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Manuel Torres",
+                "gender": "m",
+                "id": 169,
+                "slug": "juan-manuel-torres",
+                "url": "https://www.filminlatino.mx/director/juan-manuel-torres"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "Adolescentes fr\u00e1giles y duros esforz\u00e1ndose en romper el c\u00edrculo de la peque\u00f1a vida de todos los d\u00edas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 188,
+        "image_card": "https://static.filminlatino.mx/images/media/188/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/188/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/188/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/188/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/188/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 89,
+        "original_title": "La otra virginidad",
+        "producers": [
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-otra-virginidad",
+        "synopsis": "Laura y Eva, meseras en un restaurante, se relacionan con Adri\u00e1n, un repartidor de pel\u00edculas cuyo padre, un militar retirado, lo trata con dureza. Mientras que a Luis, amigo de Adri\u00e1n, lo trata con afecto. Adri\u00e1n y Luis van a un cabaret con las meseras. Lugar donde los cuatro personajes se conocen. Laura se enamora del t\u00edmido Luis y Eva se entrega a Adri\u00e1n.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1214,
+                "name": "1975",
+                "slug": "1975",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1975"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 170121600,
+        "theater_release_date": 170121600,
+        "theater_spectators_formatted": null,
+        "title": "La otra virginidad",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-otra-virginidad",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 141,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-otra-virginidad.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-otra-virginidad/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-otra-virginidad/master.m3u8"
+                }
+            ]
+        },
+        "year": 1974
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Premio del jurado joven a la Mejor pel\u00edcula ",
+                "icon": "vancouver-latin-american-film-festival",
+                "name": " Vancouver Latin American Film Festival",
+                "slug": "vancouver-latin-american-film-festival",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Largometraje Mexicano Documental ",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Mejor obra realizada por una mujer ",
+                "icon": "festival-de-cine-invisible-filme-sozialak-bilbao-espana",
+                "name": "Festival de Cine Invisible Filme Sozialak Bilbao, Espa\u00f1a ",
+                "slug": "festival-de-cine-invisible-filme-sozialak-bilbao-espana",
+                "year": 2010
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica en la categor\u00eda Movimientos sociales y Organizaci\u00f3n ciudadana",
+                "icon": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "name": "Encuentro Hispanoamericano de Cine y Video Documental Independiente \"Contra el Silencio Todas las Voces\"",
+                "slug": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "year": 2010
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado de largometraje documental",
+                "icon": "international-film-festival-cine-las-americas",
+                "name": "International Film Festival Cine Las Americas",
+                "slug": "international-film-festival-cine-las-americas",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jacaranda Correa ",
+                "gender": "f",
+                "id": 411,
+                "slug": "jacaranda-correa",
+                "url": "https://www.filminlatino.mx/directora/jacaranda-correa"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Esta historia reinvindica la lucha por el sentido de la vida, la identidad y por el amor incondicional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 434,
+        "image_card": "https://static.filminlatino.mx/images/media/434/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/434/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/434/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/434/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 47,
+        "original_title": "Morir de pie",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 345,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/producer/canal-22"
+            },
+            {
+                "acronym": "",
+                "id": 393,
+                "name": "Martfilms",
+                "slug": "martfilms",
+                "url": "https://www.filminlatino.mx/producer/martfilms"
+            },
+            {
+                "acronym": "",
+                "id": 394,
+                "name": "Mediam9",
+                "slug": "mediam9",
+                "url": "https://www.filminlatino.mx/producer/mediam9"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "morir-de-pie",
+        "synopsis": "Documental que construye el crudo retrato de un luchador social con un gran parecido f\u00edsico e ideol\u00f3gico al Che Guevara. Al enfrentarse a una enfermedad mortal, decide emprender una revoluci\u00f3n personal, para recibir a la mujer que siempre llev\u00f3 dentro.",
+        "tags": [
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 898,
+                "name": "Derechos sexuales",
+                "slug": "derechos-sexuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-sexuales"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 815,
+                "name": "Cuerpos disidentes",
+                "slug": "cuerpos-disidentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuerpos-disidentes"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 871,
+                "name": "Todos cuentan",
+                "slug": "todos-cuentan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/todos-cuentan"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1343,
+                "name": "Especial Fetival Mix",
+                "slug": "especial-fetival-mix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fetival-mix"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1894,
+                "name": "Muestra Virtual de Cine, Arte y Discapacidad 2020",
+                "slug": "muestra-virtual-de-cine-arte-y-discapacidad-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-virtual-de-cine-arte-y-discapacidad-2020"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1321315200,
+        "theater_release_date": 1321315200,
+        "theater_spectators_formatted": null,
+        "title": "Morir de pie",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/morir-de-pie",
+        "versions": [
+            {
+                "codes": [],
+                "id": 356,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/morir-de-pie.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/morir-de-pie/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/morir-de-pie/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

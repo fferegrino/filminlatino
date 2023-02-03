@@ -1,0 +1,317 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lorenzo Hagerman",
+                "gender": "m",
+                "id": 181,
+                "slug": "lorenzo-hagerman",
+                "url": "https://www.filminlatino.mx/director/lorenzo-hagerman"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Este documental es un viaje \u00edntimo alrededor del mundo para descubrir c\u00f3mo se percibe la existencia cuando se rebasan los noventa a\u00f1os de edad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3977,
+        "image_card": "https://static.filminlatino.mx/images/media/3977/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3977/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3977/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/3/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/3977/2/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 34,
+        "original_title": "Still Here",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 536,
+                "name": "Cactus Film and Video",
+                "slug": "cactus-film-and-video",
+                "url": "https://www.filminlatino.mx/producer/cactus-film-and-video"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "aqui-sigo",
+        "synopsis": "El largometraje de Lorenzo Hagerman se centra en una cuesti\u00f3n social importante: el aumento de la poblaci\u00f3n de edad avanzada a nivel mundial. A trav\u00e9s del documental el realizador plasma la forma en\u00a0 que personas mayores se relacionan en su entorno y rompe las fronteras nacionales para contar esta historia en seis pa\u00edses diferentes.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 476,
+                "name": "Distanciamiento",
+                "slug": "distanciamiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/distanciamiento"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 1154,
+                "name": "Adultos mayores",
+                "slug": "adultos-mayores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adultos-mayores"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1262,
+                "name": "2016",
+                "slug": "2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2016"
+            },
+            {
+                "id": 1179,
+                "name": "Yucat\u00e1n",
+                "slug": "yucatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/yucatan"
+            },
+            {
+                "id": 829,
+                "name": "14\u00b0 FICM",
+                "slug": "140-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-ficm"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2490,
+                "name": "Despedidas",
+                "slug": "despedidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despedidas"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Aqu\u00ed sigo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/aqui-sigo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3305,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/aquisigo-trailer.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/aquisigo-trailer/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/aquisigo-trailer/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

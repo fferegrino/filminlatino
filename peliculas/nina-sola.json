@@ -1,0 +1,319 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "",
+                "name": "DOK Fest M\u00fcnchen",
+                "slug": "dok-fest-munchen",
+                "year": null
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "",
+                "name": "FotoFilm Tijuana",
+                "slug": "fotofilm-tijuana",
+                "year": null
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "",
+                "name": "FICUNAM",
+                "slug": "ficunam",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "festival-de-lima-peru",
+                "name": "Festival de Lima, Per\u00fa",
+                "slug": "festival-de-lima-peru",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Arcelia  Verduzco",
+                "gender": "f",
+                "id": 1723,
+                "slug": "arcelia-verduzco",
+                "url": "https://www.filminlatino.mx/character/arcelia-verduzco"
+            },
+            {
+                "full_name": "Bertha  Calder\u00f3n ",
+                "gender": "f",
+                "id": 1724,
+                "slug": "bertha-calderon",
+                "url": "https://www.filminlatino.mx/character/bertha-calderon"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Javier  \u00c1vila ",
+                "gender": "m",
+                "id": 5098,
+                "slug": "javier-avila",
+                "url": "https://www.filminlatino.mx/director/javier-avila"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "\u201cUno de los documentales mexicanos m\u00e1s desgarradores del a\u00f1o.\u201d -Forbes",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8798,
+        "image_card": "https://static.filminlatino.mx/images/media/8798/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/8798/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8798/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/8798/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/8798/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/8798/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/8798/2/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Ni\u00f1a sola",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "nina-sola",
+        "synopsis": "Tras el asesinato de Cintia, de 19 a\u00f1os, su madre y su hermana mayor comienza a explorar sus propias vidas, marcadas por relaciones de pareja abusivas. Ambas tratan de encontrar una explicaci\u00f3n al crimen y un nuevo sentido a sus vidas.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 488,
+                "name": "Discriminaci\u00f3n",
+                "slug": "discriminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/discriminacion"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2186,
+                "name": "Ruta Funciones Especiales | DNCM 2021",
+                "slug": "ruta-funciones-especiales-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-funciones-especiales-dncm-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ni\u00f1a sola",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nina-sola",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10134,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/NINA-SOLA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/NINA-SOLA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/NINA-SOLA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/NINA-SOLA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/NINA-SOLA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/NINA-SOLA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

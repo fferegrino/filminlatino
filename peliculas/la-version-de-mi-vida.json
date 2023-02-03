@@ -1,0 +1,334 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rosamund Pike",
+                "gender": "m",
+                "id": 1897,
+                "slug": "rosamund-pike",
+                "url": "https://www.filminlatino.mx/actor/rosamund-pike"
+            },
+            {
+                "full_name": "Paul Giamatti",
+                "gender": "m",
+                "id": 4216,
+                "slug": "paul-giamatti",
+                "url": "https://www.filminlatino.mx/actor/paul-giamatti"
+            },
+            {
+                "full_name": "Dustin Hoffman",
+                "gender": "m",
+                "id": 4217,
+                "slug": "dustin-hoffman",
+                "url": "https://www.filminlatino.mx/actor/dustin-hoffman"
+            },
+            {
+                "full_name": "Rachelle  Lefevre",
+                "gender": "f",
+                "id": 4179,
+                "slug": "rachelle-lefevre",
+                "url": "https://www.filminlatino.mx/actriz/rachelle-lefevre"
+            },
+            {
+                "full_name": "Scott  Speedman",
+                "gender": "m",
+                "id": 4354,
+                "slug": "scott-speedman",
+                "url": "https://www.filminlatino.mx/actor/scott-speedman"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": " Mejor maquillaje",
+                "icon": "nominada-al-oscar",
+                "name": "Nominada al Oscar",
+                "slug": "nominada-al-oscar",
+                "year": null
+            },
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "golden-globes-usa",
+                "name": "Golden Globes, USA",
+                "slug": "golden-globes-usa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Richard  Lewis",
+                "gender": "m",
+                "id": 1473,
+                "slug": "richard-lewis",
+                "url": "https://www.filminlatino.mx/director/richard-lewis"
+            }
+        ],
+        "duration_in_minutes": 135,
+        "excerpt": "Barney, un alcoh\u00f3lico y ex-productor de TV, empieza a recordar su vida cuando un enemigo publica un libro en el que habla de un asesinato en el que \u00e9l es el principal sospechoso.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2793,
+        "image_card": "https://static.filminlatino.mx/images/media/2793/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2793/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2793/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2793/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2793/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2793/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2793/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2793/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "Barney's Version",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1559,
+                "name": "Fandango",
+                "slug": "fandango",
+                "url": "https://www.filminlatino.mx/producer/fandango"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-version-de-mi-vida",
+        "synopsis": "La vida de Barney Panofsky, un viejo productor de televisi\u00f3n, amante del vino y aficionado al hockey, se cuenta en tres d\u00e9cadas y dos continentes, en los que sus matrimonios pasados, su padre extravagante y su encantador amigo, ser\u00e1n parte de su ingeniosa y ca\u00f3tica historia.",
+        "tags": [
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 133,
+                "name": "Cine sobre bodas",
+                "slug": "cine-sobre-bodas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-sobre-bodas"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 1085,
+                "name": "Conchas de Oro ",
+                "slug": "conchas-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conchas-de-oro"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 357,
+                "name": "Matrimonio",
+                "slug": "matrimonio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/matrimonio"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 2355,
+                "name": "Fiestas y tradiciones",
+                "slug": "fiestas-y-tradiciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-tradiciones"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La versi\u00f3n de mi vida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-version-de-mi-vida",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2679,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

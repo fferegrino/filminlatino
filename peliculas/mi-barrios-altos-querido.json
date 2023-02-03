@@ -1,0 +1,248 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Do\u00f1a Elsa ",
+                "gender": "f",
+                "id": 1032,
+                "slug": "dona-elsa",
+                "url": "https://www.filminlatino.mx/character/dona-elsa"
+            },
+            {
+                "full_name": "C\u00e9peda ",
+                "gender": "m",
+                "id": 1033,
+                "slug": "cepeda",
+                "url": "https://www.filminlatino.mx/character/cepeda"
+            },
+            {
+                "full_name": "El  Loco Willy ",
+                "gender": "m",
+                "id": 1034,
+                "slug": "el-loco-willy",
+                "url": "https://www.filminlatino.mx/character/el-loco-willy"
+            },
+            {
+                "full_name": "Anita ",
+                "gender": "f",
+                "id": 1035,
+                "slug": "anita",
+                "url": "https://www.filminlatino.mx/character/anita"
+            },
+            {
+                "full_name": "David ",
+                "gender": "m",
+                "id": 1036,
+                "slug": "david",
+                "url": "https://www.filminlatino.mx/character/david"
+            }
+        ],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jimmy Valdivieso",
+                "gender": "m",
+                "id": 4208,
+                "slug": "jimmy-valdivieso",
+                "url": "https://www.filminlatino.mx/director/jimmy-valdivieso"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "Cinco diferentes historias, cinco diferentes realidades en Barrios Altos, el lugar m\u00e1s querido y temido de Lima.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7398,
+        "image_card": "https://static.filminlatino.mx/images/media/7398/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7398/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7398/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7398/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/7398/3/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Mi Barrios Altos querido",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mi-barrios-altos-querido",
+        "synopsis": "Cinco historias sobre la dignidad en la capital del Per\u00fa. Una dirigente vecinal buscando a qui\u00e9n dejar la posta de su compleja labor, un gu\u00eda tur\u00edstico cultor del patrimonio arquitect\u00f3nico y la m\u00fasica criolla, un ex delincuente rescatado por la iglesia evang\u00e9lica, una adolescente danzante de m\u00fasica afro peruana obligada a emigrar y un muralista de Bellas Artes hijo de migrantes andinos; todos ellos\u00a0tratan de salir adelante en Barrios Altos, el vecindario hist\u00f3rico m\u00e1s\u00a0temido, pero tambi\u00e9n m\u00e1s querido,\u00a0de Lima.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mi Barrios Altos querido",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-barrios-altos-querido",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7886,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

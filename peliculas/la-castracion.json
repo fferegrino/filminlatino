@@ -1,0 +1,285 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Victoria Santaella",
+                "gender": "m",
+                "id": 1921,
+                "slug": "victoria-santaella",
+                "url": "https://www.filminlatino.mx/actor/victoria-santaella"
+            },
+            {
+                "full_name": "Keyla Wood",
+                "gender": "m",
+                "id": 1922,
+                "slug": "keyla-wood",
+                "url": "https://www.filminlatino.mx/actor/keyla-wood"
+            },
+            {
+                "full_name": "Paloma Woolrich",
+                "gender": "f",
+                "id": 157,
+                "slug": "paloma-woolrich",
+                "url": "https://www.filminlatino.mx/actriz/paloma-woolrich"
+            }
+        ],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [
+            {
+                "category": "Premio para el desarrollo del proyecto otorgado por Hubert Bals Fund",
+                "icon": "festival-internacional-de-cine-de-rotterdam",
+                "name": "Festival Internacional de Cine de Rotterdam",
+                "slug": "festival-internacional-de-cine-de-rotterdam",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-hermosillo-mexico",
+                "name": "Festival Internacional de Cine de Hermosillo, M\u00e9xico",
+                "slug": "festival-internacional-de-cine-de-hermosillo-mexico",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Iv\u00e1n L\u00f6wenberg",
+                "gender": "m",
+                "id": 703,
+                "slug": "ivan-lowenberg",
+                "url": "https://www.filminlatino.mx/director/ivan-lowenberg"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "\u00d3pera prima de Iv\u00e1n L\u00f6wenberg.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1073,
+        "image_card": "https://static.filminlatino.mx/images/media/1073/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1073/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1073/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1073/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1073/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1073/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "La castraci\u00f3n",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 707,
+                "name": "Tr\u00edpode",
+                "slug": "tripode",
+                "url": "https://www.filminlatino.mx/producer/tripode"
+            },
+            {
+                "acronym": "",
+                "id": 706,
+                "name": "Zamora Films",
+                "slug": "zamora-films",
+                "url": "https://www.filminlatino.mx/producer/zamora-films"
+            },
+            {
+                "acronym": "",
+                "id": 705,
+                "name": "Rosa Galguera",
+                "slug": "rosa-galguera",
+                "url": "https://www.filminlatino.mx/producer/rosa-galguera"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-castracion",
+        "synopsis": "Lourdes tiene casi 24, trabaja en una agencia de casting y cuida a su padre inv\u00e1lido, ya que su madre los abandon\u00f3 hace varios a\u00f1os sin mayor explicaci\u00f3n. Extra\u00f1o para su edad, y a pesar de la gu\u00eda de su mejor amiga Victoria, Lourdes nunca ha tenido novio, ni un beso, ni nada. Un d\u00eda, su madre regresa a casa, sacudiendo viejas heridas.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 108,
+                "name": "Despertar sexual",
+                "slug": "despertar-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despertar-sexual"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 815,
+                "name": "Cuerpos disidentes",
+                "slug": "cuerpos-disidentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuerpos-disidentes"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1077,
+                "name": "Iv\u00e1n L\u00f6wenberg",
+                "slug": "ivan-lowenberg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ivan-lowenberg"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1332374400,
+        "theater_release_date": 1332374400,
+        "theater_spectators_formatted": null,
+        "title": "La castraci\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-castracion",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 764,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-castracion.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-castracion/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-castracion/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jose \u00c1lvarez",
+                "gender": "m",
+                "id": 437,
+                "slug": "jose-alvarez",
+                "url": "https://www.filminlatino.mx/director/jose-alvarez"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Retrato \u00edntimo que muestra, entre otras cosas, la forma en que los wirr\u00e1rikas se relacionan con los dioses a trav\u00e9s de los sue\u00f1os y el peyote.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 468,
+        "image_card": "https://static.filminlatino.mx/images/media/468/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/468/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/468/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/468/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/468/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/468/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Flores en el desierto",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "flores-en-el-desierto",
+        "synopsis": "No es un s\u00f3lo un documental que narra algunas de las costumbres de la etnia de los wirr\u00e1rikas (conocidos como huicholes), que habitan en lo alto de la sierra de Jalisco y Nayarit; es un acercamiento intimo que nos revela una cultura que ha sobrevivido a los diversos cambios de la globalizaci\u00f3n y que posee una cosmogon\u00eda centrada en algunos elementos de la naturaleza tales como: el agua, el fuego, el aire y la tierra.",
+        "tags": [
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 482,
+                "name": "Huicholes ",
+                "slug": "huicholes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/huicholes"
+            },
+            {
+                "id": 483,
+                "name": "Wirikuta",
+                "slug": "wirikuta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/wirikuta"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1713,
+                "name": "D\u00eda Mundial del Patrimonio Audiovisual",
+                "slug": "dia-mundial-del-patrimonio-audiovisual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-mundial-del-patrimonio-audiovisual"
+            },
+            {
+                "id": 1951,
+                "name": "Especial UDG",
+                "slug": "especial-udg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-udg"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "Flores en el desierto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/flores-en-el-desierto",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 364,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/flores-en-el-desierto.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/flores-en-el-desierto/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/flores-en-el-desierto/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,271 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Catalina Saavedra",
+                "gender": "f",
+                "id": 4008,
+                "slug": "catalina-saavedra",
+                "url": "https://www.filminlatino.mx/actriz/catalina-saavedra"
+            },
+            {
+                "full_name": "Claudia Celed\u00f3n",
+                "gender": "f",
+                "id": 4009,
+                "slug": "claudia-celedon",
+                "url": "https://www.filminlatino.mx/actriz/claudia-celedon"
+            },
+            {
+                "full_name": "Mariana Loyola",
+                "gender": "f",
+                "id": 4010,
+                "slug": "mariana-loyola",
+                "url": "https://www.filminlatino.mx/actriz/mariana-loyola"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula iberoamericana ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "globo-de-oro",
+                "name": "Globo de Oro",
+                "slug": "globo-de-oro",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula de habla no inglesa",
+                "icon": "satellite-awards",
+                "name": "Satellite Awards",
+                "slug": "satellite-awards",
+                "year": 2009
+            },
+            {
+                "category": "Gran premio del jurado",
+                "icon": "",
+                "name": " Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sebasti\u00e1n Silva",
+                "gender": "m",
+                "id": 1385,
+                "slug": "sebastian-silva",
+                "url": "https://www.filminlatino.mx/director/sebastian-silva"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "Raquel es \u201cLa Nana\u201d, una persona seria, primitiva, intimidante y reservada. Su \u00fanico objetivo es llevar adelante la organizaci\u00f3n y limpieza de la gran casa de los Vald\u00e9s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2665,
+        "image_card": "https://static.filminlatino.mx/images/media/2665/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2665/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2665/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2665/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2665/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "The maid",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 522,
+                "name": "Forastero",
+                "slug": "forastero",
+                "url": "https://www.filminlatino.mx/producer/forastero"
+            },
+            {
+                "acronym": "",
+                "id": 1583,
+                "name": "Punto Gui\u00f3n Punto Producciones",
+                "slug": "punto-guion-punto-producciones",
+                "url": "https://www.filminlatino.mx/producer/punto-guion-punto-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-nana",
+        "synopsis": "Raquel, una mujer agria e introvertida, lleva 23 a\u00f1os trabajando de ni\u00f1era para los Vald\u00e9s, una familia de clase alta de Santiago. Un d\u00eda, Pilar, su patrona, contrata a otra ni\u00f1era para ayudarla. Raquel, sintiendo peligrar su lugar en la familia, espanta a la reci\u00e9n llegada con crueles e infantiles maltratos psicol\u00f3gicos. Esta situaci\u00f3n se repite una y otra vez hasta que llega Lucy, una risue\u00f1a mujer de provincias, que logra atravesar la coraza de Raquel y cambiar su forma de ver la vida.",
+        "tags": [
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 532,
+                "name": "Malos tratos",
+                "slug": "malos-tratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/malos-tratos"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 974,
+                "name": "Recomendadas de Gonzalo Lira",
+                "slug": "recomendadas-de-gonzalo-lira",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-gonzalo-lira"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La nana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-nana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2107,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-nana.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-nana/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-nana/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

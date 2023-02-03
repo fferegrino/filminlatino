@@ -1,0 +1,240 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Ganador",
+                "icon": "",
+                "name": "Concurso de Proyectos de Documental CONACINE 2009",
+                "slug": "concurso-de-proyectos-de-documental-conacine-2009",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Amanda Gonz\u00e1les",
+                "gender": "f",
+                "id": 2181,
+                "slug": "amanda-gonzales",
+                "url": "https://www.filminlatino.mx/directora/amanda-gonzales"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Un experimentado periodista rescata el caso La Cantuta, para poder redactar y publicar un libro de dicho suceso muy destacado en el periodismo lime\u00f1o.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4843,
+        "image_card": "https://static.filminlatino.mx/images/media/4843/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4843/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4843/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4843/2/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "La Cantuta en la boca del diablo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1994,
+                "name": "TV Cultura",
+                "slug": "tv-cultura",
+                "url": "https://www.filminlatino.mx/producer/tv-cultura"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-cantuta-en-la-boca-del-diablo",
+        "synopsis": "Edmundo Cruz, un experimentado periodista, ha decidido rescatar uno de los casos de investigaci\u00f3n que m\u00e1s lo marcaron, el caso La Cantuta, para poder redactar y publicar un libro de dicho suceso muy destacado en el periodismo lime\u00f1o. Su trabajo result\u00f3 fundamental para que se encontraran pruebas sobre el crimen que ha condenado al ex presidente Alberto Fujimori a 25 a\u00f1os de c\u00e1rcel.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 335,
+                "name": "Investigaci\u00f3n cient\u00edfica",
+                "slug": "investigacion-cientifica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/investigacion-cientifica"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1301616000,
+        "theater_release_date": 1301616000,
+        "theater_spectators_formatted": null,
+        "title": "La Cantuta en la boca del diablo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-cantuta-en-la-boca-del-diablo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4180,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Cantuta.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Cantuta/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Cantuta/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "festival-de-cine-verde-de-barichara-festiver-colombia",
+                "name": "Festival de Cine Verde de Barichara (Festiver), Colombia",
+                "slug": "festival-de-cine-verde-de-barichara-festiver-colombia",
+                "year": 2014
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-alamos",
+                "name": "Festival Internacional de Cine de \u00c1lamos",
+                "slug": "festival-internacional-de-cine-de-alamos",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francesco Taboada Tabone",
+                "gender": "m",
+                "id": 485,
+                "slug": "francesco-taboada-tabone",
+                "url": "https://www.filminlatino.mx/director/francesco-taboada-tabone"
+            }
+        ],
+        "duration_in_minutes": 59,
+        "excerpt": "Maguey: s\u00edmbolo de toda una naci\u00f3n, que actualmente est\u00e1 en peligro de extinci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 506,
+        "image_card": "https://static.filminlatino.mx/images/media/506/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/506/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/506/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/506/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/506/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/506/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/506/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "Maguey",
+        "producers": [
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "FONCA",
+                "id": 25,
+                "name": "Fondo Nacional para la Cultura y las Artes ",
+                "slug": "fondo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-nacional-para-la-cultura-y-las-artes"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "maguey",
+        "synopsis": "Maguey es una pel\u00edcula que muestra la vigencia de la planta del maguey en la sociedad campesina e ind\u00edgena, as\u00ed como su apabullante influencia en el arte y pol\u00edtica mexicana. Un s\u00edmbolo de identidad, hoy el maguey ha sido declarado en peligro de extinci\u00f3n por la FAO. Actualmente comunidades otom\u00edes y nahuas se esfuerzan por preservar la ritualidad y cosmovisi\u00f3n que envuelven a esta planta.",
+        "tags": [
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 457,
+                "name": "Sin actores",
+                "slug": "sin-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sin-actores"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 1071,
+                "name": "Francesco Taboada",
+                "slug": "francesco-taboada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/francesco-taboada"
+            },
+            {
+                "id": 1133,
+                "name": "Eco friendly",
+                "slug": "eco-friendly",
+                "url": "https://www.filminlatino.mx/catalogo/tema/eco-friendly"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 337,
+                "name": "Prehisp\u00e1nico",
+                "slug": "prehispanico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prehispanico"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1468,
+                "name": "Para maratonear ",
+                "slug": "para-maratonear",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-maratonear"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1804,
+                "name": "Xquenda (Origen) | MIC Istmo",
+                "slug": "xquenda-origen-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/xquenda-origen-mic-istmo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1389225600,
+        "theater_release_date": 1389225600,
+        "theater_spectators_formatted": null,
+        "title": "Maguey",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/maguey",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 381,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/maguey.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/maguey/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/maguey/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

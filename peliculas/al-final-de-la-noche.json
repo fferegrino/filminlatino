@@ -1,0 +1,226 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo  \u00c1lvarez Flores",
+                "gender": "m",
+                "id": 2085,
+                "slug": "rodrigo-alvarez-flores",
+                "url": "https://www.filminlatino.mx/director/rodrigo-alvarez-flores"
+            }
+        ],
+        "duration_in_minutes": 17,
+        "excerpt": "Dos hermanos se involucran en un crimen. Juntos enfrentar\u00e1n la duda que los llevar\u00e1 a tomar una decisi\u00f3n que cambiar\u00e1 su vida para siempre.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9411,
+        "image_card": "https://static.filminlatino.mx/images/media/9411/1/card_0_3.jpg",
+        "image_poster": null,
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9411/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/9411/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/9411/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/9411/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/9411/2/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Al final de la noche",
+        "producers": [],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "al-final-de-la-noche",
+        "synopsis": "Javier y Andr\u00e9s son hermanos y se involucran en un crimen. Juntos enfrentar\u00e1n la duda que los llevar\u00e1 a tomar una decisi\u00f3n que cambiar\u00e1 su vida para siempre. Cortometraje dirigido por Rodrigo \u00c1lvarez Flores, director de \u2018Al otro Lado\u2019 2017, \u2018Vigilante\u2019 2017, \u2018Mem\u00edn: Cr\u00f3nica de un boxeador\u2019 2014 y \u2018Viaggio\u2019 2014 entre otros.\u00a0<br>",
+        "tags": [
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 892,
+                "name": "Drama en corto",
+                "slug": "drama-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-en-corto"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1926,
+                "name": "Cortometraje M\u00e9xico ",
+                "slug": "cortometraje-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje-mexico"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 723,
+                "name": "Hermanos Problem\u00e1ticos",
+                "slug": "hermanos-problematicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos-problematicos"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 714,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2696,
+                "name": "Retrospectiva Kristyan Ferrer | Shorts M\u00e9xico 2022",
+                "slug": "retrospectiva-kristyan-ferrer-shorts-mexico-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-kristyan-ferrer-shorts-mexico-2022"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2693,
+                "name": "17\u00ba edici\u00f3n Shorts MX",
+                "slug": "17o-edicion-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/17o-edicion-shorts-mx"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Al final de la noche",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/al-final-de-la-noche",
+        "versions": [],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

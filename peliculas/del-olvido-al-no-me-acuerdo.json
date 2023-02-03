@@ -1,0 +1,441 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Justo Peralta",
+                "gender": "m",
+                "id": 488,
+                "slug": "justo-peralta",
+                "url": "https://www.filminlatino.mx/actor/justo-peralta"
+            },
+            {
+                "full_name": "Jes\u00fas Ram\u00edrez",
+                "gender": "m",
+                "id": 490,
+                "slug": "jesus-ramirez",
+                "url": "https://www.filminlatino.mx/actor/jesus-ramirez"
+            },
+            {
+                "full_name": "Juan Jos\u00e9 Arreola",
+                "gender": "m",
+                "id": 491,
+                "slug": "juan-jose-arreola",
+                "url": "https://www.filminlatino.mx/actor/juan-jose-arreola"
+            },
+            {
+                "full_name": "Rebeca Jim\u00e9nez",
+                "gender": "f",
+                "id": 489,
+                "slug": "rebeca-jimenez",
+                "url": "https://www.filminlatino.mx/actriz/rebeca-jimenez"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Premio Golden Gate al Mejor Documental Testimonial",
+                "icon": "festival-internacional-de-cine-de-san-francisco",
+                "name": "Festival Internacional de Cine de San Francisco",
+                "slug": "festival-internacional-de-cine-de-san-francisco",
+                "year": 1999
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1999
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1999
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1999
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1999
+            },
+            {
+                "category": "Mejor Pel\u00edcula de la Organizaci\u00f3n Cat\u00f3lica Internacional de Cine",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 1999
+            },
+            {
+                "category": "Menci\u00f3n especial de la Organizaci\u00f3n Cat\u00f3lica Internacional de Cine",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano en La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "year": 1999
+            },
+            {
+                "category": "Mejor Cartel",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano en La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "year": 1999
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-de-biarritz-de-cine-y-culturas-de-america-latina-francia",
+                "name": "Festival de Biarritz de Cine y Culturas de Am\u00e9rica Latina, Francia",
+                "slug": "festival-de-biarritz-de-cine-y-culturas-de-america-latina-francia",
+                "year": 1999
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-de-malaga-espana",
+                "name": "Festival de Cine de M\u00e1laga, Espa\u00f1a",
+                "slug": "festival-de-cine-de-malaga-espana",
+                "year": 1999
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-del-cine-del-mundo-de-montreal-canada",
+                "name": "Festival del Cine del Mundo de Montr\u00e9al, Canad\u00e1",
+                "slug": "festival-del-cine-del-mundo-de-montreal-canada",
+                "year": 1999
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor pel\u00edcula hispanoamericana",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Carlos  Rulfo",
+                "gender": "m",
+                "id": 160,
+                "slug": "juan-carlos-rulfo",
+                "url": "https://www.filminlatino.mx/director/juan-carlos-rulfo"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Un homenaje a la memoria colectiva del M\u00e9xico de finales del siglo veinte, a Juan Rulfo y a todos aquellos que lo conocieron... aunque no se acuerden de \u00e9l.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 170,
+        "image_card": "https://static.filminlatino.mx/images/media/170/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/170/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/170/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/170/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/170/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 66,
+        "original_title": "Del olvido al no me acuerdo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 88,
+                "name": "La Media Luna Producciones",
+                "slug": "la-media-luna-producciones",
+                "url": "https://www.filminlatino.mx/producer/la-media-luna-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 89,
+                "name": "Producciones por Marca",
+                "slug": "producciones-por-marca",
+                "url": "https://www.filminlatino.mx/producer/producciones-por-marca"
+            },
+            {
+                "acronym": "",
+                "id": 90,
+                "name": "Secretar\u00eda de Cultura del Estado de Colima",
+                "slug": "secretaria-de-cultura-del-estado-de-colima",
+                "url": "https://www.filminlatino.mx/producer/secretaria-de-cultura-del-estado-de-colima"
+            },
+            {
+                "acronym": "",
+                "id": 91,
+                "name": "Fundaci\u00f3n Rockefeller",
+                "slug": "fundacion-rockefeller",
+                "url": "https://www.filminlatino.mx/producer/fundacion-rockefeller"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "del-olvido-al-no-me-acuerdo",
+        "synopsis": "La memoria y los recuerdos de un grupo de ancianos y adultos del estado mexicano de Jalisco. El pretexto es la b\u00fasqueda de Juan, del que nadie recuerda nada. El af\u00e1n por armar el rompecabezas en el que se ha convertido como si fuese un mito, nos lleva a descubrir a personajes entra\u00f1ables. \"Del olvido al no me acuerdo\" se rod\u00f3 en Llano Grande, Jalisco, de donde es originaria la familia Rulfo, con el apoyo distintos fondos culturales de M\u00e9xico y los Estados Unidos. Su t\u00edtulo original era \"Los desmemoriados\", en alusi\u00f3n a la fragilidad de los recuerdos. Sin embargo, \"Del olvido al no me acuerdo\" result\u00f3, en palabras de su director, un t\u00edtulo m\u00e1s apropiado porque reproduce el sentimiento de los entrevistados. El personaje que todos nombran \"Juan\" no es otro que el escritor Juan Rulfo, autor de \"El llano en llamas\" y \"Pedro P\u00e1ramo\", dos de las obras m\u00e1s importantes de la literatura mexicana. La cinta es, seg\u00fan su director, parecida a la novela de su padre, en la que tambi\u00e9n un hijo busca a su progenitor. \"Del olvido al no me acuerdo\" es mitad documental y mitad testimonio sobre la vida del gran escritor jalisciense. Un homenaje a la memoria colectiva del M\u00e9xico de finales del siglo veinte, a Juan Rulfo y a todos aquellos que lo conocieron... aunque no se acuerden de \u00e9l.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 291,
+                "name": "Difuntos",
+                "slug": "difuntos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/difuntos"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 589,
+                "name": "D\u00eda de Muertos ",
+                "slug": "dia-de-muertos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos"
+            },
+            {
+                "id": 616,
+                "name": "Juan Rulfo",
+                "slug": "juan-rulfo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juan-rulfo"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1251,
+                "name": "1999",
+                "slug": "1999",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1999"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1216,
+                "name": "Jalisco",
+                "slug": "jalisco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jalisco"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 2021,
+                "name": "Ciclo: Acercamiento a autores desde el cine",
+                "slug": "ciclo-acercamiento-a-autores-desde-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-acercamiento-a-autores-desde-el-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            },
+            {
+                "id": 2320,
+                "name": "D\u00eda de muertos | Cine Club UG",
+                "slug": "dia-de-muertos-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-muertos-cine-club-ug"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2328,
+                "name": "Conmemorando a Nuestros Muertos 2021",
+                "slug": "conmemorando-a-nuestros-muertos-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conmemorando-a-nuestros-muertos-2021"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Del olvido al no me acuerdo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/del-olvido-al-no-me-acuerdo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 82,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/del-olivo-no-me-acuerdo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/del-olivo-no-me-acuerdo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/del-olivo-no-me-acuerdo/master.m3u8"
+                }
+            ]
+        },
+        "year": 1999
+    }
+}

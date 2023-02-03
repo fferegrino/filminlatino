@@ -1,0 +1,307 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-internacional-de-cine-del-medio-ambiente-francia",
+                "name": "Festival Internacional de Cine del Medio Ambiente, Francia",
+                "slug": "festival-internacional-de-cine-del-medio-ambiente-francia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor dise\u00f1o sonoro  ",
+                "icon": "diagonale-film-festival",
+                "name": "Diagonale Film Festival",
+                "slug": "diagonale-film-festival",
+                "year": 2013
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-iberoamericano-de-cine-digital",
+                "name": "Festival Iberoamericano de Cine Digital",
+                "slug": "festival-iberoamericano-de-cine-digital",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lisa Tillinger",
+                "gender": "f",
+                "id": 846,
+                "slug": "lisa-tillinger",
+                "url": "https://www.filminlatino.mx/directora/lisa-tillinger"
+            },
+            {
+                "full_name": "Gerardo Barroso Alcal\u00e1",
+                "gender": "m",
+                "id": 847,
+                "slug": "gerardo-barroso-alcala",
+                "url": "https://www.filminlatino.mx/director/gerardo-barroso-alcala"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "La vida en la bulliciosa Calle L\u00f3pez en el centro hist\u00f3rico de la Ciudad de M\u00e9xico es un microcosmos de la sociedad mexicana en este trabajo de poes\u00eda visual.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1326,
+        "image_card": "https://static.filminlatino.mx/images/media/1326/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1326/8/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1326/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1326/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1326/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1326/11/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 35,
+        "original_title": "Calle L\u00f3pez",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            },
+            {
+                "acronym": "",
+                "id": 930,
+                "name": "Ki Visual",
+                "slug": "ki-visual",
+                "url": "https://www.filminlatino.mx/producer/ki-visual"
+            },
+            {
+                "acronym": "",
+                "id": 944,
+                "name": "Ajenjo Cine",
+                "slug": "ajenjo-cine",
+                "url": "https://www.filminlatino.mx/producer/ajenjo-cine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "calle-lopez",
+        "synopsis": "Una pel\u00edcula ubicada entre el documental microsocial y la sinfon\u00eda urbana. Relato de personajes que trabajan y habitan una de las calles mas estruendosas y vivas del centro hist\u00f3rico de la Ciudad de M\u00e9xico: la calle L\u00f3pez.",
+        "tags": [
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 498,
+                "name": "Vecindad",
+                "slug": "vecindad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecindad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 519,
+                "name": "Barrio",
+                "slug": "barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barrio"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1031,
+                "name": "Axolote",
+                "slug": "axolote",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axolote"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Calle L\u00f3pez",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/calle-lopez",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 810,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/calle-lopez.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/calle-lopez/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/calle-lopez/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mark Ivanir",
+                "gender": "m",
+                "id": 1428,
+                "slug": "mark-ivanir",
+                "url": "https://www.filminlatino.mx/actor/mark-ivanir"
+            },
+            {
+                "full_name": "Noah Silver",
+                "gender": "m",
+                "id": 1429,
+                "slug": "noah-silver",
+                "url": "https://www.filminlatino.mx/actor/noah-silver"
+            },
+            {
+                "full_name": "Reymonde Amsallem",
+                "gender": "m",
+                "id": 1430,
+                "slug": "reymonde-amsallem",
+                "url": "https://www.filminlatino.mx/actor/reymonde-amsallem"
+            },
+            {
+                "full_name": "Gila Almagor",
+                "gender": "m",
+                "id": 1431,
+                "slug": "gila-almagor",
+                "url": "https://www.filminlatino.mx/actor/gila-almagor"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Premio SIGNIS",
+                "icon": "festival-internacional-de-cine-de-hong-kong",
+                "name": "Festival Internacional de Cine de Hong Kong",
+                "slug": "festival-internacional-de-cine-de-hong-kong",
+                "year": 2010
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-internacional-de-cine-de-locarno",
+                "name": "Festival Internacional de Cine de Locarno",
+                "slug": "festival-internacional-de-cine-de-locarno",
+                "year": 2010
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "festival-internacional-de-cine-de-valladolid",
+                "name": "Festival Internacional de Cine de Valladolid",
+                "slug": "festival-internacional-de-cine-de-valladolid",
+                "year": 2010
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-de-la-academia-de-cine-israeli",
+                "name": "Premios de la Academia de Cine Israel\u00ed",
+                "slug": "premios-de-la-academia-de-cine-israeli",
+                "year": 2010
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-de-la-academia-de-cine-israeli",
+                "name": "Premios de la Academia de Cine Israel\u00ed",
+                "slug": "premios-de-la-academia-de-cine-israeli",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "premios-de-la-academia-de-cine-israeli",
+                "name": "Premios de la Academia de Cine Israel\u00ed",
+                "slug": "premios-de-la-academia-de-cine-israeli",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-haifa",
+                "name": "Festival Internacional de Cine de Haifa",
+                "slug": "festival-internacional-de-cine-de-haifa",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 103,
+                "name": "Israel",
+                "slug": "israel",
+                "url": "https://www.filminlatino.mx/catalogo/pais/israel"
+            },
+            {
+                "id": 188,
+                "name": "Rumania",
+                "slug": "rumania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/rumania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eran Riklis",
+                "gender": "m",
+                "id": 537,
+                "slug": "eran-riklis",
+                "url": "https://www.filminlatino.mx/director/eran-riklis"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "Una especie de comedia negra con pleno dominio del absurdo. Una pel\u00edcula peque\u00f1a, \u00edntima, inteligente y sensible.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1346,
+        "image_card": "https://static.filminlatino.mx/images/media/1346/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1346/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1346/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1346/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1346/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 26,
+        "original_title": "The Human Resources Manager",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 595,
+                "name": "Pallas Film",
+                "slug": "pallas-film",
+                "url": "https://www.filminlatino.mx/producer/pallas-film"
+            },
+            {
+                "acronym": "",
+                "id": 598,
+                "name": "EZ Films",
+                "slug": "ez-films",
+                "url": "https://www.filminlatino.mx/producer/ez-films"
+            },
+            {
+                "acronym": "",
+                "id": 596,
+                "name": "Libra Film",
+                "slug": "libra-film",
+                "url": "https://www.filminlatino.mx/producer/libra-film"
+            },
+            {
+                "acronym": "",
+                "id": 594,
+                "name": "2-Team Productions",
+                "slug": "2-team-productions",
+                "url": "https://www.filminlatino.mx/producer/2-team-productions"
+            },
+            {
+                "acronym": "",
+                "id": 597,
+                "name": "Pie Films",
+                "slug": "pie-films",
+                "url": "https://www.filminlatino.mx/producer/pie-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-gerente-de-recursos-humanos",
+        "synopsis": "El gerente de recursos humanos de la panader\u00eda m\u00e1s grande de Jerusal\u00e9n tiene serios problemas: est\u00e1 separado de su mujer, distanciado de su hija y atrapado en un trabajo que odia. Cuando una de sus empleadas, de origen extranjero, muere debido a la explosi\u00f3n de un hombre-bomba y su cuerpo no es reclamado por nadie, se acusa a la panader\u00eda de inhumanidad. Es por esto que al gerente de recursos humanos se le encarga que haga todo lo posible por enmendar la situaci\u00f3n.",
+        "tags": [
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1158,
+                "name": "Mujeres del Medio Oriente ",
+                "slug": "mujeres-del-medio-oriente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-medio-oriente"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 455,
+                "name": "Atentado",
+                "slug": "atentado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/atentado"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 55,
+                "name": "Cine negro",
+                "slug": "cine-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-negro"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1308268800,
+        "theater_release_date": 1308268800,
+        "theater_spectators_formatted": null,
+        "title": "El gerente de recursos humanos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-gerente-de-recursos-humanos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 872,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-gerente-de-recursos-humanos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-gerente-de-recursos-humanos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-gerente-de-recursos-humanos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

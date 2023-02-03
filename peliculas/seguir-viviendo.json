@@ -1,0 +1,364 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Nora Huerta",
+                "gender": "f",
+                "id": 994,
+                "slug": "nora-huerta",
+                "url": "https://www.filminlatino.mx/actriz/nora-huerta"
+            },
+            {
+                "full_name": "Kaleb Garc\u00eda Andrade",
+                "gender": "m",
+                "id": 995,
+                "slug": "kaleb-garcia-andrade",
+                "url": "https://www.filminlatino.mx/actor/kaleb-garcia-andrade"
+            },
+            {
+                "full_name": "Jade Garc\u00eda Andrade",
+                "gender": "f",
+                "id": 996,
+                "slug": "jade-garcia-andrade",
+                "url": "https://www.filminlatino.mx/actriz/jade-garcia-andrade"
+            },
+            {
+                "full_name": "Tito Vasconcelos",
+                "gender": "m",
+                "id": 997,
+                "slug": "tito-vasconcelos",
+                "url": "https://www.filminlatino.mx/actor/tito-vasconcelos"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Revelaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2014
+            },
+            {
+                "category": "Premio del jurado joven",
+                "icon": "festival-de-cine-mexicano-de-durango",
+                "name": "Festival de Cine Mexicano de Durango",
+                "slug": "festival-de-cine-mexicano-de-durango",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandra S\u00e1nchez",
+                "gender": "f",
+                "id": 347,
+                "slug": "alejandra-sanchez",
+                "url": "https://www.filminlatino.mx/directora/alejandra-sanchez"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Protagonizada por los dos adolescentes a quienes les ocurri\u00f3 esta historia, logran con su participaci\u00f3n un entramado entre la realidad y la ficci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 410,
+        "image_card": "https://static.filminlatino.mx/images/media/410/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/410/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/410/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/410/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/410/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/410/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Seguir viviendo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 264,
+                "name": "Pepa Films ",
+                "slug": "pepa-films",
+                "url": "https://www.filminlatino.mx/producer/pepa-films"
+            },
+            {
+                "acronym": "",
+                "id": 342,
+                "name": "Los Cuates Films ",
+                "slug": "los-cuates-films",
+                "url": "https://www.filminlatino.mx/producer/los-cuates-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "seguir-viviendo",
+        "synopsis": "Dos ni\u00f1os que huyen de Ciudad Ju\u00e1rez amenazados de muerte y una periodista que perdi\u00f3 a su hijo en un accidente automovil\u00edstico se encuentran y se hacen familia. Durante un largo viaje, pero en breve tiempo, todo girar\u00e1 alrededor de la muerte, del fr\u00e1gil universo del amor y de lo que acorrala a la vida.",
+        "tags": [
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 330,
+                "name": "Fraternidad",
+                "slug": "fraternidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fraternidad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1343,
+                "name": "Especial Fetival Mix",
+                "slug": "especial-fetival-mix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fetival-mix"
+            },
+            {
+                "id": 1366,
+                "name": "Revelaci\u00f3n femenina Ariel",
+                "slug": "revelacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revelacion-femenina-ariel"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1416614400,
+        "theater_release_date": 1416614400,
+        "theater_spectators_formatted": null,
+        "title": "Seguir viviendo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/seguir-viviendo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 377,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/seguir-viviendo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/seguir-viviendo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/seguir-viviendo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

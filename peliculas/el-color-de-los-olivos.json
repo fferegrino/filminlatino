@@ -1,0 +1,227 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "name": "Festival Internacional de Cine de Canc\u00fan y la Riviera Maya",
+                "slug": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "year": 2011
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Women Film Critics Circle Awards",
+                "slug": "women-film-critics-circle-awards",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Big Sky Documentary Festival",
+                "slug": "big-sky-documentary-festival",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Doc\u00fapolis",
+                "slug": "docupolis",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Cine Pobre",
+                "slug": "festival-cine-pobre",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "",
+                "name": "Golden Minbar",
+                "slug": "golden-minbar",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival Voces Contra el Silencio",
+                "slug": "festival-voces-contra-el-silencio",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 182,
+                "name": "Estado de Palestina",
+                "slug": "estado-de-palestina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estado-de-palestina"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carolina Rivas",
+                "gender": "f",
+                "id": 648,
+                "slug": "carolina-rivas",
+                "url": "https://www.filminlatino.mx/directora/carolina-rivas"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "El documental nos revela un mundo desconocido del pueblo palestino.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 988,
+        "image_card": "https://static.filminlatino.mx/images/media/988/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/988/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/988/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/988/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/988/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/988/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/988/5/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "El color de los olivos",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-color-de-los-olivos",
+        "synopsis": "Como muchas familias palestinas, la familia Amer vive rodeada por el muro en Cisjordania. Su vida cotidiana est\u00e1 dominada por puertas electrificadas, candados y la presencia constante de soldados. A trav\u00e9s de un lente sensible, descubrimos el mundo privado de los ocho miembros de la familia. En el transcurrir de sus d\u00edas se revelan sus luchas constantes y los peque\u00f1os detalles de su vida: incluyendo las amistades de la escuela, \u00e1rboles de olivo y dos burros. La historia de la familia Amer constituye un punto de partida para hacer una compleja reflexi\u00f3n sobre los efectos de la segregaci\u00f3n racial, las fronteras y lo absurdo de la guerra. El documental nos revela un mundo desconocido del pueblo palestino.",
+        "tags": [
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 530,
+                "name": "Conflicto Oriente Medio",
+                "slug": "conflicto-oriente-medio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-oriente-medio"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1141171200,
+        "theater_release_date": 1141171200,
+        "theater_spectators_formatted": null,
+        "title": "El color de los olivos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-color-de-los-olivos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 6032,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2006
+    }
+}

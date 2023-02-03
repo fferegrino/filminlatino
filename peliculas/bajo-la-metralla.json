@@ -1,0 +1,530 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            },
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            },
+            {
+                "full_name": "Humberto Zurita",
+                "gender": "m",
+                "id": 504,
+                "slug": "humberto-zurita",
+                "url": "https://www.filminlatino.mx/actor/humberto-zurita"
+            },
+            {
+                "full_name": "Alejandro Camacho",
+                "gender": "m",
+                "id": 505,
+                "slug": "alejandro-camacho",
+                "url": "https://www.filminlatino.mx/actor/alejandro-camacho"
+            },
+            {
+                "full_name": "Manuel Ojeda",
+                "gender": "m",
+                "id": 534,
+                "slug": "manuel-ojeda",
+                "url": "https://www.filminlatino.mx/actor/manuel-ojeda"
+            },
+            {
+                "full_name": "Salvador S\u00e1nchez",
+                "gender": "m",
+                "id": 608,
+                "slug": "salvador-sanchez",
+                "url": "https://www.filminlatino.mx/actor/salvador-sanchez"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1983
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1983
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1983
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Felipe Cazals",
+                "gender": "m",
+                "id": 74,
+                "slug": "felipe-cazals",
+                "url": "https://www.filminlatino.mx/director/felipe-cazals"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Solos, perseguidos, acorralados, violentos: ellos nos dicen qu\u00e9 es la guerrilla urbana y exponen la realidad de una \u00e9poca.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 18,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/accion"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 269,
+        "image_card": "https://static.filminlatino.mx/images/media/269/3/card_0_3.png",
+        "image_poster": null,
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/269/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/269/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/269/5/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/269/5/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/269/7/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/269/6/still_6_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 77,
+        "original_title": "Bajo la metralla",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "bajo-la-metralla",
+        "synopsis": "Un comando guerrillero trata de secuestrar a un pol\u00edtico. En el intento, mueren varios polic\u00edas y un guerrillero. Por casualidad el jefe de los secuestradores encuentra a un antiguo compa\u00f1ero; para evitar que los delate lo secuestra. Este encuentro y otras circunstancias dan pie a que la trama explore las divergentes concepciones pol\u00edticas de los personajes. En una mezcla de acci\u00f3n e intriga queda expuesta la realidad de una \u00e9poca.",
+        "tags": [
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1263,
+                "name": "1983",
+                "slug": "1983",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1983"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2191,
+                "name": "Ruta Cazals | DNCM 2021",
+                "slug": "ruta-cazals-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-cazals-dncm-2021"
+            },
+            {
+                "id": 2304,
+                "name": "D\u00edptico de Cine Mexicano Vol. IV",
+                "slug": "diptico-de-cine-mexicano-vol-iv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diptico-de-cine-mexicano-vol-iv"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 714,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 129,
+                "name": "Thriller pol\u00edtico",
+                "slug": "thriller-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-politico"
+            },
+            {
+                "id": 757,
+                "name": "Thriller_MX",
+                "slug": "thriller-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-mx"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 632,
+                "name": "Personajes del cine mexicano",
+                "slug": "personajes-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-del-cine-mexicano"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2436,
+                "name": "Muestra de Cine Coahuila 2021",
+                "slug": "muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2438,
+                "name": "Retrospectiva Felipe Cazals | Muestra de Cine Coahuila 2021",
+                "slug": "retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2555,
+                "name": "Felipe Cazals | FICTequila",
+                "slug": "felipe-cazals-fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/felipe-cazals-fictequila"
+            },
+            {
+                "id": 2556,
+                "name": "FICTequila",
+                "slug": "fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fictequila"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 437875200,
+        "theater_release_date": 437875200,
+        "theater_spectators_formatted": null,
+        "title": "Bajo la metralla",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bajo-la-metralla",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11458,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/bajo-la-metralla.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/bajo-la-metralla/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/bajo-la-metralla/master.m3u8"
+                }
+            ]
+        },
+        "year": 1983
+    }
+}

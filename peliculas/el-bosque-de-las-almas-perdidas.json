@@ -1,0 +1,299 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Daniela Love",
+                "gender": "f",
+                "id": 5184,
+                "slug": "daniela-love",
+                "url": "https://www.filminlatino.mx/actriz/daniela-love"
+            },
+            {
+                "full_name": "Jorge Mota",
+                "gender": "m",
+                "id": 5185,
+                "slug": "jorge-mota",
+                "url": "https://www.filminlatino.mx/actor/jorge-mota"
+            },
+            {
+                "full_name": "Mafalda Banquart",
+                "gender": "f",
+                "id": 5187,
+                "slug": "mafalda-banquart",
+                "url": "https://www.filminlatino.mx/actriz/mafalda-banquart"
+            },
+            {
+                "full_name": "Ligia Roque\t",
+                "gender": "f",
+                "id": 5186,
+                "slug": "ligia-roque",
+                "url": "https://www.filminlatino.mx/actriz/ligia-roque"
+            }
+        ],
+        "avg_votes": 5.3,
+        "avg_votes_formatted": "5,3",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Festival de Cine Fant\u00e1stico de Bilbao ",
+                "slug": "festival-de-cine-fantastico-de-bilbao",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "fantasporto",
+                "name": "Fantasporto",
+                "slug": "fantasporto",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 183,
+                "name": "Portugal",
+                "slug": "portugal",
+                "url": "https://www.filminlatino.mx/catalogo/pais/portugal"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Pedro Lopes",
+                "gender": "m",
+                "id": 1790,
+                "slug": "jose-pedro-lopes",
+                "url": "https://www.filminlatino.mx/director/jose-pedro-lopes"
+            }
+        ],
+        "duration_in_minutes": 71,
+        "excerpt": "En el lugar m\u00e1s triste del mundo, dos personas se encuentran para dejar ver que una de ellas no es quien realmente dice ser.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3354,
+        "image_card": "https://static.filminlatino.mx/images/media/3354/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3354/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3354/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3354/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3354/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3354/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3354/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "A floresta das almas perdidas ",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-bosque-de-las-almas-perdidas",
+        "synopsis": "La ganadora del premio a mejor pel\u00edcula\u00a0del Festival de Cine Fant\u00e1stico de Bilbao relata el encuentro casual entre un hombre mayor que sufre una tragedia y una joven de gustos extra\u00f1os, quienes coincidir\u00e1n\u00a0en el lugar m\u00e1s triste del mundo. Juntos deciden pasear por el bosque pero uno es una persona oscura y horrible.",
+        "tags": [
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 257,
+                "name": "Bizarro",
+                "slug": "bizarro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bizarro"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 272,
+                "name": "Decadencia",
+                "slug": "decadencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decadencia"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 107,
+                "name": "Suicidio",
+                "slug": "suicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suicidio"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 41,
+                "name": "Gore",
+                "slug": "gore",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gore"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 227,
+                "name": "Onirismo y surrealismo",
+                "slug": "onirismo-y-surrealismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/onirismo-y-surrealismo"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 930,
+                "name": "Portugal",
+                "slug": "portugal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/portugal"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 1108,
+                "name": "Richard Geddes",
+                "slug": "richard-geddes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/richard-geddes"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El bosque de las almas perdidas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-bosque-de-las-almas-perdidas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2705,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "ne",
+                        "name": "Neutral spanish",
+                        "type": "standard"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Bosque.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Bosque/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Bosque/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

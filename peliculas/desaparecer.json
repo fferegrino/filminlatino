@@ -1,0 +1,240 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ismael  La Rosa",
+                "gender": "m",
+                "id": 7383,
+                "slug": "ismael-la-rosa",
+                "url": "https://www.filminlatino.mx/actor/ismael-la-rosa"
+            },
+            {
+                "full_name": "Virna  Flores",
+                "gender": "f",
+                "id": 7384,
+                "slug": "virna-flores",
+                "url": "https://www.filminlatino.mx/actriz/virna-flores"
+            },
+            {
+                "full_name": "\u00d3scar  Carrillo",
+                "gender": "m",
+                "id": 7385,
+                "slug": "oscar-carrillo",
+                "url": "https://www.filminlatino.mx/actor/oscar-carrillo"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dorian  Fern\u00e1ndez-Moris",
+                "gender": "m",
+                "id": 2134,
+                "slug": "dorian-fernandez-moris",
+                "url": "https://www.filminlatino.mx/director/dorian-fernandez-moris"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "\"Desaparecer\" narra las misteriosas desapariciones que est\u00e1n aterrorizando la selva peruana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6624,
+        "image_card": "https://static.filminlatino.mx/images/media/6624/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6624/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6624/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6624/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6624/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6624/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6624/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6624/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Desaparecer",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1972,
+                "name": "Audiovisual Films ",
+                "slug": "audiovisual-films",
+                "url": "https://www.filminlatino.mx/producer/audiovisual-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "desaparecer",
+        "synopsis": "En medio de un viaje, Milena (Virna Flores) desaparece en la selva peruana\u00a0mientras realizaba una investigaci\u00f3n con dencial. Su novio Giovanni (Ismael La Rosa) emprende una intensa b\u00fasqueda en el coraz\u00f3n de la Amazon\u00eda, en medio de peligros, aventuras y siniestras revelaciones.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 1496,
+                "name": "Abuso de poder",
+                "slug": "abuso-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuso-de-poder"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Desaparecer",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/desaparecer",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6391,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DESAPARECER-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DESAPARECER-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DESAPARECER-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

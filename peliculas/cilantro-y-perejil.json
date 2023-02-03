@@ -1,0 +1,520 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Arcelia Ram\u00edrez",
+                "gender": "f",
+                "id": 117,
+                "slug": "arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-ramirez"
+            },
+            {
+                "full_name": "Demi\u00e1n Bichir",
+                "gender": "m",
+                "id": 118,
+                "slug": "demian-bichir",
+                "url": "https://www.filminlatino.mx/actor/demian-bichir"
+            },
+            {
+                "full_name": "Alpha Acosta",
+                "gender": "f",
+                "id": 119,
+                "slug": "alpha-acosta",
+                "url": "https://www.filminlatino.mx/actriz/alpha-acosta"
+            },
+            {
+                "full_name": "Juan Manuel Bernal",
+                "gender": "m",
+                "id": 120,
+                "slug": "juan-manuel-bernal",
+                "url": "https://www.filminlatino.mx/actor/juan-manuel-bernal"
+            },
+            {
+                "full_name": "Germ\u00e1n Dehesa",
+                "gender": "m",
+                "id": 121,
+                "slug": "german-dehesa",
+                "url": "https://www.filminlatino.mx/actor/german-dehesa"
+            },
+            {
+                "full_name": "Luis Felipe Tovar",
+                "gender": "m",
+                "id": 123,
+                "slug": "luis-felipe-tovar",
+                "url": "https://www.filminlatino.mx/actor/luis-felipe-tovar"
+            },
+            {
+                "full_name": "Jes\u00fas Ochoa",
+                "gender": "m",
+                "id": 126,
+                "slug": "jesus-ochoa",
+                "url": "https://www.filminlatino.mx/actor/jesus-ochoa"
+            },
+            {
+                "full_name": "Ang\u00e9lica Arag\u00f3n",
+                "gender": "f",
+                "id": 131,
+                "slug": "angelica-aragon",
+                "url": "https://www.filminlatino.mx/actriz/angelica-aragon"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [
+            {
+                "category": "Mejor Tema Musical o Canci\u00f3n especialmente escrita para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Ariel especial por revelaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor M\u00fasica de Fondo especialmente escrita para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Argumento Original escrito para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1995
+            },
+            {
+                "category": "Taquilla de Oro",
+                "icon": "camara-nacional-de-la-industria-cinematografica",
+                "name": "C\u00e1mara Nacional de la Industria Cinematogr\u00e1fica",
+                "slug": "camara-nacional-de-la-industria-cinematografica",
+                "year": 1995
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premio-panambi",
+                "name": "Premio Panambi",
+                "slug": "premio-panambi",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "bravo",
+                "name": "Bravo",
+                "slug": "bravo",
+                "year": 1995
+            },
+            {
+                "category": "Pel\u00edcula del a\u00f1o",
+                "icon": "bravo",
+                "name": "Bravo",
+                "slug": "bravo",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1995
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-arte-y-cultura-de-paraguay",
+                "name": "Festival Internacional de Cine, Arte y Cultura de Paraguay",
+                "slug": "festival-internacional-de-cine-arte-y-cultura-de-paraguay",
+                "year": 1995
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 1995
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Montero",
+                "gender": "m",
+                "id": 42,
+                "slug": "rafael-montero",
+                "url": "https://www.filminlatino.mx/director/rafael-montero"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Carlos comprende que sin Susana es incapaz de muchas cosas, entre ellas, distinguir el cilantro del perejil.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 61,
+        "image_card": "https://static.filminlatino.mx/images/media/61/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/61/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/61/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/61/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/61/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/61/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/61/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/61/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 68,
+        "original_title": "Cilantro y Perejil",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": null,
+                "id": 9,
+                "name": "TELEVICINE",
+                "slug": "televicine",
+                "url": "https://www.filminlatino.mx/producer/televicine"
+            },
+            {
+                "acronym": "FFCC",
+                "id": 2,
+                "name": "Fondo de Fomento a la Calidad Cinematogr\u00e1fica",
+                "slug": "fondo-de-fomento-a-la-calidad-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/fondo-de-fomento-a-la-calidad-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 64,
+                "name": "Constelaci\u00f3n Films",
+                "slug": "constelacion-films",
+                "url": "https://www.filminlatino.mx/producer/constelacion-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cilantro-y-perejil",
+        "synopsis": "La crisis econ\u00f3mica contribuye al naufragio del matrimonio de Carlos y Susana. Ella busca el amor rom\u00e1ntico. \u00c9l, sobrevivir. Nora, hermana de Susana, trata de salvar su propia relaci\u00f3n con Jorge, un joven rockero. Las atinadas observaciones de un psicoanalista sobre el amor, la pareja y la convivencia humana salpican con buen humor los conflictos de los personajes.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 139,
+                "name": "Sobre el divorcio",
+                "slug": "sobre-el-divorcio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-divorcio"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 305,
+                "name": "Psicoan\u00e1lisis",
+                "slug": "psicoanalisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/psicoanalisis"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 854,
+                "name": "Cintas de Arcelia Ram\u00edrez",
+                "slug": "cintas-de-arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cintas-de-arcelia-ramirez"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1958,
+                "name": "Ciclo: El amor y las circunstancias",
+                "slug": "ciclo-el-amor-y-las-circunstancias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-amor-y-las-circunstancias"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2525,
+                "name": "Aclamadas por la cr\u00edtica",
+                "slug": "aclamadas-por-la-critica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aclamadas-por-la-critica"
+            },
+            {
+                "id": 2526,
+                "name": "Melodramas diferentes",
+                "slug": "melodramas-diferentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodramas-diferentes"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 860112000,
+        "theater_release_date": 860112000,
+        "theater_spectators_formatted": null,
+        "title": "Cilantro y Perejil",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cilantro-y-perejil",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 59,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cilantro-y-perejil.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cilantro-y-perejil/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cilantro-y-perejil/master.m3u8"
+                }
+            ]
+        },
+        "year": 1995
+    }
+}

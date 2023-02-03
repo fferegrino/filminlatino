@@ -1,0 +1,401 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "V\u00e9ro Tshanda  Beya Mputu",
+                "gender": "f",
+                "id": 5746,
+                "slug": "vero-tshanda-beya-mputu",
+                "url": "https://www.filminlatino.mx/actriz/vero-tshanda-beya-mputu"
+            },
+            {
+                "full_name": "Gaetan  Claudia",
+                "gender": "m",
+                "id": 5747,
+                "slug": "gaetan-claudia",
+                "url": "https://www.filminlatino.mx/actor/gaetan-claudia"
+            },
+            {
+                "full_name": "Papi  Mpaka",
+                "gender": "m",
+                "id": 5748,
+                "slug": "papi-mpaka",
+                "url": "https://www.filminlatino.mx/actor/papi-mpaka"
+            },
+            {
+                "full_name": "Elbas Manuana",
+                "gender": "m",
+                "id": 5750,
+                "slug": "elbas-manuana",
+                "url": "https://www.filminlatino.mx/actor/elbas-manuana"
+            },
+            {
+                "full_name": "Nadine  Ndebo",
+                "gender": "f",
+                "id": 5749,
+                "slug": "nadine-ndebo",
+                "url": "https://www.filminlatino.mx/actriz/nadine-ndebo"
+            },
+            {
+                "full_name": "Diplome  Amekindra",
+                "gender": "f",
+                "id": 5751,
+                "slug": "diplome-amekindra",
+                "url": "https://www.filminlatino.mx/actriz/diplome-amekindra"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Gran premio del jurado",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Africa Movie Award",
+                "slug": "africa-movie-award",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz principal",
+                "icon": "",
+                "name": "Africa Movie Award",
+                "slug": "africa-movie-award",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula en un idioma africano",
+                "icon": "",
+                "name": "Africa Movie Award",
+                "slug": "africa-movie-award",
+                "year": null
+            },
+            {
+                "category": "Mejor Banda Sonora",
+                "icon": "",
+                "name": "Africa Movie Award",
+                "slug": "africa-movie-award",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor Secundario",
+                "icon": "",
+                "name": "Africa Movie Award",
+                "slug": "africa-movie-award",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 204,
+                "name": "Senegal",
+                "slug": "senegal",
+                "url": "https://www.filminlatino.mx/catalogo/pais/senegal"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alain  Gomis",
+                "gender": "m",
+                "id": 2194,
+                "slug": "alain-gomis",
+                "url": "https://www.filminlatino.mx/director/alain-gomis"
+            }
+        ],
+        "duration_in_minutes": 130,
+        "excerpt": "La vida de F\u00e9licit\u00e9, cantante de bares, cambia cuando su hijo sufre un terrible accidente. Largometraje ganador del gran premio del jurado en el Festival de Cine de Berl\u00edn en\u00a02017.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4908,
+        "image_card": "https://static.filminlatino.mx/images/media/4908/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4908/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4908/11/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4908/9/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "F\u00e9licit\u00e9",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2017,
+                "name": "Andolfi ",
+                "slug": "andolfi",
+                "url": "https://www.filminlatino.mx/producer/andolfi"
+            },
+            {
+                "acronym": "",
+                "id": 2018,
+                "name": "Granit Films",
+                "slug": "granit-films",
+                "url": "https://www.filminlatino.mx/producer/granit-films"
+            },
+            {
+                "acronym": "",
+                "id": 2019,
+                "name": "Cinekap",
+                "slug": "cinekap",
+                "url": "https://www.filminlatino.mx/producer/cinekap"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "felicite",
+        "synopsis": "Largometraje ganador del gran premio del jurado Oso de Plata en el Festival de Cine de Berl\u00edn en 2017, \u201cF\u00e9licit\u00e9\u201d de Alain Gomis presenta a una mujer cantante que trabaja en un club nocturno de Kinshasa, capital de la Rep\u00fablica Democr\u00e1tica del Congo. Su vida cambia cuando su hijo de 14 a\u00f1os sufre un terrible accidente de motocicleta. Este hecho la orillar\u00e1 a empezar una b\u00fasqueda fren\u00e9tica para conseguir dinero para la cirug\u00eda de su hijo. Es una historia dura de una familia agitada en b\u00fasqueda de salir adelante.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 1285,
+                "name": "Crisis",
+                "slug": "crisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 385,
+                "name": "Cantantes",
+                "slug": "cantantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cantantes"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1402,
+                "name": "Talento Emergente",
+                "slug": "talento-emergente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/talento-emergente"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 907,
+                "name": "Otras ganadoras Berlin",
+                "slug": "otras-ganadoras-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-ganadoras-berlin"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "F\u00e9licit\u00e9",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/felicite",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4323,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/FELICITE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/FELICITE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/FELICITE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

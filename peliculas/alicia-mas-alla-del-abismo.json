@@ -1,0 +1,246 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Abril Schmucler \u00cd\u00f1iguez",
+                "gender": "f",
+                "id": 1411,
+                "slug": "abril-schmucler-iniguez",
+                "url": "https://www.filminlatino.mx/directora/abril-schmucler-iniguez"
+            }
+        ],
+        "duration_in_minutes": 64,
+        "excerpt": "El Multiforo Alicia es un espacio donde se busca provocar la rebeld\u00eda, el cuestionamiento, la resistencia, la reflexi\u00f3n...",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2885,
+        "image_card": "https://static.filminlatino.mx/images/media/2885/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2885/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2885/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2885/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2885/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2885/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2885/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2885/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 26,
+        "original_title": "Alicia m\u00e1s all\u00e1 del abismo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "alicia-mas-alla-del-abismo",
+        "synopsis": "El Multiforo Alicia es un espacio donde se busca provocar la rebeld\u00eda, el cuestionamiento, la resistencia, la reflexi\u00f3n y finalmente la organizaci\u00f3n autogestiva de los habitantes de la Ciudad de M\u00e9xico. Es aquel lugar en donde caben esas otras personas que no entran dentro del deber ser establecido por el mercado de la cultura. Este documental nos cuenta qu\u00e9 es y cu\u00e1l es el sentido de que exista.",
+        "tags": [
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 370,
+                "name": "Rebeld\u00eda",
+                "slug": "rebeldia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rebeldia"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1017,
+                "name": "Abril Schmucler",
+                "slug": "abril-schmucler",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abril-schmucler"
+            },
+            {
+                "id": 1129,
+                "name": "Reality",
+                "slug": "reality",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reality"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1421,
+                "name": "Sonidos del barrio",
+                "slug": "sonidos-del-barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonidos-del-barrio"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Alicia m\u00e1s all\u00e1 del abismo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/alicia-mas-alla-del-abismo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2263,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/alicia-mas-alla.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/alicia-mas-alla/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/alicia-mas-alla/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

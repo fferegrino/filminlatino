@@ -1,0 +1,275 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Pantalla de Cristal",
+                "slug": "pantalla-de-cristal",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Timoteo Hern\u00e1ndez",
+                "gender": "m",
+                "id": 172,
+                "slug": "timoteo-hernandez",
+                "url": "https://www.filminlatino.mx/character/timoteo-hernandez"
+            },
+            {
+                "full_name": "No\u00e9 S\u00e1nchez",
+                "gender": "m",
+                "id": 173,
+                "slug": "noe-sanchez",
+                "url": "https://www.filminlatino.mx/character/noe-sanchez"
+            },
+            {
+                "full_name": "Lupita Vel\u00e1zquez",
+                "gender": "f",
+                "id": 174,
+                "slug": "lupita-velazquez",
+                "url": "https://www.filminlatino.mx/character/lupita-velazquez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gustavo Gamou",
+                "gender": "m",
+                "id": 1911,
+                "slug": "gustavo-gamou",
+                "url": "https://www.filminlatino.mx/director/gustavo-gamou"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "No\u00e9 emprende una b\u00fasqueda espiritual con el apoyo de Timoteo, un granicero. Producci\u00f3n gratuita de Canal 22.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5214,
+        "image_card": "https://static.filminlatino.mx/images/media/5214/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5214/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5214/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5214/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5214/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5214/3/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5214/3/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 87,
+        "original_title": "Granicero",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 345,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/producer/canal-22"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "granicero",
+        "synopsis": "La vida de No\u00e9 se ve sacudida cuando es impactado por un rayo, esto lo lleva a una b\u00fasqueda espiritual de la mano del granicero Timoteo. \u00bfEs posible que los \u201ctocados por el rayo\u201d tras ese acontecimiento obtengan poderes sobrenaturales para entrar en comunicaci\u00f3n con las deidades del agua y manejar as\u00ed la lluvia?",
+        "tags": [
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1334,
+                "name": "Festival Pantalla de Cristal",
+                "slug": "festival-pantalla-de-cristal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-pantalla-de-cristal"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 1289,
+                "name": "Viaje espiritual ",
+                "slug": "viaje-espiritual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-espiritual"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Granicero",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/granicero",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4526,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

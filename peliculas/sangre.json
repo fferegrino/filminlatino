@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Cirilo Recio",
+                "gender": "m",
+                "id": 1074,
+                "slug": "cirilo-recio",
+                "url": "https://www.filminlatino.mx/actor/cirilo-recio"
+            },
+            {
+                "full_name": "Laura Salda\u00f1a",
+                "gender": "f",
+                "id": 1075,
+                "slug": "laura-saldana",
+                "url": "https://www.filminlatino.mx/actriz/laura-saldana"
+            },
+            {
+                "full_name": "Karina Claudia  Orozco",
+                "gender": "f",
+                "id": 1076,
+                "slug": "karina-claudia-orozco",
+                "url": "https://www.filminlatino.mx/actriz/karina-claudia-orozco"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Amat Escalante",
+                "gender": "m",
+                "id": 353,
+                "slug": "amat-escalante",
+                "url": "https://www.filminlatino.mx/director/amat-escalante"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Una historia que muestra la cotidianidad, lo frustrante, lo que tarde o temprano conduce a la soledad y a la locura.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 451,
+        "image_card": "https://static.filminlatino.mx/images/media/451/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/451/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/451/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/451/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/451/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 48,
+        "original_title": "Sangre",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "sangre",
+        "synopsis": "Diego trabaja contando gente en la puerta de un edificio de gobierno. Su esposa Blanca es una mujer demente donde su relaci\u00f3n se basa en tener sexo, ver la televisi\u00f3n y pelearse. La rutina de Diego es interrumpida con la llegada de su hija Karina. Blanca se niega a aceptarla, acorralando a Diego entre sus celos y la enorme necesidad que exige Karina por ser amada.",
+        "tags": [
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 833,
+                "name": "3\u00b0 FICM",
+                "slug": "30-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/30-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1183,
+                "name": "2005",
+                "slug": "2005",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2005"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1951,
+                "name": "Especial UDG",
+                "slug": "especial-udg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-udg"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Sangre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sangre",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 370,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/sangre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/sangre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/sangre/master.m3u8"
+                }
+            ]
+        },
+        "year": 2005
+    }
+}

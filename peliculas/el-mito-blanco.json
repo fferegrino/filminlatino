@@ -1,0 +1,346 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [
+            {
+                "category": "Competencia ",
+                "icon": "",
+                "name": "Festival internacional de cine de Derechos Humanos Argentina",
+                "slug": "festival-internacional-de-cine-de-derechos-humanos-argentina",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial, Competencia",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Maritza L\u00f3pez",
+                "gender": "f",
+                "id": 2761,
+                "slug": "maritza-lopez",
+                "url": "https://www.filminlatino.mx/character/maritza-lopez"
+            },
+            {
+                "full_name": "Emerita Bejarano",
+                "gender": "f",
+                "id": 2762,
+                "slug": "emerita-bejarano",
+                "url": "https://www.filminlatino.mx/character/emerita-bejarano"
+            },
+            {
+                "full_name": "Janis Howlet",
+                "gender": "f",
+                "id": 2763,
+                "slug": "janis-howlet",
+                "url": "https://www.filminlatino.mx/character/janis-howlet"
+            }
+        ],
+        "countries": [
+            {
+                "id": 50,
+                "name": "Costa Rica",
+                "slug": "costa-rica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/costa-rica"
+            },
+            {
+                "id": 165,
+                "name": "Nicaragua",
+                "slug": "nicaragua",
+                "url": "https://www.filminlatino.mx/catalogo/pais/nicaragua"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gabriel Serra",
+                "gender": "m",
+                "id": 5675,
+                "slug": "gabriel-serra",
+                "url": "https://www.filminlatino.mx/director/gabriel-serra"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "Un viaje en tren por la profunda Costa Rica revela el mito blanco que perdura en comunidades invisibilizadas de tres familias migrantes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10948,
+        "image_card": "https://static.filminlatino.mx/images/media/10948/1/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10948/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10948/2/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/10948/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10948/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10948/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10948/9/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/10948/13/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/10948/14/still_6_3.jpeg",
+            "https://static.filminlatino.mx/images/media/10948/15/still_7_3.jpeg",
+            "https://static.filminlatino.mx/images/media/10948/17/still_8_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "El mito blanco",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-mito-blanco",
+        "synopsis": "Existe el mito de que en Costa Rica su poblacio\u0301n es mayoritariamente blanca. A trave\u0301s de un viaje en ferrocarril, nos adentramos a conocer las comunidades invisibilizadas de Costa Rica. Maritza, madre soltera nicaragu\u0308ense se exilio\u0301 en Costa Rica por los recientes conflictos sociopoli\u0301ticos de su pai\u0301s. Emerita Bejarano, dejo\u0301 su comunidad nativa Nga\u0308be de Panama\u0301 para trabajar en las plantaciones de cafe\u0301 de la comunidad de Sabalito. Janis Howlet, de origen afroantillano, vive en un pueblo abandonado pero lleno de naturaleza a orillas del tren en el Caribe costarricense.<br>Este sensible documental del director\u00a0Gabriel Serra, quien fue nominado al Oscar por \u2018La parka\u2019,\u00a0particip\u00f3 en el Festival Internacional de Cine de Guadalajara 2020, as\u00ed como en el Festival Internacional de Cine de Derechos humanos en Argentina 2021.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 1738,
+                "name": "Inter\u00e9s Cultural  ",
+                "slug": "interes-cultural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interes-cultural"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 1299,
+                "name": "Mitos",
+                "slug": "mitos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mitos"
+            },
+            {
+                "id": 2356,
+                "name": "Cosmovisiones",
+                "slug": "cosmovisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cosmovisiones"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El mito blanco",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-mito-blanco",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12753,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ELMITOBLANCOTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ELMITOBLANCOTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ELMITOBLANCOTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

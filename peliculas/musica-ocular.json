@@ -1,0 +1,299 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Erik \u00c1vila",
+                "gender": "m",
+                "id": 1002,
+                "slug": "erik-avila",
+                "url": "https://www.filminlatino.mx/actor/erik-avila"
+            },
+            {
+                "full_name": "Dalila Ramos",
+                "gender": "f",
+                "id": 1003,
+                "slug": "dalila-ramos",
+                "url": "https://www.filminlatino.mx/actriz/dalila-ramos"
+            },
+            {
+                "full_name": "Elizabeth Ram\u00edrez",
+                "gender": "f",
+                "id": 1004,
+                "slug": "elizabeth-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/elizabeth-ramirez"
+            },
+            {
+                "full_name": "Jes\u00fas Rodr\u00edguez",
+                "gender": "m",
+                "id": 1005,
+                "slug": "jesus-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/jesus-rodriguez"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Antonio  Cordero",
+                "gender": "m",
+                "id": 348,
+                "slug": "jose-antonio-cordero",
+                "url": "https://www.filminlatino.mx/director/jose-antonio-cordero"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Un homenaje a la lengua de se\u00f1as y su similitudes con el lenguaje cinematogr\u00e1fico, pero sobre todo una herramienta social y cultural para la inclusi\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 415,
+        "image_card": "https://static.filminlatino.mx/images/media/415/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/415/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/415/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/415/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/415/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/415/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "M\u00fasica ocular",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            },
+            {
+                "acronym": "",
+                "id": 264,
+                "name": "Pepa Films ",
+                "slug": "pepa-films",
+                "url": "https://www.filminlatino.mx/producer/pepa-films"
+            },
+            {
+                "acronym": "",
+                "id": 355,
+                "name": "Monkey Films",
+                "slug": "monkey-films",
+                "url": "https://www.filminlatino.mx/producer/monkey-films"
+            },
+            {
+                "acronym": "",
+                "id": 356,
+                "name": "Al fondo del callej\u00f3n",
+                "slug": "al-fondo-del-callejon",
+                "url": "https://www.filminlatino.mx/producer/al-fondo-del-callejon"
+            },
+            {
+                "acronym": "",
+                "id": 357,
+                "name": "Servicios Aeroportuarios del Sureste",
+                "slug": "servicios-aeroportuarios-del-sureste",
+                "url": "https://www.filminlatino.mx/producer/servicios-aeroportuarios-del-sureste"
+            },
+            {
+                "acronym": "",
+                "id": 358,
+                "name": "Mix Up",
+                "slug": "mix-up",
+                "url": "https://www.filminlatino.mx/producer/mix-up"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "musica-ocular",
+        "synopsis": "\u00bfLos sordos sue\u00f1an con m\u00fasica? Un grupo de j\u00f3venes sordos de la costa de Oaxaca eligen las historias que contar\u00e1 la primera pel\u00edcula realizada totalmente en lengua de se\u00f1as mexicana. Al hacerlo, conocemos una cultura cien por ciento visual y la construcci\u00f3n cinematogr\u00e1fica de un sue\u00f1o colectivo. \"M\u00fasica ocular\" es el cruce entre pel\u00edculas silentes, m\u00fasica para sordos y anhelos liberadores.",
+        "tags": [
+            {
+                "id": 71,
+                "name": "Cine silente",
+                "slug": "cine-silente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-silente"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1894,
+                "name": "Muestra Virtual de Cine, Arte y Discapacidad 2020",
+                "slug": "muestra-virtual-de-cine-arte-y-discapacidad-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-virtual-de-cine-arte-y-discapacidad-2020"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            },
+            {
+                "id": 2131,
+                "name": "GAAP | Promotores Culturales Comunitarios",
+                "slug": "gaap-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gaap-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2561,
+                "name": "Cine para todxs",
+                "slug": "cine-para-todxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-para-todxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1352160000,
+        "theater_release_date": 1352160000,
+        "theater_spectators_formatted": null,
+        "title": "M\u00fasica ocular",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/musica-ocular",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 357,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2012
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ernesto G\u00f3mez Cruz",
+                "gender": "m",
+                "id": 138,
+                "slug": "ernesto-gomez-cruz",
+                "url": "https://www.filminlatino.mx/actor/ernesto-gomez-cruz"
+            },
+            {
+                "full_name": "Abel Woolrich",
+                "gender": "m",
+                "id": 292,
+                "slug": "abel-woolrich",
+                "url": "https://www.filminlatino.mx/actor/abel-woolrich"
+            },
+            {
+                "full_name": "Juana Mar\u00eda Garza",
+                "gender": "f",
+                "id": 537,
+                "slug": "juana-maria-garza",
+                "url": "https://www.filminlatino.mx/actriz/juana-maria-garza"
+            },
+            {
+                "full_name": "Gerardo Trejo Luna",
+                "gender": "m",
+                "id": 538,
+                "slug": "gerardo-trejo-luna",
+                "url": "https://www.filminlatino.mx/actor/gerardo-trejo-luna"
+            }
+        ],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-la-ciudad-de-mexico",
+                "name": "Festival Internacional de la Ciudad de M\u00e9xico",
+                "slug": "festival-internacional-de-la-ciudad-de-mexico",
+                "year": 2005
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Abraham Oceranski",
+                "gender": "m",
+                "id": 178,
+                "slug": "abraham-oceranski",
+                "url": "https://www.filminlatino.mx/director/abraham-oceranski"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "En el Istmo de Tehuantepec, el Mensajero, un legendario nagual, cambia los destinos de dos j\u00f3venes enamorados cuyas familias se oponen a sus relaciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 199,
+        "image_card": "https://static.filminlatino.mx/images/media/199/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/199/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/199/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/199/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/199/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Guchachi",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 122,
+                "name": "Abraham Oceranski",
+                "slug": "abraham-oceranski",
+                "url": "https://www.filminlatino.mx/producer/abraham-oceranski"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "guchachi",
+        "synopsis": "En un pueblito al sur de M\u00e9xico, en el Istmo de Tehuantepec, el Mensajero, un legendario nagual, cambia los destinos de dos j\u00f3venes enamorados cuyas familias se oponen a sus relaciones. Con su magia, el nagual los introduce en un universo ancestral donde todo es posible.",
+        "tags": [
+            {
+                "id": 758,
+                "name": "Romance_MX",
+                "slug": "romance-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1183,
+                "name": "2005",
+                "slug": "2005",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2005"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1112832000,
+        "theater_release_date": 1112832000,
+        "theater_spectators_formatted": null,
+        "title": "Guchachi",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/guchachi",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 93,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2005
+    }
+}

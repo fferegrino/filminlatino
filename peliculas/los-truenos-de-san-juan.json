@@ -1,0 +1,362 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Honorary Finalist",
+                "icon": "",
+                "name": "Rinc\u00f3n Internacional Puerto Rico",
+                "slug": "rincon-internacional-puerto-rico",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival de Cine Latinoamericano ",
+                "slug": "festival-de-cine-latinoamericano",
+                "year": null
+            },
+            {
+                "category": "Official Selection",
+                "icon": "",
+                "name": "Black Canvas Festival de Cine Contempor\u00e1neo",
+                "slug": "black-canvas-festival-de-cine-contemporaneo",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "DOCSMX",
+                "slug": "docsmx",
+                "year": null
+            },
+            {
+                "category": "Best Documentary",
+                "icon": "",
+                "name": "25th San Diego Latino Film Festival 2018",
+                "slug": "25th-san-diego-latino-film-festival-2018",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Hola M\u00e9xico Film Festival",
+                "slug": "hola-mexico-film-festival",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "New Orleans Film Festival",
+                "slug": "new-orleans-film-festival",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Santiago Maza",
+                "gender": "m",
+                "id": 2204,
+                "slug": "santiago-maza",
+                "url": "https://www.filminlatino.mx/director/santiago-maza"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "El antiguo carnaval de un pueblo es condenado por la Iglesia y perseguido por la ley por colosal cantidad de explosivos volados en la fiesta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5013,
+        "image_card": "https://static.filminlatino.mx/images/media/5013/5/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5013/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5013/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5013/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 66,
+        "original_title": "Los truenos de San Juan",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2034,
+                "name": "Filmaciones de la Ciudad",
+                "slug": "filmaciones-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/producer/filmaciones-de-la-ciudad"
+            },
+            {
+                "acronym": "",
+                "id": 2035,
+                "name": "Mamut",
+                "slug": "mamut",
+                "url": "https://www.filminlatino.mx/producer/mamut"
+            },
+            {
+                "acronym": "",
+                "id": 2036,
+                "name": "Chicatana ",
+                "slug": "chicatana",
+                "url": "https://www.filminlatino.mx/producer/chicatana"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-truenos-de-san-juan",
+        "synopsis": "En el Carnaval de San Juan los pobladores realizan una pr\u00e1ctica conocida como el \"baile de los truenos\"; consiste en realizar explosiones por medio de martillos que contienen azufre y p\u00f3lvora. El documental muestra como San Juanito peregrina, a\u00f1o tras a\u00f1o, al filo de un desenlace letal.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 343,
+                "name": "Folklore",
+                "slug": "folklore",
+                "url": "https://www.filminlatino.mx/catalogo/tema/folklore"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 550,
+                "name": "Festividades",
+                "slug": "festividades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festividades"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 598,
+                "name": "Hechos Reales MX",
+                "slug": "hechos-reales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hechos-reales-mx"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 991,
+                "name": "Especial Black Canvas",
+                "slug": "especial-black-canvas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-black-canvas"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 1386,
+                "name": "Funciones especiales D\u00eda Nacional MX",
+                "slug": "funciones-especiales-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-dia-nacional-mx"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1191,
+                "name": "Guanajuato",
+                "slug": "guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guanajuato"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1391,
+                "name": "A\u00f1o 2017",
+                "slug": "ano-2017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-2017"
+            },
+            {
+                "id": 1532,
+                "name": "Funciones especiales Quinto Aniversario",
+                "slug": "funciones-especiales-quinto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-quinto-aniversario"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1804,
+                "name": "Xquenda (Origen) | MIC Istmo",
+                "slug": "xquenda-origen-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/xquenda-origen-mic-istmo"
+            },
+            {
+                "id": 2643,
+                "name": "Directores que participan en el GIFF 25",
+                "slug": "directores-que-participan-en-el-giff-25",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-que-participan-en-el-giff-25"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los truenos de San Juan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-truenos-de-san-juan",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6351,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LOS-TRUENOS-DE-SAN-JUAN-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LOS-TRUENOS-DE-SAN-JUAN-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LOS-TRUENOS-DE-SAN-JUAN-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

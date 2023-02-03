@@ -1,0 +1,272 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Filippo Timi",
+                "gender": "m",
+                "id": 1811,
+                "slug": "filippo-timi",
+                "url": "https://www.filminlatino.mx/actor/filippo-timi"
+            },
+            {
+                "full_name": "Kseniya Rappoport",
+                "gender": "m",
+                "id": 1812,
+                "slug": "kseniya-rappoport",
+                "url": "https://www.filminlatino.mx/actor/kseniya-rappoport"
+            },
+            {
+                "full_name": "Antonia Truppo",
+                "gender": "m",
+                "id": 1813,
+                "slug": "antonia-truppo",
+                "url": "https://www.filminlatino.mx/actor/antonia-truppo"
+            },
+            {
+                "full_name": "Gaetano Bruno",
+                "gender": "m",
+                "id": 1814,
+                "slug": "gaetano-bruno",
+                "url": "https://www.filminlatino.mx/actor/gaetano-bruno"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "venice-film-festival",
+                "name": "Venice Film Festival ",
+                "slug": "venice-film-festival",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Pel\u00edcula Italiana",
+                "icon": "venice-film-festival",
+                "name": "Venice Film Festival ",
+                "slug": "venice-film-festival",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "venice-film-festival",
+                "name": "Venice Film Festival ",
+                "slug": "venice-film-festival",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-bimbi-belli",
+                "name": "Festival Bimbi Belli ",
+                "slug": "festival-bimbi-belli",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "pula-film-festival",
+                "name": "Pula Film Festival ",
+                "slug": "pula-film-festival",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "galway-film-fleadh",
+                "name": "Galway Film Fleadh",
+                "slug": "galway-film-fleadh",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "golden-graals",
+                "name": "Golden Graals",
+                "slug": "golden-graals",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "primavera-del-cinema-italiano-festival",
+                "name": "Primavera del Cinema Italiano Festival",
+                "slug": "primavera-del-cinema-italiano-festival",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Giuseppe Capotondi",
+                "gender": "m",
+                "id": 656,
+                "slug": "giuseppe-capotondi",
+                "url": "https://www.filminlatino.mx/director/giuseppe-capotondi"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "El ritmo del relato es intenso. Un film fascinante y atractivo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1010,
+        "image_card": "https://static.filminlatino.mx/images/media/1010/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1010/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1010/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1010/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1010/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "La doppia ora",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 488,
+                "name": "Indigo Film",
+                "slug": "indigo-film",
+                "url": "https://www.filminlatino.mx/producer/indigo-film"
+            },
+            {
+                "acronym": "",
+                "id": 489,
+                "name": "Medusa Film",
+                "slug": "medusa-film",
+                "url": "https://www.filminlatino.mx/producer/medusa-film"
+            },
+            {
+                "acronym": "",
+                "id": 633,
+                "name": "Mercurio Cinematografica",
+                "slug": "mercurio-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/mercurio-cinematografica"
+            },
+            {
+                "acronym": "MiBAC",
+                "id": 497,
+                "name": "Ministero per i Beni e le Attivit\u00e0 Culturali",
+                "slug": "ministero-per-i-beni-e-le-attivita-culturali",
+                "url": "https://www.filminlatino.mx/producer/ministero-per-i-beni-e-le-attivita-culturali"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-doble-realidad",
+        "synopsis": "Sonia es una emigrante en Italia de origen esloveno que limpia habitaciones en un hotel de Tur\u00edn, y que acude a un lugar de citas r\u00e1pidas para encontrar pareja. All\u00ed conocer\u00e1 a Guido, un ex polic\u00eda quien ahora es un guardia de seguridad en una mansi\u00f3n de lujo en medio del campo.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 196,
+                "name": "Crimen de odio",
+                "slug": "crimen-de-odio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-de-odio"
+            },
+            {
+                "id": 238,
+                "name": "Hotel",
+                "slug": "hotel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hotel"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1325116800,
+        "theater_release_date": 1325116800,
+        "theater_spectators_formatted": null,
+        "title": "La doble realidad",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-doble-realidad",
+        "versions": [
+            {
+                "codes": [],
+                "id": 837,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

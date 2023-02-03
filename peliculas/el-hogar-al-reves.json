@@ -1,0 +1,384 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Santos",
+                "gender": "m",
+                "id": 1263,
+                "slug": "jose-santos",
+                "url": "https://www.filminlatino.mx/actor/jose-santos"
+            },
+            {
+                "full_name": "Gerardo Ru\u00edz Serrano",
+                "gender": "m",
+                "id": 1264,
+                "slug": "gerardo-ruiz-serrano",
+                "url": "https://www.filminlatino.mx/actor/gerardo-ruiz-serrano"
+            },
+            {
+                "full_name": "Omar Rodr\u00edguez",
+                "gender": "m",
+                "id": 1265,
+                "slug": "omar-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/omar-rodriguez"
+            },
+            {
+                "full_name": "Olga P\u00e9rez Varela",
+                "gender": "f",
+                "id": 1266,
+                "slug": "olga-perez-varela",
+                "url": "https://www.filminlatino.mx/actriz/olga-perez-varela"
+            },
+            {
+                "full_name": "Xochitl  Mart\u00ednez Santiago",
+                "gender": "f",
+                "id": 4781,
+                "slug": "xochitl-martinez-santiago",
+                "url": "https://www.filminlatino.mx/actriz/xochitl-martinez-santiago"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Largometraje Documental",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Internacional de Cine de M\u00e9rida y Yucat\u00e1n (FICMY)",
+                "slug": "festival-internacional-de-cine-de-merida-y-yucatan-ficmy",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival de la Memoria Documental Iberoamericano",
+                "slug": "festival-de-la-memoria-documental-iberoamericano",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Itzel Mart\u00ednez del Ca\u00f1izo",
+                "gender": "f",
+                "id": 472,
+                "slug": "itzel-martinez-del-canizo",
+                "url": "https://www.filminlatino.mx/directora/itzel-martinez-del-canizo"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Una historia \u00edntima sobre el poder de la amistad y el amor juvenil para contrarrestar los sentimientos de abandono en las viviendas contempor\u00e1neas de la clase trabajadora.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 496,
+        "image_card": "https://static.filminlatino.mx/images/media/496/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/496/9/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/496/10/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/496/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/18/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/14/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/12/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/20/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/16/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/496/10/still_10_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "El hogar al rev\u00e9s",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 556,
+                "name": "Polen Audiovisual",
+                "slug": "polen-audiovisual",
+                "url": "https://www.filminlatino.mx/producer/polen-audiovisual"
+            },
+            {
+                "acronym": "",
+                "id": 557,
+                "name": "Pixel Estudio",
+                "slug": "pixel-estudio",
+                "url": "https://www.filminlatino.mx/producer/pixel-estudio"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-hogar-al-reves",
+        "synopsis": "El segundo largometraje de la documentalista tijuanense Itzel Mart\u00ednez del Ca\u00f1izo, nos introduce en la vida de tres adolescentes que habitan en una colonia de inter\u00e9s social en la periferia de Tijuana. Explora las nuevas formas de cultura urbana que surgen en estos grandes desarrollos de vivienda popular, al interior de construcciones min\u00fasculas y precarias condenadas al r\u00e1pido deterioro material y social. \"El hogar al rev\u00e9s\" lanza una mirada cr\u00edtica al supuesto progreso de las ciudades contempor\u00e1neas, pero elude h\u00e1bilmente los clich\u00e9s en torno a la pobreza, la juventud y la cultura fronteriza, para denunciar otras formas de violencia y marginaci\u00f3n m\u00e1s sutiles pero no menos preocupantes. El factor que entrelaza las historias de los protagonistas es que viven pr\u00e1cticamente en ausencia de sus padres, quienes trabajan largas jornadas en las maquiladoras.",
+        "tags": [
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1226,
+                "name": "Baja California",
+                "slug": "baja-california",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baja-california"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1413590400,
+        "theater_release_date": 1413590400,
+        "theater_spectators_formatted": null,
+        "title": "El hogar al rev\u00e9s",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-hogar-al-reves",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 742,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/EL-HOGAR-AL-REVE-S-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/EL-HOGAR-AL-REVE-S-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/EL-HOGAR-AL-REVE-S-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

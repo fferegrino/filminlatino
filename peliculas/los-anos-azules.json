@@ -1,0 +1,428 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Luis Vel\u00e1zquez",
+                "gender": "m",
+                "id": 5216,
+                "slug": "luis-velazquez",
+                "url": "https://www.filminlatino.mx/actor/luis-velazquez"
+            },
+            {
+                "full_name": "Paloma Dom\u00ednguez",
+                "gender": "f",
+                "id": 5217,
+                "slug": "paloma-dominguez",
+                "url": "https://www.filminlatino.mx/actriz/paloma-dominguez"
+            },
+            {
+                "full_name": "Juan Carlos Huguenin",
+                "gender": "m",
+                "id": 5218,
+                "slug": "juan-carlos-huguenin",
+                "url": "https://www.filminlatino.mx/actor/juan-carlos-huguenin"
+            },
+            {
+                "full_name": "Ilse Orozco",
+                "gender": "f",
+                "id": 5219,
+                "slug": "ilse-orozco",
+                "url": "https://www.filminlatino.mx/actriz/ilse-orozco"
+            },
+            {
+                "full_name": "Natalia G\u00f3mez V\u00e1zquez",
+                "gender": "f",
+                "id": 5220,
+                "slug": "natalia-gomez-vazquez",
+                "url": "https://www.filminlatino.mx/actriz/natalia-gomez-vazquez"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Festival Internacional de Cine en Guadalajara",
+                "icon": "premio-mezcal",
+                "name": "Premio Mezcal ",
+                "slug": "premio-mezcal",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Festival Internacional de Cine en Guadalajara",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sof\u00eda G\u00f3mez-C\u00f3rdova",
+                "gender": "f",
+                "id": 1837,
+                "slug": "sofia-gomez-cordova",
+                "url": "https://www.filminlatino.mx/directora/sofia-gomez-cordova"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Un gato y una casa derruida son testigos de la\u00a0b\u00fasqueda de identidad de cinco j\u00f3venes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3411,
+        "image_card": "https://static.filminlatino.mx/images/media/3411/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3411/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3411/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3411/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3411/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3411/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3411/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3411/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 162,
+        "original_title": "Los a\u00f1os azules",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1998,
+                "name": "Bruja Azul",
+                "slug": "bruja-azul",
+                "url": "https://www.filminlatino.mx/producer/bruja-azul"
+            },
+            {
+                "acronym": "",
+                "id": 1999,
+                "name": "Doppler Films",
+                "slug": "doppler-films",
+                "url": "https://www.filminlatino.mx/producer/doppler-films"
+            },
+            {
+                "acronym": "",
+                "id": 1401,
+                "name": "Kaxan Media Group",
+                "slug": "kaxan-media-group",
+                "url": "https://www.filminlatino.mx/producer/kaxan-media-group"
+            },
+            {
+                "acronym": "",
+                "id": 971,
+                "name": "Cebolla Films",
+                "slug": "cebolla-films",
+                "url": "https://www.filminlatino.mx/producer/cebolla-films"
+            },
+            {
+                "acronym": "",
+                "id": 2000,
+                "name": "Comisi\u00f3n de Filmaciones del Estado de Jalisco",
+                "slug": "comision-de-filmaciones-del-estado-de-jalisco",
+                "url": "https://www.filminlatino.mx/producer/comision-de-filmaciones-del-estado-de-jalisco"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-anos-azules",
+        "synopsis": "El primer largometraje de la realizadora Sof\u00eda G\u00f3mez-C\u00f3rdova narra las historias de cinco j\u00f3venes y sus problemas en la cotidianidad, confrontados por sus expectativas a futuro, cuyos testigos son un gato y una casa derruida. \"Los a\u00f1os azules\" es una comedia dram\u00e1tica sobre la b\u00fasqueda de la identidad. Fue galardonada en el Festival Internacional de Cine de Guadalajara y compiti\u00f3 por el Ariel en la categor\u00eda a mejor \u00f3pera prima en 2018.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 821,
+                "name": "Comedia cl\u00e1sica",
+                "slug": "comedia-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-clasica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 105,
+                "name": "Animales dom\u00e9sticos",
+                "slug": "animales-domesticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-domesticos"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 938,
+                "name": "Nominadas Ariel 60",
+                "slug": "nominadas-ariel-60",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-60"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1216,
+                "name": "Jalisco",
+                "slug": "jalisco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jalisco"
+            },
+            {
+                "id": 1200,
+                "name": "Guadalajara",
+                "slug": "guadalajara",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guadalajara"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1416,
+                "name": "Especial Mujeres en el cine y la TV",
+                "slug": "especial-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1391,
+                "name": "A\u00f1o 2017",
+                "slug": "ano-2017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-2017"
+            },
+            {
+                "id": 1469,
+                "name": "Funciones especiales CinemaMX",
+                "slug": "funciones-especiales-cinemamx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-cinemamx"
+            },
+            {
+                "id": 1566,
+                "name": "24 Risas x Segundo",
+                "slug": "24-risas-x-segundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/24-risas-x-segundo"
+            },
+            {
+                "id": 1570,
+                "name": "Selecciones en suscripci\u00f3n | 24 Risas x Segundo",
+                "slug": "selecciones-en-suscripcion-24-risas-x-segundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/selecciones-en-suscripcion-24-risas-x-segundo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2502,
+                "name": "Retrospectiva FENACIR",
+                "slug": "retrospectiva-fenacir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-fenacir"
+            },
+            {
+                "id": 2506,
+                "name": "Largometraje | Retrospectiva FENACIR",
+                "slug": "largometraje-retrospectiva-fenacir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-retrospectiva-fenacir"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los a\u00f1os azules",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-anos-azules",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2761,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Azules.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Azules/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Azules/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

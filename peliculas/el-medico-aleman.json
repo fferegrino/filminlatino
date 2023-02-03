@@ -1,0 +1,415 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "\u00c0lex Brendem\u00fchl",
+                "gender": "m",
+                "id": 1852,
+                "slug": "alex-brendemuhl",
+                "url": "https://www.filminlatino.mx/actor/alex-brendemuhl"
+            },
+            {
+                "full_name": "Natalia Oreiro",
+                "gender": "f",
+                "id": 1853,
+                "slug": "natalia-oreiro",
+                "url": "https://www.filminlatino.mx/actriz/natalia-oreiro"
+            },
+            {
+                "full_name": "Diego Peretti",
+                "gender": "m",
+                "id": 1868,
+                "slug": "diego-peretti",
+                "url": "https://www.filminlatino.mx/actor/diego-peretti"
+            },
+            {
+                "full_name": "Elena Roger",
+                "gender": "f",
+                "id": 1869,
+                "slug": "elena-roger",
+                "url": "https://www.filminlatino.mx/actriz/elena-roger"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-cine-de-la-habana-cuba",
+                "name": "Festival de Cine de La Habana, Cuba",
+                "slug": "festival-de-cine-de-la-habana-cuba",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cine-de-la-habana-cuba",
+                "name": "Festival de Cine de La Habana, Cuba",
+                "slug": "festival-de-cine-de-la-habana-cuba",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": " Mejor maquillaje",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor direcci\u00f3n de arte ",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz Revelaci\u00f3n",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actor de reparto",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Montaje",
+                "icon": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "name": "Premios de la Academia Argentina de Artes y Ciencias de la Cinematograf\u00eda ",
+                "slug": "premios-de-la-academia-argentina-de-artes-y-ciencias-de-la-cinematografia",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luc\u00eda Puenzo",
+                "gender": "f",
+                "id": 669,
+                "slug": "lucia-puenzo",
+                "url": "https://www.filminlatino.mx/directora/lucia-puenzo"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Un extra\u00f1o personaje despierta en sus anfitriones cierto recelo, poco a poco se ver\u00e1n seducidos por sus modales, su distinci\u00f3n, su saber cient\u00edfico y su dinero.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1026,
+        "image_card": "https://static.filminlatino.mx/images/media/1026/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1026/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1026/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1026/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1026/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1026/8/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Wakolda",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 657,
+                "name": "Historias Cinematograficas Cinemania",
+                "slug": "historias-cinematograficas-cinemania",
+                "url": "https://www.filminlatino.mx/producer/historias-cinematograficas-cinemania"
+            },
+            {
+                "acronym": "",
+                "id": 658,
+                "name": "Cine.Ar",
+                "slug": "cinear",
+                "url": "https://www.filminlatino.mx/producer/cinear"
+            },
+            {
+                "acronym": "",
+                "id": 659,
+                "name": "P&P Endemol Argentina ",
+                "slug": "pp-endemol-argentina",
+                "url": "https://www.filminlatino.mx/producer/pp-endemol-argentina"
+            },
+            {
+                "acronym": "Telefe",
+                "id": 660,
+                "name": "Televisi\u00f3n Federal ",
+                "slug": "television-federal",
+                "url": "https://www.filminlatino.mx/producer/television-federal"
+            },
+            {
+                "acronym": "",
+                "id": 661,
+                "name": "Distribution Company Sudamericana",
+                "slug": "distribution-company-sudamericana",
+                "url": "https://www.filminlatino.mx/producer/distribution-company-sudamericana"
+            },
+            {
+                "acronym": "",
+                "id": 662,
+                "name": "The Stan Jakubowicz Co.",
+                "slug": "the-stan-jakubowicz-co",
+                "url": "https://www.filminlatino.mx/producer/the-stan-jakubowicz-co"
+            },
+            {
+                "acronym": "",
+                "id": 663,
+                "name": "Hummelfilm ",
+                "slug": "hummelfilm",
+                "url": "https://www.filminlatino.mx/producer/hummelfilm"
+            },
+            {
+                "acronym": "",
+                "id": 246,
+                "name": "Wanda Visi\u00f3n",
+                "slug": "wanda-vision",
+                "url": "https://www.filminlatino.mx/producer/wanda-vision"
+            },
+            {
+                "acronym": "",
+                "id": 465,
+                "name": "Pyramide Productions",
+                "slug": "pyramide-productions",
+                "url": "https://www.filminlatino.mx/producer/pyramide-productions"
+            },
+            {
+                "acronym": "",
+                "id": 664,
+                "name": "Moviecity ",
+                "slug": "moviecity",
+                "url": "https://www.filminlatino.mx/producer/moviecity"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-medico-aleman",
+        "synopsis": "En el verano de 1960, en la desolada regi\u00f3n de la Patagonia, un m\u00e9dico alem\u00e1n conoce a una familia argentina y se une a ellos para seguir la ruta. La familia hace renacer en \u00e9l todas sus obsesiones por la pureza y la perfecci\u00f3n. En especial Lilith, una adolescente quien en pleno despertar sexual siente atracci\u00f3n por el forastero, sin conocer la verdadera identidad del alem\u00e1n.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 108,
+                "name": "Despertar sexual",
+                "slug": "despertar-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despertar-sexual"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2117,
+                "name": "Ciclo El cine en el l\u00edmite de la medicina",
+                "slug": "ciclo-el-cine-en-el-limite-de-la-medicina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-cine-en-el-limite-de-la-medicina"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 192,
+                "name": "Asesinato perfecto",
+                "slug": "asesinato-perfecto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinato-perfecto"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1369094400,
+        "theater_release_date": 1369094400,
+        "theater_spectators_formatted": null,
+        "title": "El m\u00e9dico alem\u00e1n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-medico-aleman",
+        "versions": [
+            {
+                "codes": [],
+                "id": 849,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-medico-aleman.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-medico-aleman/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-medico-aleman/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

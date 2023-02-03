@@ -1,0 +1,317 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jacaranda Correa ",
+                "gender": "f",
+                "id": 411,
+                "slug": "jacaranda-correa",
+                "url": "https://www.filminlatino.mx/directora/jacaranda-correa"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "Narra la ceremonia \u201cde corte y arrastre\u201d del palo en Papantla, Veracruz, ritual milenario con profundo significado religioso.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3869,
+        "image_card": "https://static.filminlatino.mx/images/media/3869/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3869/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3869/3/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Hablemos a los cuatro vientos",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "hablemos-a-los-cuatro-vientos",
+        "synopsis": "Jacaranda Correa, con ayuda de testimonios y opiniones de expertos, pone en mesa de debate si el ritual de los voladores de Papantla, cuyo fin es salvar el equilibrio del mundo, podr\u00eda desvanecerse en medio del consumismo o si la difusi\u00f3n fuera de las comunidades ind\u00edgenas ayuda a su preservaci\u00f3n. El documental tambi\u00e9n expone otros riesgos que amenazan al ritual, como la migraci\u00f3n de los j\u00f3venes a zonas urbanas, que convierte el vuelo de los danzantes en un medio para la supervivencia en las urbes en lugar de una ceremonia religiosa que busca refrendar la colectividad y la pureza.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1804,
+                "name": "Xquenda (Origen) | MIC Istmo",
+                "slug": "xquenda-origen-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/xquenda-origen-mic-istmo"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 1636,
+                "name": "Cortometraje documental",
+                "slug": "cortometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje-documental"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 2261,
+                "name": "D\u00eda del Ma\u00edz",
+                "slug": "dia-del-maiz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-maiz"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Hablemos a los cuatro vientos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/hablemos-a-los-cuatro-vientos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3211,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2006
+    }
+}

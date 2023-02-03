@@ -1,0 +1,239 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Charlie Sheen",
+                "gender": "m",
+                "id": 3991,
+                "slug": "charlie-sheen",
+                "url": "https://www.filminlatino.mx/actor/charlie-sheen"
+            },
+            {
+                "full_name": "Jason Schwartzman",
+                "gender": "m",
+                "id": 3992,
+                "slug": "jason-schwartzman",
+                "url": "https://www.filminlatino.mx/actor/jason-schwartzman"
+            },
+            {
+                "full_name": "Bill Murray",
+                "gender": "m",
+                "id": 3993,
+                "slug": "bill-murray",
+                "url": "https://www.filminlatino.mx/actor/bill-murray"
+            },
+            {
+                "full_name": "Patricia Arquette",
+                "gender": "f",
+                "id": 3994,
+                "slug": "patricia-arquette",
+                "url": "https://www.filminlatino.mx/actriz/patricia-arquette"
+            },
+            {
+                "full_name": "Mary Elizabeth Winstead",
+                "gender": "f",
+                "id": 3996,
+                "slug": "mary-elizabeth-winstead",
+                "url": "https://www.filminlatino.mx/actriz/mary-elizabeth-winstead"
+            }
+        ],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial largometrajes a concurso",
+                "icon": "festival-de-sitges",
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Roman Coppola",
+                "gender": "m",
+                "id": 1381,
+                "slug": "roman-coppola",
+                "url": "https://www.filminlatino.mx/director/roman-coppola"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "A Charlie Swan, un exitoso y encantador dise\u00f1ador gr\u00e1fico, un buen d\u00eda lo abandona su novia. A partir de entonces, su envidiable vida empieza a desmoronarse.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2660,
+        "image_card": "https://static.filminlatino.mx/images/media/2660/16/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2660/16/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2660/16/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2660/16/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2660/16/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "A glimpse Inside the mind of Charles Swan III",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1576,
+                "name": "The Directors Bureau",
+                "slug": "the-directors-bureau",
+                "url": "https://www.filminlatino.mx/producer/the-directors-bureau"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "una-mirada-dentro-de-la-mente-de-charles-swan-iii",
+        "synopsis": "La historia sigue la vida de un famoso dise\u00f1ador gr\u00e1fico, cuya vida cambia despu\u00e9s de que su novia rompe con \u00e9l, este evento lo lleva a tener una crisis nerviosa que involucra alucinaciones y visitas al hospital.",
+        "tags": [
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 126,
+                "name": "Ambientada en hospital",
+                "slug": "ambientada-en-hospital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-hospital"
+            },
+            {
+                "id": 314,
+                "name": "Locura",
+                "slug": "locura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/locura"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Una mirada dentro de la mente de Charles Swan III",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/una-mirada-dentro-de-la-mente-de-charles-swan-iii",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2144,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/una-mirada-dentro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/una-mirada-dentro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/una-mirada-dentro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

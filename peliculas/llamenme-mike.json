@@ -1,0 +1,343 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alejandro Parodi",
+                "gender": "m",
+                "id": 140,
+                "slug": "alejandro-parodi",
+                "url": "https://www.filminlatino.mx/actor/alejandro-parodi"
+            },
+            {
+                "full_name": "Sasha Montenegro",
+                "gender": "f",
+                "id": 332,
+                "slug": "sasha-montenegro",
+                "url": "https://www.filminlatino.mx/actriz/sasha-montenegro"
+            },
+            {
+                "full_name": "V\u00edctor Alcocer",
+                "gender": "m",
+                "id": 333,
+                "slug": "victor-alcocer",
+                "url": "https://www.filminlatino.mx/actor/victor-alcocer"
+            },
+            {
+                "full_name": "Carlos Card\u00e1n",
+                "gender": "m",
+                "id": 334,
+                "slug": "carlos-cardan",
+                "url": "https://www.filminlatino.mx/actor/carlos-cardan"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor Actor",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1979
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1979
+            },
+            {
+                "category": "Mejor Argumento Original escrito para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1979
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alfredo Gurrola",
+                "gender": "m",
+                "id": 122,
+                "slug": "alfredo-gurrola",
+                "url": "https://www.filminlatino.mx/director/alfredo-gurrola"
+            }
+        ],
+        "duration_in_minutes": 104,
+        "excerpt": "Versi\u00f3n\u00a0HD\u00a0estabilizada\u00a0por la Cineteca Nacional. Cinta de culto, parodia de las cintas norteamericanas de serie negra, que supera en humor a docenas de comedias mexicanas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 124,
+        "image_card": "https://static.filminlatino.mx/images/media/124/5/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/124/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/124/6/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/124/7/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/124/9/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/124/13/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/124/15/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/124/11/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/124/19/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/124/17/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 119,
+        "original_title": "Ll\u00e1menme Mike",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 10,
+                "name": "CONACITE Dos",
+                "slug": "conacite-dos",
+                "url": "https://www.filminlatino.mx/producer/conacite-dos"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "llamenme-mike",
+        "synopsis": "Una divertida parodia de cintas norteamericanas de serie negra como Kiss Me Deadly (1955), que a su vez se basaba en las novelas de Mickey Spillane sobre el personaje Mike Hammer, detective violento e inflexible de la \u00e9poca de Joseph McCarthy, cuya obsesi\u00f3n se centraba en su lucha contra la amenaza comunista.",
+        "tags": [
+            {
+                "id": 8,
+                "name": "Cine polic\u00edaco",
+                "slug": "cine-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-policiaco"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 420,
+                "name": "Femme Fatale MX",
+                "slug": "femme-fatale-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/femme-fatale-mx"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 57,
+                "name": "Detective",
+                "slug": "detective",
+                "url": "https://www.filminlatino.mx/catalogo/tema/detective"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 975,
+                "name": "Recomendadas de Jessica Oliva",
+                "slug": "recomendadas-de-jessica-oliva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-jessica-oliva"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1211,
+                "name": "1979",
+                "slug": "1979",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1979"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 1655,
+                "name": "Encuentro de Novela Negra",
+                "slug": "encuentro-de-novela-negra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encuentro-de-novela-negra"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 289612800,
+        "theater_release_date": 289612800,
+        "theater_spectators_formatted": null,
+        "title": "Ll\u00e1menme Mike",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/llamenme-mike",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 110,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/llamenme-mike.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/llamenme-mike/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/llamenme-mike/master.m3u8"
+                }
+            ]
+        },
+        "year": 1979
+    }
+}

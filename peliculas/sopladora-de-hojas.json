@@ -1,0 +1,402 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alejandro Guerrero",
+                "gender": "m",
+                "id": 6012,
+                "slug": "alejandro-guerrero",
+                "url": "https://www.filminlatino.mx/actor/alejandro-guerrero"
+            },
+            {
+                "full_name": "Paco Rueda",
+                "gender": "m",
+                "id": 6013,
+                "slug": "paco-rueda",
+                "url": "https://www.filminlatino.mx/actor/paco-rueda"
+            },
+            {
+                "full_name": "Fabritzio Santini",
+                "gender": "m",
+                "id": 6014,
+                "slug": "fabritzio-santini",
+                "url": "https://www.filminlatino.mx/actor/fabritzio-santini"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": null
+            },
+            {
+                "category": "Official Selection",
+                "icon": "festival-internacional-de-cine-de-san-francisco",
+                "name": "Festival Internacional de Cine de San Francisco",
+                "slug": "festival-internacional-de-cine-de-san-francisco",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-torino",
+                "name": "Festival de Torino",
+                "slug": "festival-de-torino",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Premio de la Prensa",
+                "icon": "",
+                "name": "Festival Internacional de Cine Guanajuato",
+                "slug": "festival-internacional-de-cine-guanajuato",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Iglesias Mendiz\u00e1bal",
+                "gender": "m",
+                "id": 2369,
+                "slug": "alejandro-iglesias-mendizabal",
+                "url": "https://www.filminlatino.mx/director/alejandro-iglesias-mendizabal"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "El reto para tres amigos ser\u00e1 encontrar\u00a0unas llaves perdidas\u00a0en un mont\u00f3n de hojas pero, \u00bfc\u00f3mo esto podr\u00e1 cambiar el rumbo de sus vidas?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5198,
+        "image_card": "https://static.filminlatino.mx/images/media/5198/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5198/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5198/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5198/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5198/2/still_3_3.JPG",
+            "https://static.filminlatino.mx/images/media/5198/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5198/3/still_5_3.JPG"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 100,
+        "original_title": "Sopladora de hojas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 800,
+                "name": "Cacerola Films",
+                "slug": "cacerola-films",
+                "url": "https://www.filminlatino.mx/producer/cacerola-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sopladora-de-hojas",
+        "synopsis": "Lucas, Emilio y Rub\u00e9n son tres adolescentes unidos por la amistad. Est\u00e1n juntos en una misi\u00f3n muy especial: encontrar unas llaves perdidas en un mont\u00f3n de hojas secas. Lo que parece una tarea sencilla se convertir\u00e1 en toda una odisea cuando la situaci\u00f3n los confronte con sus propios miedos, entre ellos crecer. Esta tarde podr\u00eda cambiar el rumbo de sus vidas... o\u00a0tal vez no.",
+        "tags": [
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 963,
+                "name": "Nuevas miradas",
+                "slug": "nuevas-miradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevas-miradas"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 743,
+                "name": "Aventuras_MX",
+                "slug": "aventuras-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras-mx"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 154,
+                "name": "Reuni\u00f3n de amigos",
+                "slug": "reunion-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reunion-de-amigos"
+            },
+            {
+                "id": 170,
+                "name": "Guionista que pasa a director",
+                "slug": "guionista-que-pasa-a-director",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guionista-que-pasa-a-director"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 1367,
+                "name": "Revelaci\u00f3n masculina Ariel",
+                "slug": "revelacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revelacion-masculina-ariel"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 765,
+                "name": "Blue Monday",
+                "slug": "blue-monday",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blue-monday"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1495152000,
+        "theater_release_date": 1495152000,
+        "theater_spectators_formatted": null,
+        "title": "Sopladora de hojas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sopladora-de-hojas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 8614,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SOPLADORADEHOJAS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SOPLADORADEHOJAS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SOPLADORADEHOJAS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

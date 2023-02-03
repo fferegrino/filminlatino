@@ -1,0 +1,218 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guita Schyfter",
+                "gender": "f",
+                "id": 985,
+                "slug": "guita-schyfter",
+                "url": "https://www.filminlatino.mx/directora/guita-schyfter"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "\u00bfCu\u00e1l es el sentido de la b\u00fasqueda de los or\u00edgenes? Universalmente, la propia b\u00fasqueda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1461,
+        "image_card": "https://static.filminlatino.mx/images/media/1461/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1461/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1461/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1461/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1461/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1461/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1461/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1461/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Laberintos de la memoria",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1047,
+                "name": "Producciones Arte Nuevo",
+                "slug": "producciones-arte-nuevo",
+                "url": "https://www.filminlatino.mx/producer/producciones-arte-nuevo"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "laberintos-de-la-memoria",
+        "synopsis": "Los mitos del origen son universales. Recordar en la cultura jud\u00eda no es s\u00f3lo un movimiento natural del esp\u00edritu: es un deber religioso, un acto de significaci\u00f3n teol\u00f3gica. Con una insistencia s\u00f3lo comparable \u2013dec\u00eda Luis Gonz\u00e1lez\u2013 a la del pueblo mexicano, los jud\u00edos han volteado incesantemente hacia el pasado para conmemorarlo, para llorarlo, para honrarlo. El Holocausto ahond\u00f3 m\u00e1s esa actitud. Ambos elementos (recuerdo y Holocausto) est\u00e1n en el coraz\u00f3n de Laberintos de la memoria, la pel\u00edcula m\u00e1s reciente de Guita Schyfter, su inquietante y conmovedora exploraci\u00f3n del peque\u00f1o pueblo de sus antepasados en Polonia. La historia se sostiene por s\u00ed misma, pero Schyfter eligi\u00f3 contrapuntearla con otra historia que descubri\u00f3 por azar: una mujer mexicana que vive en Cuba, lejos de la madre biol\u00f3gica que, decenios atr\u00e1s, hab\u00eda tenido que darla en adopci\u00f3n. Schyfter las pone en contacto, suscitando el reencuentro que en su propia familia nunca se pudo dar. Al final, las historias convergen de un modo sutil, con el triunfo melanc\u00f3lico del presente (\u00fanico tiempo real) sobre el pasado. La b\u00fasqueda de la identidad va m\u00e1s all\u00e1 de las fronteras \u00e9tnicas y geogr\u00e1ficas: es una manera de explicar, de entender, de dar un sentido, de encontrar un lugar.",
+        "tags": [
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1247,
+                "name": "2007",
+                "slug": "2007",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2007"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 23,
+                "name": "Segunda Guerra Mundial",
+                "slug": "segunda-guerra-mundial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segunda-guerra-mundial"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1191542400,
+        "theater_release_date": 1191542400,
+        "theater_spectators_formatted": null,
+        "title": "Laberintos de la memoria",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/laberintos-de-la-memoria",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1736,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/laberinto-de-memorias.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/laberinto-de-memorias/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/laberinto-de-memorias/master.m3u8"
+                }
+            ]
+        },
+        "year": 2007
+    }
+}

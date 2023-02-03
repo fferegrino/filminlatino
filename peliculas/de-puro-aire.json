@@ -1,0 +1,323 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Gabriel N\u00e1jera Villegas",
+                "gender": "m",
+                "id": 92,
+                "slug": "gabriel-najera-villegas",
+                "url": "https://www.filminlatino.mx/character/gabriel-najera-villegas"
+            },
+            {
+                "full_name": " Gabriel N\u00e1jera Montes de Oca",
+                "gender": "m",
+                "id": 93,
+                "slug": "gabriel-najera-montes-de-oca",
+                "url": "https://www.filminlatino.mx/character/gabriel-najera-montes-de-oca"
+            },
+            {
+                "full_name": "Aidee Yadira N\u00e1jera Villegas",
+                "gender": "f",
+                "id": 94,
+                "slug": "aidee-yadira-najera-villegas",
+                "url": "https://www.filminlatino.mx/character/aidee-yadira-najera-villegas"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Hern\u00e1ndez",
+                "gender": "m",
+                "id": 1382,
+                "slug": "carlos-hernandez",
+                "url": "https://www.filminlatino.mx/director/carlos-hernandez"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Despu\u00e9s de vivir treinta a\u00f1os en un peque\u00f1o parque de la Ciudad de M\u00e9xico, un globero apodado \"El Apenas\" decide regresar a casa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2661,
+        "image_card": "https://static.filminlatino.mx/images/media/2661/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2661/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2661/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2661/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2661/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2661/4/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "De puro aire",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1577,
+                "name": "Media Mac",
+                "slug": "media-mac",
+                "url": "https://www.filminlatino.mx/producer/media-mac"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 1997,
+                "name": "E Corp",
+                "slug": "e-corp",
+                "url": "https://www.filminlatino.mx/producer/e-corp"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "de-puro-aire",
+        "synopsis": "Despu\u00e9s de vivir treinta a\u00f1os en un peque\u00f1o parque de la Ciudad de M\u00e9xico, un globero apodado \"El Apenas\" decide regresar a casa. \u00bfSu familia lo aceptar\u00e1 de regreso? \u00bfPodr\u00e1 cambiar la vida en la calle por la comodidad de su hogar?",
+        "tags": [
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 1154,
+                "name": "Adultos mayores",
+                "slug": "adultos-mayores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adultos-mayores"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 657,
+                "name": "Sentimientos",
+                "slug": "sentimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sentimientos"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 476,
+                "name": "Distanciamiento",
+                "slug": "distanciamiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/distanciamiento"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1412,
+                "name": "Axel Mu\u00f1oz Barba",
+                "slug": "axel-munoz-barba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axel-munoz-barba"
+            },
+            {
+                "id": 2490,
+                "name": "Despedidas",
+                "slug": "despedidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despedidas"
+            },
+            {
+                "id": 2613,
+                "name": "Selecci\u00f3n oficial FICG 37",
+                "slug": "seleccion-oficial-ficg-37",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-ficg-37"
+            },
+            {
+                "id": 2643,
+                "name": "Directores que participan en el GIFF 25",
+                "slug": "directores-que-participan-en-el-giff-25",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-que-participan-en-el-giff-25"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "De puro aire",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/de-puro-aire",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4285,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DEpuroAIRE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DEpuroAIRE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DEpuroAIRE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

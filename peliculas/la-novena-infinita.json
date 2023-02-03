@@ -1,0 +1,257 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Monterrey International Film Festival (FIC Monterrey)",
+                "slug": "monterrey-international-film-festival-fic-monterrey",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Ra\u00fal Tamez",
+                "gender": "m",
+                "id": 1953,
+                "slug": "raul-tamez",
+                "url": "https://www.filminlatino.mx/character/raul-tamez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ricardo Yahuaca V\u00e1zquez",
+                "gender": "m",
+                "id": 5447,
+                "slug": "ricardo-yahuaca-vazquez",
+                "url": "https://www.filminlatino.mx/director/ricardo-yahuaca-vazquez"
+            },
+            {
+                "full_name": "Jazim  Meza Beltr\u00e1n",
+                "gender": "m",
+                "id": 5448,
+                "slug": "jazim-meza-beltran",
+                "url": "https://www.filminlatino.mx/director/jazim-meza-beltran"
+            }
+        ],
+        "duration_in_minutes": 66,
+        "excerpt": "Presentaci\u00f3n de la Novena Sinfon\u00eda de Ludwig Van Beethoven como un acto de resistencia po\u00e9tica en tiempos pand\u00e9micos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9266,
+        "image_card": "https://static.filminlatino.mx/images/media/9266/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9266/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9266/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9266/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9266/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/9266/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/9266/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/9266/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "La novena infinita ",
+        "producers": [],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-novena-infinita",
+        "synopsis": "La compa\u00f1\u00eda de danza contempor\u00e1nea La infinita Compa\u00f1\u00eda decide presentar la Novena Sinfon\u00eda de Ludwig Van Beethoven como un acto de resistencia po\u00e9tica en los tiempos pand\u00e9micos.<br>Este largometraje es una producci\u00f3n de\u00a0Yahuaca Producciones la cual se consolida en Ciudad de M\u00e9xico como una necesidad creativa de sus tres fundadores; Ricardo Yahuaca V\u00e1zquez y Jazim Iv\u00e1n Meza Beltr\u00e1n y\u00a0Juan Manuel Yahuaca Morelos.",
+        "tags": [
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 1923,
+                "name": "Pandemia ",
+                "slug": "pandemia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pandemia"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1682,
+                "name": "Festival de Cine Mexicano Tamat\u00e1n",
+                "slug": "festival-de-cine-mexicano-tamatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cine-mexicano-tamatan"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 712,
+                "name": "Bailarines",
+                "slug": "bailarines",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bailarines"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 2273,
+                "name": "Festival Tamat\u00e1n 2",
+                "slug": "festival-tamatan-2",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-tamatan-2"
+            },
+            {
+                "id": 2276,
+                "name": "Hecho en Mex | Festival Tamat\u00e1n 2",
+                "slug": "hecho-en-mex-festival-tamatan-2",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hecho-en-mex-festival-tamatan-2"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La novena infinita",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-novena-infinita",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10921,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

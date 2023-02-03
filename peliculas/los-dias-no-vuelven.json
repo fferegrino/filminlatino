@@ -1,0 +1,326 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Ganador",
+                "icon": "",
+                "name": "Tribeca Film Institute ",
+                "slug": "tribeca-film-institute",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Enrique Jara",
+                "gender": "m",
+                "id": 148,
+                "slug": "enrique-jara",
+                "url": "https://www.filminlatino.mx/character/enrique-jara"
+            },
+            {
+                "full_name": "Erik Casas",
+                "gender": "m",
+                "id": 149,
+                "slug": "erik-casas",
+                "url": "https://www.filminlatino.mx/character/erik-casas"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Cuesta",
+                "gender": "m",
+                "id": 380,
+                "slug": "raul-cuesta",
+                "url": "https://www.filminlatino.mx/director/raul-cuesta"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Una historia del mundo del tenis mexicano contado desde la perspectiva de un jugador retirado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2689,
+        "image_card": "https://static.filminlatino.mx/images/media/2689/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2689/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2689/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2689/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2689/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2689/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2689/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Los d\u00edas no vuelven",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 1611,
+                "name": "Amaina ",
+                "slug": "amaina",
+                "url": "https://www.filminlatino.mx/producer/amaina"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-dias-no-vuelven",
+        "synopsis": "Documental que narra la historia de Enrique Jara,\u00a0un exjugador de tenis de nacionalidad\u00a0mexicana que estuvo en la cima, pero comenz\u00f3 a perderlo todo despu\u00e9s de una racha de derrotas. Enrique perdi\u00f3 el afecto de su padre luego de que decidiera retirarse de manera prematura del deporte. Ahora \u00e9l vive anhelando el perd\u00f3n de su padre y arrepentido por haber dejado atr\u00e1s todos esos d\u00edas de gloria de su pasado.",
+        "tags": [
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2490,
+                "name": "Despedidas",
+                "slug": "despedidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despedidas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1429833600,
+        "theater_release_date": 1429833600,
+        "theater_spectators_formatted": null,
+        "title": "Los d\u00edas no vuelven",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-dias-no-vuelven",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4431,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LOSDIASNOVUELVENTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LOSDIASNOVUELVENTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LOSDIASNOVUELVENTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

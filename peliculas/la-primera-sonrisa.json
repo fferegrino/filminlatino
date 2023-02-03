@@ -1,0 +1,313 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guadalupe S\u00e1nchez Sosa ",
+                "gender": "f",
+                "id": 265,
+                "slug": "guadalupe-sanchez-sosa",
+                "url": "https://www.filminlatino.mx/directora/guadalupe-sanchez-sosa"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Parteras del mundo viajan a M\u00e9xico y Brasil convocadas por Naol\u00ed Vinaver para aprender m\u00e1s sobre su oficio y hacer de esta profesi\u00f3n un interludio para sanar.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3260,
+        "image_card": "https://static.filminlatino.mx/images/media/3260/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3260/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3260/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3260/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3260/5/still_3_3.JPG",
+            "https://static.filminlatino.mx/images/media/3260/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3260/9/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "La primera sonrisa",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1792,
+                "name": "Monstro Films",
+                "slug": "monstro-films",
+                "url": "https://www.filminlatino.mx/producer/monstro-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-primera-sonrisa",
+        "synopsis": "Documental que sigue por M\u00e9xico y Brasil a un grupo de parteras provenientes de diferentes partes del mundo convocadas por la partera mexicana Naol\u00ed Vinaver para aprender m\u00e1s sobre su oficio y hacer de esta profesi\u00f3n un interludio para sanar. La directora Guadalupe S\u00e1nchez Sosa registra talleres de medicina herbolaria y uso del rebozo mientras entrevista a embarazadas a punto de parir, mujeres que se abren en cuerpo y alma para compartirnos el descubrir de la naturaleza femenina.",
+        "tags": [
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 353,
+                "name": "Medicina alternativa",
+                "slug": "medicina-alternativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medicina-alternativa"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 898,
+                "name": "Derechos sexuales",
+                "slug": "derechos-sexuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-sexuales"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1404,
+                "name": "M\u00f3nica Lozano",
+                "slug": "monica-lozano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monica-lozano"
+            },
+            {
+                "id": 2075,
+                "name": "Universidad Aut\u00f3noma de Estudios Regionales de la UNAM",
+                "slug": "universidad-autonoma-de-estudios-regionales-de-la-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universidad-autonoma-de-estudios-regionales-de-la-unam"
+            },
+            {
+                "id": 2117,
+                "name": "Ciclo El cine en el l\u00edmite de la medicina",
+                "slug": "ciclo-el-cine-en-el-limite-de-la-medicina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-cine-en-el-limite-de-la-medicina"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La primera sonrisa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-primera-sonrisa",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2592,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-primera-sonrisa.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-primera-sonrisa/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-primera-sonrisa/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

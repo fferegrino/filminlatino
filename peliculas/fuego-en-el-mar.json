@@ -1,0 +1,302 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            },
+            {
+                "full_name": "Norma Herrera",
+                "gender": "f",
+                "id": 338,
+                "slug": "norma-herrera",
+                "url": "https://www.filminlatino.mx/actriz/norma-herrera"
+            },
+            {
+                "full_name": "Milton Rodr\u00edguez",
+                "gender": "m",
+                "id": 339,
+                "slug": "milton-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/milton-rodriguez"
+            },
+            {
+                "full_name": "Manuel Ojeda",
+                "gender": "m",
+                "id": 534,
+                "slug": "manuel-ojeda",
+                "url": "https://www.filminlatino.mx/actor/manuel-ojeda"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Araiza",
+                "gender": "m",
+                "id": 123,
+                "slug": "raul-araiza",
+                "url": "https://www.filminlatino.mx/director/raul-araiza"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Una historia sobre como los celos deterioran cada vez m\u00e1s la fr\u00e1gil estabilidad de un matrimonio.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 126,
+        "image_card": "https://static.filminlatino.mx/images/media/126/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/126/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/126/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/126/7/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Fuego en el mar",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 10,
+                "name": "CONACITE Dos",
+                "slug": "conacite-dos",
+                "url": "https://www.filminlatino.mx/producer/conacite-dos"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "fuego-en-el-mar",
+        "synopsis": "Mariano trabaja como jefe de perforadores en una plataforma petrolera de Campeche. Por la naturaleza de sus labores debe permanecer en ella 14 d\u00edas al mes; el tiempo restante lo pasa al lado de su esposa Gloria y su hija adolescente. Sin embargo, vive obsesionado con la idea de que su mujer, durante sus largas ausencias, lo enga\u00f1a. Por ello una y otra vez le pide que deje de trabajar y se embarace por segunda vez. Sin embargo, Gloria se niega a depender econ\u00f3micamente de su esposo. Los conflictos de la pareja se agudizan cuando el ingeniero Becker, antiguo amante de Gloria, comienza a trabajar nuevamente en las oficinas donde \u00e9sta labora.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 259,
+                "name": "Parejas en el l\u00edmite",
+                "slug": "parejas-en-el-limite",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas-en-el-limite"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 935,
+                "name": "Actrices imprescindibles",
+                "slug": "actrices-imprescindibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actrices-imprescindibles"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 829,
+                "name": "14\u00b0 FICM",
+                "slug": "140-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-ficm"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1193,
+                "name": "Campeche",
+                "slug": "campeche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campeche"
+            },
+            {
+                "id": 1194,
+                "name": "1981",
+                "slug": "1981",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1981"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 370137600,
+        "theater_release_date": 370137600,
+        "theater_spectators_formatted": null,
+        "title": "Fuego en el mar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/fuego-en-el-mar",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 146,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1979
+    }
+}

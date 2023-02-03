@@ -1,0 +1,235 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Antonio Martin Beato",
+                "gender": "m",
+                "id": 1128,
+                "slug": "antonio-martin-beato",
+                "url": "https://www.filminlatino.mx/actor/antonio-martin-beato"
+            },
+            {
+                "full_name": "David Bermejo",
+                "gender": "m",
+                "id": 1129,
+                "slug": "david-bermejo",
+                "url": "https://www.filminlatino.mx/actor/david-bermejo"
+            },
+            {
+                "full_name": "Ana Casado Boch",
+                "gender": "f",
+                "id": 1130,
+                "slug": "ana-casado-boch",
+                "url": "https://www.filminlatino.mx/actriz/ana-casado-boch"
+            },
+            {
+                "full_name": "Maria Brunete",
+                "gender": "f",
+                "id": 1131,
+                "slug": "maria-brunete",
+                "url": "https://www.filminlatino.mx/actriz/maria-brunete"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Serrano",
+                "gender": "m",
+                "id": 436,
+                "slug": "carlos-serrano",
+                "url": "https://www.filminlatino.mx/director/carlos-serrano"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "La dif\u00edcil responsabilidad que conlleva el cambio.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 467,
+        "image_card": "https://static.filminlatino.mx/images/media/467/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/467/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/467/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/467/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/467/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/467/7/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "El \u00e1rbol",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 475,
+                "name": "Estar Ah\u00ed Cinema",
+                "slug": "estar-ahi-cinema",
+                "url": "https://www.filminlatino.mx/producer/estar-ahi-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 476,
+                "name": "Fresdeval Films",
+                "slug": "fresdeval-films",
+                "url": "https://www.filminlatino.mx/producer/fresdeval-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-arbol",
+        "synopsis": "Santiago se separa de su familia. El juez no permite que se acerque a su mujer e hijos. Adem\u00e1s, a consecuencia de esto y de su estilo de vida, se ve \"obligado\" a trabajar en el bar de un amigo. Ah\u00ed est\u00e1 despedido. As\u00ed comenzar\u00e1n sus peores d\u00edas, callejeando por Madrid, en los que tendr\u00e1n que enfrentarse a su realidad y la responsabilidad de cambiar o morir.",
+        "tags": [
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1749,
+                "name": "Selecci\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "seleccion-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1294963200,
+        "theater_release_date": 1294963200,
+        "theater_spectators_formatted": null,
+        "title": "El \u00e1rbol",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-arbol",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 262,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

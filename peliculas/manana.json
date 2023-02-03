@@ -1,0 +1,260 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Cyril Dion",
+                "gender": "m",
+                "id": 2553,
+                "slug": "cyril-dion",
+                "url": "https://www.filminlatino.mx/director/cyril-dion"
+            },
+            {
+                "full_name": "M\u00e9lanie Laurent",
+                "gender": "f",
+                "id": 1742,
+                "slug": "melanie-laurent",
+                "url": "https://www.filminlatino.mx/directora/melanie-laurent"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Ante la posible desaparici\u00f3n de la humanidad, Cyril Dion y M\u00e9lanie Laurent investigan las causas y las reinvenciones del mundo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5486,
+        "image_card": "https://static.filminlatino.mx/images/media/5486/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5486/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5486/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5486/2/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 25,
+        "original_title": "Demain",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "manana",
+        "synopsis": "Tras la publicaci\u00f3n de un estudio que anunciaba la posible desaparici\u00f3n de parte de la humanidad en 2100, Cyril Dion y M\u00e9lanie Laurent y un equipo de cuatro personas visitan diez pa\u00edses para investigar las causas de la cat\u00e1strofe y, sobre todo, la forma de evitarla. Durante su viaje, se encuentran con pioneros que reinventan la agricultura, la energ\u00eda, la econom\u00eda, la democracia y la educaci\u00f3n. Terminado su trabajo, empiezan a vislumbrar la posibilidad de que surja un nuevo mundo: el mundo del ma\u00f1ana.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 697,
+                "name": "Contaminaci\u00f3n",
+                "slug": "contaminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/contaminacion"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ma\u00f1ana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/manana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4977,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MANANATLR.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MANANATLR/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MANANATLR/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

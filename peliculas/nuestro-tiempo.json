@@ -1,0 +1,410 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carlos  Reygadas",
+                "gender": "m",
+                "id": 5811,
+                "slug": "carlos-reygadas",
+                "url": "https://www.filminlatino.mx/actor/carlos-reygadas"
+            },
+            {
+                "full_name": "Natalia  L\u00f3pez",
+                "gender": "f",
+                "id": 5812,
+                "slug": "natalia-lopez",
+                "url": "https://www.filminlatino.mx/actriz/natalia-lopez"
+            },
+            {
+                "full_name": "Eleazar Reygadas",
+                "gender": "m",
+                "id": 945,
+                "slug": "eleazar-reygadas",
+                "url": "https://www.filminlatino.mx/actor/eleazar-reygadas"
+            },
+            {
+                "full_name": "Phil  Burgers",
+                "gender": "m",
+                "id": 5836,
+                "slug": "phil-burgers",
+                "url": "https://www.filminlatino.mx/actor/phil-burgers"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a mejor sonido ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a mejor guion original",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a mejor director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a Mejor Fotograf\u00eda ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial largometrajes a concurso",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Reygadas",
+                "gender": "m",
+                "id": 97,
+                "slug": "carlos-reygadas",
+                "url": "https://www.filminlatino.mx/director/carlos-reygadas"
+            }
+        ],
+        "duration_in_minutes": 178,
+        "excerpt": "Juan parece que es incapaz de alcanzar las expectativas de s\u00ed mismo.\u00a0Nominada al Ariel como mejor pel\u00edcula en 2018.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5049,
+        "image_card": "https://static.filminlatino.mx/images/media/5049/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5049/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5049/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/2/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/5049/1/still_10_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 79,
+        "original_title": "Nuestro tiempo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "nuestro-tiempo",
+        "synopsis": "En una ganader\u00eda de toros bravos en el altiplano de M\u00e9xico vive una familia. Mientras Ester administra el rancho, su marido Juan, un poeta reconocido, cr\u00eda y selecciona el ganado. Cuando Ester es infiel con un arrendador de caballos norteamericano, Juan parece incapaz de alcanzar las expectativas que tiene de s\u00ed mismo. Nominada al Ariel como mejor pel\u00edcula en 2018.\u00a0",
+        "tags": [
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 687,
+                "name": "animales de granja",
+                "slug": "animales-de-granja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-de-granja"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 106,
+                "name": "Animales salvajes",
+                "slug": "animales-salvajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-salvajes"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 1335,
+                "name": "Nominadas Ariel 61",
+                "slug": "nominadas-ariel-61",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-61"
+            },
+            {
+                "id": 1412,
+                "name": "Axel Mu\u00f1oz Barba",
+                "slug": "axel-munoz-barba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axel-munoz-barba"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1337,
+                "name": "16\u00b0 FICM",
+                "slug": "160-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/160-ficm"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1437,
+                "name": "Festival del Puerto",
+                "slug": "festival-del-puerto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-del-puerto"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Nuestro tiempo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nuestro-tiempo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4347,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/NUESTRO-TIEMPO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/NUESTRO-TIEMPO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/NUESTRO-TIEMPO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

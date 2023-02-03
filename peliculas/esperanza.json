@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Claudio Brook",
+                "gender": "m",
+                "id": 265,
+                "slug": "claudio-brook",
+                "url": "https://www.filminlatino.mx/actor/claudio-brook"
+            },
+            {
+                "full_name": "Dmitriy Kharatyan",
+                "gender": "m",
+                "id": 745,
+                "slug": "dmitriy-kharatyan",
+                "url": "https://www.filminlatino.mx/actor/dmitriy-kharatyan"
+            },
+            {
+                "full_name": "Leonid Kuravlyov",
+                "gender": "m",
+                "id": 746,
+                "slug": "leonid-kuravlyov",
+                "url": "https://www.filminlatino.mx/actor/leonid-kuravlyov"
+            },
+            {
+                "full_name": "Boris Tokarev",
+                "gender": "m",
+                "id": 747,
+                "slug": "boris-tokarev",
+                "url": "https://www.filminlatino.mx/actor/boris-tokarev"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sergio Olhovich Greene",
+                "gender": "m",
+                "id": 103,
+                "slug": "sergio-olhovich-greene",
+                "url": "https://www.filminlatino.mx/director/sergio-olhovich-greene"
+            }
+        ],
+        "duration_in_minutes": 143,
+        "excerpt": "Evoca la historia, las culturas y las costumbres de M\u00e9xico y Rusia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 268,
+        "image_card": "https://static.filminlatino.mx/images/media/268/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/268/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/268/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/268/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/268/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 29,
+        "original_title": "Esperanza",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "esperanza",
+        "synopsis": "Con solo 19 a\u00f1os Vladimir Olhosvky, huye de la Revoluci\u00f3n Rusa y se exilia en la Ciudad de M\u00e9xico.Tendr\u00e1 que abrirse paso en un nuevo pa\u00eds, totalmente desconocido para \u00e9l pero que le deparar\u00e1 una nueva vida.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 322,
+                "name": "Exilio",
+                "slug": "exilio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exilio"
+            },
+            {
+                "id": 598,
+                "name": "Hechos Reales MX",
+                "slug": "hechos-reales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hechos-reales-mx"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 392,
+                "name": "Revoluci\u00f3n Rusa",
+                "slug": "revolucion-rusa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-rusa"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1202,
+                "name": "1988",
+                "slug": "1988",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1988"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1495,
+                "name": "Represi\u00f3n",
+                "slug": "represion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/represion"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 596851200,
+        "theater_release_date": 596851200,
+        "theater_spectators_formatted": null,
+        "title": "Esperanza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/esperanza",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 847,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1988
+    }
+}

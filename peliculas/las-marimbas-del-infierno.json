@@ -1,0 +1,344 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alfonso Tuche",
+                "gender": "m",
+                "id": 2952,
+                "slug": "alfonso-tuche",
+                "url": "https://www.filminlatino.mx/actor/alfonso-tuche"
+            },
+            {
+                "full_name": "Roberto Gonz\u00e1lez Ar\u00e9valo",
+                "gender": "m",
+                "id": 2953,
+                "slug": "roberto-gonzalez-arevalo",
+                "url": "https://www.filminlatino.mx/actor/roberto-gonzalez-arevalo"
+            },
+            {
+                "full_name": "V\u00edctor Hugo  Monterroso",
+                "gender": "m",
+                "id": 2954,
+                "slug": "victor-hugo-monterroso",
+                "url": "https://www.filminlatino.mx/actor/victor-hugo-monterroso"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Zabalgeti - Especiales",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-miami",
+                "name": "Festival de Cine de Miami",
+                "slug": "festival-de-cine-de-miami",
+                "year": 2010
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "name": "Festival Internacional de Cine Independiente de Buenos Aires",
+                "slug": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "year": 2010
+            },
+            {
+                "category": "Premio Talento Emergente ",
+                "icon": "festival-internacional-de-cine-de-fribourg-suiza",
+                "name": "Festival Internacional de Cine de Fribourg, Suiza ",
+                "slug": "festival-internacional-de-cine-de-fribourg-suiza",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 91,
+                "name": "Guatemala",
+                "slug": "guatemala",
+                "url": "https://www.filminlatino.mx/catalogo/pais/guatemala"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Julio Hern\u00e1ndez Cord\u00f3n",
+                "gender": "m",
+                "id": 1049,
+                "slug": "julio-hernandez-cordon",
+                "url": "https://www.filminlatino.mx/director/julio-hernandez-cordon"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Una comedia brillante y absurda por donde se la mire, graciosa y conmovedora a la vez, donde la marimba, instrumento nacional de Guatemala, tendr\u00e1 un choque con el heavy metal.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 19,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/musical"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1798,
+        "image_card": "https://static.filminlatino.mx/images/media/1798/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1798/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1798/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1798/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1798/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1798/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1798/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1798/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 46,
+        "original_title": "Las marimbas del infierno",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1236,
+                "name": "Les Films du Requin",
+                "slug": "les-films-du-requin",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-requin"
+            },
+            {
+                "acronym": "",
+                "id": 1220,
+                "name": "Melindrosa Films",
+                "slug": "melindrosa-films",
+                "url": "https://www.filminlatino.mx/producer/melindrosa-films"
+            },
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            },
+            {
+                "acronym": "",
+                "id": 1237,
+                "name": "Codice Cinema",
+                "slug": "codice-cinema",
+                "url": "https://www.filminlatino.mx/producer/codice-cinema"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "las-marimbas-del-infierno",
+        "synopsis": "Don Alfonso fue extorsionado. Sospecha de sus vecinos, de sus m\u00fasicos y de las pandillas y cree que en cualquier momento pueden da\u00f1ar a su familia y a su marimba. Es por esto que \u00e9l esconde a su esposa e hijas y huye de su casa solo con su marimba. Adem\u00e1s, se queda sin trabajo. En un momento de reflexi\u00f3n decide fusionar la marimba, que es el instrumento tradicional de Guatemala, con el heavy metal. Para eso recurre a Chiquil\u00edn, su ahijado, un chico con un presente complicado y que inhala solventes. Juntos buscan a Blacko, un m\u00edtico rockero del underground de Guatemala para invitarlo a formar la nueva banda. Blacko, quien es m\u00e9dico, fue sat\u00e1nico en sus inicios, despu\u00e9s se hizo cristiano y ahora profesa una religi\u00f3n cercana al juda\u00edsmo. Blacko tampoco encuentra espacios adecuados para desarrollar lo que m\u00e1s ama: el heavy metal. Don Alfonso, Chiquil\u00edn y Blacko viven en una Guatemala que los ahoga. Entonces los tres aceptan sus diferencias y forman Las Marimbas del Infierno.",
+        "tags": [
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 920,
+                "name": "Maria Secco",
+                "slug": "maria-secco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maria-secco"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 1087,
+                "name": "M\u00e9xico en San Sebasti\u00e1n 2018",
+                "slug": "mexico-en-san-sebastian-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-en-san-sebastian-2018"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 991,
+                "name": "Especial Black Canvas",
+                "slug": "especial-black-canvas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-black-canvas"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1288569600,
+        "theater_release_date": 1288569600,
+        "theater_spectators_formatted": null,
+        "title": "Las marimbas del infierno",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-marimbas-del-infierno",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1401,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/las-marimbas-del-infierno.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/las-marimbas-del-infierno/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/las-marimbas-del-infierno/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

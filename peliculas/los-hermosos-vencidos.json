@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Diego Calva",
+                "gender": "m",
+                "id": 4218,
+                "slug": "diego-calva",
+                "url": "https://www.filminlatino.mx/actor/diego-calva"
+            },
+            {
+                "full_name": "Tania L\u00f3pez ",
+                "gender": "f",
+                "id": 12357,
+                "slug": "tania-lopez",
+                "url": "https://www.filminlatino.mx/actriz/tania-lopez"
+            }
+        ],
+        "avg_votes": 6.3,
+        "avg_votes_formatted": "6,3",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial a mejor largometraje",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guillermo Magari\u00f1os",
+                "gender": "m",
+                "id": 6564,
+                "slug": "guillermo-magarinos",
+                "url": "https://www.filminlatino.mx/director/guillermo-magarinos"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "Un chico y una chica que se acaban de conocer transportan un cad\u00e1ver por encargo hacia el norte de M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11371,
+        "image_card": "https://static.filminlatino.mx/images/media/11371/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11371/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11371/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11371/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11371/7/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Los hermosos vencidos",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-hermosos-vencidos",
+        "synopsis": "Un chico y una chica que se acaban de conocer transportan un cad\u00e1ver por encargo hacia el norte de M\u00e9xico. Cuando la polic\u00eda los descubre en un control rutinario, se ven obligados a huir. Forzados a hacer equipo, ir\u00e1n abandonando su hermetismo y su desconfianza mientras tratan de hacer valer su \u00fanico patrimonio: un muerto del que solo saben que vale dinero si logran llevarlo a su destino.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 236,
+                "name": "Personaje con incomunicaci\u00f3n",
+                "slug": "personaje-con-incomunicacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-con-incomunicacion"
+            },
+            {
+                "id": 632,
+                "name": "Personajes del cine mexicano",
+                "slug": "personajes-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-del-cine-mexicano"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 751,
+                "name": "Suspense_MX",
+                "slug": "suspense-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspense-mx"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 2668,
+                "name": "D\u00eda Nacional del Cine Mexicano 2022",
+                "slug": "dia-nacional-del-cine-mexicano-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-nacional-del-cine-mexicano-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los hermosos vencidos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-hermosos-vencidos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13273,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/HERMOSOS-VENCIDOS-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/HERMOSOS-VENCIDOS-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/HERMOSOS-VENCIDOS-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2021
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Ganador mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alice Diop",
+                "gender": "f",
+                "id": 6990,
+                "slug": "alice-diop",
+                "url": "https://www.filminlatino.mx/directora/alice-diop"
+            }
+        ],
+        "duration_in_minutes": 115,
+        "excerpt": "Un documental sensible y necesario sobre la convivencia, un gesto cinematogr\u00e1fico de la misma directora que Saint Omer, que representa a Francia en los \u00d3scars 2023.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11896,
+        "image_card": "https://static.filminlatino.mx/images/media/11896/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11896/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11896/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11896/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11896/8/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/11896/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11896/10/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Nous",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "nosotros-2020",
+        "synopsis": "Un tren de suburbios de Par\u00eds, el RER B, cruza la ciudad de norte a sur. Un viaje por el interior de estos lugares imprecisos, llamados \"suburbios\". Un mec\u00e1nico del barrio de Courneuve, fieles que conmemoran la muerte de Luis XVI en la bas\u00edlica de Saint-Denis, una enfermera que visita a sus pacientes, el recuerdo de los j\u00f3venes deportados a Drancy, ni\u00f1os y j\u00f3venes que disfrutan de la tranquilidad del verano, un escritor de Gif-sur-Yvette, el organizador de una cacer\u00eda con perros y la cineasta, que regresa al lugar de su infancia. Cada uno de ellos es una pieza de un conjunto que forman un todo. Un posible \"Nosotros\".",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 262,
+                "name": "Cine premiado franc\u00e9s",
+                "slug": "cine-premiado-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-premiado-frances"
+            },
+            {
+                "id": 266,
+                "name": "Film multipremiado",
+                "slug": "film-multipremiado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/film-multipremiado"
+            },
+            {
+                "id": 1963,
+                "name": "Afroamericanos",
+                "slug": "afroamericanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afroamericanos"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 519,
+                "name": "Barrio",
+                "slug": "barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barrio"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 105,
+                "name": "Animales dom\u00e9sticos",
+                "slug": "animales-domesticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-domesticos"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2791,
+                "name": "Face + Places | MyFFF 2023",
+                "slug": "face-places-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/face-places-myfff-2023"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Nosotros (2020)",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nosotros-2020",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13753,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2020
+    }
+}

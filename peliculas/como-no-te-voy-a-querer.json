@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Arcelia Ram\u00edrez",
+                "gender": "f",
+                "id": 117,
+                "slug": "arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-ramirez"
+            },
+            {
+                "full_name": "Alejandro Belmonte",
+                "gender": "m",
+                "id": 656,
+                "slug": "alejandro-belmonte",
+                "url": "https://www.filminlatino.mx/actor/alejandro-belmonte"
+            },
+            {
+                "full_name": "Siouzana Meliki\u00e1n",
+                "gender": "f",
+                "id": 657,
+                "slug": "siouzana-melikian",
+                "url": "https://www.filminlatino.mx/actriz/siouzana-melikian"
+            },
+            {
+                "full_name": "Daniel Mart\u00ednez",
+                "gender": "m",
+                "id": 658,
+                "slug": "daniel-martinez",
+                "url": "https://www.filminlatino.mx/actor/daniel-martinez"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [
+            {
+                "category": "Premio Coraz\u00f3n al Mejor largometraje",
+                "icon": "festival-de-cine-latino-de-san-diego-eua",
+                "name": "Festival de Cine Latino de San Diego, EUA",
+                "slug": "festival-de-cine-latino-de-san-diego-eua",
+                "year": 2008
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "V\u00edctor Avelar",
+                "gender": "m",
+                "id": 203,
+                "slug": "victor-avelar",
+                "url": "https://www.filminlatino.mx/director/victor-avelar"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Los diferentes sue\u00f1os de Hugo y Julia les har\u00e1n ver que todas la decisiones tiene un precio que pagar.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 236,
+        "image_card": "https://static.filminlatino.mx/images/media/236/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/236/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/236/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/236/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/236/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "\u00bfC\u00f3mo no te voy a querer?",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CUEC",
+                "id": 95,
+                "name": "Centro Universitario de Estudios Cinematogr\u00e1ficos",
+                "slug": "centro-universitario-de-estudios-cinematograficos",
+                "url": "https://www.filminlatino.mx/producer/centro-universitario-de-estudios-cinematograficos"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "como-no-te-voy-a-querer",
+        "synopsis": "Hugo y Julia son estudiantes del CCH con diferentes sue\u00f1os y metas. La forma de ser de cada uno los har\u00e1 seguir caminos distintos, aprendiendo que todo en esta vida tiene un precio y que cada quien tendr\u00e1 que pagar el suyo.",
+        "tags": [
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 131,
+                "name": "F\u00fatbol",
+                "slug": "futbol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/futbol"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 854,
+                "name": "Cintas de Arcelia Ram\u00edrez",
+                "slug": "cintas-de-arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cintas-de-arcelia-ramirez"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1215,
+                "name": "2008",
+                "slug": "2008",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2008"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1205280000,
+        "theater_release_date": 1205280000,
+        "theater_spectators_formatted": null,
+        "title": "\u00bfC\u00f3mo no te voy a querer?",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/como-no-te-voy-a-querer",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 84,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/como-no-te-voy-a-querer.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/como-no-te-voy-a-querer/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/como-no-te-voy-a-querer/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

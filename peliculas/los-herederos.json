@@ -1,0 +1,434 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Nominado Punto de Vista Grand Prize",
+                "icon": "",
+                "name": "International Documentary Film Festival of Navarra Punto de Vista",
+                "slug": "international-documentary-film-festival-of-navarra-punto-de-vista",
+                "year": null
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor M\u00fasica Original",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a Mejor Fotograf\u00eda ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-de-miami",
+                "name": "Festival de Cine de Miami",
+                "slug": "festival-de-cine-de-miami",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-de-cine-latinoamericano-de-lima",
+                "name": "Festival de Cine Latinoamericano de Lima",
+                "slug": "festival-de-cine-latinoamericano-de-lima",
+                "year": null
+            },
+            {
+                "category": "Joris Ivens Award Mention",
+                "icon": "cinema-du-reel",
+                "name": "Cin\u00e9ma du R\u00e9el",
+                "slug": "cinema-du-reel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a Nueva Vision Award",
+                "icon": "festival-internacional-de-cine-de-santa-barbara",
+                "name": "Festival Internacional de Cine de Santa B\u00e1rbara ",
+                "slug": "festival-internacional-de-cine-de-santa-barbara",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eugenio Polgovsky",
+                "gender": "m",
+                "id": 1902,
+                "slug": "eugenio-polgovsky",
+                "url": "https://www.filminlatino.mx/director/eugenio-polgovsky"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Ganador del Ariel en la categor\u00eda de mejor documental,\u00a0'Los herederos' retrata la vida de los\u00a0ni\u00f1os trabajadores en\u00a0diversas zonas rurales de\u00a0M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3493,
+        "image_card": "https://static.filminlatino.mx/images/media/3493/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3493/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3493/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3493/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3493/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3493/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3493/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 47,
+        "original_title": "Los herederos",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-herederos",
+        "synopsis": "Documental\u00a0del director, fot\u00f3grafo y editor mexicano\u00a0Eugenio Polgovsky\u00a0que retrata la vida de los\u00a0ni\u00f1os trabajadores y campesinos en\u00a0M\u00e9xico. Durante tres a\u00f1os en ocho zonas agr\u00edcolas y monta\u00f1osas del pa\u00eds, el documentalista interpreta a trav\u00e9s de su mirada el periplo de los infantes y su precario lugar en el mundo. Filme estrenado en el Festival de Venecia, ampliamente reconocido por la cr\u00edtica nacional e internacional,\u00a0mismo que caus\u00f3 un fruct\u00edfero debate nacional en M\u00e9xico y Francia sobre el trabajo y la explotaci\u00f3n\u00a0infantil.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 266,
+                "name": "Film multipremiado",
+                "slug": "film-multipremiado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/film-multipremiado"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 986,
+                "name": "Recomendadas de Ernesto Diezmartinez",
+                "slug": "recomendadas-de-ernesto-diezmartinez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ernesto-diezmartinez"
+            },
+            {
+                "id": 1091,
+                "name": "Marah Polvogsky",
+                "slug": "marah-polvogsky",
+                "url": "https://www.filminlatino.mx/catalogo/tema/marah-polvogsky"
+            },
+            {
+                "id": 836,
+                "name": "6\u00b0 FICM",
+                "slug": "60-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/60-ficm"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1412,
+                "name": "Axel Mu\u00f1oz Barba",
+                "slug": "axel-munoz-barba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axel-munoz-barba"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            },
+            {
+                "id": 2641,
+                "name": "1a Muestra de cine vs la trata",
+                "slug": "1a-muestra-de-cine-vs-la-trata",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1a-muestra-de-cine-vs-la-trata"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los herederos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-herederos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2837,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LOS-HEREDEROS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LOS-HEREDEROS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LOS-HEREDEROS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

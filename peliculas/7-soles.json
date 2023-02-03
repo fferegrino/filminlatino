@@ -1,0 +1,232 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gustavo S\u00e1nchez Parra",
+                "gender": "m",
+                "id": 1403,
+                "slug": "gustavo-sanchez-parra",
+                "url": "https://www.filminlatino.mx/actor/gustavo-sanchez-parra"
+            },
+            {
+                "full_name": "Luis \u00c1vila",
+                "gender": "m",
+                "id": 1404,
+                "slug": "luis-avila",
+                "url": "https://www.filminlatino.mx/actor/luis-avila"
+            },
+            {
+                "full_name": "Evangelina Sosa",
+                "gender": "f",
+                "id": 1267,
+                "slug": "evangelina-sosa",
+                "url": "https://www.filminlatino.mx/actriz/evangelina-sosa"
+            },
+            {
+                "full_name": "Silvia Isabel Zeleny",
+                "gender": "m",
+                "id": 1405,
+                "slug": "silvia-isabel-zeleny",
+                "url": "https://www.filminlatino.mx/actor/silvia-isabel-zeleny"
+            }
+        ],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pedro Ultreras",
+                "gender": "m",
+                "id": 525,
+                "slug": "pedro-ultreras",
+                "url": "https://www.filminlatino.mx/director/pedro-ultreras"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Es su ultimo trabajo como pollero, pero sus jefes no lo dejar\u00e1n ir tan f\u00e1cil.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 823,
+        "image_card": "https://static.filminlatino.mx/images/media/823/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/823/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/823/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/13/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/15/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/823/1/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "7 soles",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 585,
+                "name": "Cuadrante Films",
+                "slug": "cuadrante-films",
+                "url": "https://www.filminlatino.mx/producer/cuadrante-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "7-soles",
+        "synopsis": "El Negro es contratado como \"pollero\" para cruzar a un grupo de indocumentados hacia los Estados Unidos; \u00e9l decide que \u00e9ste ser\u00e1 su \u00faltimo trabajo y abandonar\u00e1 el negocio. Pero los jefes sospechan de su cometido y mandan a un subalterno para vigilarlo durante la traves\u00eda.",
+        "tags": [
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 319,
+                "name": "Desierto",
+                "slug": "desierto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desierto"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "7 soles",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/7-soles",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 527,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/7-soles.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/7-soles/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/7-soles/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Tenoch Huerta",
+                "gender": "m",
+                "id": 789,
+                "slug": "tenoch-huerta",
+                "url": "https://www.filminlatino.mx/actor/tenoch-huerta"
+            },
+            {
+                "full_name": "Kristyan A. Ferrer",
+                "gender": "m",
+                "id": 5842,
+                "slug": "kristyan-a-ferrer",
+                "url": "https://www.filminlatino.mx/actor/kristyan-a-ferrer"
+            },
+            {
+                "full_name": "Carlos Bardem",
+                "gender": "m",
+                "id": 3448,
+                "slug": "carlos-bardem",
+                "url": "https://www.filminlatino.mx/actor/carlos-bardem"
+            },
+            {
+                "full_name": "Dolores Heredia",
+                "gender": "f",
+                "id": 917,
+                "slug": "dolores-heredia",
+                "url": "https://www.filminlatino.mx/actriz/dolores-heredia"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Everardo  Gout",
+                "gender": "m",
+                "id": 3480,
+                "slug": "everardo-gout",
+                "url": "https://www.filminlatino.mx/director/everardo-gout"
+            }
+        ],
+        "duration_in_minutes": 131,
+        "excerpt": "Un polic\u00eda, una mujer y una v\u00edctima se ven relacionados con tres secuestros.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6779,
+        "image_card": "https://static.filminlatino.mx/images/media/6779/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6779/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6779/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6779/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6779/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6779/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6779/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6779/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 25,
+        "original_title": "D\u00edas de gracia",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 172,
+                "name": "Arte Mec\u00e1nica Producciones",
+                "slug": "arte-mecanica-producciones",
+                "url": "https://www.filminlatino.mx/producer/arte-mecanica-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "dias-de-gracia",
+        "synopsis": "Las emociones y sentimientos son contados a trav\u00e9s de tres personajes, un polic\u00eda, una mujer y una v\u00edctima, que por diversas circunstancias se ven relacionados con tres secuestros que necesariamente los llevar\u00e1n a tomar decisiones que afectar\u00e1n para bien o para mal su vida y su entorno.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 8,
+                "name": "Cine polic\u00edaco",
+                "slug": "cine-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-policiaco"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 1301,
+                "name": "Hombres",
+                "slug": "hombres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hombres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "D\u00edas de gracia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dias-de-gracia",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6711,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

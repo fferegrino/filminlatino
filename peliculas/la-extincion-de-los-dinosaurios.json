@@ -1,0 +1,273 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alberto  Agnesi",
+                "gender": "m",
+                "id": 5233,
+                "slug": "alberto-agnesi",
+                "url": "https://www.filminlatino.mx/actor/alberto-agnesi"
+            },
+            {
+                "full_name": "Gast\u00f3n Melo",
+                "gender": "m",
+                "id": 2543,
+                "slug": "gaston-melo",
+                "url": "https://www.filminlatino.mx/actor/gaston-melo"
+            },
+            {
+                "full_name": "Enrique Mu\u00f1oz",
+                "gender": "m",
+                "id": 838,
+                "slug": "enrique-munoz",
+                "url": "https://www.filminlatino.mx/actor/enrique-munoz"
+            },
+            {
+                "full_name": "Silvana Vazquez",
+                "gender": "f",
+                "id": 5234,
+                "slug": "silvana-vazquez",
+                "url": "https://www.filminlatino.mx/actriz/silvana-vazquez"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luis Ayhll\u00f3n",
+                "gender": "m",
+                "id": 1870,
+                "slug": "luis-ayhllon",
+                "url": "https://www.filminlatino.mx/director/luis-ayhllon"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Hugo tiene c\u00e1ncer terminal y necesita dinero f\u00e1cil por lo que se ve orillado a vender su casa; pero Paco, un viejo amigo, tiene una idea descabellada que podr\u00eda ayudarlos a los dos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3456,
+        "image_card": "https://static.filminlatino.mx/images/media/3456/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3456/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3456/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3456/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3456/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3456/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3456/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3456/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3456/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3456/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3456/3/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3456/3/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "La extinci\u00f3n de los dinosaurios",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-extincion-de-los-dinosaurios",
+        "synopsis": "Del teatro a la pantalla y\u00a0de la mano de su mismo creador en las dos versiones, Luis Ayhll\u00f3n aborda desde la comedia la vida de Hugo, un hombre mayor que es diagnosticado con\u00a0c\u00e1ncer terminal que necesita dinero f\u00e1cil. Por lo que le ofrece su casa a Paco, un viejo amigo que le interesa comprarla m\u00e1s no tiene el capital pero si una idea descabellada que podr\u00eda ayudarlos en sus problemas financieros: robar una joyer\u00eda.",
+        "tags": [
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 48,
+                "name": "Enfermedad terminal",
+                "slug": "enfermedad-terminal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedad-terminal"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 69,
+                "name": "Pel\u00edcula de robos",
+                "slug": "pelicula-de-robos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-robos"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 173,
+                "name": "Jazz",
+                "slug": "jazz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jazz"
+            },
+            {
+                "id": 590,
+                "name": "C\u00e1ncer",
+                "slug": "cancer",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cancer"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La extinci\u00f3n de los dinosaurios",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-extincion-de-los-dinosaurios",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2790,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2014
+    }
+}

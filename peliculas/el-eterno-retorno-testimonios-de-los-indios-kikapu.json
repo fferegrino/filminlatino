@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Tercer lugar",
+                "icon": "",
+                "name": "Festival Nacional de Cine y Video",
+                "slug": "festival-nacional-de-cine-y-video",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "",
+                "name": "Festival Latinoamericano de Cine de Pueblos Ind\u00edgenas.",
+                "slug": "festival-latinoamericano-de-cine-de-pueblos-indigenas",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Montero",
+                "gender": "m",
+                "id": 42,
+                "slug": "rafael-montero",
+                "url": "https://www.filminlatino.mx/director/rafael-montero"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Los Kikap\u00fa, hombres y mujeres de lucha que han resistido las imposiciones de extranjeros,\u00a0 buscan el reconocimiento a su derecho de ir libremente entre M\u00e9xico y Estados Unidos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10109,
+        "image_card": "https://static.filminlatino.mx/images/media/10109/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10109/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10109/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10109/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10109/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10109/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "El eterno retorno. Testimonios de los indios Kikap\u00fa",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-eterno-retorno-testimonios-de-los-indios-kikapu",
+        "synopsis": "Los kikap\u00fa se rehusaron a aceptar las doctrinas econ\u00f3micas, pol\u00edticas y religiosas que trataron de imponerles los ingleses y, m\u00e1s tarde, los anglosajones norteamericanos. Lucharon contra los indios aliados de los franceses y paralizaron las rutas del invasor. Desde entonces la vida de los kikap\u00fa se vuelve un constante peregrinar. A \ufb01nales del siglo XIX llegaron a M\u00e9xico y se establecieron en El Nacimiento, estado de Coahuila. Este documental es un panorama de la vida de los kikap\u00fa; ellos mismos ofrecen testimonios del recorrido que a\u00f1o con a\u00f1o realizan a Estados Unidos para trabajar de jornaleros agr\u00edcolas. Tambi\u00e9n nos muestra la situaci\u00f3n de los kikap\u00fa al no ser reconocidos por el gobierno de Estados Unidos. La pel\u00edcula es el primer registro audiovisual que se realiz\u00f3 en este pueblo.<br>",
+        "tags": [
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 1196,
+                "name": "Coahuila",
+                "slug": "coahuila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coahuila"
+            },
+            {
+                "id": 2360,
+                "name": "Zapoteca",
+                "slug": "zapoteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zapoteca"
+            },
+            {
+                "id": 2412,
+                "name": "Kikap\u00fa",
+                "slug": "kikapu",
+                "url": "https://www.filminlatino.mx/catalogo/tema/kikapu"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 2413,
+                "name": "Migraci\u00f3n | INPI",
+                "slug": "migracion-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion-inpi"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2530,
+                "name": "Dadoras de vida",
+                "slug": "dadoras-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dadoras-de-vida"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El eterno retorno. Testimonios de los indios Kikap\u00fa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-eterno-retorno-testimonios-de-los-indios-kikapu",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11900,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1984
+    }
+}

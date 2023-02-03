@@ -1,0 +1,255 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ferm\u00edn Mart\u00ednez",
+                "gender": "m",
+                "id": 959,
+                "slug": "fermin-martinez",
+                "url": "https://www.filminlatino.mx/actor/fermin-martinez"
+            },
+            {
+                "full_name": "Ra\u00fal Adalid",
+                "gender": "m",
+                "id": 3893,
+                "slug": "raul-adalid",
+                "url": "https://www.filminlatino.mx/actor/raul-adalid"
+            },
+            {
+                "full_name": "Jos\u00e9 Sefami",
+                "gender": "m",
+                "id": 1976,
+                "slug": "jose-sefami",
+                "url": "https://www.filminlatino.mx/actor/jose-sefami"
+            },
+            {
+                "full_name": "Mois\u00e9s Arizmendi",
+                "gender": "m",
+                "id": 1418,
+                "slug": "moises-arizmendi",
+                "url": "https://www.filminlatino.mx/actor/moises-arizmendi"
+            },
+            {
+                "full_name": "Mauricio Isaac",
+                "gender": "m",
+                "id": 3095,
+                "slug": "mauricio-isaac",
+                "url": "https://www.filminlatino.mx/actor/mauricio-isaac"
+            },
+            {
+                "full_name": "Javier Escobar",
+                "gender": "m",
+                "id": 2536,
+                "slug": "javier-escobar",
+                "url": "https://www.filminlatino.mx/actor/javier-escobar"
+            }
+        ],
+        "avg_votes": 6.4,
+        "avg_votes_formatted": "6,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernando Urdapilleta",
+                "gender": "m",
+                "id": 1386,
+                "slug": "fernando-urdapilleta",
+                "url": "https://www.filminlatino.mx/director/fernando-urdapilleta"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Siete profesionales del p\u00f3ker se re\u00fanen para una partida especial; pero cuando uno de ellos repentinamente cae muerto, todos son sospechos de asesinato.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3442,
+        "image_card": "https://static.filminlatino.mx/images/media/3442/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3442/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3442/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3442/3/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Los reyes del juego",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-reyes-del-juego",
+        "synopsis": "En un casino clandestino se llevan a cabo elevadas apuestas en los juegos de cartas. Una noche siete profesionales del p\u00f3ker se han reunido para una partida especial; el requisito para entrar es tener un mill\u00f3n de pesos. Cuando uno de los involucrados repentinamente cae muerto, todos se convierten en sospechosos y se ven obligados a pasar una larga noche hasta descubrir qui\u00e9n es el asesino.",
+        "tags": [
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 358,
+                "name": "Azar",
+                "slug": "azar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/azar"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 594,
+                "name": "Conspiraci\u00f3n",
+                "slug": "conspiracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conspiracion"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los reyes del juego",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-reyes-del-juego",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2789,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Juego.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Juego/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Juego/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

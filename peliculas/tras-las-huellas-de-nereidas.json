@@ -1,0 +1,242 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Joaqu\u00edn Guzm\u00e1n Luna",
+                "gender": "m",
+                "id": 1862,
+                "slug": "joaquin-guzman-luna",
+                "url": "https://www.filminlatino.mx/director/joaquin-guzman-luna"
+            }
+        ],
+        "duration_in_minutes": 57,
+        "excerpt": "Nereidas es un danz\u00f3n compuesto por el mexicano Amador P\u00e9rez Torres \"Dimas\", un himno a trav\u00e9s del tiempo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3449,
+        "image_card": "https://static.filminlatino.mx/images/media/3449/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3449/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3449/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3449/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3449/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3449/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 56,
+        "original_title": "Tras las huellas de Nereidas",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tras-las-huellas-de-nereidas",
+        "synopsis": "El documental nos expone la historia de la sinfon\u00eda de danzones realizada por el m\u00fasico Amador P\u00e9rez Torres, narrada por danzoneros, familiares del compositor y personajes del medio musical como\u00a0Eugenia Le\u00f3n. En el transcurso del filme se revela la historia de este g\u00e9nero musical procedente de Cuba; los elementos que le distinguen y\u00a0estructuran, as\u00ed como el primer acercamiento que tuvieron a \u00e9l distintos m\u00fasicos, directores de banda, investigadores y bailarines.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 1802,
+                "name": "Zaa' (M\u00fasica) | MIC Istmo",
+                "slug": "zaa-musica-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zaa-musica-mic-istmo"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1756,
+                "name": "Promotores Culturales Comunitarios",
+                "slug": "promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1753,
+                "name": "Coyoac\u00e1n | Promotores Culturales Comunitarios",
+                "slug": "coyoacan-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coyoacan-promotores-culturales-comunitarios"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tras las huellas de Nereidas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tras-las-huellas-de-nereidas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3190,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

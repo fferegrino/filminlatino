@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 5.2,
+        "avg_votes_formatted": "5,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nestor   Napolitano",
+                "gender": "m",
+                "id": 5294,
+                "slug": "nestor-napolitano",
+                "url": "https://www.filminlatino.mx/director/nestor-napolitano"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "Javier tiene episodios donde entra en una especie de trance, un m\u00e9dico descubre antecedentes inexplicables en su vida y un pasado que lo atormenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9017,
+        "image_card": "https://static.filminlatino.mx/images/media/9017/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/9017/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9017/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/9017/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/9017/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/9017/1/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/9017/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/9017/2/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Lapsus mortal",
+        "producers": [],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lapsus-mortal",
+        "synopsis": "Javier tiene episodios donde entra en una especie de trance y una fiscal investiga cr\u00edmenes que parecieran tener relaci\u00f3n con \u00e9l. Javier busca respuestas con un m\u00e9dico, quien descubre antecedentes inexplicables en la vida de Javier, y un pasado que lo atormenta.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 685,
+                "name": "Enfermedades mentales",
+                "slug": "enfermedades-mentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-mentales"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 562,
+                "name": "Sobrenatural",
+                "slug": "sobrenatural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrenatural"
+            },
+            {
+                "id": 1731,
+                "name": "Argentina ",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argentina"
+            },
+            {
+                "id": 1734,
+                "name": "Buenos Aires",
+                "slug": "buenos-aires",
+                "url": "https://www.filminlatino.mx/catalogo/tema/buenos-aires"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 40,
+                "name": "Asesino en serie",
+                "slug": "asesino-en-serie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesino-en-serie"
+            },
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 845,
+                "name": "Sangre",
+                "slug": "sangre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sangre"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 1320,
+                "name": "Persona misteriosa ",
+                "slug": "persona-misteriosa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/persona-misteriosa"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 2226,
+                "name": "MICMX",
+                "slug": "micmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/micmx"
+            },
+            {
+                "id": 2238,
+                "name": "Largo Pa\u00eds Invitado | MICMX",
+                "slug": "largo-pais-invitado-micmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-pais-invitado-micmx"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lapsus mortal",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lapsus-mortal",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10677,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LAPSUS-MORTAL-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LAPSUS-MORTAL-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LAPSUS-MORTAL-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

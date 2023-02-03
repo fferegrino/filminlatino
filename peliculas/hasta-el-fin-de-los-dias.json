@@ -1,0 +1,194 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mauricio Bidault",
+                "gender": "m",
+                "id": 153,
+                "slug": "mauricio-bidault",
+                "url": "https://www.filminlatino.mx/director/mauricio-bidault"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "2012 fue la oleada del crimen que dejo secuelas por todas partes de la Rep\u00fablica; \u00bfC\u00f3mo fue experimentada por quienes luchan contra esta violencia en uno de los estados m\u00e1s da\u00f1ados?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3044,
+        "image_card": "https://static.filminlatino.mx/images/media/3044/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3044/7/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3044/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/16/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/15/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/14/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3044/13/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 30,
+        "original_title": "Hasta el fin de los d\u00edas",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "hasta-el-fin-de-los-dias",
+        "synopsis": "En tiempos de la llamada guerra contra el crimen, tuvo como consecuencia, un n\u00famero de casi 50.000 v\u00edctimas; con un clima social de violencia y desconfianza. Desde las trincheras de la ciencia cuenta como el Instituto Forense Jalisco fue esencial en uno de los estados m\u00e1s violentos del pa\u00eds.",
+        "tags": [
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Hasta el fin de los d\u00edas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/hasta-el-fin-de-los-dias",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2382,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/hasta-el-fin-de-los-dias.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/hasta-el-fin-de-los-dias/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/hasta-el-fin-de-los-dias/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

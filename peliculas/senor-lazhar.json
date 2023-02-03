@@ -1,0 +1,486 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mohamed Fellag",
+                "gender": "m",
+                "id": 3997,
+                "slug": "mohamed-fellag",
+                "url": "https://www.filminlatino.mx/actor/mohamed-fellag"
+            },
+            {
+                "full_name": "Sophie N\u00e9lisse",
+                "gender": "f",
+                "id": 3998,
+                "slug": "sophie-nelisse",
+                "url": "https://www.filminlatino.mx/actriz/sophie-nelisse"
+            },
+            {
+                "full_name": "\u00c9milien N\u00e9ron",
+                "gender": "m",
+                "id": 3999,
+                "slug": "emilien-neron",
+                "url": "https://www.filminlatino.mx/actor/emilien-neron"
+            },
+            {
+                "full_name": "Danielle Proulx",
+                "gender": "f",
+                "id": 4199,
+                "slug": "danielle-proulx",
+                "url": "https://www.filminlatino.mx/actriz/danielle-proulx"
+            },
+            {
+                "full_name": "Gabriel Verdier",
+                "gender": "m",
+                "id": 4694,
+                "slug": "gabriel-verdier",
+                "url": "https://www.filminlatino.mx/actor/gabriel-verdier"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 2011
+            },
+            {
+                "category": "Mejor pel\u00edcula canadiense",
+                "icon": "festival-de-toronto",
+                "name": "Festival de Toronto",
+                "slug": "festival-de-toronto",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor M\u00fasica Original ",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor actor de reparto",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "premios-jutra",
+                "name": "Premios Jutra",
+                "slug": "premios-jutra",
+                "year": null
+            },
+            {
+                "category": "Premio de la Audiencia Politiken",
+                "icon": "cph-pix",
+                "name": "CPH PIX",
+                "slug": "cph-pix",
+                "year": null
+            },
+            {
+                "category": "Art Cinema Award",
+                "icon": "hamburg-film-festival",
+                "name": "Hamburg Film Festival",
+                "slug": "hamburg-film-festival",
+                "year": null
+            },
+            {
+                "category": "Directores para ver",
+                "icon": "palm-springs-international-film-festival",
+                "name": "Palm Springs International Film Festival",
+                "slug": "palm-springs-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Largometraje de Ficci\u00f3n",
+                "icon": "riverrun-international-film-festival",
+                "name": "RiverRun International Film Festival",
+                "slug": "riverrun-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "riverrun-international-film-festival",
+                "name": "RiverRun International Film Festival",
+                "slug": "riverrun-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "genie-awards",
+                "name": "Genie Awards",
+                "slug": "genie-awards",
+                "year": null
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-de-locarno",
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "year": 2011
+            },
+            {
+                "category": "Premio de la Variedad Piazza Grande",
+                "icon": "festival-de-locarno",
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Philippe Falardeau",
+                "gender": "m",
+                "id": 1383,
+                "slug": "philippe-falardeau",
+                "url": "https://www.filminlatino.mx/director/philippe-falardeau"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Un cruce casi perfecto entre \"El club de los poetas muertos\", \"Welcome\" y \"La clase\" que ha emocionado a millones de personas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2662,
+        "image_card": "https://static.filminlatino.mx/images/media/2662/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2662/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2662/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2662/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2662/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2662/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2662/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2662/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 65,
+        "original_title": "Monsieur Lazhar ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1340,
+                "name": "micro_scope",
+                "slug": "micro-scope",
+                "url": "https://www.filminlatino.mx/producer/micro-scope"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "senor-lazhar",
+        "synopsis": "Una mirada al microcosmos de un sal\u00f3n de clases, la relaci\u00f3n entre los alumnos y la tragedia con la que comienza esta pel\u00edcula. Bachir Lazhar, un maestro de primaria de origen argelino, es contratado en un colegio de Montreal para sustituir a una profesora que se ha suicidado dentro del aula. En la escuela, Lazhar entra en contacto con un grupo de ni\u00f1os que est\u00e1n muy afectados por el tr\u00e1gico suceso. Pero Lazhar entiende bien el duelo de los peque\u00f1os porque \u00e9l tambi\u00e9n ha sufrido una gran p\u00e9rdida.",
+        "tags": [
+            {
+                "id": 466,
+                "name": "Profesores",
+                "slug": "profesores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/profesores"
+            },
+            {
+                "id": 198,
+                "name": "Relaci\u00f3n maestro y alumno",
+                "slug": "relacion-maestro-y-alumno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-maestro-y-alumno"
+            },
+            {
+                "id": 107,
+                "name": "Suicidio",
+                "slug": "suicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suicidio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 804,
+                "name": "En el aula",
+                "slug": "en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-aula"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Se\u00f1or Lazhar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/senor-lazhar",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2157,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/pfrofesor-lanz.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/pfrofesor-lanz/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/pfrofesor-lanz/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

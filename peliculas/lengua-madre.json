@@ -1,0 +1,200 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Sose International Film Festival",
+                "slug": "sose-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival de Malaga de Cine Espa\u00f1ol",
+                "slug": "festival-de-malaga-de-cine-espanol",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Documenta Madrid",
+                "slug": "documenta-madrid",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Teresa Sendagorta",
+                "gender": "f",
+                "id": 1774,
+                "slug": "teresa-sendagorta",
+                "url": "https://www.filminlatino.mx/directora/teresa-sendagorta"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "Un ejecutivo desarraigado descubre el legado epistolar de su padre, mismo que le llevar\u00e1 a emprender un viaje de autoconocimiento.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3344,
+        "image_card": "https://static.filminlatino.mx/images/media/3344/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3344/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3344/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3344/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3344/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3344/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3344/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3344/12/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Mothertongue",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lengua-madre",
+        "synopsis": "El documental que participo en la selecci\u00f3n oficial de la d\u00e9cima novena edici\u00f3n del Festival de M\u00e1laga cuenta como\u00a0Keith, un ejecutivo internacional de unos cuarenta a\u00f1os pasa la mayor parte de su tiempo en aeropuertos, se siente perdido y sin ra\u00edces.\u00a0Dos a\u00f1os despu\u00e9s de la muerte de su padre, Keith descubre 600 cartas enviadas por su padre desde 1940 a las mujeres importantes en su vida. Despu\u00e9s de una vida viajando de un pa\u00eds a otro, \u00e9l no sabe si es alem\u00e1n o no. El tiempo es corto. Keith decide viajar y escuchar sus palabras. Beirut ser\u00e1\u00a0 su primera escala.",
+        "tags": [
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 1110,
+                "name": "Salon Indien Films",
+                "slug": "salon-indien-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/salon-indien-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lengua madre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lengua-madre",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2686,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

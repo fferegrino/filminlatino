@@ -1,0 +1,435 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pierre Deladonchamps",
+                "gender": "m",
+                "id": 1176,
+                "slug": "pierre-deladonchamps",
+                "url": "https://www.filminlatino.mx/actor/pierre-deladonchamps"
+            },
+            {
+                "full_name": "Christophe Paou",
+                "gender": "m",
+                "id": 1177,
+                "slug": "christophe-paou",
+                "url": "https://www.filminlatino.mx/actor/christophe-paou"
+            },
+            {
+                "full_name": "Patrick d'Assum\u00e7ao",
+                "gender": "m",
+                "id": 1178,
+                "slug": "patrick-dassumcao",
+                "url": "https://www.filminlatino.mx/actor/patrick-dassumcao"
+            },
+            {
+                "full_name": "J\u00e9r\u00f4me Chappatte",
+                "gender": "m",
+                "id": 1179,
+                "slug": "jerome-chappatte",
+                "url": "https://www.filminlatino.mx/actor/jerome-chappatte"
+            },
+            {
+                "full_name": "Mathieu Vervisch",
+                "gender": "m",
+                "id": 4785,
+                "slug": "mathieu-vervisch",
+                "url": "https://www.filminlatino.mx/actor/mathieu-vervisch"
+            },
+            {
+                "full_name": "Gilbert Traina",
+                "gender": "m",
+                "id": 4786,
+                "slug": "gilbert-traina",
+                "url": "https://www.filminlatino.mx/actor/gilbert-traina"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-sevilla",
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-de-sevilla",
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alain Guiraudie",
+                "gender": "m",
+                "id": 447,
+                "slug": "alain-guiraudie",
+                "url": "https://www.filminlatino.mx/director/alain-guiraudie"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Un absorbente e inteligente exploraci\u00f3n del deseo homosexual aderezado con elementos de thriller.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 482,
+        "image_card": "https://static.filminlatino.mx/images/media/482/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/482/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/482/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/15/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/13/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/9/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/482/3/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 61,
+        "original_title": "L'inconnu du lac",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 35,
+                "name": "Arte France Cin\u00e9ma",
+                "slug": "arte-france-cinema",
+                "url": "https://www.filminlatino.mx/producer/arte-france-cinema"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            },
+            {
+                "acronym": "",
+                "id": 472,
+                "name": "Arte France",
+                "slug": "arte-france",
+                "url": "https://www.filminlatino.mx/producer/arte-france"
+            },
+            {
+                "acronym": "",
+                "id": 504,
+                "name": "Les Films du Worso",
+                "slug": "les-films-du-worso",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-worso"
+            },
+            {
+                "acronym": "",
+                "id": 505,
+                "name": "M141 Productions",
+                "slug": "m141-productions",
+                "url": "https://www.filminlatino.mx/producer/m141-productions"
+            },
+            {
+                "acronym": "",
+                "id": 506,
+                "name": "Films de Force Majeure",
+                "slug": "films-de-force-majeure",
+                "url": "https://www.filminlatino.mx/producer/films-de-force-majeure"
+            },
+            {
+                "acronym": "",
+                "id": 507,
+                "name": "Cin\u00e9mage 7",
+                "slug": "cinemage-7",
+                "url": "https://www.filminlatino.mx/producer/cinemage-7"
+            },
+            {
+                "acronym": "",
+                "id": 508,
+                "name": "Soficin\u00e9ma 9",
+                "slug": "soficinema-9",
+                "url": "https://www.filminlatino.mx/producer/soficinema-9"
+            },
+            {
+                "acronym": "",
+                "id": 509,
+                "name": "R\u00e9gion Provence-Alpes-C\u00f4te d'Azur",
+                "slug": "region-provence-alpes-cote-dazur",
+                "url": "https://www.filminlatino.mx/producer/region-provence-alpes-cote-dazur"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-extrano-del-lago",
+        "synopsis": "Durante el verano, en un lago de agua azul turquesa, Franck pasa el tiempo entre su amistad con Henri, cuya esposa acaba de abandonarlo, y Michael, un adonis oscuro y peligroso. Un extra\u00f1o asesinato, desatar\u00e1 la tensi\u00f3n entre los personajes.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 40,
+                "name": "Asesino en serie",
+                "slug": "asesino-en-serie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesino-en-serie"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 847,
+                "name": "Mentes siniestras",
+                "slug": "mentes-siniestras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentes-siniestras"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 1131,
+                "name": "Sex and dating",
+                "slug": "sex-and-dating",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sex-and-dating"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 193,
+                "name": "Erotismo",
+                "slug": "erotismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/erotismo"
+            },
+            {
+                "id": 1301,
+                "name": "Hombres",
+                "slug": "hombres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hombres"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 196,
+                "name": "Crimen de odio",
+                "slug": "crimen-de-odio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-de-odio"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El extra\u00f1o del lago",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-extrano-del-lago",
+        "versions": [
+            {
+                "codes": [],
+                "id": 290,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Lago.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Lago/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Lago/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

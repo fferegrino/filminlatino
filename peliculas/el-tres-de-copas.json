@@ -1,0 +1,551 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Humberto Zurita",
+                "gender": "m",
+                "id": 504,
+                "slug": "humberto-zurita",
+                "url": "https://www.filminlatino.mx/actor/humberto-zurita"
+            },
+            {
+                "full_name": "Alejandro Camacho",
+                "gender": "m",
+                "id": 505,
+                "slug": "alejandro-camacho",
+                "url": "https://www.filminlatino.mx/actor/alejandro-camacho"
+            },
+            {
+                "full_name": "Gabriela Roel",
+                "gender": "f",
+                "id": 506,
+                "slug": "gabriela-roel",
+                "url": "https://www.filminlatino.mx/actriz/gabriela-roel"
+            },
+            {
+                "full_name": "Enrique Lucero",
+                "gender": "m",
+                "id": 327,
+                "slug": "enrique-lucero",
+                "url": "https://www.filminlatino.mx/actor/enrique-lucero"
+            },
+            {
+                "full_name": "Ignacio Retes",
+                "gender": "m",
+                "id": 1258,
+                "slug": "ignacio-retes",
+                "url": "https://www.filminlatino.mx/actor/ignacio-retes"
+            },
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            },
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Maya Zapata",
+                "gender": "f",
+                "id": 287,
+                "slug": "maya-zapata",
+                "url": "https://www.filminlatino.mx/actriz/maya-zapata"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Escenograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor Canci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n mejor fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor de cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor coactuaci\u00f3n masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Felipe Cazals",
+                "gender": "m",
+                "id": 74,
+                "slug": "felipe-cazals",
+                "url": "https://www.filminlatino.mx/director/felipe-cazals"
+            }
+        ],
+        "duration_in_minutes": 107,
+        "excerpt": "Pedro y Dami\u00e1n viven entre juegos de naipes, mujeres y parranda. Su vida cambia cuando aparece una hermosa joven que despierta la codicia y pasi\u00f3n de ambos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 13,
+                "name": "Western",
+                "slug": "western",
+                "url": "https://www.filminlatino.mx/catalogo/genero/western"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 177,
+        "image_card": "https://static.filminlatino.mx/images/media/177/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/177/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/177/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/177/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/177/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/177/7/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 81,
+        "original_title": "El tres de copas",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 99,
+                "name": "Casablanca Films",
+                "slug": "casablanca-films",
+                "url": "https://www.filminlatino.mx/producer/casablanca-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-tres-de-copas",
+        "synopsis": "Al rededor de 1867,\u00a0Pedro y Dami\u00e1n, dos amigos que crecieron como hermanos mejor\u00a0conocidos como los ingleses o los g\u00fceros, se enlistan en el Ej\u00e9rcito Juarista. Al finalizar la intervenci\u00f3n Francesa\u00a0y tras cobrar sus honorarios de batalla, emprenden un largo camino de libertinaje y vicios. Pronto el destino les har\u00e1 una jugarreta cuando conocen a Casilda, una mujer seductora que les encaminar\u00e1 a la muerte.\u00a0 Este filme est\u00e1 basado en el cuento \"La intrusa\", de Jorge Luis Borges.\u00a0",
+        "tags": [
+            {
+                "id": 748,
+                "name": "Western_MX",
+                "slug": "western-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/western-mx"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 419,
+                "name": "Directores 70 MX",
+                "slug": "directores-70-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-70-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 317,
+                "name": "Bandidos",
+                "slug": "bandidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bandidos"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1209,
+                "name": "1986",
+                "slug": "1986",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1986"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2191,
+                "name": "Ruta Cazals | DNCM 2021",
+                "slug": "ruta-cazals-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-cazals-dncm-2021"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 358,
+                "name": "Azar",
+                "slug": "azar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/azar"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 669,
+                "name": "Esc\u00e1ndalo",
+                "slug": "escandalo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escandalo"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 670,
+                "name": "amistad en riesgo",
+                "slug": "amistad-en-riesgo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad-en-riesgo"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 2555,
+                "name": "Felipe Cazals | FICTequila",
+                "slug": "felipe-cazals-fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/felipe-cazals-fictequila"
+            },
+            {
+                "id": 2436,
+                "name": "Muestra de Cine Coahuila 2021",
+                "slug": "muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2438,
+                "name": "Retrospectiva Felipe Cazals | Muestra de Cine Coahuila 2021",
+                "slug": "retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2556,
+                "name": "FICTequila",
+                "slug": "fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fictequila"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 504921600,
+        "theater_release_date": 504921600,
+        "theater_spectators_formatted": null,
+        "title": "El tres de copas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-tres-de-copas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 78,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/tres-copas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/tres-copas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/tres-copas/master.m3u8"
+                }
+            ]
+        },
+        "year": 1986
+    }
+}

@@ -1,0 +1,413 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Muestra Internacional Documental de Bogot\u00e1 MIDBO, Colombia",
+                "slug": "muestra-internacional-documental-de-bogota-midbo-colombia",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Africano",
+                "slug": "festival-internacional-de-cine-africano",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Ceferina Banqu\u00e9z Teh\u00e9ran ",
+                "gender": "f",
+                "id": 2351,
+                "slug": "ceferina-banquez-teheran",
+                "url": "https://www.filminlatino.mx/character/ceferina-banquez-teheran"
+            },
+            {
+                "full_name": "Bety Ochoa ",
+                "gender": "f",
+                "id": 2352,
+                "slug": "bety-ochoa",
+                "url": "https://www.filminlatino.mx/character/bety-ochoa"
+            },
+            {
+                "full_name": "\u00cdnes Granja ",
+                "gender": "f",
+                "id": 2353,
+                "slug": "ines-granja",
+                "url": "https://www.filminlatino.mx/character/ines-granja"
+            },
+            {
+                "full_name": "Cruz Neyla Murillo ",
+                "gender": "m",
+                "id": 2354,
+                "slug": "cruz-neyla-murillo",
+                "url": "https://www.filminlatino.mx/character/cruz-neyla-murillo"
+            }
+        ],
+        "countries": [
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mar\u00eda Fernanda Carrillo S\u00e1nchez",
+                "gender": "f",
+                "id": 5964,
+                "slug": "maria-fernanda-carrillo-sanchez",
+                "url": "https://www.filminlatino.mx/directora/maria-fernanda-carrillo-sanchez"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Aborda la pr\u00e1ctica de las mujeres cantadoras afrocolombianas como una forma de resistencia cultural ante la violencia hist\u00f3rica en Colombia",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9970,
+        "image_card": "https://static.filminlatino.mx/images/media/9970/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9970/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9970/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9970/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9970/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": " Cantadoras, memorias de vida y muerte en Colombia ",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cantadoras-memorias-de-vida-y-muerte-en-colombia",
+        "synopsis": "Un grupo de mujeres narra con sus cantos la cotidianidad del conflicto en Colombia. Las mujeres en la resistencia cultural de los pueblos afrodescendientes en Colombia y en la construcci\u00f3n cotidiana de una memoria no patriarcal.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 1963,
+                "name": "Afroamericanos",
+                "slug": "afroamericanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afroamericanos"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 385,
+                "name": "Cantantes",
+                "slug": "cantantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cantantes"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1282,
+                "name": "Grupo de amigas ",
+                "slug": "grupo-de-amigas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupo-de-amigas"
+            },
+            {
+                "id": 1761,
+                "name": "Miguel Hidalgo | Promotores Culturales Comunitarios",
+                "slug": "miguel-hidalgo-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miguel-hidalgo-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1756,
+                "name": "Promotores Culturales Comunitarios",
+                "slug": "promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1750,
+                "name": "\u00c1lvaro Obreg\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "alvaro-obregon-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alvaro-obregon-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1751,
+                "name": "Azcapotzalco | Promotores Culturales Comunitarios",
+                "slug": "azcapotzalco-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/azcapotzalco-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1754,
+                "name": "Cuajimalpa de Morelos | Promotores Culturales Comunitarios",
+                "slug": "cuajimalpa-de-morelos-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuajimalpa-de-morelos-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1766,
+                "name": "Xochimilco | Promotores Culturales Comunitarios",
+                "slug": "xochimilco-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/xochimilco-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2071,
+                "name": "Cineclub ButacAzul",
+                "slug": "cineclub-butacazul",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cineclub-butacazul"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2530,
+                "name": "Dadoras de vida",
+                "slug": "dadoras-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dadoras-de-vida"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 2778,
+                "name": "16 d\u00edas de activismo INMUJERES 2022",
+                "slug": "16-dias-de-activismo-inmujeres-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo-inmujeres-2022"
+            },
+            {
+                "id": 2435,
+                "name": "Museo Nacional de Culturas Populares",
+                "slug": "museo-nacional-de-culturas-populares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/museo-nacional-de-culturas-populares"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Cantadoras, memorias de vida y muerte en Colombia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cantadoras-memorias-de-vida-y-muerte-en-colombia",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11765,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CANTADORAS-MEMORIAS-DE-VIDA-Y-MUERTE-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CANTADORAS-MEMORIAS-DE-VIDA-Y-MUERTE-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CANTADORAS-MEMORIAS-DE-VIDA-Y-MUERTE-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

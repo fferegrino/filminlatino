@@ -1,0 +1,254 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ernesto G\u00f3mez Cruz",
+                "gender": "m",
+                "id": 138,
+                "slug": "ernesto-gomez-cruz",
+                "url": "https://www.filminlatino.mx/actor/ernesto-gomez-cruz"
+            },
+            {
+                "full_name": "Gina Morett",
+                "gender": "f",
+                "id": 496,
+                "slug": "gina-morett",
+                "url": "https://www.filminlatino.mx/actriz/gina-morett"
+            },
+            {
+                "full_name": "Ximena Ayala",
+                "gender": "f",
+                "id": 971,
+                "slug": "ximena-ayala",
+                "url": "https://www.filminlatino.mx/actriz/ximena-ayala"
+            },
+            {
+                "full_name": "Jos\u00e9 Gonz\u00e1lez M\u00e1rquez",
+                "gender": "m",
+                "id": 998,
+                "slug": "jose-gonzalez-marquez",
+                "url": "https://www.filminlatino.mx/actor/jose-gonzalez-marquez"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Corkidi",
+                "gender": "m",
+                "id": 384,
+                "slug": "rafael-corkidi",
+                "url": "https://www.filminlatino.mx/director/rafael-corkidi"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Tres relatos nos llevan a conocer las diferentes situaciones y adversidades a las que se enfrentan los maestros en nuestro pa\u00eds, desde distintas perspectivas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 412,
+        "image_card": "https://static.filminlatino.mx/images/media/412/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/412/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/412/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/412/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/412/13/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/412/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/412/9/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/412/5/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "El maestro prodigioso",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 352,
+                "name": "Leonis Films",
+                "slug": "leonis-films",
+                "url": "https://www.filminlatino.mx/producer/leonis-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-maestro-prodigioso",
+        "synopsis": "Tres cuentos, cada uno con maestros como protagonista a la lucha contra las m\u00faltiples adversidades del sistema educativo en nuestro pa\u00eds. El primer cuento, \"Memoriales de un loco\", pretende dejar testimonio de la marginada educaci\u00f3n en nuestras comunidades rurales. En \"La misi\u00f3n\" se habla de la expulsi\u00f3n y muerte de los misioneros pedagogos jesuitas. Finalmente, en \"El maestro prodigioso\" se narra la persecuci\u00f3n y el encarcelamiento en el 68 de estudiantes libres y maestros prodigiosos.",
+        "tags": [
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 466,
+                "name": "Profesores",
+                "slug": "profesores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/profesores"
+            },
+            {
+                "id": 467,
+                "name": "Relatos",
+                "slug": "relatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relatos"
+            },
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 198,
+                "name": "Relaci\u00f3n maestro y alumno",
+                "slug": "relacion-maestro-y-alumno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-maestro-y-alumno"
+            },
+            {
+                "id": 311,
+                "name": "Cuentos",
+                "slug": "cuentos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuentos"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 17,
+                "name": "Cine educativo",
+                "slug": "cine-educativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-educativo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1287532800,
+        "theater_release_date": 1287532800,
+        "theater_spectators_formatted": null,
+        "title": "El maestro prodigioso",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-maestro-prodigioso",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 535,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

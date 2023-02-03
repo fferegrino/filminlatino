@@ -1,0 +1,423 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Arcelia Ram\u00edrez",
+                "gender": "f",
+                "id": 117,
+                "slug": "arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-ramirez"
+            },
+            {
+                "full_name": "Plutarco Haza",
+                "gender": "m",
+                "id": 124,
+                "slug": "plutarco-haza",
+                "url": "https://www.filminlatino.mx/actor/plutarco-haza"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            },
+            {
+                "full_name": "Harold Torres",
+                "gender": "m",
+                "id": 686,
+                "slug": "harold-torres",
+                "url": "https://www.filminlatino.mx/actor/harold-torres"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arturo Ripstein",
+                "gender": "m",
+                "id": 75,
+                "slug": "arturo-ripstein",
+                "url": "https://www.filminlatino.mx/director/arturo-ripstein"
+            }
+        ],
+        "duration_in_minutes": 120,
+        "excerpt": "Una versi\u00f3n contempor\u00e1nea (y mexicana) de Madame Bovary de Ripstein que vuelve a la esencia de sus mejores trabajos. La vida, una paradoja constante.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 351,
+        "image_card": "https://static.filminlatino.mx/images/media/351/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/351/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/351/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/351/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/351/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 60,
+        "original_title": "Las razones del coraz\u00f3n",
+        "producers": [
+            {
+                "acronym": "FIDECINE",
+                "id": 29,
+                "name": "FIDECINE",
+                "slug": "fidecine",
+                "url": "https://www.filminlatino.mx/producer/fidecine"
+            },
+            {
+                "acronym": "",
+                "id": 12,
+                "name": "Mil Nubes Cine",
+                "slug": "mil-nubes-cine",
+                "url": "https://www.filminlatino.mx/producer/mil-nubes-cine"
+            },
+            {
+                "acronym": "",
+                "id": 149,
+                "name": "Programa Ibermedia",
+                "slug": "programa-ibermedia",
+                "url": "https://www.filminlatino.mx/producer/programa-ibermedia"
+            },
+            {
+                "acronym": "",
+                "id": 246,
+                "name": "Wanda Visi\u00f3n",
+                "slug": "wanda-vision",
+                "url": "https://www.filminlatino.mx/producer/wanda-vision"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "las-razones-del-corazon",
+        "synopsis": "Emilia, una ama de casa agobiada por la median\u00eda de su vida, su marido fracasado y su maternidad agobiante y mal llevada. Siente que se le derrama el vaso de la vida. El mismo d\u00eda que la abandona el amante distante, la tarjeta de cr\u00e9dito con la que ha jugado al gato y al rat\u00f3n por meses la embarga. Ante su departamento vac\u00edo y desolado decide tomar aquella decisi\u00f3n tan largamente acariciada: el suicidio. Curiosamente su muerte acerca al marido cornudo y al amante esquivo.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 736,
+                "name": "Oto\u00f1o y vino",
+                "slug": "otono-y-vino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otono-y-vino"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 159,
+                "name": "Plano secuencia",
+                "slug": "plano-secuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/plano-secuencia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 717,
+                "name": "Violencia dom\u00e9stica",
+                "slug": "violencia-domestica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-domestica"
+            },
+            {
+                "id": 498,
+                "name": "Vecindad",
+                "slug": "vecindad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecindad"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 854,
+                "name": "Cintas de Arcelia Ram\u00edrez",
+                "slug": "cintas-de-arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cintas-de-arcelia-ramirez"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1109,
+                "name": "Roberto Fiesco",
+                "slug": "roberto-fiesco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/roberto-fiesco"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 960,
+                "name": "Paz Alicia Garciadiego",
+                "slug": "paz-alicia-garciadiego",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz-alicia-garciadiego"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1270,
+                "name": "Magallanes",
+                "slug": "magallanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magallanes"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2525,
+                "name": "Aclamadas por la cr\u00edtica",
+                "slug": "aclamadas-por-la-critica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aclamadas-por-la-critica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1317945600,
+        "theater_release_date": 1317945600,
+        "theater_spectators_formatted": null,
+        "title": "Las razones del coraz\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-razones-del-corazon",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2321,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/las-razones-del.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/las-razones-del/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/las-razones-del/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

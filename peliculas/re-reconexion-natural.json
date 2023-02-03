@@ -1,0 +1,215 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 6.5,
+        "avg_votes_formatted": "6,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Santiago  Pando",
+                "gender": "m",
+                "id": 1690,
+                "slug": "santiago-pando",
+                "url": "https://www.filminlatino.mx/director/santiago-pando"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "La reconexi\u00f3n con la naturaleza es una\u00a0puerta de escape a un mundo al rev\u00e9s. Un documental que reflexiona sobre la prisa, el estr\u00e9s y el miedo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3205,
+        "image_card": "https://static.filminlatino.mx/images/media/3205/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3205/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3205/12/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/14/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3205/8/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "RE: Reconexi\u00f3n natural",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "re-reconexion-natural",
+        "synopsis": "La reconexi\u00f3n con la naturaleza es una puerta de escape a un mundo al rev\u00e9s. Bajo esta premisa el documental de Santiago Pando reflexiona sobre la vida de nuestros d\u00edas,\u00a0consumida entre\u00a0la prisa, el estr\u00e9s y el miedo. El director mexicano lanza una cr\u00edtica al\u00a0c\u00edrculo vicioso del capitalismo y\u00a0la existencia porque la enfermedad es un gran negocio.",
+        "tags": [
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 42,
+                "name": "Cr\u00edtica a la burgues\u00eda",
+                "slug": "critica-a-la-burguesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-burguesia"
+            },
+            {
+                "id": 272,
+                "name": "Decadencia",
+                "slug": "decadencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decadencia"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 653,
+                "name": "Distrito Federal",
+                "slug": "distrito-federal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/distrito-federal"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 1043,
+                "name": "CASETE",
+                "slug": "casete",
+                "url": "https://www.filminlatino.mx/catalogo/tema/casete"
+            },
+            {
+                "id": 1132,
+                "name": "Food porn",
+                "slug": "food-porn",
+                "url": "https://www.filminlatino.mx/catalogo/tema/food-porn"
+            },
+            {
+                "id": 1133,
+                "name": "Eco friendly",
+                "slug": "eco-friendly",
+                "url": "https://www.filminlatino.mx/catalogo/tema/eco-friendly"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "RE: Reconexi\u00f3n natural",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/re-reconexion-natural",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2773,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/RECONEXION.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/RECONEXION/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/RECONEXION/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

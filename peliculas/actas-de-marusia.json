@@ -1,0 +1,405 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Diana Bracho",
+                "gender": "f",
+                "id": 268,
+                "slug": "diana-bracho",
+                "url": "https://www.filminlatino.mx/actriz/diana-bracho"
+            },
+            {
+                "full_name": "Eduardo L\u00f3pez Rojas",
+                "gender": "m",
+                "id": 323,
+                "slug": "eduardo-lopez-rojas",
+                "url": "https://www.filminlatino.mx/actor/eduardo-lopez-rojas"
+            },
+            {
+                "full_name": "Gian Maria Volont\u00e9",
+                "gender": "m",
+                "id": 335,
+                "slug": "gian-maria-volonte",
+                "url": "https://www.filminlatino.mx/actor/gian-maria-volonte"
+            },
+            {
+                "full_name": "Claudio Obreg\u00f3n",
+                "gender": "m",
+                "id": 336,
+                "slug": "claudio-obregon",
+                "url": "https://www.filminlatino.mx/actor/claudio-obregon"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 1975
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 1975
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Miguel Litt\u00edn",
+                "gender": "m",
+                "id": 159,
+                "slug": "miguel-littin",
+                "url": "https://www.filminlatino.mx/director/miguel-littin"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Una muestra de lo terrible que era la vida en \"La era del salitre\" para la clase obrera de Chile.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 125,
+        "image_card": "https://static.filminlatino.mx/images/media/125/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/125/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/125/7/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/11/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/9/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/11/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/125/11/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 48,
+        "original_title": "Actas de Marusia",
+        "producers": [
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "actas-de-marusia",
+        "synopsis": "Despu\u00e9s del levantamiento minero sucedido en Marusia y el hallazgo del cad\u00e1ver de un capataz de la mina inglesa Marusia Mining Co. \u2014asesinado por un obrero\u2014; se provoca el enfrentamiento entre patrones y empleados. Se desata una campa\u00f1a de intimidaci\u00f3n contra los mineros que se organizan para defender sus derechos. Ante la fortaleza del movimiento, la empresa pide la intervenci\u00f3n del ej\u00e9rcito, con lo que se origina una despiadada persecuci\u00f3n que ha de servir como ejemplo para el resto del movimiento obrero. Aunque la represi\u00f3n logra debilitar el movimiento, uno de los l\u00edderes se encarga de difundir la lucha a otros sectores.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 286,
+                "name": "Revuelta social",
+                "slug": "revuelta-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revuelta-social"
+            },
+            {
+                "id": 303,
+                "name": "Miner\u00eda",
+                "slug": "mineria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mineria"
+            },
+            {
+                "id": 419,
+                "name": "Directores 70 MX",
+                "slug": "directores-70-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-70-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 1188,
+                "name": "1976",
+                "slug": "1976",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1976"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 197769600,
+        "theater_release_date": 197769600,
+        "theater_spectators_formatted": null,
+        "title": "Actas de Marusia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/actas-de-marusia",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 153,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1975
+    }
+}

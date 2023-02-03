@@ -1,0 +1,307 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Sophie Alexander-Katz",
+                "gender": "f",
+                "id": 1977,
+                "slug": "sophie-alexander-katz",
+                "url": "https://www.filminlatino.mx/actriz/sophie-alexander-katz"
+            },
+            {
+                "full_name": "Arturo Barba",
+                "gender": "m",
+                "id": 1419,
+                "slug": "arturo-barba",
+                "url": "https://www.filminlatino.mx/actor/arturo-barba"
+            },
+            {
+                "full_name": "Sof\u00eda Espinosa",
+                "gender": "f",
+                "id": 2290,
+                "slug": "sofia-espinosa",
+                "url": "https://www.filminlatino.mx/actriz/sofia-espinosa"
+            },
+            {
+                "full_name": "Ari Brickman",
+                "gender": "m",
+                "id": 859,
+                "slug": "ari-brickman",
+                "url": "https://www.filminlatino.mx/actor/ari-brickman"
+            },
+            {
+                "full_name": "Claudia R\u00edos",
+                "gender": "f",
+                "id": 3608,
+                "slug": "claudia-rios",
+                "url": "https://www.filminlatino.mx/actriz/claudia-rios"
+            },
+            {
+                "full_name": "Susana Salazar",
+                "gender": "f",
+                "id": 962,
+                "slug": "susana-salazar",
+                "url": "https://www.filminlatino.mx/actriz/susana-salazar"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marcelo Tobar",
+                "gender": "m",
+                "id": 1624,
+                "slug": "marcelo-tobar",
+                "url": "https://www.filminlatino.mx/director/marcelo-tobar"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Algunas personas no deber\u00edan volverse\u00a0a encontrar y la llegada de Cristina cae sobre\u00a0todos como un asteroide desde el cielo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3169,
+        "image_card": "https://static.filminlatino.mx/images/media/3169/6/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3169/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3169/8/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3169/10/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3169/6/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3169/12/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Asteroide",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1713,
+                "name": "Transistor Films",
+                "slug": "transistor-films",
+                "url": "https://www.filminlatino.mx/producer/transistor-films"
+            },
+            {
+                "acronym": "",
+                "id": 1714,
+                "name": "Bolchevique!",
+                "slug": "bolchevique",
+                "url": "https://www.filminlatino.mx/producer/bolchevique"
+            },
+            {
+                "acronym": "",
+                "id": 171,
+                "name": "Zensky Cine",
+                "slug": "zensky-cine",
+                "url": "https://www.filminlatino.mx/producer/zensky-cine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "asteroide",
+        "synopsis": "Las relaciones fraternales son las \u00fanicas que conservamos durante toda nuestra vida. Problemas personales hacen que Cristina vuelva a su natal Cuernavaca a casa de sus ya fallecidos padres \u00a0que se encuentra habitada por su hermano mayor, Mauricio, un alcoh\u00f3lico en recuperaci\u00f3n. Los hermanos -hoy dos adultos disfuncionales- luchan por encontrar su punto de apoyo.",
+        "tags": [
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 1120,
+                "name": "Zensky Cine",
+                "slug": "zensky-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zensky-cine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1394409600,
+        "theater_release_date": 1394409600,
+        "theater_spectators_formatted": null,
+        "title": "Asteroide",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/asteroide",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2504,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/esterioide.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/esterioide/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/esterioide/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

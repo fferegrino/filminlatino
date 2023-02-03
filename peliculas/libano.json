@@ -1,0 +1,259 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Yoav Donat",
+                "gender": "m",
+                "id": 3985,
+                "slug": "yoav-donat",
+                "url": "https://www.filminlatino.mx/actor/yoav-donat"
+            },
+            {
+                "full_name": "Itay Tiran",
+                "gender": "m",
+                "id": 3986,
+                "slug": "itay-tiran",
+                "url": "https://www.filminlatino.mx/actor/itay-tiran"
+            },
+            {
+                "full_name": "Oshri Cohen",
+                "gender": "m",
+                "id": 3987,
+                "slug": "oshri-cohen",
+                "url": "https://www.filminlatino.mx/actor/oshri-cohen"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premios-del-cine-europeo",
+                "name": "Premios del Cine Europeo",
+                "slug": "premios-del-cine-europeo",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 103,
+                "name": "Israel",
+                "slug": "israel",
+                "url": "https://www.filminlatino.mx/catalogo/pais/israel"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Samuel Maoz",
+                "gender": "m",
+                "id": 1378,
+                "slug": "samuel-maoz",
+                "url": "https://www.filminlatino.mx/director/samuel-maoz"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "Una apasionante trama dentro de un \u00fanico escenario: un grupo de soldados que pasar\u00e1 24 horas dentro de un tanque durante la guerra del L\u00edbano de 1982.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2657,
+        "image_card": "https://static.filminlatino.mx/images/media/2657/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2657/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2657/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2657/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2657/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Lebanon",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1571,
+                "name": " Ariel Films",
+                "slug": "ariel-films",
+                "url": "https://www.filminlatino.mx/producer/ariel-films"
+            },
+            {
+                "acronym": "",
+                "id": 1572,
+                "name": "Metro Communications",
+                "slug": "metro-communications",
+                "url": "https://www.filminlatino.mx/producer/metro-communications"
+            },
+            {
+                "acronym": "",
+                "id": 1573,
+                "name": "Arsam International",
+                "slug": "arsam-international",
+                "url": "https://www.filminlatino.mx/producer/arsam-international"
+            },
+            {
+                "acronym": "",
+                "id": 1574,
+                "name": " Zigota Ltd",
+                "slug": "zigota-ltd",
+                "url": "https://www.filminlatino.mx/producer/zigota-ltd"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "libano",
+        "synopsis": "La Primera Guerra del L\u00edbano. Un tanque solitario y una secci\u00f3n de infanter\u00eda son enviados a buscar una ciudad hostil, una simple misi\u00f3n que se convierte en una pesadilla. Los cuatro miembros de una tripulaci\u00f3n del tanque se encuentran en una situaci\u00f3n de violencia que no pueden manejar. Motivado por el miedo y el instinto b\u00e1sico de supervivencia, que desesperadamente tratan de no perderse en el acto m\u00e1s emblem\u00e1tico de la resoluci\u00f3n de problemas no civilizado: la guerra.",
+        "tags": [
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 992,
+                "name": "Ganadoras Venecia",
+                "slug": "ganadoras-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-venecia"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "L\u00edbano",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/libano",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2124,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/libano.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/libano/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/libano/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

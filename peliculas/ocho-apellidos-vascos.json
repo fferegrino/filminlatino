@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Clara Lago",
+                "gender": "f",
+                "id": 4215,
+                "slug": "clara-lago",
+                "url": "https://www.filminlatino.mx/actriz/clara-lago"
+            },
+            {
+                "full_name": "Carmen Machi",
+                "gender": "f",
+                "id": 1432,
+                "slug": "carmen-machi",
+                "url": "https://www.filminlatino.mx/actriz/carmen-machi"
+            },
+            {
+                "full_name": "Karra Elejalde",
+                "gender": "m",
+                "id": 1006,
+                "slug": "karra-elejalde",
+                "url": "https://www.filminlatino.mx/actor/karra-elejalde"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Mejor Actor Revelaci\u00f3n",
+                "icon": "goya",
+                "name": "Goya",
+                "slug": "goya",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": " Emilio  Mart\u00ednez L\u00e1zaro",
+                "gender": "m",
+                "id": 1477,
+                "slug": "emilio-martinez-lazaro",
+                "url": "https://www.filminlatino.mx/director/emilio-martinez-lazaro"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Un joven andaluz ha tenido todo durante su vida, hasta que conoce a Amaia. \u00c9l hara todo, hasta se har\u00e1 pasar por vasco para enamorarla.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2800,
+        "image_card": "https://static.filminlatino.mx/images/media/2800/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2800/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2800/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2800/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2800/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2800/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 24,
+        "original_title": "Ocho apellidos vascos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1274,
+                "name": "Telecinco Cinema",
+                "slug": "telecinco-cinema",
+                "url": "https://www.filminlatino.mx/producer/telecinco-cinema"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "ocho-apellidos-vascos",
+        "synopsis": "Rafa (Dani Rovira) es un joven se\u00f1orito andaluz que no ha tenido que salir jam\u00e1s de su Sevilla natal para conseguir lo \u00fanico que le importa en la vida: el fino, la gomina, el Betis y las mujeres. Todo cambia cuando conoce una mujer que se resiste a sus encantos: es Amaia (Clara Lago), una chica vasca. Decidido a conquistarla, se traslada a un pueblo de las Vascongadas, donde se hace pasar por vasco para vencer su resistencia. Adopta el nombre de Antxon y varios apellidos vascos: Argui\u00f1ano, Igartiburu, Erentxun, Gabilondo, Urdangar\u00edn, Otegi, Zubizarreta... y Clemente.",
+        "tags": [
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2787,
+                "name": "Calendario de Adviento | 2022",
+                "slug": "calendario-de-adviento-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/calendario-de-adviento-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1404345600,
+        "theater_release_date": 1404345600,
+        "theater_spectators_formatted": null,
+        "title": "Ocho apellidos vascos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/ocho-apellidos-vascos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2176,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ocho-apellidos-vascos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ocho-apellidos-vascos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ocho-apellidos-vascos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

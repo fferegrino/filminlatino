@@ -1,0 +1,231 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gabriel Santander",
+                "gender": "m",
+                "id": 1850,
+                "slug": "gabriel-santander",
+                "url": "https://www.filminlatino.mx/director/gabriel-santander"
+            }
+        ],
+        "duration_in_minutes": 53,
+        "excerpt": "Documental que registra las maravillas del archivo del prestigiado escritor Gabriel Garc\u00eda M\u00e1rquez ubicado en la Universidad de Texas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3431,
+        "image_card": "https://static.filminlatino.mx/images/media/3431/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3431/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3431/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3431/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3431/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3431/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3431/8/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 29,
+        "original_title": "El archivo de la magia: Gabriel Garc\u00eda M\u00e1rquez ",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-archivo-de-la-magia-gabriel-garcia-marquez",
+        "synopsis": "Documental dedicado al \u00edcono de la literatura latinoamericana Gabriel Garc\u00eda M\u00e1rquez donde quedan expuestos los tesoros contenidos en el archivo del escritor ubicado en la Universidad de Texas, legado que poco a poco revelar\u00e1 al hombre detr\u00e1s de su \u00e1lter ego.",
+        "tags": [
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2021,
+                "name": "Ciclo: Acercamiento a autores desde el cine",
+                "slug": "ciclo-acercamiento-a-autores-desde-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-acercamiento-a-autores-desde-el-cine"
+            },
+            {
+                "id": 2023,
+                "name": "63 Feria Internacional del Libro de la Universidad de Guanajuato",
+                "slug": "63-feria-internacional-del-libro-de-la-universidad-de-guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/63-feria-internacional-del-libro-de-la-universidad-de-guanajuato"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1760,
+                "name": "La Magdalena Contreras | Promotores Culturales Comunitarios",
+                "slug": "la-magdalena-contreras-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-magdalena-contreras-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1762,
+                "name": "Milpa Alta | Promotores Culturales Comunitarios",
+                "slug": "milpa-alta-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/milpa-alta-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El archivo de la magia: Gabriel Garc\u00eda M\u00e1rquez",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-archivo-de-la-magia-gabriel-garcia-marquez",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2783,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

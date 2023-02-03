@@ -1,0 +1,348 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda F\u00e9lix",
+                "gender": "f",
+                "id": 621,
+                "slug": "maria-felix",
+                "url": "https://www.filminlatino.mx/actriz/maria-felix"
+            },
+            {
+                "full_name": "Pedro Armend\u00e1riz",
+                "gender": "m",
+                "id": 731,
+                "slug": "pedro-armendariz",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz"
+            },
+            {
+                "full_name": "Jack Palance",
+                "gender": "m",
+                "id": 882,
+                "slug": "jack-palance",
+                "url": "https://www.filminlatino.mx/actor/jack-palance"
+            },
+            {
+                "full_name": "Juan M\u00fazquiz",
+                "gender": "m",
+                "id": 883,
+                "slug": "juan-muzquiz",
+                "url": "https://www.filminlatino.mx/actor/juan-muzquiz"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 1959
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Roberto Gavald\u00f3n",
+                "gender": "m",
+                "id": 79,
+                "slug": "roberto-gavaldon",
+                "url": "https://www.filminlatino.mx/director/roberto-gavaldon"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Adaptaci\u00f3n de la novela de Blasco Ib\u00e1\u00f1ez, en la que se recrea la vida, el amor, el trabajo y las pen\u00farias de los pescadores y sus familias.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 359,
+        "image_card": "https://static.filminlatino.mx/images/media/359/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/359/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/359/11/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/359/7/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 34,
+        "original_title": "Flor de mayo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 252,
+                "name": "Moctezuma Films",
+                "slug": "moctezuma-films",
+                "url": "https://www.filminlatino.mx/producer/moctezuma-films"
+            },
+            {
+                "acronym": "",
+                "id": 253,
+                "name": "Cinematografica Latino Americana S.A",
+                "slug": "cinematografica-latino-americana-sa",
+                "url": "https://www.filminlatino.mx/producer/cinematografica-latino-americana-sa"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "flor-de-mayo",
+        "synopsis": "Al llegar a Topolobampo, en la costa del Pac\u00edfico, el norteamericano Jim encuentra a su viejo amigo el marino Pepe, ahora due\u00f1o de casa propia y de su barco camaronero, marido de Magdalena y padre del ni\u00f1o Pepito. A Pepe y a su socio y compadre Nacho, Jim les propone localizar bancos de camarones con un indicador de profundidad que ha conseguido.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 720,
+                "name": "Barco",
+                "slug": "barco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barco"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1218,
+                "name": "Sinaloa",
+                "slug": "sinaloa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sinaloa"
+            },
+            {
+                "id": 1244,
+                "name": "1959",
+                "slug": "1959",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1959"
+            },
+            {
+                "id": 773,
+                "name": "A\u00f1os cincuenta",
+                "slug": "anos-cincuenta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-cincuenta"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 629,
+                "name": "\u00c9poca de Oro",
+                "slug": "epoca-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/epoca-de-oro"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2635,
+                "name": "flores y plantas",
+                "slug": "flores-y-plantas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/flores-y-plantas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -330825600,
+        "theater_release_date": -330825600,
+        "theater_spectators_formatted": null,
+        "title": "Flor de mayo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/flor-de-mayo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 400,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/flor-de-mayo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/flor-de-mayo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/flor-de-mayo/master.m3u8"
+                }
+            ]
+        },
+        "year": 1959
+    }
+}

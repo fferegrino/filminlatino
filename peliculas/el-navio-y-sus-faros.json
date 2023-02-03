@@ -1,0 +1,250 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Markos Cadena",
+                "gender": "m",
+                "id": 12085,
+                "slug": "markos-cadena",
+                "url": "https://www.filminlatino.mx/actor/markos-cadena"
+            },
+            {
+                "full_name": "Tania Viramontes",
+                "gender": "f",
+                "id": 12086,
+                "slug": "tania-viramontes",
+                "url": "https://www.filminlatino.mx/actriz/tania-viramontes"
+            },
+            {
+                "full_name": "Chafas Cadena",
+                "gender": "m",
+                "id": 12087,
+                "slug": "chafas-cadena",
+                "url": "https://www.filminlatino.mx/actor/chafas-cadena"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Bonilla",
+                "gender": "m",
+                "id": 188,
+                "slug": "rafael-bonilla",
+                "url": "https://www.filminlatino.mx/director/rafael-bonilla"
+            }
+        ],
+        "duration_in_minutes": 48,
+        "excerpt": "A 20 a\u00f1os de su existencia se expone el trabajo creativo y art\u00edstico de la red de Faros de la ciudad de M\u00e9xico",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11030,
+        "image_card": "https://static.filminlatino.mx/images/media/11030/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/11030/4/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11030/26/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/11030/6/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/11030/8/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/11030/10/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/11030/12/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/11030/14/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/11030/16/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/11030/24/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/11030/18/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/11030/20/still_9_3.png",
+            "https://static.filminlatino.mx/images/media/11030/22/still_10_3.png",
+            "https://static.filminlatino.mx/images/media/11030/28/still_11_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "El nav\u00edo y sus faros",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-navio-y-sus-faros",
+        "synopsis": "El Capicumbias emprende un recorrido por los Faros de la ciudad de M\u00e9xico; Zaragoza, Tl\u00e1huac, Milpa Alta, Cosmos, La Perulera, Indios Verdes y Arag\u00f3n, con la misi\u00f3n de promover una cultura de paz ante la violencia desatada en los barrios de la ciudad.\u00a0<br>He aqu\u00ed una muestra del formidable trabajo creativo que se ha llevado a cabo en la red de Faros de la Ciudad de M\u00e9xico.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1738,
+                "name": "Inter\u00e9s Cultural  ",
+                "slug": "interes-cultural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interes-cultural"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 484,
+                "name": "Paz",
+                "slug": "paz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El nav\u00edo y sus faros",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-navio-y-sus-faros",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12841,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2018
+    }
+}

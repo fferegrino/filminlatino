@@ -1,0 +1,389 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Susana Salazar",
+                "gender": "f",
+                "id": 962,
+                "slug": "susana-salazar",
+                "url": "https://www.filminlatino.mx/actriz/susana-salazar"
+            },
+            {
+                "full_name": "Jes\u00fas Padilla",
+                "gender": "m",
+                "id": 2486,
+                "slug": "jesus-padilla",
+                "url": "https://www.filminlatino.mx/actor/jesus-padilla"
+            },
+            {
+                "full_name": "Barbara Perrin Rivemar",
+                "gender": "f",
+                "id": 2487,
+                "slug": "barbara-perrin-rivemar",
+                "url": "https://www.filminlatino.mx/actriz/barbara-perrin-rivemar"
+            },
+            {
+                "full_name": "Sergio Limon",
+                "gender": "m",
+                "id": 2488,
+                "slug": "sergio-limon",
+                "url": "https://www.filminlatino.mx/actor/sergio-limon"
+            },
+            {
+                "full_name": "Vera Talaia",
+                "gender": "m",
+                "id": 2489,
+                "slug": "vera-talaia",
+                "url": "https://www.filminlatino.mx/actor/vera-talaia"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-de-biarritz-d-amerique-latine",
+                "name": "Festival de Biarritz d\u00b4 Am\u00e9rique Latine",
+                "slug": "festival-de-biarritz-d-amerique-latine",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Mexicana",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-internacional-del-nuevo-cine-de-split-croacia",
+                "name": " Festival Internacional del Nuevo Cine de Split, Croacia",
+                "slug": "festival-internacional-del-nuevo-cine-de-split-croacia",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Luis Valle",
+                "gender": "m",
+                "id": 164,
+                "slug": "jose-luis-valle",
+                "url": "https://www.filminlatino.mx/director/jose-luis-valle"
+            }
+        ],
+        "duration_in_minutes": 122,
+        "excerpt": "Una historia de perros, jubilados y d\u00e9cadas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1353,
+        "image_card": "https://static.filminlatino.mx/images/media/1353/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1353/7/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1353/7/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 78,
+        "original_title": "Workers",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 171,
+                "name": "Zensky Cine",
+                "slug": "zensky-cine",
+                "url": "https://www.filminlatino.mx/producer/zensky-cine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 956,
+                "name": "Autentika Films",
+                "slug": "autentika-films",
+                "url": "https://www.filminlatino.mx/producer/autentika-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "workers",
+        "synopsis": "Luego de toda una vida de trabajo en Tijuana, un error de papeleo impide la jubilaci\u00f3n de Rafael como empleado de la limpieza en una f\u00e1brica. Lidia se entera que en la casa en la que es sirvienta hace d\u00e9cadas, la patrona al morir dej\u00f3 toda la herencia al perro, y s\u00f3lo en caso de morir el animal al dinero pasar\u00e1 a manos de los empleados. A su modo, solos y en silencio, ambos iniciar\u00e1n una lucha: \u00e9l contra una empresa, ella contra un perro.",
+        "tags": [
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1225,
+                "name": "Tijuana",
+                "slug": "tijuana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tijuana"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1362,
+                "name": "Mejor Dise\u00f1o de Arte Ariel",
+                "slug": "mejor-diseno-de-arte-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-diseno-de-arte-ariel"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Workers",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/workers",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 888,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/workers.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/workers/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/workers/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

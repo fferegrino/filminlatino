@@ -1,0 +1,312 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Anessa Ramsey",
+                "gender": "f",
+                "id": 4035,
+                "slug": "anessa-ramsey",
+                "url": "https://www.filminlatino.mx/actriz/anessa-ramsey"
+            },
+            {
+                "full_name": "Sahr Ngaujah",
+                "gender": "m",
+                "id": 4036,
+                "slug": "sahr-ngaujah",
+                "url": "https://www.filminlatino.mx/actor/sahr-ngaujah"
+            },
+            {
+                "full_name": "AJ Bowen",
+                "gender": "m",
+                "id": 4037,
+                "slug": "aj-bowen",
+                "url": "https://www.filminlatino.mx/actor/aj-bowen"
+            },
+            {
+                "full_name": "Justin Welborn",
+                "gender": "m",
+                "id": 4038,
+                "slug": "justin-welborn",
+                "url": "https://www.filminlatino.mx/actor/justin-welborn"
+            },
+            {
+                "full_name": "Scott Poythress",
+                "gender": "m",
+                "id": 4039,
+                "slug": "scott-poythress",
+                "url": "https://www.filminlatino.mx/actor/scott-poythress"
+            }
+        ],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial largometrajes a concurso",
+                "icon": "festival-de-sitges",
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "year": 2007
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "David Bruckner",
+                "gender": "m",
+                "id": 1392,
+                "slug": "david-bruckner",
+                "url": "https://www.filminlatino.mx/director/david-bruckner"
+            },
+            {
+                "full_name": "Dan Bush",
+                "gender": "m",
+                "id": 1393,
+                "slug": "dan-bush",
+                "url": "https://www.filminlatino.mx/director/dan-bush"
+            },
+            {
+                "full_name": "Jacob Gentry",
+                "gender": "m",
+                "id": 1394,
+                "slug": "jacob-gentry",
+                "url": "https://www.filminlatino.mx/director/jacob-gentry"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Mezcla de survival apocal\u00edptico, terror zombie y comedia negra en la que todo el mundo parece haberse contagiado de una locura homicida",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2675,
+        "image_card": "https://static.filminlatino.mx/images/media/2675/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2675/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2675/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2675/2/still_2_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "The Signal",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1304,
+                "name": "Pop Films",
+                "slug": "pop-films",
+                "url": "https://www.filminlatino.mx/producer/pop-films"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-transmision",
+        "synopsis": "Una interferencia de colores psicod\u00e9licos se ha colado en el receptor de televisi\u00f3n, y el tel\u00e9fono s\u00f3lo emite chirridos. Es la noche en la que una mujer se dirige a su hogar sin saber muy bien si dejar a su marido de una vez por todas. Esta trama se divide en tres partes, todo el mundo parece haberse contagiado de una locura homicida menos sus tres realizadores. Su ingeniosa mezcla de survival apocal\u00edptico, terror zombie y comedia negra lleva camino de convertirse en la cinta de culto del a\u00f1o.",
+        "tags": [
+            {
+                "id": 208,
+                "name": "Nuevas tecnolog\u00edas",
+                "slug": "nuevas-tecnologias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevas-tecnologias"
+            },
+            {
+                "id": 426,
+                "name": "Zombies",
+                "slug": "zombies",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zombies"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 103,
+                "name": "Apocalipsis",
+                "slug": "apocalipsis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apocalipsis"
+            },
+            {
+                "id": 439,
+                "name": "Radio",
+                "slug": "radio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/radio"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 315,
+                "name": "Televisi\u00f3n",
+                "slug": "television",
+                "url": "https://www.filminlatino.mx/catalogo/tema/television"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 314,
+                "name": "Locura",
+                "slug": "locura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/locura"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 819,
+                "name": "Mundo digital",
+                "slug": "mundo-digital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-digital"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La transmisi\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-transmision",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2118,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-trasmicion.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-trasmicion/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-trasmicion/master.m3u8"
+                }
+            ]
+        },
+        "year": 2007
+    }
+}

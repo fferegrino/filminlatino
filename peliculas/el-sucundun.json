@@ -1,0 +1,230 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jaime Eduardo Murillo Eslava",
+                "gender": "m",
+                "id": 2575,
+                "slug": "jaime-eduardo-murillo-eslava",
+                "url": "https://www.filminlatino.mx/director/jaime-eduardo-murillo-eslava"
+            }
+        ],
+        "duration_in_minutes": 60,
+        "excerpt": "La cumbia rompe las fronteras y viaja por Colombia sin discriminaci\u00f3n a trav\u00e9s de Los Gaiteros de San Jacinto.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5639,
+        "image_card": "https://static.filminlatino.mx/images/media/5639/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5639/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5639/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_3_3.JPG",
+            "https://static.filminlatino.mx/images/media/5639/1/still_3_3.JPG",
+            "https://static.filminlatino.mx/images/media/5639/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5639/2/still_5_3.JPG",
+            "https://static.filminlatino.mx/images/media/5639/2/still_5_3.JPG"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "El Sucund\u00fan. Haciendo la Cumbia",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-sucundun",
+        "synopsis": "La cumbia rompe las fronteras y viaja por Colombia sin discriminaci\u00f3n a trav\u00e9s de Los Gaiteros de San Jacinto, quienes transitan dicho pa\u00eds buscando los rastros de la m\u00fasica de sus abuelos.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 1508,
+                "name": "Doc Mula",
+                "slug": "doc-mula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doc-mula"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El Sucund\u00fan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-sucundun",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5130,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SUCUNDUN.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SUCUNDUN/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SUCUNDUN/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

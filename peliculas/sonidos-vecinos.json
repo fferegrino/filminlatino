@@ -1,0 +1,492 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ana Rita Gurgel",
+                "gender": "f",
+                "id": 3021,
+                "slug": "ana-rita-gurgel",
+                "url": "https://www.filminlatino.mx/actriz/ana-rita-gurgel"
+            },
+            {
+                "full_name": "Caio Almeida",
+                "gender": "m",
+                "id": 3022,
+                "slug": "caio-almeida",
+                "url": "https://www.filminlatino.mx/actor/caio-almeida"
+            },
+            {
+                "full_name": "Maeve Jinkings",
+                "gender": "f",
+                "id": 1449,
+                "slug": "maeve-jinkings",
+                "url": "https://www.filminlatino.mx/actriz/maeve-jinkings"
+            },
+            {
+                "full_name": "Dida Maia",
+                "gender": "f",
+                "id": 3023,
+                "slug": "dida-maia",
+                "url": "https://www.filminlatino.mx/actriz/dida-maia"
+            },
+            {
+                "full_name": "Felipe Bandeira",
+                "gender": "m",
+                "id": 3024,
+                "slug": "felipe-bandeira",
+                "url": "https://www.filminlatino.mx/actor/felipe-bandeira"
+            },
+            {
+                "full_name": "Gustavo Jahn",
+                "gender": "m",
+                "id": 1448,
+                "slug": "gustavo-jahn",
+                "url": "https://www.filminlatino.mx/actor/gustavo-jahn"
+            },
+            {
+                "full_name": "Irma Brown",
+                "gender": "m",
+                "id": 1447,
+                "slug": "irma-brown",
+                "url": "https://www.filminlatino.mx/actor/irma-brown"
+            },
+            {
+                "full_name": "Mauric\u00e9ia Concei\u00e7\u00e3o",
+                "gender": "f",
+                "id": 3025,
+                "slug": "mauriceia-conceicao",
+                "url": "https://www.filminlatino.mx/actriz/mauriceia-conceicao"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "abc-cinematography-award",
+                "name": "ABC Cinematography Award",
+                "slug": "abc-cinematography-award",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "abc-cinematography-award",
+                "name": "ABC Cinematography Award",
+                "slug": "abc-cinematography-award",
+                "year": 2012
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "festival-de-cine-de-gramado",
+                "name": "Festival de Cine de Gramado",
+                "slug": "festival-de-cine-de-gramado",
+                "year": 2012
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cine-de-gramado",
+                "name": "Festival de Cine de Gramado",
+                "slug": "festival-de-cine-de-gramado",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "festival-de-cine-de-gramado",
+                "name": "Festival de Cine de Gramado",
+                "slug": "festival-de-cine-de-gramado",
+                "year": 2012
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-de-cine-de-gramado",
+                "name": "Festival de Cine de Gramado",
+                "slug": "festival-de-cine-de-gramado",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cine-latinoamericano-de-lleida",
+                "name": "Festival de Cine Latinoamericano de Lleida",
+                "slug": "festival-de-cine-latinoamericano-de-lleida",
+                "year": 2012
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-cine-latinoamericano-de-lleida",
+                "name": "Festival de Cine Latinoamericano de Lleida",
+                "slug": "festival-de-cine-latinoamericano-de-lleida",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Primer Trabajo",
+                "icon": "premios-de-la-asociacion-de-criticos-de-cine-de-toronto",
+                "name": "Premios de la asociaci\u00f3n de cr\u00edticos de cine de Toronto",
+                "slug": "premios-de-la-asociacion-de-criticos-de-cine-de-toronto",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Pel\u00edcula Brasile\u00f1a",
+                "icon": "premios-de-la-asociacion-de-criticos-de-arte-de-sao-paulo",
+                "name": "Premios de la Asociaci\u00f3n de Cr\u00edticos de Arte de Sao Paulo",
+                "slug": "premios-de-la-asociacion-de-criticos-de-arte-de-sao-paulo",
+                "year": 2012
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-latinoamericano-de-lima",
+                "name": "Festival de Cine Latinoamericano de Lima",
+                "slug": "festival-de-cine-latinoamericano-de-lima",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cine-latinoamericano-de-lima",
+                "name": "Festival de Cine Latinoamericano de Lima",
+                "slug": "festival-de-cine-latinoamericano-de-lima",
+                "year": 2012
+            },
+            {
+                "category": "Gran Premio al Talento Nuevo",
+                "icon": "cph-pix",
+                "name": "CPH PIX",
+                "slug": "cph-pix",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "cineport-festival-de-cine-portugues",
+                "name": "Cineport - Festival de Cine Portugu\u00e9s",
+                "slug": "cineport-festival-de-cine-portugues",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-sesc-de-cine-de-brasil",
+                "name": "Festival SESC de cine de Brasil",
+                "slug": "festival-sesc-de-cine-de-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "gran-premio-cinema-brasil",
+                "name": "Gran Premio Cinema Brasil",
+                "slug": "gran-premio-cinema-brasil",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Primer Trabajo",
+                "icon": "toronto-film-critics-association-awards",
+                "name": "Toronto Film Critics Association Awards",
+                "slug": "toronto-film-critics-association-awards",
+                "year": 2012
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "oslo-films-from-the-south-festival",
+                "name": "Oslo Films from the South Festival",
+                "slug": "oslo-films-from-the-south-festival",
+                "year": 2012
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-internacional-de-cine-de-rotterdam",
+                "name": "Festival Internacional de Cine de Rotterdam",
+                "slug": "festival-internacional-de-cine-de-rotterdam",
+                "year": 2012
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "rio-de-janeiro-international-film-festival",
+                "name": "R\u00edo de Janeiro International Film Festival",
+                "slug": "rio-de-janeiro-international-film-festival",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "rio-de-janeiro-international-film-festival",
+                "name": "R\u00edo de Janeiro International Film Festival",
+                "slug": "rio-de-janeiro-international-film-festival",
+                "year": 2012
+            },
+            {
+                "category": "Mejor director",
+                "icon": "cinemanila-international-film-festival",
+                "name": "Cinemanila International Film Festival",
+                "slug": "cinemanila-international-film-festival",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Pel\u00edcula Brasile\u00f1a",
+                "icon": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "name": "Festival Internacional de Cine de S\u00e3o Paulo, Brasil",
+                "slug": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Kleber Mendon\u00e7a Filho",
+                "gender": "m",
+                "id": 545,
+                "slug": "kleber-mendonca-filho",
+                "url": "https://www.filminlatino.mx/director/kleber-mendonca-filho"
+            }
+        ],
+        "duration_in_minutes": 131,
+        "excerpt": "Sonidos Vecinos, ubica tempranamente a Kleber Mendon\u00e7a Filho como uno de los directores brasile\u00f1os a tener en cuenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1822,
+        "image_card": "https://static.filminlatino.mx/images/media/1822/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1822/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1822/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1822/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1822/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1822/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1822/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1822/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "O som ao Redor",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1244,
+                "name": "Huber Bals Fund",
+                "slug": "huber-bals-fund",
+                "url": "https://www.filminlatino.mx/producer/huber-bals-fund"
+            },
+            {
+                "acronym": "",
+                "id": 1245,
+                "name": "CinemaSc\u00f3pio",
+                "slug": "cinemascopio",
+                "url": "https://www.filminlatino.mx/producer/cinemascopio"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sonidos-vecinos",
+        "synopsis": "La vida en un barrio residencial en la actual Recife, Brasil, toma un giro inesperado despu\u00e9s de la llegada de una empresa independiente de seguridad privada. La presencia de estos hombres trae cierta sensaci\u00f3n de seguridad, pero tambi\u00e9n una buena cantidad de ansiedad a una comunidad que se rige bajo el miedo. Mientras tanto, Bia, casada y madre de dos hijos, debe encontrar la manera de lidiar con los ladridos y aullidos del perro de su vecino. Un acercamiento al Brasil contempor\u00e1neo, una reflexi\u00f3n sobre la historia, la violencia y el ruido.",
+        "tags": [
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1328054400,
+        "theater_release_date": 1328054400,
+        "theater_spectators_formatted": null,
+        "title": "Sonidos vecinos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sonidos-vecinos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1404,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/sonido-vecinos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/sonido-vecinos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/sonido-vecinos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

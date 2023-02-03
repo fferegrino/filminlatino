@@ -1,0 +1,409 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-biarritz-d-amerique-latine",
+                "name": "Festival de Biarritz d\u00b4 Am\u00e9rique Latine",
+                "slug": "festival-de-biarritz-d-amerique-latine",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "hamburg-film-festival",
+                "name": "Hamburg Film Festival",
+                "slug": "hamburg-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-visions-du-reel",
+                "name": "Festival Visions du R\u00e9el",
+                "slug": "festival-visions-du-reel",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-la-habana",
+                "name": " Festival de La Habana",
+                "slug": "festival-de-la-habana",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "oficial-international-documentary-film-festival-moscu",
+                "name": "Oficial International Documentary Film Festival Mosc\u00fa",
+                "slug": "oficial-international-documentary-film-festival-moscu",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "filmms-de-femmes",
+                "name": "Filmms de Femmes",
+                "slug": "filmms-de-femmes",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 51,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/pais/cuba"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Itziar Leemans",
+                "gender": "f",
+                "id": 1379,
+                "slug": "itziar-leemans",
+                "url": "https://www.filminlatino.mx/directora/itziar-leemans"
+            },
+            {
+                "full_name": "Carlos Mignon",
+                "gender": "m",
+                "id": 1380,
+                "slug": "carlos-mignon",
+                "url": "https://www.filminlatino.mx/director/carlos-mignon"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Estreno simult\u00e1neo de la \u00f3pera prima de Mignon y Leemans: la vida en Cuba y Francia resulta dis\u00edmil desde la experiencia de dos hermanos. Film delicado y austeramente conmovedor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2659,
+        "image_card": "https://static.filminlatino.mx/images/media/2659/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2659/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2659/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2659/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 68,
+        "original_title": "Parque Lenin",
+        "producers": [
+            {
+                "acronym": "FONCA",
+                "id": 25,
+                "name": "Fondo Nacional para la Cultura y las Artes ",
+                "slug": "fondo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 1575,
+                "name": "N\u00f3madas",
+                "slug": "nomadas",
+                "url": "https://www.filminlatino.mx/producer/nomadas"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "parque-lenin",
+        "synopsis": "Los hermanos Antoin, Yesu\u00e1n y Karla comparten su \u00faltimo recuerdo juntos en el centro de diversiones de La Habana, Parque Lenin. Al perder a su madre, cuatro a\u00f1os atr\u00e1s, sus caminos se bifurcaron. Antoin viaj\u00f3 a Francia para continuar sus estudios de canto l\u00edrico, dejando atr\u00e1s a Yesu\u00e1n y Karla, quienes intentan reconfigurar sus roles familiares.",
+        "tags": [
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 156,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuba"
+            },
+            {
+                "id": 291,
+                "name": "Difuntos",
+                "slug": "difuntos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/difuntos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 969,
+                "name": "Recomendadas de Ana Laura P\u00e9rez",
+                "slug": "recomendadas-de-ana-laura-perez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ana-laura-perez"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Parque Lenin",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/parque-lenin",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2139,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/paruqe-lenin.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/paruqe-lenin/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/paruqe-lenin/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

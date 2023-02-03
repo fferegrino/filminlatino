@@ -1,0 +1,290 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jung Jae-Young .",
+                "gender": "m",
+                "id": 4013,
+                "slug": "jung-jae-young",
+                "url": "https://www.filminlatino.mx/actor/jung-jae-young"
+            },
+            {
+                "full_name": "Jung Ryeo Won",
+                "gender": "f",
+                "id": 4014,
+                "slug": "jung-ryeo-won",
+                "url": "https://www.filminlatino.mx/actriz/jung-ryeo-won"
+            },
+            {
+                "full_name": "Yang Mi Kyeong",
+                "gender": "f",
+                "id": 4015,
+                "slug": "yang-mi-kyeong",
+                "url": "https://www.filminlatino.mx/actriz/yang-mi-kyeong"
+            },
+            {
+                "full_name": "Park Yeong Seo",
+                "gender": "m",
+                "id": 4016,
+                "slug": "park-yeong-seo",
+                "url": "https://www.filminlatino.mx/actor/park-yeong-seo"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 122,
+                "name": "Corea del Sur",
+                "slug": "corea-del-sur",
+                "url": "https://www.filminlatino.mx/catalogo/pais/corea-del-sur"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Hey-Jun Lee",
+                "gender": "m",
+                "id": 1387,
+                "slug": "hey-jun-lee",
+                "url": "https://www.filminlatino.mx/director/hey-jun-lee"
+            }
+        ],
+        "duration_in_minutes": 116,
+        "excerpt": "Un hombre queda atrapado en una isla desde la cual se puede ver la metr\u00f3poli, pero no alcanzarla.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2667,
+        "image_card": "https://static.filminlatino.mx/images/media/2667/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2667/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2667/4/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2667/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2667/4/still_3_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 35,
+        "original_title": "Kimssi pyoryugi",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1584,
+                "name": "Banzak-Banzak Film Production",
+                "slug": "banzak-banzak-film-production",
+                "url": "https://www.filminlatino.mx/producer/banzak-banzak-film-production"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "naufrago-en-la-luna",
+        "synopsis": "La historia comienza cuando un ejecutivo se lanza al r\u00edo Han para suicidarse e inesperadamente despierta en una isla desierta, a mitad del r\u00edo, donde vive apartado de la civilizaci\u00f3n. Una joven, recluida en su habitaci\u00f3n por a\u00f1os, lo observa de lejos. Los destructivos efectos de la recesi\u00f3n econ\u00f3mica mundial y la alienaci\u00f3n urbana sirven como contexto a la historia de amor que narra este segundo largometraje del coreano Hey-Jun Lee.",
+        "tags": [
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 657,
+                "name": "Sentimientos",
+                "slug": "sentimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sentimientos"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 107,
+                "name": "Suicidio",
+                "slug": "suicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suicidio"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 38,
+                "name": "Cine oriental",
+                "slug": "cine-oriental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-oriental"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1931,
+                "name": "Internacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "internacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/internacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "N\u00e1ufrago en la luna",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/naufrago-en-la-luna",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2135,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/naufrago-en-la-luna.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/naufrago-en-la-luna/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/naufrago-en-la-luna/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

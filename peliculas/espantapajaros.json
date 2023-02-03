@@ -1,0 +1,271 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Banda Sonora",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Realizaci\u00f3n de Audio",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ricardo del Conde",
+                "gender": "m",
+                "id": 383,
+                "slug": "ricardo-del-conde",
+                "url": "https://www.filminlatino.mx/director/ricardo-del-conde"
+            }
+        ],
+        "duration_in_minutes": 53,
+        "excerpt": "Esta cinta retrata el proceso de cultivo del arroz y los solitarios d\u00edas de Alejandro Tapia, un hombre que dedica su vida a trabajar como espantap\u00e1jaros.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 411,
+        "image_card": "https://static.filminlatino.mx/images/media/411/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/411/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/411/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/411/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/411/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Espantap\u00e1jaros",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 343,
+                "name": "DOCTV Latinoam\u00e9rica III",
+                "slug": "doctv-latinoamerica-iii",
+                "url": "https://www.filminlatino.mx/producer/doctv-latinoamerica-iii"
+            },
+            {
+                "acronym": "",
+                "id": 344,
+                "name": "Cuadernos de Cine",
+                "slug": "cuadernos-de-cine",
+                "url": "https://www.filminlatino.mx/producer/cuadernos-de-cine"
+            },
+            {
+                "acronym": "",
+                "id": 345,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/producer/canal-22"
+            },
+            {
+                "acronym": "",
+                "id": 346,
+                "name": "Pimienta Films",
+                "slug": "pimienta-films",
+                "url": "https://www.filminlatino.mx/producer/pimienta-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "espantapajaros",
+        "synopsis": "Espantap\u00e1jaros se encuentra con su personaje principal, Alejandro Tapia Catal\u00e1n o El Sapo, como es conocido en el pueblo. Vive solo en una peque\u00f1a casa de carrizo en el monte. Sus d\u00edas suelen ser solitarios y contemplativos y, a lo largo de los a\u00f1os, ha desarrollado un complejo mundo interior. La c\u00e1mara lo sigue a trav\u00e9s de uno de sus d\u00edas de trabajo como espantap\u00e1jaros. Escuchamos sus pensamientos y sus historias, nos internamos en su psique con la intimidad que ofrece el flujo de conciencia.",
+        "tags": [
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1346630400,
+        "theater_release_date": 1346630400,
+        "theater_spectators_formatted": null,
+        "title": "Espantap\u00e1jaros",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/espantapajaros",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 542,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2012
+    }
+}

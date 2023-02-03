@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Sergio Jim\u00e9nez",
+                "gender": "m",
+                "id": 320,
+                "slug": "sergio-jimenez",
+                "url": "https://www.filminlatino.mx/actor/sergio-jimenez"
+            },
+            {
+                "full_name": "Blanca Guerra",
+                "gender": "f",
+                "id": 484,
+                "slug": "blanca-guerra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-guerra"
+            },
+            {
+                "full_name": "Tom\u00e1s Leal",
+                "gender": "m",
+                "id": 548,
+                "slug": "tomas-leal",
+                "url": "https://www.filminlatino.mx/actor/tomas-leal"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor M\u00fasica de Fondo",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1982
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alfredo Joskowicz",
+                "gender": "m",
+                "id": 183,
+                "slug": "alfredo-joskowicz",
+                "url": "https://www.filminlatino.mx/director/alfredo-joskowicz"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Los deseos de Diego se vuelven realidad en el transcurso de un d\u00eda y una noche.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 10,
+                "name": "Infantil",
+                "slug": "infantil",
+                "url": "https://www.filminlatino.mx/catalogo/genero/infantil"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 205,
+        "image_card": "https://static.filminlatino.mx/images/media/205/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/205/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/205/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/205/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/205/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/205/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "El caballito volador",
+        "producers": [
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-caballito-volador",
+        "synopsis": "Cuento de car\u00e1cter m\u00edtico y fant\u00e1stico sobre los deseos de un ni\u00f1o campesino, Diego, que se vuelven realidad en el transcurso de un d\u00eda y una noche. En la v\u00edspera de su cumplea\u00f1os, el padrino del ni\u00f1o le regala un caballito de cart\u00f3n. Durante la noche, el peque\u00f1o sue\u00f1a que va montado sobre el caballo y se encuentra con una ninfa que le describe el lugar exacto donde est\u00e1 el agua que tanta falta le hace a su familia. As\u00ed, Diego es ayudado por la hija del cacique Don Abusivo, el cual pretende desalojar a la familia para quedarse con la tierra. Al despertar, el ni\u00f1o lleva a sus padres al lugar se\u00f1alado por la ninfa y all\u00e1 est\u00e1 el agua.",
+        "tags": [
+            {
+                "id": 746,
+                "name": "Infantil_MX",
+                "slug": "infantil-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infantil-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 362,
+                "name": "Cuentos KIDS",
+                "slug": "cuentos-kids",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuentos-kids"
+            },
+            {
+                "id": 361,
+                "name": "P\u00fablico infantil",
+                "slug": "publico-infantil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/publico-infantil"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 702,
+                "name": "Animales y ni\u00f1os",
+                "slug": "animales-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-y-ninos"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 210,
+                "name": "FilminLatino Ni\u00f1os",
+                "slug": "filminlatino-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-ninos"
+            },
+            {
+                "id": 851,
+                "name": "Relatos fant\u00e1sticos",
+                "slug": "relatos-fantasticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relatos-fantasticos"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1177,
+                "name": "1982",
+                "slug": "1982",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1982"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1760,
+                "name": "La Magdalena Contreras | Promotores Culturales Comunitarios",
+                "slug": "la-magdalena-contreras-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-magdalena-contreras-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2557,
+                "name": "Nuevos fan\u00e1ticos del cine",
+                "slug": "nuevos-fanaticos-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-fanaticos-del-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 378691200,
+        "theater_release_date": 378691200,
+        "theater_spectators_formatted": null,
+        "title": "El caballito volador",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-caballito-volador",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 102,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1982
+    }
+}

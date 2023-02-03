@@ -1,0 +1,447 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Competencia Oficial",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Nominado al Gran Premio Zanate",
+                "icon": "",
+                "name": "Zanate Festival de Cine Documental",
+                "slug": "zanate-festival-de-cine-documental",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Lupita  la Cigarrita",
+                "gender": "f",
+                "id": 144,
+                "slug": "lupita-la-cigarrita",
+                "url": "https://www.filminlatino.mx/character/lupita-la-cigarrita"
+            },
+            {
+                "full_name": "Ricardo  Mendoza",
+                "gender": "m",
+                "id": 145,
+                "slug": "ricardo-mendoza",
+                "url": "https://www.filminlatino.mx/character/ricardo-mendoza"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Joyce  Garci\u0301a",
+                "gender": "f",
+                "id": 2282,
+                "slug": "joyce-garcia",
+                "url": "https://www.filminlatino.mx/directora/joyce-garcia"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "M\u00fasica a todo volumen, cuerpos jadeantes y sudorosos, barrios populares llenos de personas, es lo que define a los sonideros de la Ciudad de M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5115,
+        "image_card": "https://static.filminlatino.mx/images/media/5115/3/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5115/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5115/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5115/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5115/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5115/2/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 230,
+        "original_title": "Yo no soy guapo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2111,
+                "name": "La Furia Cine",
+                "slug": "la-furia-cine",
+                "url": "https://www.filminlatino.mx/producer/la-furia-cine"
+            },
+            {
+                "acronym": "",
+                "id": 1865,
+                "name": "FONCA",
+                "slug": "fonca",
+                "url": "https://www.filminlatino.mx/producer/fonca"
+            },
+            {
+                "acronym": "",
+                "id": 1880,
+                "name": "Secretar\u00eda de Cultura",
+                "slug": "secretaria-de-cultura",
+                "url": "https://www.filminlatino.mx/producer/secretaria-de-cultura"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "yo-no-soy-guapo",
+        "synopsis": "El documental muestra el panorama de la cultura sonidera y de las adversidades que ha tenido que atravesar debido a las prohibiciones del gobierno federal. Los sonideros son un fen\u00f3meno social y cultural que forman parte del folclor de la Ciudad de M\u00e9xico. Est\u00e1 actividad se ha convertido en una profesi\u00f3n en la que\u00a0los animadores ponen piezas musicales de\u00a0cumbia, salsa, bachata y guaracha. Estos eventos llenan las calles con personas dispuestas a bailar toda la noche. \u00d3pera prima de\u00a0la fot\u00f3grafa\u00a0documentalista veracruzana Joyce Garc\u00eda.\u00a0\u00a0Este largometraje documental se hizo acreedora del\u00a0Programa de Est\u00edmulo a Creadores Cinematogr\u00e1ficos del Instituto Mexicano de Cinematograf\u00eda en la modalidad \u00abdesarrollo de proyecto\u00bb en 2015.",
+        "tags": [
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 626,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 712,
+                "name": "Bailarines",
+                "slug": "bailarines",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bailarines"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 519,
+                "name": "Barrio",
+                "slug": "barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barrio"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 350,
+                "name": "Bandas callejeras",
+                "slug": "bandas-callejeras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bandas-callejeras"
+            },
+            {
+                "id": 1421,
+                "name": "Sonidos del barrio",
+                "slug": "sonidos-del-barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonidos-del-barrio"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 1532,
+                "name": "Funciones especiales Quinto Aniversario",
+                "slug": "funciones-especiales-quinto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-quinto-aniversario"
+            },
+            {
+                "id": 1805,
+                "name": "Ciclo perspectiva de g\u00e9nero",
+                "slug": "ciclo-perspectiva-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-perspectiva-de-genero"
+            },
+            {
+                "id": 1640,
+                "name": "Baile o danza",
+                "slug": "baile-o-danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baile-o-danza"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2724,
+                "name": "50 Festival Internacional Cervantino",
+                "slug": "50-festival-internacional-cervantino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-festival-internacional-cervantino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Yo no soy guapo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/yo-no-soy-guapo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10788,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CLIP-YNSG.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CLIP-YNSG/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CLIP-YNSG/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/YO-NO-SOY-GUAPO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/YO-NO-SOY-GUAPO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/YO-NO-SOY-GUAPO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

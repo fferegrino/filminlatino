@@ -1,0 +1,332 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gonzalo Vega",
+                "gender": "m",
+                "id": 136,
+                "slug": "gonzalo-vega",
+                "url": "https://www.filminlatino.mx/actor/gonzalo-vega"
+            },
+            {
+                "full_name": "Ernesto G\u00f3mez Cruz",
+                "gender": "m",
+                "id": 138,
+                "slug": "ernesto-gomez-cruz",
+                "url": "https://www.filminlatino.mx/actor/ernesto-gomez-cruz"
+            },
+            {
+                "full_name": "Alma Muriel",
+                "gender": "f",
+                "id": 281,
+                "slug": "alma-muriel",
+                "url": "https://www.filminlatino.mx/actriz/alma-muriel"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1979
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Boj\u00f3rquez",
+                "gender": "m",
+                "id": 118,
+                "slug": "alberto-bojorquez",
+                "url": "https://www.filminlatino.mx/director/alberto-bojorquez"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Uno de los relatos m\u00e1s crudos sobre la violencia que viven muchas mujeres en manos de personas que quieren.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 106,
+        "image_card": "https://static.filminlatino.mx/images/media/106/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/106/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/106/7/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/106/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/106/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/106/3/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/106/6/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 108,
+        "original_title": "Retrato de una mujer casada",
+        "producers": [
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "retrato-de-una-mujer-casada",
+        "synopsis": "Filme que trata los problemas cotidianos de una joven ama de casa y estudiante de clase media con deseos de superaci\u00f3n, que a pesar de sus buenas intenciones debe\u00a0separarse violentamente de su marido, ya que la descubre teniendo un amor\u00edo con su compa\u00f1ero de la escuela.\u00a0",
+        "tags": [
+            {
+                "id": 595,
+                "name": "Los que se fueron",
+                "slug": "los-que-se-fueron",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-que-se-fueron"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 678,
+                "name": "Digitalizadas",
+                "slug": "digitalizadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/digitalizadas"
+            },
+            {
+                "id": 717,
+                "name": "Violencia dom\u00e9stica",
+                "slug": "violencia-domestica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-domestica"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 875,
+                "name": "Restauradas",
+                "slug": "restauradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/restauradas"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1063,
+                "name": "Estab/IM100",
+                "slug": "estabim100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estabim100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1177,
+                "name": "1982",
+                "slug": "1982",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1982"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 381024000,
+        "theater_release_date": 381024000,
+        "theater_spectators_formatted": null,
+        "title": "Retrato de una mujer casada",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/retrato-de-una-mujer-casada",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 70,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1979
+    }
+}

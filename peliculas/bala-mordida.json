@@ -1,0 +1,273 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Dami\u00e1n Alc\u00e1zar",
+                "gender": "m",
+                "id": 1240,
+                "slug": "damian-alcazar",
+                "url": "https://www.filminlatino.mx/actor/damian-alcazar"
+            },
+            {
+                "full_name": "Miguel Rodarte",
+                "gender": "m",
+                "id": 1845,
+                "slug": "miguel-rodarte",
+                "url": "https://www.filminlatino.mx/actor/miguel-rodarte"
+            },
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Flor  Pay\u00e1n",
+                "gender": "f",
+                "id": 1799,
+                "slug": "flor-payan",
+                "url": "https://www.filminlatino.mx/actriz/flor-payan"
+            },
+            {
+                "full_name": "Andr\u00e9s Montiel",
+                "gender": "m",
+                "id": 1279,
+                "slug": "andres-montiel",
+                "url": "https://www.filminlatino.mx/actor/andres-montiel"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Mu\u00f1oz",
+                "gender": "m",
+                "id": 665,
+                "slug": "diego-munoz",
+                "url": "https://www.filminlatino.mx/director/diego-munoz"
+            }
+        ],
+        "duration_in_minutes": 113,
+        "excerpt": "Primer largometraje de Diego Mu\u00f1oz, que retrata la corrupci\u00f3n que existe en el sistema polic\u00edaco y tambi\u00e9n las dificultades a las que se enfrentan en su d\u00eda a d\u00eda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1021,
+        "image_card": "https://static.filminlatino.mx/images/media/1021/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1021/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1021/5/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Bala mordida",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bala-mordida",
+        "synopsis": "Mauro Hern\u00e1ndez, un joven polic\u00eda preventivo a las \u00f3rdenes de su comandante, se ve envuelto en un conecte de coca\u00edna en donde, por quedarse con unos pesos de m\u00e1s, canjea su pistola para completar el costo de la mercanc\u00eda. Discute con Joaqu\u00edn, traficante y expolic\u00eda, a quien termina amenazando, pero al retirarse con sus compa\u00f1eros, una banda controlada por Joaqu\u00edn le roba la mercanc\u00eda. Mauro es herido; su chaleco antibalas no soporta el pinchazo de una punta; el esc\u00e1ndalo por la deficiencia de los chalecos se convierte en una investigaci\u00f3n de malversaci\u00f3n de fondos policiacos, el cual es exagerado por los medios y la televisi\u00f3n.",
+        "tags": [
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 2182,
+                "name": "Aprendizaje",
+                "slug": "aprendizaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aprendizaje"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1243382400,
+        "theater_release_date": 1243382400,
+        "theater_spectators_formatted": null,
+        "title": "Bala mordida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bala-mordida",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 739,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/bala-mordida.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/bala-mordida/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/bala-mordida/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,479 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gaspard Ulliel",
+                "gender": "m",
+                "id": 4932,
+                "slug": "gaspard-ulliel",
+                "url": "https://www.filminlatino.mx/actor/gaspard-ulliel"
+            },
+            {
+                "full_name": "Marion Cotillard",
+                "gender": "f",
+                "id": 2909,
+                "slug": "marion-cotillard",
+                "url": "https://www.filminlatino.mx/actriz/marion-cotillard"
+            },
+            {
+                "full_name": "Vincent Cassel",
+                "gender": "m",
+                "id": 1490,
+                "slug": "vincent-cassel",
+                "url": "https://www.filminlatino.mx/actor/vincent-cassel"
+            },
+            {
+                "full_name": "L\u00e9a Seydoux",
+                "gender": "f",
+                "id": 1165,
+                "slug": "lea-seydoux",
+                "url": "https://www.filminlatino.mx/actriz/lea-seydoux"
+            },
+            {
+                "full_name": "Nathalie Baye",
+                "gender": "f",
+                "id": 197,
+                "slug": "nathalie-baye",
+                "url": "https://www.filminlatino.mx/actriz/nathalie-baye"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-globos-de-cristal-francia",
+                "name": "Premios Globos de Cristal, Francia",
+                "slug": "premios-globos-de-cristal-francia",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Premio Horizontes",
+                "icon": "",
+                "name": "Festival de Karlovy Vary",
+                "slug": "festival-de-karlovy-vary",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Hamburgo",
+                "slug": "festival-internacional-de-cine-de-hamburgo",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado Ecum\u00e9nico",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Gran premio del jurado",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Mejor Montaje",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "festival-de-cine-de-miami",
+                "name": "Festival de Cine de Miami",
+                "slug": "festival-de-cine-de-miami",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor Secundario",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "sydney-film-festival",
+                "name": "Sydney Film Festival",
+                "slug": "sydney-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-europeo-de-sevilla",
+                "name": "Festival de Cine Europeo de Sevilla",
+                "slug": "festival-de-cine-europeo-de-sevilla",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Xavier Dolan",
+                "gender": "m",
+                "id": 61,
+                "slug": "xavier-dolan",
+                "url": "https://www.filminlatino.mx/director/xavier-dolan"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "El debut franc\u00e9s de Xavier Dolan de la\u00a0adaptaci\u00f3n cinematogr\u00e1fica de la obra teatral hom\u00f3nima de Jean-Luc Largarce.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3492,
+        "image_card": "https://static.filminlatino.mx/images/media/3492/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3492/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3492/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/1/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/3492/2/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 117,
+        "original_title": "Juste la fin du monde",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "no-es-mas-que-el-fin-del-mundo",
+        "synopsis": "Xavier Dolan adapta con la intensidad por la que siempre destaca una obra teatral destinada a caer en sus manos.  Tras doce a\u00f1os de ausencia, un escritor regresa a su pueblo natal para anunciar a su familia que se est\u00e1 muriendo. A medida que el resentimiento reescribe el transcurso de la tarde, los conflictos se desatan alimentados por la duda y la soledad. Mientras, cualquier intento por empatizar se ve saboteado por la incapacidad de las personas para escuchar y amar. \"Solo el fin del mundo' supone la adaptaci\u00f3n cinematogr\u00e1fica de la obra de teatral hom\u00f3nima de Jean-Luc Largarce.",
+        "tags": [
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 48,
+                "name": "Enfermedad terminal",
+                "slug": "enfermedad-terminal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedad-terminal"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 236,
+                "name": "Personaje con incomunicaci\u00f3n",
+                "slug": "personaje-con-incomunicacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-con-incomunicacion"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 963,
+                "name": "Nuevas miradas",
+                "slug": "nuevas-miradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevas-miradas"
+            },
+            {
+                "id": 972,
+                "name": "Recomendadas Arturo Aguilar",
+                "slug": "recomendadas-arturo-aguilar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-arturo-aguilar"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 829,
+                "name": "14\u00b0 FICM",
+                "slug": "140-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-ficm"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "No es m\u00e1s que el fin del mundo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/no-es-mas-que-el-fin-del-mundo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2832,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/delmundo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/delmundo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/delmundo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "toronto-international-film-fest-canada",
+                "name": "Toronto International Film Fest, Canad\u00e1 ",
+                "slug": "toronto-international-film-fest-canada",
+                "year": null
+            },
+            {
+                "category": "Premio Una Cierta Mirada",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 137,
+                "name": "Marruecos",
+                "slug": "marruecos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/marruecos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Maryam Touzani",
+                "gender": "f",
+                "id": 6964,
+                "slug": "maryam-touzani",
+                "url": "https://www.filminlatino.mx/directora/maryam-touzani"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Samia es una joven embarazada en busca empleo y techo. Llega a interrumpir la vida\u00a0de Abla, una madre agobiada por el trabajo, las labores dom\u00e9sticas y su peque\u00f1a hija.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11864,
+        "image_card": "https://static.filminlatino.mx/images/media/11864/1/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11864/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11864/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11864/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11864/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11864/7/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/11864/9/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Adam",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "adam-mujeres-en-casablanca",
+        "synopsis": "Abla tiene una humilde pasteler\u00eda en su propia vivienda de Casablanca, donde vive junto con Warda, su hija de 8 a\u00f1os. Su rutina, dictada por el trabajo y las labores dom\u00e9sticas, se ve un d\u00eda interrumpida cuando alguien llama a su puerta. Se trata de Samia, una joven embarazada que busca empleo y techo.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Adam. Mujeres en Casablanca",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/adam-mujeres-en-casablanca",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13800,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ADAM-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ADAM-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ADAM-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ADAM-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ADAM-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ADAM-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

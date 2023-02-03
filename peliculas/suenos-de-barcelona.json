@@ -1,0 +1,214 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jordi Llompart",
+                "gender": "m",
+                "id": 1328,
+                "slug": "jordi-llompart",
+                "url": "https://www.filminlatino.mx/director/jordi-llompart"
+            }
+        ],
+        "duration_in_minutes": 63,
+        "excerpt": "Documental que cuenta la historia del FC Barcelona a partir del sue\u00f1o y visi\u00f3n de su fundador, Joan Gamper.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2603,
+        "image_card": "https://static.filminlatino.mx/images/media/2603/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2603/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2603/13/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2603/12/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2603/12/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2603/12/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/2603/12/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/2603/13/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Bar\u00e7a Dreams ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1522,
+                "name": "Filmax International",
+                "slug": "filmax-international",
+                "url": "https://www.filminlatino.mx/producer/filmax-international"
+            },
+            {
+                "acronym": "",
+                "id": 1521,
+                "name": "Gem Image Media",
+                "slug": "gem-image-media",
+                "url": "https://www.filminlatino.mx/producer/gem-image-media"
+            },
+            {
+                "acronym": "",
+                "id": 876,
+                "name": "TVE",
+                "slug": "tve",
+                "url": "https://www.filminlatino.mx/producer/tve"
+            },
+            {
+                "acronym": "",
+                "id": 1520,
+                "name": "Entropy Studio",
+                "slug": "entropy-studio",
+                "url": "https://www.filminlatino.mx/producer/entropy-studio"
+            },
+            {
+                "acronym": "TV3",
+                "id": 257,
+                "name": "Televisi\u00f3 de Catalunya",
+                "slug": "televisio-de-catalunya",
+                "url": "https://www.filminlatino.mx/producer/televisio-de-catalunya"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "suenos-de-barcelona",
+        "synopsis": "Ciento quince a\u00f1os de historia del F\u00fatbol Club Barcelona son narrados en este documental. En el\u00a0intervienen los grandes protagonistas del equipo y son contados los hechos y las gestas que le hicieron ganarse el lema: \"M\u00e1s que un club\". Un filme que\u00a0refleja las actitudes y pasiones de quienes han forjado la leyenda del f\u00fatbol espa\u00f1ol, desde los inicios del club pasando por el concepto de \u201cf\u00fatbol total\u201d de Rinus Michels y Johan Cruyff, hasta llegar a la consecuci\u00f3n de la Copa de Europa en el a\u00f1o 2015.",
+        "tags": [
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 131,
+                "name": "F\u00fatbol",
+                "slug": "futbol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/futbol"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 404,
+                "name": "Visiones",
+                "slug": "visiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/visiones"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Sue\u00f1os de Barcelona",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/suenos-de-barcelona",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2896,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/suenos-barca.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/suenos-barca/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/suenos-barca/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

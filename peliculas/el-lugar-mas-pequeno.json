@@ -1,0 +1,385 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Largometraje Documental ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2011
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2011
+            },
+            {
+                "category": "Mejor pel\u00edcula iberoamericana ",
+                "icon": "festival-internacional-de-cine-de-mar-del-plata",
+                "name": "Festival Internacional de Cine de Mar del Plata",
+                "slug": "festival-internacional-de-cine-de-mar-del-plata",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-internacional-de-cine-de-viena-austria",
+                "name": "Festival Internacional de Cine de Viena, Austria",
+                "slug": "festival-internacional-de-cine-de-viena-austria",
+                "year": 2011
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-de-cine-de-jerusalen",
+                "name": "Festival de Cine de Jerusal\u00e9n",
+                "slug": "festival-de-cine-de-jerusalen",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Tatiana Huezo S\u00e1nchez",
+                "gender": "f",
+                "id": 469,
+                "slug": "tatiana-huezo-sanchez",
+                "url": "https://www.filminlatino.mx/directora/tatiana-huezo-sanchez"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Tras la Guerra civil de El Salvador, sus habitantes reconstruyen y levantan su pueblo motivados por honrar la memoria de aquellos que fallecieron.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 289,
+        "image_card": "https://static.filminlatino.mx/images/media/289/8/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/289/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/289/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/289/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/289/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/289/8/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 95,
+        "original_title": "El lugar m\u00e1s peque\u00f1o",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-lugar-mas-pequeno",
+        "synopsis": "Una historia que habla de la capacidad que tiene el ser humano de levantarse, reconstruirse y reinventarse despu\u00e9s de haber vivido algo terrible. A trav\u00e9s de portentosas im\u00e1genes escuchamos el testimonio de personas que han aprendido a vivir con su dolor en un pueblo arrasado que se levant\u00f3 de nuevo gracias a la fuerza y el profundo amor de sus habitantes por su tierra y su gente. Un peque\u00f1o lugar encallado en las monta\u00f1as salvadore\u00f1as vestidas de selva y humedad.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 500,
+                "name": "Dolor",
+                "slug": "dolor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dolor"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1270,
+                "name": "Magallanes",
+                "slug": "magallanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magallanes"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1333065600,
+        "theater_release_date": 1333065600,
+        "theater_spectators_formatted": null,
+        "title": "El lugar m\u00e1s peque\u00f1o",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-lugar-mas-pequeno",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 345,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-lugar-mas-pequeno.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-lugar-mas-pequeno/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-lugar-mas-pequeno/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

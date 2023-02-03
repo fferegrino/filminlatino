@@ -1,0 +1,312 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Daniela Arce",
+                "gender": "m",
+                "id": 2139,
+                "slug": "daniela-arce",
+                "url": "https://www.filminlatino.mx/actor/daniela-arce"
+            },
+            {
+                "full_name": "I\u00f1aki Godoy",
+                "gender": "m",
+                "id": 12988,
+                "slug": "inaki-godoy",
+                "url": "https://www.filminlatino.mx/actor/inaki-godoy"
+            },
+            {
+                "full_name": "Rodrigo Cort\u00e9s",
+                "gender": "m",
+                "id": 12989,
+                "slug": "rodrigo-cortes",
+                "url": "https://www.filminlatino.mx/actor/rodrigo-cortes"
+            },
+            {
+                "full_name": "Mario Palmerin",
+                "gender": "m",
+                "id": 12990,
+                "slug": "mario-palmerin",
+                "url": "https://www.filminlatino.mx/actor/mario-palmerin"
+            }
+        ],
+        "avg_votes": 4.5,
+        "avg_votes_formatted": "4,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos  Armella",
+                "gender": "m",
+                "id": 3151,
+                "slug": "carlos-armella",
+                "url": "https://www.filminlatino.mx/director/carlos-armella"
+            }
+        ],
+        "duration_in_minutes": 108,
+        "excerpt": "Martin, Dulce, Daniel y Pedro 4 adolescentes con sue\u00f1os pasiones y deseos en la Ciudad de M\u00e9xico que enfrentan el absurdo y el dolor de ser joven en el mundo moderno.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11936,
+        "image_card": "https://static.filminlatino.mx/images/media/11936/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11936/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11936/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11936/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11936/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11936/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11936/9/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "\u00a1\u00c1nimo juventud!",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "animo-juventud",
+        "synopsis": "4 adolescentes en la Ciudad de M\u00e9xico que enfrentan lo absurdo de ser joven en el mundo moderno: Mart\u00edn se mete en problemas por declarar su amor; Daniel, debe empezar a ser adulto, pero por error se enreda con la ley; Dulce, una bravucona que desea ser querida por los dem\u00e1s y Pedro, un chico que deja de hablar como ni\u00f1o normal. Todos ellos tienen un irritante obst\u00e1culo en com\u00fan: los adultos",
+        "tags": [
+            {
+                "id": 821,
+                "name": "Comedia cl\u00e1sica",
+                "slug": "comedia-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-clasica"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 50,
+                "name": "Humor",
+                "slug": "humor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor"
+            },
+            {
+                "id": 1422,
+                "name": "Humor mexicano ",
+                "slug": "humor-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor-mexicano"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00a1\u00c1nimo juventud!",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/animo-juventud",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13799,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ANIMO-JUVENTUD-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ANIMO-JUVENTUD-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ANIMO-JUVENTUD-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ANIMO-JUVENTUD-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ANIMO-JUVENTUD-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ANIMO-JUVENTUD-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

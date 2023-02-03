@@ -1,0 +1,430 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Magnus Mariuson",
+                "gender": "m",
+                "id": 7870,
+                "slug": "magnus-mariuson",
+                "url": "https://www.filminlatino.mx/actor/magnus-mariuson"
+            },
+            {
+                "full_name": "Floriane Daniel",
+                "gender": "f",
+                "id": 12060,
+                "slug": "floriane-daniel",
+                "url": "https://www.filminlatino.mx/actriz/floriane-daniel"
+            },
+            {
+                "full_name": "Matthias Brenner",
+                "gender": "m",
+                "id": 12061,
+                "slug": "matthias-brenner",
+                "url": "https://www.filminlatino.mx/actor/matthias-brenner"
+            },
+            {
+                "full_name": "Eszter  Tompa",
+                "gender": "f",
+                "id": 12062,
+                "slug": "eszter-tompa",
+                "url": "https://www.filminlatino.mx/actriz/eszter-tompa"
+            },
+            {
+                "full_name": "Julia Kratz",
+                "gender": "f",
+                "id": 12063,
+                "slug": "julia-kratz",
+                "url": "https://www.filminlatino.mx/actriz/julia-kratz"
+            },
+            {
+                "full_name": "Liina  Magnea",
+                "gender": "f",
+                "id": 12070,
+                "slug": "liina-magnea",
+                "url": "https://www.filminlatino.mx/actriz/liina-magnea"
+            },
+            {
+                "full_name": "Gabo Hoog",
+                "gender": "m",
+                "id": 12071,
+                "slug": "gabo-hoog",
+                "url": "https://www.filminlatino.mx/actor/gabo-hoog"
+            },
+            {
+                "full_name": "Hans Br\u00fbckner",
+                "gender": "m",
+                "id": 12072,
+                "slug": "hans-bruckner",
+                "url": "https://www.filminlatino.mx/actor/hans-bruckner"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine de Kitzb\u00fchel, Austria",
+                "slug": "festival-de-cine-de-kitzbuhel-austria",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 109,
+                "name": "Islandia",
+                "slug": "islandia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/islandia"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Maria Solrun",
+                "gender": "f",
+                "id": 6409,
+                "slug": "maria-solrun",
+                "url": "https://www.filminlatino.mx/directora/maria-solrun"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "Adam, es un joven\u00a0sordo que debe decidir si romper la promesa a su madre de jam\u00e1s dejarla en una instituci\u00f3n o ayudarla a morir despu\u00e9s del diagnostico de da\u00f1o cerebral.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10992,
+        "image_card": "https://static.filminlatino.mx/images/media/10992/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10992/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10992/10/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/12/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/14/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/10992/16/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/10992/18/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/10992/20/still_9_3.png",
+            "https://static.filminlatino.mx/images/media/10992/22/still_10_3.png",
+            "https://static.filminlatino.mx/images/media/10992/24/still_11_3.png",
+            "https://static.filminlatino.mx/images/media/10992/26/still_12_3.png",
+            "https://static.filminlatino.mx/images/media/10992/28/still_13_3.png",
+            "https://static.filminlatino.mx/images/media/10992/30/still_14_3.png",
+            "https://static.filminlatino.mx/images/media/10992/32/still_15_3.png",
+            "https://static.filminlatino.mx/images/media/10992/34/still_16_3.png",
+            "https://static.filminlatino.mx/images/media/10992/36/still_17_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Adam",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "adam",
+        "synopsis": "Despu\u00e9s de a\u00f1os de hospitalizaci\u00f3n por alcoholismo, una cantante pop obliga a su hijo a jurarle que jam\u00e1s permitir\u00e1 que pase su vida recluida en una instituci\u00f3n. Cuando los doctores la diagnostican con da\u00f1o cerebral permanente, Adam, de 20 a\u00f1os, sordo y completamente solo, debe decidir si romper su promesa a su madre o ayudarla a morir.<br>Este conmovedor filme particip\u00f3 en el Festival Internacional de Cine de Berl\u00edn Alemania, 2018\u00a0 y en el Festival de Cine de Kitzb\u00fchel, Austria en el mismo a\u00f1o.\u00a0",
+        "tags": [
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 48,
+                "name": "Enfermedad terminal",
+                "slug": "enfermedad-terminal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedad-terminal"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 412,
+                "name": "Festivales",
+                "slug": "festivales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festivales"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 49,
+                "name": "Discapacidades",
+                "slug": "discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/discapacidades"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Adam",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/adam",
+        "versions": [
+            {
+                "codes": [],
+                "id": 12812,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ADAMTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ADAMTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ADAMTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

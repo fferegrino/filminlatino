@@ -1,0 +1,269 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominado a mejor cortometraje documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Christiane Burkhard",
+                "gender": "f",
+                "id": 205,
+                "slug": "christiane-burkhard",
+                "url": "https://www.filminlatino.mx/directora/christiane-burkhard"
+            }
+        ],
+        "duration_in_minutes": 51,
+        "excerpt": "Con una nominaci\u00f3n al Ariel en la categor\u00eda de Mejor Cortometraje Documental, la directora Christiane Burkhard retrata un viaje a trav\u00e9s de los recuerdos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3339,
+        "image_card": "https://static.filminlatino.mx/images/media/3339/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3339/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3339/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3339/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3339/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3339/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3339/9/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Vuela, angelito",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "vuela-angelito",
+        "synopsis": "Con una nominaci\u00f3n al premio Ariel en la categor\u00eda de Mejor Cortometraje Documental, la directora Christiane Burkhard retrata un viaje a trav\u00e9s de los recuerdos. Dos hermanas deciden regresar a su pa\u00eds natal, Alemania, en busca de recuperar la memoria y el legado de sus padres fallecidos veinte a\u00f1os atr\u00e1s en un accidente a\u00e9reo. Las visitas a los lugares de la infancia y las conversaciones con los miembros de su familia constituir\u00e1n un hallazgo profundo de su propia identidad.<br>",
+        "tags": [
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 438,
+                "name": "Viaje en el tiempo",
+                "slug": "viaje-en-el-tiempo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-en-el-tiempo"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 812,
+                "name": "Especial Shorts Mx",
+                "slug": "especial-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-shorts-mx"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1478,
+                "name": "Mujeres del CCC",
+                "slug": "mujeres-del-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-ccc"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Vuela, angelito",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vuela-angelito",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2683,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2001
+    }
+}

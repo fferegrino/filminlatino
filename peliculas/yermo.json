@@ -1,0 +1,317 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine en Guadalajara",
+                "slug": "festival-internacional-de-cine-en-guadalajara",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Everardo Gonz\u00e1lez",
+                "gender": "m",
+                "id": 128,
+                "slug": "everardo-gonzalez",
+                "url": "https://www.filminlatino.mx/director/everardo-gonzalez"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "\"Yermo\" explora la vida desconocida en diez desiertos alrededor del mundo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7095,
+        "image_card": "https://static.filminlatino.mx/images/media/7095/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/7095/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7095/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7095/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7095/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 15,
+        "original_title": "Yermo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3234,
+                "name": "Everardo Gonz\u00e1lez Reyes",
+                "slug": "everardo-gonzalez-reyes",
+                "url": "https://www.filminlatino.mx/producer/everardo-gonzalez-reyes"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "yermo",
+        "synopsis": "\u2018Yermo\u2019 explora la vida desconocida en diez desiertos alrededor del mundo. Este es un documental construido desde la impericia, desde la incomprensi\u00f3n, desde la sorpresa y el asombro mutuo; es una pel\u00edcula que reflexiona en torno a la idea de comunidad, a la relaci\u00f3n del ser humano\u00a0y su entorno en el que la naturaleza, bestias y otros seres humanos dependen de cada uno para seguir habitando un mundo que se supone yermo.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1839,
+                "name": "Gran Premio Zanate | Festival Zanate",
+                "slug": "gran-premio-zanate-festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gran-premio-zanate-festival-zanate"
+            },
+            {
+                "id": 1837,
+                "name": "Festival Zanate",
+                "slug": "festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-zanate"
+            },
+            {
+                "id": 1845,
+                "name": "Selecci\u00f3n Rodando | Rodando Film Fest 2020",
+                "slug": "seleccion-rodando-rodando-film-fest-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-rodando-rodando-film-fest-2020"
+            },
+            {
+                "id": 1859,
+                "name": "FICG 35",
+                "slug": "ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficg-35"
+            },
+            {
+                "id": 1862,
+                "name": "FICG Virtual | FICG 35",
+                "slug": "ficg-virtual-ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficg-virtual-ficg-35"
+            },
+            {
+                "id": 2219,
+                "name": "Nominados al Ariel 63",
+                "slug": "nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominados-al-ariel-63"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 319,
+                "name": "Desierto",
+                "slug": "desierto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desierto"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 2668,
+                "name": "D\u00eda Nacional del Cine Mexicano 2022",
+                "slug": "dia-nacional-del-cine-mexicano-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-nacional-del-cine-mexicano-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Yermo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/yermo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 7381,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/YERMO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/YERMO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/YERMO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rafael S\u00e1nchez Navarro",
+                "gender": "m",
+                "id": 999,
+                "slug": "rafael-sanchez-navarro",
+                "url": "https://www.filminlatino.mx/actor/rafael-sanchez-navarro"
+            },
+            {
+                "full_name": "Cecilia Toussaint",
+                "gender": "f",
+                "id": 1246,
+                "slug": "cecilia-toussaint",
+                "url": "https://www.filminlatino.mx/actriz/cecilia-toussaint"
+            },
+            {
+                "full_name": "Miguel C\u00f3rcega",
+                "gender": "m",
+                "id": 1247,
+                "slug": "miguel-corcega",
+                "url": "https://www.filminlatino.mx/actor/miguel-corcega"
+            },
+            {
+                "full_name": "Regina Orozco",
+                "gender": "f",
+                "id": 300,
+                "slug": "regina-orozco",
+                "url": "https://www.filminlatino.mx/actriz/regina-orozco"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Segundo lugar en la categor\u00eda Tema Libre\t",
+                "icon": "concurso-del-fondo-de-estimulos-al-cine-mexicano-fecimex-mexico",
+                "name": "Concurso del Fondo de Est\u00edmulos al Cine Mexicano FECIMEX, M\u00e9xico",
+                "slug": "concurso-del-fondo-de-estimulos-al-cine-mexicano-fecimex-mexico",
+                "year": 1993
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eva L\u00f3pez S\u00e1nchez",
+                "gender": "f",
+                "id": 468,
+                "slug": "eva-lopez-sanchez",
+                "url": "https://www.filminlatino.mx/directora/eva-lopez-sanchez"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "Una historia que revive en sus personajes viejas pasiones cuando el azar los conduce a un callej\u00f3n sin salida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 29,
+        "image_card": "https://static.filminlatino.mx/images/media/29/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/29/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/29/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/29/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/29/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "Dama de noche",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 181,
+                "name": "ECHASA",
+                "slug": "echasa",
+                "url": "https://www.filminlatino.mx/producer/echasa"
+            },
+            {
+                "acronym": "",
+                "id": 552,
+                "name": "Femis",
+                "slug": "femis",
+                "url": "https://www.filminlatino.mx/producer/femis"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "dama-de-noche",
+        "synopsis": "En la noche m\u00e1s dif\u00edcil de su vida, Sof\u00eda llama por tel\u00e9fono a Bruno, la \u00fanica persona que podr\u00eda ayudarla en este mundo. \u00c9l es un escritor sin suerte que fue, alguna vez, su mejor amor y su m\u00e1s fiel amigo. Entre la espada y la pared, ella le pide que vaya cuanto antes a Veracruz. Como un h\u00e9roe de las novelas de aventura, Bruno abandona la Ciudad de M\u00e9xico y parte de inmediato al rescate de Sof\u00eda. Lo anima una ilusi\u00f3n bien particular: ser el protagonista de sus propias fantas\u00edas.",
+        "tags": [
+            {
+                "id": 769,
+                "name": "Rodrigo Prieto",
+                "slug": "rodrigo-prieto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodrigo-prieto"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 196,
+                "name": "Crimen de odio",
+                "slug": "crimen-de-odio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-de-odio"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1168,
+                "name": "1993",
+                "slug": "1993",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1993"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1478,
+                "name": "Mujeres del CCC",
+                "slug": "mujeres-del-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-ccc"
+            },
+            {
+                "id": 1697,
+                "name": "Vindictas cine",
+                "slug": "vindictas-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vindictas-cine"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 732412800,
+        "theater_release_date": 732412800,
+        "theater_spectators_formatted": null,
+        "title": "Dama de noche",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dama-de-noche",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 471,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/dama-de-noche.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/dama-de-noche/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/dama-de-noche/master.m3u8"
+                }
+            ]
+        },
+        "year": 1993
+    }
+}

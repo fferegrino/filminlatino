@@ -1,0 +1,242 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Ernesto Piedras",
+                "gender": "m",
+                "id": 2265,
+                "slug": "ernesto-piedras",
+                "url": "https://www.filminlatino.mx/character/ernesto-piedras"
+            },
+            {
+                "full_name": "Virginia Rico",
+                "gender": "f",
+                "id": 2266,
+                "slug": "virginia-rico",
+                "url": "https://www.filminlatino.mx/character/virginia-rico"
+            },
+            {
+                "full_name": "Ra\u00fal Figueroa",
+                "gender": "m",
+                "id": 2268,
+                "slug": "raul-figueroa",
+                "url": "https://www.filminlatino.mx/character/raul-figueroa"
+            },
+            {
+                "full_name": "Rosario Lara",
+                "gender": "m",
+                "id": 2270,
+                "slug": "rosario-lara",
+                "url": "https://www.filminlatino.mx/character/rosario-lara"
+            },
+            {
+                "full_name": "Fernanda Rio",
+                "gender": "f",
+                "id": 2272,
+                "slug": "fernanda-rio",
+                "url": "https://www.filminlatino.mx/character/fernanda-rio"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emmanuel Caballero Mart\u00ednez",
+                "gender": "m",
+                "id": 5834,
+                "slug": "emmanuel-caballero-martinez",
+                "url": "https://www.filminlatino.mx/director/emmanuel-caballero-martinez"
+            }
+        ],
+        "duration_in_minutes": 57,
+        "excerpt": "La presentaci\u00f3n especial sobre una de las herramientas m\u00e1s importantes para la observaci\u00f3n, an\u00e1lisis y revaloraci\u00f3n de la cinematograf\u00eda nacional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9819,
+        "image_card": "https://static.filminlatino.mx/images/media/9819/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/9819/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9819/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/9819/1/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Presentaci\u00f3n del Anuario estad\u00edstico de cine mexicano 2020",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "presentacion-del-anuario-estadistico-de-cine-mexicano-2020",
+        "synopsis": "En esta producci\u00f3n de Canal 22 se presenta el Anuario estad\u00edstico de cine mexicano 2020, el cual ofrece los datos de un a\u00f1o aciago pero tambi\u00e9n de resiliencia: los obst\u00e1culos pero tambi\u00e9n las oportunidades y los grandes retos de una industria cinematogr\u00e1fica que busca renovarse y salir m\u00e1s fuerte del episodio pand\u00e9mico que hemos vivido en el pa\u00eds y el mundo.Julio L\u00f3pez conduce la presentaci\u00f3n que tiene como invitados al economista especializado en industrias culturales, Ernesto Piedras; la historiadora de cine mexicano y gestora cultural Virginia Rico; el director de Cuentas Sat\u00e9lite en la Direcci\u00f3n General de Estad\u00edsticas Econ\u00f3micas del Instituto Nacional de Estad\u00edstica y Geograf\u00eda (INEGI), Ra\u00fal Figueroa; el profesor e investigador de la Universidad Aut\u00f3noma Metropolitana Eduardo Niv\u00f3n; la coordinadora del Anuario estad\u00edstico de cine mexicano en Imcine, Rosario Lara; la directora de promoci\u00f3n del cine mexicano en Imcine, Fernanda Rio; y la directora general del Imcine, Mar\u00eda Novaro Pe\u00f1aloza.<br>",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 17,
+                "name": "Cine educativo",
+                "slug": "cine-educativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-educativo"
+            },
+            {
+                "id": 1306,
+                "name": "Conocimientos",
+                "slug": "conocimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conocimientos"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 315,
+                "name": "Televisi\u00f3n",
+                "slug": "television",
+                "url": "https://www.filminlatino.mx/catalogo/tema/television"
+            },
+            {
+                "id": 2182,
+                "name": "Aprendizaje",
+                "slug": "aprendizaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aprendizaje"
+            },
+            {
+                "id": 632,
+                "name": "Personajes del cine mexicano",
+                "slug": "personajes-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-del-cine-mexicano"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Presentaci\u00f3n del Anuario estad\u00edstico de cine mexicano 2020",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/presentacion-del-anuario-estadistico-de-cine-mexicano-2020",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11560,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2020
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            },
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Jorge Balzaretti",
+                "gender": "m",
+                "id": 497,
+                "slug": "jorge-balzaretti",
+                "url": "https://www.filminlatino.mx/actor/jorge-balzaretti"
+            },
+            {
+                "full_name": "Marcela Camacho",
+                "gender": "f",
+                "id": 498,
+                "slug": "marcela-camacho",
+                "url": "https://www.filminlatino.mx/actriz/marcela-camacho"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1983
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1983
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jaime Humberto Hermosillo",
+                "gender": "m",
+                "id": 73,
+                "slug": "jaime-humberto-hermosillo",
+                "url": "https://www.filminlatino.mx/director/jaime-humberto-hermosillo"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Un viaje a un submundo alucinante, poblado por seres cuyas mutilaciones, impedimentos o diferencias f\u00edsicas, los han convertido en rechazados de la sociedad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 173,
+        "image_card": "https://static.filminlatino.mx/images/media/173/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/173/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/173/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/173/11/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 84,
+        "original_title": "El coraz\u00f3n de la noche",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-corazon-de-la-noche",
+        "synopsis": "Un t\u00edmido instructor de manejo se enamora perdidamente de una joven, quien es sordomuda y se encarga de cuidar a un hombre ciego. Para poder acercarse a ella, finge necesitar los servicios de masaje terap\u00e9utico que la chica brinda. Con el tiempo, el protagonista descubre que el hombre ciego es l\u00edder de un grupo secreto de personas discapacitadas que pretenden enfrentarse a los \u201cnormales\u201d. El instructor y la joven entablan un romance que provoca el enojo del ciego, quien muere en un accidente por lo que los miembros del consejo de discapacitados comienzan a perseguir a la pareja. La \u00fanica manera de que \u00e9l obtenga el perd\u00f3n es sacrificar su estado f\u00edsico para ser parte de un mundo donde las mutilaciones y diferencias f\u00edsicas de estos seres han causado la desintegraci\u00f3n y el rechazo social.",
+        "tags": [
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 328,
+                "name": "Ciegos",
+                "slug": "ciegos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciegos"
+            },
+            {
+                "id": 508,
+                "name": "HermosilloMX",
+                "slug": "hermosillomx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermosillomx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 326,
+                "name": "Autodestrucci\u00f3n",
+                "slug": "autodestruccion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autodestruccion"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 327,
+                "name": "Distop\u00eda",
+                "slug": "distopia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/distopia"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1200,
+                "name": "Guadalajara",
+                "slug": "guadalajara",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guadalajara"
+            },
+            {
+                "id": 1206,
+                "name": "1984",
+                "slug": "1984",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1984"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1692,
+                "name": "Jaime Humberto Hermosillo en Tamat\u00e1n | Festival de Cine Mexicano Tamat\u00e1n",
+                "slug": "jaime-humberto-hermosillo-en-tamatan-festival-de-cine-mexicano-tamatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-humberto-hermosillo-en-tamatan-festival-de-cine-mexicano-tamatan"
+            },
+            {
+                "id": 2035,
+                "name": "Recordando a Jaime Humberto Hermosillo",
+                "slug": "recordando-a-jaime-humberto-hermosillo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recordando-a-jaime-humberto-hermosillo"
+            },
+            {
+                "id": 1859,
+                "name": "FICG 35",
+                "slug": "ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficg-35"
+            },
+            {
+                "id": 1863,
+                "name": "Jaime Humberto Hermosillo | FICG 35",
+                "slug": "jaime-humberto-hermosillo-ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-humberto-hermosillo-ficg-35"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 448156800,
+        "theater_release_date": 448156800,
+        "theater_spectators_formatted": null,
+        "title": "El coraz\u00f3n de la noche",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-corazon-de-la-noche",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 149,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-corazon-de-la-noche.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-corazon-de-la-noche/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-corazon-de-la-noche/master.m3u8"
+                }
+            ]
+        },
+        "year": 1983
+    }
+}

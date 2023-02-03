@@ -1,0 +1,327 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Vincent Lindon",
+                "gender": "m",
+                "id": 1180,
+                "slug": "vincent-lindon",
+                "url": "https://www.filminlatino.mx/actor/vincent-lindon"
+            },
+            {
+                "full_name": "Chiara Mastroianni",
+                "gender": "f",
+                "id": 1181,
+                "slug": "chiara-mastroianni",
+                "url": "https://www.filminlatino.mx/actriz/chiara-mastroianni"
+            },
+            {
+                "full_name": "Lola Cr\u00e9ton",
+                "gender": "f",
+                "id": 1182,
+                "slug": "lola-creton",
+                "url": "https://www.filminlatino.mx/actriz/lola-creton"
+            },
+            {
+                "full_name": "Michel Subor",
+                "gender": "m",
+                "id": 1183,
+                "slug": "michel-subor",
+                "url": "https://www.filminlatino.mx/actor/michel-subor"
+            },
+            {
+                "full_name": "Julie  Bataille",
+                "gender": "f",
+                "id": 5848,
+                "slug": "julie-bataille",
+                "url": "https://www.filminlatino.mx/actriz/julie-bataille"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "WFCC Award",
+                "icon": "",
+                "name": "Women Film Critics Circle Awards",
+                "slug": "women-film-critics-circle-awards",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a Un Certain Regard Award",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "village-voice-film-poll",
+                "name": "Village Voice Film Poll",
+                "slug": "village-voice-film-poll",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n ICP Award",
+                "icon": "indiewire-critics-poll",
+                "name": "Indiewire Critics' Poll",
+                "slug": "indiewire-critics-poll",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Claire Denis",
+                "gender": "f",
+                "id": 448,
+                "slug": "claire-denis",
+                "url": "https://www.filminlatino.mx/directora/claire-denis"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Marco Silvestri regresa a Par\u00eds a ayudar a su hermana con sus problemas, pero la situaci\u00f3n se complicar\u00e1 cuando un hombre de negocios se ve involucrado en sus vidas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 483,
+        "image_card": "https://static.filminlatino.mx/images/media/483/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/483/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/483/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/483/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/483/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Les salauds",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2055,
+                "name": "ALCATRAZ FILMS WILD BUNCH",
+                "slug": "alcatraz-films-wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/alcatraz-films-wild-bunch"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-canallas",
+        "synopsis": "Marco Silvestri, capit\u00e1n de un barco petrolero, es llamado de urgencia a Par\u00eds. Su hermana Sandra est\u00e1 desesperada: su marido acaba de suicidarse y el negocio de familia est\u00e1 en quiebra. Sandra piensa que el poderoso hombre de negocios Edouard Laporte es el responsable de sus desgracias. Marco se muda al edificio en el cual Laporte le ha dado un departamento a su amante y su hijo. \u00c9l no sabe lo que le espera y los secretos de Sandra complican a\u00fan m\u00e1s la situaci\u00f3n.",
+        "tags": [
+            {
+                "id": 107,
+                "name": "Suicidio",
+                "slug": "suicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suicidio"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 456,
+                "name": "Relaciones de poder",
+                "slug": "relaciones-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-de-poder"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1431302400,
+        "theater_release_date": 1431302400,
+        "theater_spectators_formatted": null,
+        "title": "Los canallas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-canallas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4367,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CANALLAS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CANALLAS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CANALLAS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

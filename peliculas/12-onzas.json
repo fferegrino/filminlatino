@@ -1,0 +1,302 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Fernando Mart\u00ednez",
+                "gender": "m",
+                "id": 354,
+                "slug": "fernando-martinez",
+                "url": "https://www.filminlatino.mx/actor/fernando-martinez"
+            },
+            {
+                "full_name": "Humberto Trevi\u00f1o",
+                "gender": "m",
+                "id": 355,
+                "slug": "humberto-trevino",
+                "url": "https://www.filminlatino.mx/actor/humberto-trevino"
+            },
+            {
+                "full_name": "Arturo Garc\u00eda",
+                "gender": "m",
+                "id": 356,
+                "slug": "arturo-garcia",
+                "url": "https://www.filminlatino.mx/actor/arturo-garcia"
+            },
+            {
+                "full_name": "Diego Hern\u00e1ndez",
+                "gender": "m",
+                "id": 357,
+                "slug": "diego-hernandez",
+                "url": "https://www.filminlatino.mx/actor/diego-hernandez"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Distrital",
+                "slug": "distrital",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Segundo lugar",
+                "icon": "abiertos-documental-en-espanol-del-festival-binacional-de-cine-independiente-texas",
+                "name": "Abiertos Documental en Espa\u00f1ol del Festival Binacional de Cine Independiente Texas",
+                "slug": "abiertos-documental-en-espanol-del-festival-binacional-de-cine-independiente-texas",
+                "year": 2010
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Patricio Serna",
+                "gender": "m",
+                "id": 130,
+                "slug": "patricio-serna",
+                "url": "https://www.filminlatino.mx/director/patricio-serna"
+            }
+        ],
+        "duration_in_minutes": 54,
+        "excerpt": "El boxeo es violento, ni los m\u00e1s apasionados defensores del deporte pueden eludir esta verdad absoluta. Este documental reflexiona sobre la violencia domesticada frente a la salvaje.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 132,
+        "image_card": "https://static.filminlatino.mx/images/media/132/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/132/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/132/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/132/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/132/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/132/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/132/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/132/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "12 onzas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 71,
+                "name": "CONARTE",
+                "slug": "conarte",
+                "url": "https://www.filminlatino.mx/producer/conarte"
+            },
+            {
+                "acronym": "",
+                "id": 72,
+                "name": "Pakidermo Films",
+                "slug": "pakidermo-films",
+                "url": "https://www.filminlatino.mx/producer/pakidermo-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "12-onzas",
+        "synopsis": "Para llegar arriba, hay que recibir muchos golpes, ya que s\u00f3lo uno de cada tres mil boxeadores lo consigue. Diego, Tony y Brandon desean convertirse en campeones de alguno de los torneos de boxeo amateur en la ciudad de Monterrey (M\u00e9xico), mientras buscan la manera de salir adelante en la vida diaria frente a la problem\u00e1tica de la ciudad.\u00a012 Onzas muestra al box y su violencia domesticada como una ruta compleja pero limpia de escapar de la marginaci\u00f3n y lograr sobresalir de entre las oscuras circunstancias sociales de nuestra naci\u00f3n. No s\u00f3lo un entretenimiento o un hobby, sino una forma de vivir y sobrevivir.",
+        "tags": [
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 158,
+                "name": "Boxeo",
+                "slug": "boxeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeo"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 951,
+                "name": "Boxeadores",
+                "slug": "boxeadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeadores"
+            },
+            {
+                "id": 1046,
+                "name": "En el ring",
+                "slug": "en-el-ring",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-ring"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1198,
+                "name": "Nuevo Le\u00f3n",
+                "slug": "nuevo-leon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-leon"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1287273600,
+        "theater_release_date": 1287273600,
+        "theater_spectators_formatted": null,
+        "title": "12 onzas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/12-onzas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 58,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

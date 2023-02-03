@@ -1,0 +1,293 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            },
+            {
+                "full_name": "Ignacio Guadalupe",
+                "gender": "m",
+                "id": 742,
+                "slug": "ignacio-guadalupe",
+                "url": "https://www.filminlatino.mx/actor/ignacio-guadalupe"
+            },
+            {
+                "full_name": "Gabriela Olivo del Alba",
+                "gender": "f",
+                "id": 743,
+                "slug": "gabriela-olivo-del-alba",
+                "url": "https://www.filminlatino.mx/actriz/gabriela-olivo-del-alba"
+            },
+            {
+                "full_name": "Francisco Javier G\u00f3mez",
+                "gender": "m",
+                "id": 744,
+                "slug": "francisco-javier-gomez",
+                "url": "https://www.filminlatino.mx/actor/francisco-javier-gomez"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1984
+            },
+            {
+                "category": "Mejor Argumento Original escrito para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1984
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1984
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Antonio de la Riva",
+                "gender": "m",
+                "id": 106,
+                "slug": "juan-antonio-de-la-riva",
+                "url": "https://www.filminlatino.mx/director/juan-antonio-de-la-riva"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Dos proyeccionistas ambulantes recorren los poblados de la sierra exhibiendo cine con el fin de ahorrar y poder construir su propia sala.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 267,
+        "image_card": "https://static.filminlatino.mx/images/media/267/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/267/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/267/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/267/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/267/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/267/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/267/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 26,
+        "original_title": "Vidas errantes",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "",
+                "id": 208,
+                "name": "Juan Antonio de la Riva y Asociados",
+                "slug": "juan-antonio-de-la-riva-y-asociados",
+                "url": "https://www.filminlatino.mx/producer/juan-antonio-de-la-riva-y-asociados"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "vidas-errantes",
+        "synopsis": "Francisco y su joven ayudante Guillermo se dedican a un trabajo poco com\u00fan: recorrer los poblados de la sierra exhibiendo cine con el fin de ahorrar y poder construir su propia sala. Vidas errantes resulta un viaje a trav\u00e9s del M\u00e9xico profundo cuyo pretexto son las andanzas de dos personajes que proyectan viejas pel\u00edculas en un cine ambulante. A partir de este esquema -que recuerda vagamente al Wim Wenders de \"En el curso del tiempo\" - se pretende esbozar un retrato sociol\u00f3gico y realizar un homenaje al cine cl\u00e1sico mexicano. No te puedes perder la secuela: \"Pueblo de madera\", que tambi\u00e9n encontrar\u00e1s en FilminLatino.",
+        "tags": [
+            {
+                "id": 743,
+                "name": "Aventuras_MX",
+                "slug": "aventuras-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras-mx"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 678,
+                "name": "Digitalizadas",
+                "slug": "digitalizadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/digitalizadas"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 875,
+                "name": "Restauradas",
+                "slug": "restauradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/restauradas"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 986,
+                "name": "Recomendadas de Ernesto Diezmartinez",
+                "slug": "recomendadas-de-ernesto-diezmartinez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ernesto-diezmartinez"
+            },
+            {
+                "id": 1063,
+                "name": "Estab/IM100",
+                "slug": "estabim100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estabim100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1185,
+                "name": "1985",
+                "slug": "1985",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1985"
+            },
+            {
+                "id": 1229,
+                "name": "Durango",
+                "slug": "durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/durango"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 495936000,
+        "theater_release_date": 495936000,
+        "theater_spectators_formatted": null,
+        "title": "Vidas errantes",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vidas-errantes",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 470,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1984
+    }
+}

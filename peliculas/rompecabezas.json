@@ -1,0 +1,316 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Onetto",
+                "gender": "f",
+                "id": 4024,
+                "slug": "maria-onetto",
+                "url": "https://www.filminlatino.mx/actriz/maria-onetto"
+            },
+            {
+                "full_name": "Gabriel Goity",
+                "gender": "m",
+                "id": 4023,
+                "slug": "gabriel-goity",
+                "url": "https://www.filminlatino.mx/actor/gabriel-goity"
+            },
+            {
+                "full_name": "Arturo Goetz",
+                "gender": "m",
+                "id": 4025,
+                "slug": "arturo-goetz",
+                "url": "https://www.filminlatino.mx/actor/arturo-goetz"
+            },
+            {
+                "full_name": "Henny Trayles",
+                "gender": "f",
+                "id": 4026,
+                "slug": "henny-trayles",
+                "url": "https://www.filminlatino.mx/actriz/henny-trayles"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial largometrajes a concurso",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Natalia Smirnoff",
+                "gender": "f",
+                "id": 1389,
+                "slug": "natalia-smirnoff",
+                "url": "https://www.filminlatino.mx/directora/natalia-smirnoff"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Una ama de casa descubre que tiene un don para la resoluci\u00f3n de rompecabezas, gracias a esto su vida cambiar\u00e1.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2670,
+        "image_card": "https://static.filminlatino.mx/images/media/2670/6/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2670/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2670/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2670/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2670/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 25,
+        "original_title": "Puzzle",
+        "producers": [
+            {
+                "acronym": "INCAA",
+                "id": 477,
+                "name": "Instituto Nacional de Cine y Artes Audiovisuales",
+                "slug": "instituto-nacional-de-cine-y-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-nacional-de-cine-y-artes-audiovisuales"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "rompecabezas",
+        "synopsis": "Mar\u00eda del Carmen, un ama de casa de 50 a\u00f1os que vive en Turdera, un suburbio bonaerense, descubre que tiene un don: armar rompecabezas. Ya metida de lleno en esta actividad, conoce a Roberto, un millonario de 60 a\u00f1os que aspira a participar en el torneo mundial de rompecabezas de Alemania. Juntos logran formar una pareja imbatible en este juego.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 657,
+                "name": "Sentimientos",
+                "slug": "sentimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sentimientos"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 357,
+                "name": "Matrimonio",
+                "slug": "matrimonio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/matrimonio"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 292,
+                "name": "Obsesiones",
+                "slug": "obsesiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/obsesiones"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Rompecabezas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/rompecabezas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2126,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/rompecabezas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/rompecabezas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/rompecabezas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

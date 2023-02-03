@@ -1,0 +1,293 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Blanca Guerra",
+                "gender": "f",
+                "id": 484,
+                "slug": "blanca-guerra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-guerra"
+            },
+            {
+                "full_name": "Jos\u00e9 Alonso",
+                "gender": "m",
+                "id": 263,
+                "slug": "jose-alonso",
+                "url": "https://www.filminlatino.mx/actor/jose-alonso"
+            },
+            {
+                "full_name": "Roc\u00edo Verdejo",
+                "gender": "f",
+                "id": 610,
+                "slug": "rocio-verdejo",
+                "url": "https://www.filminlatino.mx/actriz/rocio-verdejo"
+            },
+            {
+                "full_name": "Alfredo Sevilla",
+                "gender": "m",
+                "id": 134,
+                "slug": "alfredo-sevilla",
+                "url": "https://www.filminlatino.mx/actor/alfredo-sevilla"
+            }
+        ],
+        "avg_votes": 5.9,
+        "avg_votes_formatted": "5,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Le\u00f3n Serment",
+                "gender": "m",
+                "id": 536,
+                "slug": "leon-serment",
+                "url": "https://www.filminlatino.mx/director/leon-serment"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "El que da y quita con el karma se desquita...",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 832,
+        "image_card": "https://static.filminlatino.mx/images/media/832/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/832/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/832/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/832/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/832/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Kada Kien su Karma",
+        "producers": [
+            {
+                "acronym": "FIDECINE",
+                "id": 29,
+                "name": "FIDECINE",
+                "slug": "fidecine",
+                "url": "https://www.filminlatino.mx/producer/fidecine"
+            },
+            {
+                "acronym": "",
+                "id": 593,
+                "name": "Taller de la Luz",
+                "slug": "taller-de-la-luz",
+                "url": "https://www.filminlatino.mx/producer/taller-de-la-luz"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "kada-kien-su-karma",
+        "synopsis": "Toda mujer abandonada por su marido sue\u00f1a con alguna vez poder vengarse de \u00e9l. A Eva se le presenta la oportunidad despu\u00e9s de un a\u00f1o de su separaci\u00f3n con su ex-esposo, Joaqu\u00edn, quien se fue en busca de una mujer m\u00e1s joven. \u00c9l regresa a casa debido a que est\u00e1 temporalmente inv\u00e1lido y ella tendr\u00e1 que cuidarlo durante su estancia.",
+        "tags": [
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 608,
+                "name": "Comedia Rom\u00e1ntica MX",
+                "slug": "comedia-romantica-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica-mx"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1215,
+                "name": "2008",
+                "slug": "2008",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2008"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1223596800,
+        "theater_release_date": 1223596800,
+        "theater_spectators_formatted": null,
+        "title": "Kada kien su karma",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/kada-kien-su-karma",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 543,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/kada-kien-su-karma.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/kada-kien-su-karma/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/kada-kien-su-karma/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

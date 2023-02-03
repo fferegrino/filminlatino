@@ -1,0 +1,257 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Luis Bu\u00f1uel Portol\u00e9s",
+                "gender": "m",
+                "id": 3164,
+                "slug": "luis-bunuel-portoles",
+                "url": "https://www.filminlatino.mx/character/luis-bunuel-portoles"
+            }
+        ],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Luis L\u00f3pez Linares",
+                "gender": "m",
+                "id": 1785,
+                "slug": "jose-luis-lopez-linares",
+                "url": "https://www.filminlatino.mx/director/jose-luis-lopez-linares"
+            },
+            {
+                "full_name": "Javier Rioyo",
+                "gender": "m",
+                "id": 1786,
+                "slug": "javier-rioyo",
+                "url": "https://www.filminlatino.mx/director/javier-rioyo"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Un\u00a0documental sobre la vida y obra de\u00a0Luis Bu\u00f1uel, retrato de sus m\u00e1s de treinta\u00a0pel\u00edculas realizadas a lo largo de cincuenta a\u00f1os.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3345,
+        "image_card": "https://static.filminlatino.mx/images/media/3345/6/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3345/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3345/11/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3345/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3345/11/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3345/11/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 22,
+        "original_title": "Regarding Bu\u00f1uel",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "a-proposito-de-bunuel",
+        "synopsis": "El semblante de Luis Bu\u00f1uel permanece intacto\u00a0en la memoria de sus amigos, colaboradores, espectadores, y en los m\u00e1s de treinta filmes del cineasta aragon\u00e9s que van desde 'Un perro andaluz' (1929) hasta 'Ese obscuro objeto del deseo' (1977). Agresivo, genial, espont\u00e1neo, Luis Bu\u00f1uel fue uno de los m\u00e1s importantes artistas del siglo XX. Los testimonios de Jean Claude Carri\u00e8re, el escritor mexicano Carlos Fuentes, sus hijos Juan Luis y Rafael Bu\u00f1uel, el director Carlos Saura, el actor Paco Rabal, Roberto Cobo, \u00c1ngela Molina y Silvia Pinal, retratan al m\u00e1ximo creador\u00a0en este documental biogr\u00e1fico. El gran surrealismo era el de Bu\u00f1uel, el de los hechos cotidianos.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 227,
+                "name": "Onirismo y surrealismo",
+                "slug": "onirismo-y-surrealismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/onirismo-y-surrealismo"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 886,
+                "name": "Cine de vanguardias",
+                "slug": "cine-de-vanguardias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-vanguardias"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 11,
+                "name": "Pel\u00edcula de culto",
+                "slug": "pelicula-de-culto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-culto"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1266,
+                "name": "Luis Bu\u00f1uel",
+                "slug": "luis-bunuel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luis-bunuel"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "A prop\u00f3sito de Bu\u00f1uel",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/a-proposito-de-bunuel",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2706,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1999
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adalberto Parra",
+                "gender": "m",
+                "id": 1823,
+                "slug": "adalberto-parra",
+                "url": "https://www.filminlatino.mx/actor/adalberto-parra"
+            },
+            {
+                "full_name": "Ren\u00e9 Campero",
+                "gender": "m",
+                "id": 1824,
+                "slug": "rene-campero",
+                "url": "https://www.filminlatino.mx/actor/rene-campero"
+            },
+            {
+                "full_name": "Diana Garc\u00eda",
+                "gender": "f",
+                "id": 1825,
+                "slug": "diana-garcia",
+                "url": "https://www.filminlatino.mx/actriz/diana-garcia"
+            },
+            {
+                "full_name": "Jorge Luke",
+                "gender": "m",
+                "id": 324,
+                "slug": "jorge-luke",
+                "url": "https://www.filminlatino.mx/actor/jorge-luke"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alfredo Gurrola",
+                "gender": "m",
+                "id": 122,
+                "slug": "alfredo-gurrola",
+                "url": "https://www.filminlatino.mx/director/alfredo-gurrola"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "La memoria puede ser muy dolorosa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1013,
+        "image_card": "https://static.filminlatino.mx/images/media/1013/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1013/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1013/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1013/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1013/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1013/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1013/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Borrar de la memoria",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 637,
+                "name": "Magenta Films",
+                "slug": "magenta-films",
+                "url": "https://www.filminlatino.mx/producer/magenta-films"
+            },
+            {
+                "acronym": "",
+                "id": 638,
+                "name": "Sula Films",
+                "slug": "sula-films",
+                "url": "https://www.filminlatino.mx/producer/sula-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "borrar-de-la-memoria",
+        "synopsis": "Una historia de amor se transforma en una historia de persecuciones y asesinatos sin esclarecer en el contexto de la masacre estudiantil de octubre de 1968. M\u00e1s de 40 a\u00f1os despu\u00e9s, un periodista tenaz se da a la tarea de aclarar los cr\u00edmenes bajo condiciones muy peligrosas, con el objetivo de llevar la verdad ante la justicia.",
+        "tags": [
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 438,
+                "name": "Viaje en el tiempo",
+                "slug": "viaje-en-el-tiempo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-en-el-tiempo"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1318550400,
+        "theater_release_date": 1318550400,
+        "theater_spectators_formatted": null,
+        "title": "Borrar de la memoria",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/borrar-de-la-memoria",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 842,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/borrar-de-la-memoria.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/borrar-de-la-memoria/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/borrar-de-la-memoria/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

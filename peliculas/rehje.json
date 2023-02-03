@@ -1,0 +1,381 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "name": "Festival Internacional de Cine de Derechos Humanos de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "year": 2009
+            },
+            {
+                "category": "Segundo lugar",
+                "icon": "muestra-internacional-de-cine-documental-docstown",
+                "name": "Muestra Internacional de Cine Documental DOCSTOWN",
+                "slug": "muestra-internacional-de-cine-documental-docstown",
+                "year": 2009
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "prix-sequences-du-documentairea-del-festival-presence-autochtone",
+                "name": "Prix Sequences du Documentairea del Festival Pr\u00e9sence Autochtone",
+                "slug": "prix-sequences-du-documentairea-del-festival-presence-autochtone",
+                "year": 2009
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-internacional-de-cine-indigena-en-kathmandu",
+                "name": "Festival Internacional de Cine Ind\u00edgena en Kathmand\u00fa",
+                "slug": "festival-internacional-de-cine-indigena-en-kathmandu",
+                "year": 2009
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "grand-prix",
+                "name": "Grand Prix ",
+                "slug": "grand-prix",
+                "year": 2009
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Documental Realizado por una Mujer ",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "name": "Encuentro Hispanoamericano de Cine y Video Documental Independiente \"Contra el Silencio Todas las Voces\"",
+                "slug": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ana\u00efs Huerta",
+                "gender": "f",
+                "id": 379,
+                "slug": "anais-huerta",
+                "url": "https://www.filminlatino.mx/directora/anais-huerta"
+            },
+            {
+                "full_name": "Ra\u00fal Cuesta",
+                "gender": "m",
+                "id": 380,
+                "slug": "raul-cuesta",
+                "url": "https://www.filminlatino.mx/director/raul-cuesta"
+            }
+        ],
+        "duration_in_minutes": 68,
+        "excerpt": "\u201cRehje\u201d, que significa agua en mazahua es el retrato de una mujer al enfrentarse a una realidad: la penuria por el agua.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 407,
+        "image_card": "https://static.filminlatino.mx/images/media/407/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/407/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/407/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/407/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Rehje",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 337,
+                "name": "Ra\u00fal Cuesta",
+                "slug": "raul-cuesta",
+                "url": "https://www.filminlatino.mx/producer/raul-cuesta"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "rehje",
+        "synopsis": "Despu\u00e9s de vivir 40 a\u00f1os en la Ciudad de M\u00e9xico, Antonia anhela volver a su lugar de origen, un poblado mazahua del Estado de M\u00e9xico. Cuando regresa descubre, entre muchas otras cosas, que la escasez de agua amenaza la vida de la comunidad.",
+        "tags": [
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 991,
+                "name": "Especial Black Canvas",
+                "slug": "especial-black-canvas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-black-canvas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1885,
+                "name": "16 d\u00edas de activismo",
+                "slug": "16-dias-de-activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo"
+            },
+            {
+                "id": 2125,
+                "name": "2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2126,
+                "name": "Muestra | 2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1238112000,
+        "theater_release_date": 1238112000,
+        "theater_spectators_formatted": null,
+        "title": "Rehje",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/rehje",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 744,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/rehje.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/rehje/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/rehje/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

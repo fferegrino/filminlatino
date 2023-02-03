@@ -1,0 +1,296 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Documental Realizado por una Mujer ",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "festival-internacional-de-cine-de-puebla",
+                "name": "Festival Internacional de Cine de Puebla",
+                "slug": "festival-internacional-de-cine-de-puebla",
+                "year": 2010
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "name": "Encuentro Hispanoamericano de Cine y Video Documental Independiente \"Contra el Silencio Todas las Voces\"",
+                "slug": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sarah Minter",
+                "gender": "f",
+                "id": 304,
+                "slug": "sarah-minter",
+                "url": "https://www.filminlatino.mx/directora/sarah-minter"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "Crecieron en Ciudad Neza, eran de la misma banda punk y fueron los personajes de un documental/ficci\u00f3n realizado entre 1985 y 1986, \"Nadie es inocente\", de Sarah Minter.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 326,
+        "image_card": "https://static.filminlatino.mx/images/media/326/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/326/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/326/3/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Nadie es inocente. 20 a\u00f1os despu\u00e9s",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 236,
+                "name": "Sarah Minter",
+                "slug": "sarah-minter",
+                "url": "https://www.filminlatino.mx/producer/sarah-minter"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "nadie-es-inocente-20-anos-despues",
+        "synopsis": "La narrativa de Pablo \"El Podrido\" Hern\u00e1ndez y Rafa \"Punk\" Rojas se entreteje con los testimonios de \u201cEl Cienfuegos\u201d, Benjam\u00edn \u201cEl Costras\u201d, \u00a0\u201cEl Moroco\u201d, \u201cEl B\u00faho\u201d y aquellos que no vivieron para contar esta historia. \u00a0A ellos los unen tres cosas: crecieron en Ciudad Neza, eran de la misma banda (\"Los Mierdas Punk\") y fueron personajes de un documental realizado entre 1985 y 1986 por Sarah Minter. Veinte a\u00f1os despu\u00e9s, la directora reconstruye sus huellas y teje un nuevo mapa visual de la ciudad a trav\u00e9s de la actualidad de sus personajes, confrontando sus logros, frustraciones y esperanzas con su pasado y sus sue\u00f1os juveniles.",
+        "tags": [
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 350,
+                "name": "Bandas callejeras",
+                "slug": "bandas-callejeras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bandas-callejeras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 929,
+                "name": "Cine punk",
+                "slug": "cine-punk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-punk"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1287532800,
+        "theater_release_date": 1287532800,
+        "theater_spectators_formatted": null,
+        "title": "Nadie es inocente. 20 a\u00f1os despu\u00e9s",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nadie-es-inocente-20-anos-despues",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 343,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/nadie-es-inocente.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/nadie-es-inocente/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/nadie-es-inocente/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

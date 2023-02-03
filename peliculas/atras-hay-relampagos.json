@@ -1,0 +1,362 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adriana \u00c1lvarez",
+                "gender": "f",
+                "id": 5761,
+                "slug": "adriana-alvarez",
+                "url": "https://www.filminlatino.mx/actriz/adriana-alvarez"
+            },
+            {
+                "full_name": "Natalia Arias",
+                "gender": "f",
+                "id": 5762,
+                "slug": "natalia-arias",
+                "url": "https://www.filminlatino.mx/actriz/natalia-arias"
+            }
+        ],
+        "avg_votes": 6.6,
+        "avg_votes_formatted": "6,6",
+        "awards": [
+            {
+                "category": "Competencia internacional",
+                "icon": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "name": "Festival Internacional de Cine Independiente de Buenos Aires",
+                "slug": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 50,
+                "name": "Costa Rica",
+                "slug": "costa-rica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/costa-rica"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Julio Hern\u00e1ndez Cord\u00f3n",
+                "gender": "m",
+                "id": 1049,
+                "slug": "julio-hernandez-cordon",
+                "url": "https://www.filminlatino.mx/director/julio-hernandez-cordon"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Sole y Ana recorren la ciudad en sus bicicletas hasta que un hallazgo indeseable cambiar\u00e1 su rumbo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4998,
+        "image_card": "https://static.filminlatino.mx/images/media/4998/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4998/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4998/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/1/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/4998/3/still_11_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "Atr\u00e1s hay rel\u00e1mpagos",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "atras-hay-relampagos",
+        "synopsis": "Sole y Ana son dos adolescentes que recorren juntas la ciudad en sus bicicletas, a pesar de sus diferencia,\u00a0a veces solas u otras con amantes del BMX. Sobre sus bicis llevar\u00e1n el esp\u00edritu de la libertad y la revoluci\u00f3n propios de la juventud, hasta que un d\u00eda encuentran algo perturbador en la cajuela de un coche en la propiedad de la familia de Ana, hecho que detonar\u00e1\u00a0poner en cuesti\u00f3n sus vidas y su amistad. Una pel\u00edcula del director de \"Te prometo anarqu\u00eda\".",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 473,
+                "name": "Libertad",
+                "slug": "libertad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 670,
+                "name": "amistad en riesgo",
+                "slug": "amistad-en-riesgo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad-en-riesgo"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 579,
+                "name": "Bicicletas",
+                "slug": "bicicletas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bicicletas"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 154,
+                "name": "Reuni\u00f3n de amigos",
+                "slug": "reunion-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reunion-de-amigos"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 108,
+                "name": "Despertar sexual",
+                "slug": "despertar-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despertar-sexual"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 1375,
+                "name": "Estrenos nacionales aniversario",
+                "slug": "estrenos-nacionales-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-aniversario"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 1391,
+                "name": "A\u00f1o 2017",
+                "slug": "ano-2017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-2017"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2492,
+                "name": "Viajes transformadores",
+                "slug": "viajes-transformadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-transformadores"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1509580800,
+        "theater_release_date": 1509580800,
+        "theater_spectators_formatted": null,
+        "title": "Atr\u00e1s hay rel\u00e1mpagos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/atras-hay-relampagos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4291,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/RELAMPAGOS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/RELAMPAGOS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/RELAMPAGOS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

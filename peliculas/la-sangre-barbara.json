@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Presea Rogelio A. Gonz\u00e1lez",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Premio de la Revista Cinepremiere Nuevo Le\u00f3n",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Premio al mejor largometraje de Nuevo  Le\u00f3n",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine y Artes Ind\u00edgenas Wallmapu",
+                "slug": "festival-internacional-de-cine-y-artes-indigenas-wallmapu",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Documental de Baikal",
+                "slug": "festival-internacional-de-cine-documental-de-baikal",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Parn\u00fc Documentary Film Festival",
+                "slug": "parnu-documentary-film-festival",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival de la Memoria Documental Iberoamericano",
+                "slug": "festival-de-la-memoria-documental-iberoamericano",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Juan Lopez Garc\u00eda",
+                "gender": "m",
+                "id": 1809,
+                "slug": "juan-lopez-garcia",
+                "url": "https://www.filminlatino.mx/character/juan-lopez-garcia"
+            },
+            {
+                "full_name": "Juana Antonia Garc\u00eda",
+                "gender": "f",
+                "id": 1810,
+                "slug": "juana-antonia-garcia",
+                "url": "https://www.filminlatino.mx/character/juana-antonia-garcia"
+            },
+            {
+                "full_name": "Carmen Garc\u00eda Rosario",
+                "gender": "f",
+                "id": 1811,
+                "slug": "carmen-garcia-rosario",
+                "url": "https://www.filminlatino.mx/character/carmen-garcia-rosario"
+            },
+            {
+                "full_name": "Rufina Villa Hern\u00e1ndez",
+                "gender": "f",
+                "id": 1812,
+                "slug": "rufina-villa-hernandez",
+                "url": "https://www.filminlatino.mx/character/rufina-villa-hernandez"
+            },
+            {
+                "full_name": "Luis F\u00e9lix Aguilar",
+                "gender": "m",
+                "id": 1813,
+                "slug": "luis-felix-aguilar",
+                "url": "https://www.filminlatino.mx/character/luis-felix-aguilar"
+            },
+            {
+                "full_name": "Martin Xala Garc\u00eda",
+                "gender": "m",
+                "id": 1814,
+                "slug": "martin-xala-garcia",
+                "url": "https://www.filminlatino.mx/character/martin-xala-garcia"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jes\u00fas-Mario Lozano",
+                "gender": "m",
+                "id": 666,
+                "slug": "jesus-mario-lozano",
+                "url": "https://www.filminlatino.mx/director/jesus-mario-lozano"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Las luchas, las aspiraciones y los sue\u00f1os de una comunidad \u201cNahuat\u201d situada en las monta\u00f1as de la Sierra Norte de Puebla, M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9026,
+        "image_card": "https://static.filminlatino.mx/images/media/9026/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/9026/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9026/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/9026/1/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/9026/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/9026/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/9026/2/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "La sangre b\u00e1rbara",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-sangre-barbara",
+        "synopsis": "\"La sangre b\u00e1rbara\" nos presenta a historia de las luchas, las aspiraciones y los sue\u00f1os de una comunidad \u201cNahuat\u201d situada en las monta\u00f1as de la sierra norte de Puebla, M\u00e9xico. A trav\u00e9s de una narrativa coral, escucharemos las voces de cada uno de los personajes mientras los seguimos en sus vidas cotidianas. A su vez, aprenderemos acerca de sus luchas en contra del racismo que siguen padeciendo, las preocupaciones por parte de la comunidad sobre el hecho de que las nuevas generaciones jo\u0301venes de Nahuas se avergu\u0308enzan de hablar su lengua o de los movimientos colectivos contra empresas\u00a0y minas canadienses.",
+        "tags": [
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 303,
+                "name": "Miner\u00eda",
+                "slug": "mineria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mineria"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1285,
+                "name": "Crisis",
+                "slug": "crisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis"
+            },
+            {
+                "id": 1372,
+                "name": "N\u00e1huatl",
+                "slug": "nahuatl",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahuatl"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La sangre b\u00e1rbara",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-sangre-barbara",
+        "versions": [
+            {
+                "codes": [],
+                "id": 10598,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2014
+    }
+}

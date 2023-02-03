@@ -1,0 +1,329 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Premio especial",
+                "icon": "",
+                "name": " XIX Certamen Nacional de Periodismo",
+                "slug": "xix-certamen-nacional-de-periodismo",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Mediometraje Documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Francisco Urrusti",
+                "gender": "m",
+                "id": 1838,
+                "slug": "juan-francisco-urrusti",
+                "url": "https://www.filminlatino.mx/director/juan-francisco-urrusti"
+            }
+        ],
+        "duration_in_minutes": 50,
+        "excerpt": "Parteras, curanderos, hierberos y m\u00e9dicos tradicionales\u00a0reunidos en un solo lugar para intercambiar sus experiencias y seguir con sus tradiciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9763,
+        "image_card": "https://static.filminlatino.mx/images/media/9763/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9763/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9763/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9763/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9763/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/9763/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Encuentros de medicina maya ",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "encuentros-de-medicina-maya",
+        "synopsis": "Para los mayas la enfermedad tiene que ver con la manifestaci\u00f3n de\u00a0la naturaleza, creencia de origen prehisp\u00e1nico que rige hasta nuestros\u00a0d\u00edas,\u00a0los rituales de curaci\u00f3n entre los m\u00e9dicos tradicionales de este\u00a0pueblo ind\u00edgena.\u00a0El Instituto Nacional Indigenista organiz\u00f3 en los a\u00f1os ochenta los\u00a0primeros encuentros de m\u00e9dicos tradicionales como parte del intercambio\u00a0de experiencias y ense\u00f1anzas entre los m\u00e9dicos viejos y las nuevas\u00a0generaciones, junto con los m\u00e9dicos al\u00f3patas.<br>",
+        "tags": [
+            {
+                "id": 2278,
+                "name": "Hablado en maya",
+                "slug": "hablado-en-maya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hablado-en-maya"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 2279,
+                "name": "Maya",
+                "slug": "maya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maya"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1179,
+                "name": "Yucat\u00e1n",
+                "slug": "yucatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/yucatan"
+            },
+            {
+                "id": 1193,
+                "name": "Campeche",
+                "slug": "campeche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campeche"
+            },
+            {
+                "id": 1240,
+                "name": "Quintana Roo",
+                "slug": "quintana-roo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quintana-roo"
+            },
+            {
+                "id": 353,
+                "name": "Medicina alternativa",
+                "slug": "medicina-alternativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medicina-alternativa"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 472,
+                "name": "Experiencia",
+                "slug": "experiencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/experiencia"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 557,
+                "name": "Ciencia",
+                "slug": "ciencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia"
+            },
+            {
+                "id": 2183,
+                "name": "Ense\u00f1anzas",
+                "slug": "ensenanzas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ensenanzas"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 2501,
+                "name": "Lengua Materna | INPI",
+                "slug": "lengua-materna-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna-inpi"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Encuentros de medicina maya",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/encuentros-de-medicina-maya",
+        "versions": [
+            {
+                "codes": [],
+                "id": 11545,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1987
+    }
+}

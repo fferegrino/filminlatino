@@ -1,0 +1,266 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "festival-internacional-de-la-ciudad-de-mexico",
+                "name": "Festival Internacional de la Ciudad de M\u00e9xico",
+                "slug": "festival-internacional-de-la-ciudad-de-mexico",
+                "year": 2010
+            },
+            {
+                "category": "Premio honor\u00edfico del jurado ",
+                "icon": "festival-internacional-de-documentales-de-madrid",
+                "name": "Festival Internacional de Documentales de Madrid",
+                "slug": "festival-internacional-de-documentales-de-madrid",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lorenzo Hagerman",
+                "gender": "m",
+                "id": 181,
+                "slug": "lorenzo-hagerman",
+                "url": "https://www.filminlatino.mx/director/lorenzo-hagerman"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "La historia de un hombre que desafi\u00f3 a las instituciones de un pa\u00eds, proclam\u00e1ndose presidente leg\u00edtimo: la cr\u00f3nica de una derrota inesperada.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 203,
+        "image_card": "https://static.filminlatino.mx/images/media/203/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/203/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/203/13/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/13/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/13/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/13/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/13/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/203/13/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "0.56%",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 130,
+                "name": "Jaime Romand\u00eda",
+                "slug": "jaime-romandia",
+                "url": "https://www.filminlatino.mx/producer/jaime-romandia"
+            },
+            {
+                "acronym": "",
+                "id": 131,
+                "name": "Lynn Fainchtein",
+                "slug": "lynn-fainchtein",
+                "url": "https://www.filminlatino.mx/producer/lynn-fainchtein"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "056",
+        "synopsis": "Esta es la historia de la batalla por el poder en M\u00e9xico. Es la historia de un hombre que desafi\u00f3 a las instituciones de un pa\u00eds, proclam\u00e1ndose presidente leg\u00edtimo. Es la cr\u00f3nica de una derrota inesperada y de c\u00f3mo el pol\u00e9mico Andr\u00e9s Manuel L\u00f3pez Obrador, quien lider\u00f3 las encuestas durante cuatro a\u00f1os y a pesar de sus m\u00e1s de 14 millones de votos ganados en las urnas en las elecciones del 2 de julio de 2006, fue derrotado por medio punto porcentual. La c\u00e1mara sigue de cerca -durante 20 meses- a uno de los pol\u00edticos m\u00e1s controversiales de la historia de M\u00e9xico. El registro inicia durante los d\u00edas en que fue alcalde de la Ciudad de M\u00e9xico hasta la auto proclamaci\u00f3n como presidente leg\u00edtimo y los sucesos frente al nuevo gobierno encabezado por Felipe Calder\u00f3n en 2007. Por primera vez en la historia de este pa\u00eds, un pol\u00edtico acepta a un equipo de filmaci\u00f3n independiente para observar los pasos y los obst\u00e1culos que se viven en el ojo del hurac\u00e1n.",
+        "tags": [
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 275,
+                "name": "Democracia ",
+                "slug": "democracia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/democracia"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1309478400,
+        "theater_release_date": 1309478400,
+        "theater_spectators_formatted": null,
+        "title": "0.56%",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/056",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 106,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/0.56.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/0.56/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/0.56/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

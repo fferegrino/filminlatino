@@ -1,0 +1,242 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mario  Cuesta Hernando",
+                "gender": "m",
+                "id": 3650,
+                "slug": "mario-cuesta-hernando",
+                "url": "https://www.filminlatino.mx/director/mario-cuesta-hernando"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "La Ant\u00e1rtida es el \u00fanico territorio donde todos los pa\u00edses promueven la paz, la ciencia y el medioambiente. \u00bfPero esa utop\u00eda es real o espejismo?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6971,
+        "image_card": "https://static.filminlatino.mx/images/media/6971/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6971/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6971/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/6971/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/6971/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6971/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6971/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6971/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Ant\u00e1rtida. Un mensaje de otro planeta",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3164,
+                "name": "Mario Cuesta Hernando",
+                "slug": "mario-cuesta-hernando",
+                "url": "https://www.filminlatino.mx/producer/mario-cuesta-hernando"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "antartida-un-mensaje-de-otro-planeta",
+        "synopsis": "El primer documental que describe la pol\u00edtica oficial y encubierta del sexto continente. Con humor, y bellos paisajes en 4k, descubriremos si la Ant\u00e1rtida es un ejemplo de paz global, ciencia y medioambiente, o el escenario de la pr\u00f3xima gran guerra.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 2552,
+                "name": "Espiral Foro Cultural Universitario",
+                "slug": "espiral-foro-cultural-universitario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiral-foro-cultural-universitario"
+            },
+            {
+                "id": 2564,
+                "name": "Como en la escuela",
+                "slug": "como-en-la-escuela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/como-en-la-escuela"
+            },
+            {
+                "id": 2566,
+                "name": "Infancias por la Tierra",
+                "slug": "infancias-por-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancias-por-la-tierra"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ant\u00e1rtida. Un mensaje de otro planeta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/antartida-un-mensaje-de-otro-planeta",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6992,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

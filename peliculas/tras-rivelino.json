@@ -1,0 +1,204 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guillermo  Pi\u00f1\u00f3n",
+                "gender": "m",
+                "id": 1853,
+                "slug": "guillermo-pinon",
+                "url": "https://www.filminlatino.mx/director/guillermo-pinon"
+            }
+        ],
+        "duration_in_minutes": 65,
+        "excerpt": "Descripci\u00f3n detenida y comparativa de su obra escult\u00f3rica y que describe sus pasiones, sus influencias y desarrollo",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5734,
+        "image_card": "https://static.filminlatino.mx/images/media/5734/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5734/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5734/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5734/2/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Tras Rivelino",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tras-rivelino",
+        "synopsis": "Documental sobre Rivelino que presenta una descripci\u00f3n detenida y comparativa de su obra escult\u00f3rica y que describe sus pasiones, sus influencias y desarrollo, su vagabundear y su claridad, sus fijaciones, sus temores, sus talentos y su arduo trabajo cotidiano.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 753,
+                "name": "Biopic_MX",
+                "slug": "biopic-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic-mx"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tras Rivelino",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tras-rivelino",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5261,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

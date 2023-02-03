@@ -1,0 +1,476 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "",
+                "name": "Video Documental, estudiante. Festival Internacional de la Imagen",
+                "slug": "video-documental-estudiante-festival-internacional-de-la-imagen",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Festival Voces Contra el Silencio",
+                "slug": "festival-voces-contra-el-silencio",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Zanate Festival de Cine Documental",
+                "slug": "zanate-festival-de-cine-documental",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "periodistas-cinematograficos-de-mexico-pecime",
+                "name": "Periodistas Cinematogr\u00e1ficos de M\u00e9xico (PECIME)",
+                "slug": "periodistas-cinematograficos-de-mexico-pecime",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Guadalupe Aguilar",
+                "gender": "f",
+                "id": 2934,
+                "slug": "guadalupe-aguilar",
+                "url": "https://www.filminlatino.mx/character/guadalupe-aguilar"
+            },
+            {
+                "full_name": "Natividad Guerrero",
+                "gender": "f",
+                "id": 2935,
+                "slug": "natividad-guerrero",
+                "url": "https://www.filminlatino.mx/character/natividad-guerrero"
+            },
+            {
+                "full_name": "Margarita L\u00f3pez",
+                "gender": "f",
+                "id": 2936,
+                "slug": "margarita-lopez",
+                "url": "https://www.filminlatino.mx/character/margarita-lopez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alicia Calder\u00f3n",
+                "gender": "f",
+                "id": 1407,
+                "slug": "alicia-calderon",
+                "url": "https://www.filminlatino.mx/directora/alicia-calderon"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Es un documental mexicano, dirigido por Alicia Calder\u00f3n, sobre algunas de las miles de madres mexicanas que buscan a sus hijos desaparecidos durante la guerra contra el crimen organizado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2691,
+        "image_card": "https://static.filminlatino.mx/images/media/2691/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2691/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2691/17/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/14/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/19/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/16/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/15/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/18/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/22/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/20/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/26/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/32/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/24/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/28/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/35/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/2691/30/still_11_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 22,
+        "original_title": "Retratos de una b\u00fasqueda",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 1428,
+                "name": " Culturas Populares CONACULTA",
+                "slug": "culturas-populares-conaculta",
+                "url": "https://www.filminlatino.mx/producer/culturas-populares-conaculta"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "retratos-de-una-busqueda",
+        "synopsis": "Miles de madres mexicanas buscan a sus hijos desaparecidos durante la narcoguerra. Las historias de Margarita, Guadalupe y Natividad se entrelazan para contar las distintas maneras de buscar a sus hijos y de enfrentar la incertidumbre: una recurre al FBI, otra al Presidente de la Rep\u00fablica y la \u00faltima intenta continuar con la rutina para salvar a su nieto.<br>Ganador Mujeres del IX Encuentro Hispanoamericano de Cine y V\u00eddeo Documental Independiente Contra el Silencio Todas las Voces, M\u00e9xico, 2016.Mejor Largometraje Mexicano Documental del Festival Internacional de Cine de Monterrey, M\u00e9xico, 2015.Segundo Mejor Documental en Categor\u00eda Profesional del Festival Internacional de la Imagen (FINI), M\u00e9xico, 2015.Mejor Documental de la XLIV Edici\u00f3n del Premio Diosas de Plata que otorga la Asociaci\u00f3n de Periodistas Cinematogr\u00e1ficos de M\u00e9xico, A.C. (PECIME), M\u00e9xico, 2015.Menci\u00f3n Especial del Jurado del Festival Zanate de Cine y Video Documental, M\u00e9xico, 2014.<br><br>",
+        "tags": [
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 286,
+                "name": "Revuelta social",
+                "slug": "revuelta-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revuelta-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 52,
+                "name": "Mafia",
+                "slug": "mafia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mafia"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2075,
+                "name": "Universidad Aut\u00f3noma de Estudios Regionales de la UNAM",
+                "slug": "universidad-autonoma-de-estudios-regionales-de-la-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universidad-autonoma-de-estudios-regionales-de-la-unam"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2641,
+                "name": "1a Muestra de cine vs la trata",
+                "slug": "1a-muestra-de-cine-vs-la-trata",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1a-muestra-de-cine-vs-la-trata"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1413936000,
+        "theater_release_date": 1413936000,
+        "theater_spectators_formatted": null,
+        "title": "Retratos de una b\u00fasqueda",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/retratos-de-una-busqueda",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2490,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/retratos-de-una-busqueda-1.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/retratos-de-una-busqueda-1/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/retratos-de-una-busqueda-1/master.m3u8"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/retratos-de-una-busqueda.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/retratos-de-una-busqueda/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/retratos-de-una-busqueda/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

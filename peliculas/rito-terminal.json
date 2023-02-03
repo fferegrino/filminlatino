@@ -1,0 +1,382 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Guillermo Larrea",
+                "gender": "m",
+                "id": 975,
+                "slug": "guillermo-larrea",
+                "url": "https://www.filminlatino.mx/actor/guillermo-larrea"
+            },
+            {
+                "full_name": "Soledad Ruiz",
+                "gender": "f",
+                "id": 976,
+                "slug": "soledad-ruiz",
+                "url": "https://www.filminlatino.mx/actriz/soledad-ruiz"
+            },
+            {
+                "full_name": "\u00c1ngeles Cruz",
+                "gender": "f",
+                "id": 172,
+                "slug": "angeles-cruz",
+                "url": "https://www.filminlatino.mx/actriz/angeles-cruz"
+            },
+            {
+                "full_name": "Rafael Velasco",
+                "gender": "m",
+                "id": 977,
+                "slug": "rafael-velasco",
+                "url": "https://www.filminlatino.mx/actor/rafael-velasco"
+            },
+            {
+                "full_name": "Antonio Monroi",
+                "gender": "m",
+                "id": 3891,
+                "slug": "antonio-monroi",
+                "url": "https://www.filminlatino.mx/actor/antonio-monroi"
+            },
+            {
+                "full_name": "Fabiana Perzabal",
+                "gender": "f",
+                "id": 1011,
+                "slug": "fabiana-perzabal",
+                "url": "https://www.filminlatino.mx/actriz/fabiana-perzabal"
+            },
+            {
+                "full_name": "Ignacio Guadalupe",
+                "gender": "m",
+                "id": 742,
+                "slug": "ignacio-guadalupe",
+                "url": "https://www.filminlatino.mx/actor/ignacio-guadalupe"
+            },
+            {
+                "full_name": "Javier Zaragoza",
+                "gender": "m",
+                "id": 2528,
+                "slug": "javier-zaragoza",
+                "url": "https://www.filminlatino.mx/actor/javier-zaragoza"
+            },
+            {
+                "full_name": "Fernando Becerril",
+                "gender": "m",
+                "id": 353,
+                "slug": "fernando-becerril",
+                "url": "https://www.filminlatino.mx/actor/fernando-becerril"
+            },
+            {
+                "full_name": "Miguel Couturier",
+                "gender": "m",
+                "id": 3828,
+                "slug": "miguel-couturier",
+                "url": "https://www.filminlatino.mx/actor/miguel-couturier"
+            },
+            {
+                "full_name": "Mart\u00edn Palomares",
+                "gender": "m",
+                "id": 1282,
+                "slug": "martin-palomares",
+                "url": "https://www.filminlatino.mx/actor/martin-palomares"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Oscar Urrutia",
+                "gender": "m",
+                "id": 375,
+                "slug": "oscar-urrutia",
+                "url": "https://www.filminlatino.mx/director/oscar-urrutia"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Mateo pierde su sombra al realizar un documental en una comunidad ind\u00edgena. Se adentra en un mundo m\u00e1gico y desconocido, perdiendo la convicci\u00f3n de seguir viviendo en la ciudad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3173,
+        "image_card": "https://static.filminlatino.mx/images/media/3173/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3173/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3173/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3173/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3173/6/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3173/12/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3173/8/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3173/10/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3173/18/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/3173/14/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/3173/16/still_9_3.png",
+            "https://static.filminlatino.mx/images/media/3173/20/still_10_3.png",
+            "https://static.filminlatino.mx/images/media/3173/22/still_11_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Rito terminal",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 19,
+                "name": "Filmoteca UNAM ",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/producer/filmoteca-unam"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CUEC",
+                "id": 95,
+                "name": "Centro Universitario de Estudios Cinematogr\u00e1ficos",
+                "slug": "centro-universitario-de-estudios-cinematograficos",
+                "url": "https://www.filminlatino.mx/producer/centro-universitario-de-estudios-cinematograficos"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "rito-terminal",
+        "synopsis": "La celebraci\u00f3n de la fiesta patronal en una comunidad ind\u00edgena es el marco en donde un fot\u00f3grafo citadino, Mateo, prepara un reportaje y, sin saber exactamente c\u00f3mo o por qu\u00e9, pierde su sombra. En este proceso, Mateo se va adentrando poco a poco en un mundo m\u00e1gico y totalmente desconocido, se ve envuelto en situaciones que van m\u00e1s all\u00e1 de su entendimiento. En un intercambio espiritual, durante el funeral tradicional, perder\u00e1 tambi\u00e9n las convicciones que lo mantienen atado a su vida urbana. Las creencias en torno a la muerte y los misterios del alma son trastocadas en la confrontaci\u00f3n directa de dos visiones totalmente opuestas de la vida la racional de una cultura occidentalizada y moderna; y la fant\u00e1stica y religiosa de otra ind\u00edgena, ancestral.",
+        "tags": [
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 86,
+                "name": "Magia",
+                "slug": "magia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magia"
+            },
+            {
+                "id": 562,
+                "name": "Sobrenatural",
+                "slug": "sobrenatural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrenatural"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1740,
+                "name": "Desde el m\u00e1s all\u00e1",
+                "slug": "desde-el-mas-alla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-el-mas-alla"
+            },
+            {
+                "id": 2010,
+                "name": "Retrospectiva \u00c1ngeles Cruz",
+                "slug": "retrospectiva-angeles-cruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-angeles-cruz"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2453,
+                "name": "Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/compendio-de-cineastas-contemporaneas"
+            },
+            {
+                "id": 2454,
+                "name": "\u00c1ngeles Cruz | Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "angeles-cruz-compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/angeles-cruz-compendio-de-cineastas-contemporaneas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Rito terminal",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/rito-terminal",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2890,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/rito-terminal.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/rito-terminal/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/rito-terminal/master.m3u8"
+                }
+            ]
+        },
+        "year": 1999
+    }
+}

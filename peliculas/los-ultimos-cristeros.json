@@ -1,0 +1,376 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Chano Lim\u00f3n",
+                "gender": "m",
+                "id": 659,
+                "slug": "chano-limon",
+                "url": "https://www.filminlatino.mx/actor/chano-limon"
+            },
+            {
+                "full_name": "Salvador Ferreiro",
+                "gender": "m",
+                "id": 660,
+                "slug": "salvador-ferreiro",
+                "url": "https://www.filminlatino.mx/actor/salvador-ferreiro"
+            },
+            {
+                "full_name": "Abel  Lozano",
+                "gender": "m",
+                "id": 661,
+                "slug": "abel-lozano",
+                "url": "https://www.filminlatino.mx/actor/abel-lozano"
+            },
+            {
+                "full_name": "Antonio Garc\u00eda",
+                "gender": "m",
+                "id": 662,
+                "slug": "antonio-garcia",
+                "url": "https://www.filminlatino.mx/actor/antonio-garcia"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-unam",
+                "name": "Festival Internacional de Cine UNAM",
+                "slug": "festival-internacional-de-cine-unam",
+                "year": 2011
+            },
+            {
+                "category": "Premio SIGNIS",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2011
+            },
+            {
+                "category": "Gran Premio a Pel\u00edcula de Ficci\u00f3n del Cin\u00e9latino",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Proyecto Mexicano",
+                "icon": "rondas-ficco-cinemex",
+                "name": "Rondas Ficco Cinemex",
+                "slug": "rondas-ficco-cinemex",
+                "year": 2011
+            },
+            {
+                "category": "Premio Kukulk\u00e1n",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": 2011
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cinema-tropical",
+                "name": "Festival de Cinema Tropical",
+                "slug": "festival-de-cinema-tropical",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mat\u00edas Meyer",
+                "gender": "m",
+                "id": 206,
+                "slug": "matias-meyer",
+                "url": "https://www.filminlatino.mx/director/matias-meyer"
+            }
+        ],
+        "duration_in_minutes": 89,
+        "excerpt": "Los \u00faltimos cristeros muestra a los soldados cristeros desde una perspectiva en la que su fe en el movimiento tiene mucho de personal y muy poco de impuesto.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 239,
+        "image_card": "https://static.filminlatino.mx/images/media/239/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/239/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/239/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/239/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/239/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/239/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Los \u00faltimos cristeros",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            },
+            {
+                "acronym": "",
+                "id": 178,
+                "name": "LUC La Pel\u00edcula; S. de R.L.",
+                "slug": "luc-la-pelicula-s-de-rl",
+                "url": "https://www.filminlatino.mx/producer/luc-la-pelicula-s-de-rl"
+            },
+            {
+                "acronym": "",
+                "id": 179,
+                "name": " IDTV Film BV",
+                "slug": "idtv-film-bv",
+                "url": "https://www.filminlatino.mx/producer/idtv-film-bv"
+            },
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-ultimos-cristeros",
+        "synopsis": "A fines de los a\u00f1os treinta, en las monta\u00f1as \u00e1ridas de M\u00e9xico, un coronel cristero y sus \u00faltimos hombres, se resisten a dejar las armas. Son perseguidos por el gobierno, y necesitan municiones, pero el apoyo no llega, y la vida en la sierra es cada vez m\u00e1s dif\u00edcil. Aunque se les ha ofrecido un indulto, su compromiso con Dios es m\u00e1s grande. \u201cLos \u00daltimos Cristeros\u201d es una pel\u00edcula de co-producci\u00f3n M\u00e9xico-Holandesa, dirigida por Mat\u00edas Meyer, adaptada de la novela \u201cRescoldo, los \u00faltimos cristeros\u201d de Antonio Estrada. La cinta nos ubica justamente en los a\u00f1os finales de la Cristiada, esa lucha que emprendi\u00f3 el gobierno federal contra los Cristianos, y en la cual vemos c\u00f3mo un grupo de resistentes, ya pr\u00e1cticamente con la guerra perdida, refugiados en las monta\u00f1as, se enfrentan al abandono, la enfermedad y la soledad.",
+        "tags": [
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 31,
+                "name": "Cine de \u00e9poca",
+                "slug": "cine-de-epoca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-epoca"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1352419200,
+        "theater_release_date": 1352419200,
+        "theater_spectators_formatted": null,
+        "title": "Los \u00faltimos cristeros",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-ultimos-cristeros",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 156,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-ultimos-cristeros.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-ultimos-cristeros/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-ultimos-cristeros/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

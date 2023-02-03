@@ -1,0 +1,451 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mauricio Fern\u00e1ndez",
+                "gender": "m",
+                "id": 3839,
+                "slug": "mauricio-fernandez",
+                "url": "https://www.filminlatino.mx/actor/mauricio-fernandez"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "festival-internacional-de-cine-de-barranquilla",
+                "name": "Festival Internacional de Cine de Barranquilla",
+                "slug": "festival-internacional-de-cine-de-barranquilla",
+                "year": 2012
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 2012
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2012
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "baja-festival-internacional-de-cine-en-los-cabos",
+                "name": "Baja Festival Internacional de Cine en los Cabos",
+                "slug": "baja-festival-internacional-de-cine-en-los-cabos",
+                "year": 2012
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-de-cinema-tropical",
+                "name": "Festival de Cinema Tropical",
+                "slug": "festival-de-cinema-tropical",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "premio-jose-rovirosa",
+                "name": "Premio Jos\u00e9 Rovirosa",
+                "slug": "premio-jose-rovirosa",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Rossini",
+                "gender": "m",
+                "id": 356,
+                "slug": "carlos-rossini",
+                "url": "https://www.filminlatino.mx/director/carlos-rossini"
+            },
+            {
+                "full_name": "Emiliano Altuna",
+                "gender": "m",
+                "id": 357,
+                "slug": "emiliano-altuna",
+                "url": "https://www.filminlatino.mx/director/emiliano-altuna"
+            },
+            {
+                "full_name": "Diego Enrique Osorno",
+                "gender": "m",
+                "id": 1310,
+                "slug": "diego-enrique-osorno",
+                "url": "https://www.filminlatino.mx/director/diego-enrique-osorno"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "El documental cuenta la historia de Mauricio, un pol\u00e9mico alcalde que se presenta como alguien que toma la justicia en mano propia en el municipio m\u00e1s rico y m\u00e1s seguro de Am\u00e9rica Latina.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2583,
+        "image_card": "https://static.filminlatino.mx/images/media/2583/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2583/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2583/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/12/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2583/11/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2583/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/1/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/6/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2583/5/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 109,
+        "original_title": "El alcalde",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 166,
+                "name": "Bamb\u00fa Audiovisual",
+                "slug": "bambu-audiovisual",
+                "url": "https://www.filminlatino.mx/producer/bambu-audiovisual"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-alcalde",
+        "synopsis": "Mauricio Ferna\u0301ndez es el pole\u0301mico alcalde de San Pedro Garza Garci\u0301a, el municipio ma\u0301s rico y seguro de Ame\u0301rica Latina. Un personaje que se presenta a si\u0301 mismo como una figura capaz de mantener su municipio \u201climpio\u201d de la presencia de los ca\u0301rteles de la droga sin importar los me\u0301todos para conseguirlo. \u201cEl alcalde\u201d describe una etapa salvaje de un pai\u0301s marcado por la violencia y el desprestigio de la clase gobernante.",
+        "tags": [
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 52,
+                "name": "Mafia",
+                "slug": "mafia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mafia"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 954,
+                "name": "Las m\u00e1s vistas en renta",
+                "slug": "las-mas-vistas-en-renta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-renta"
+            },
+            {
+                "id": 1001,
+                "name": "Participantes 2018 Shorts MX",
+                "slug": "participantes-2018-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/participantes-2018-shorts-mx"
+            },
+            {
+                "id": 1033,
+                "name": "Bamb\u00fa",
+                "slug": "bambu",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bambu"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1378,
+                "name": "Las m\u00e1s vistas TVOD cuarto aniversario",
+                "slug": "las-mas-vistas-tvod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-tvod-cuarto-aniversario"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El alcalde",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-alcalde",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1957,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-alcalde.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-alcalde/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-alcalde/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

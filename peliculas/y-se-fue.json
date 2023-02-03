@@ -1,0 +1,248 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jacaranda Correa ",
+                "gender": "f",
+                "id": 411,
+                "slug": "jacaranda-correa",
+                "url": "https://www.filminlatino.mx/directora/jacaranda-correa"
+            },
+            {
+                "full_name": "Sa\u00fal Osornio",
+                "gender": "m",
+                "id": 1854,
+                "slug": "saul-osornio",
+                "url": "https://www.filminlatino.mx/director/saul-osornio"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Una inmersi\u00f3n en la vida de ocho ni\u00f1os de la sierra de Zongolica marcada por el abandono y la desesperanza ante la ausencia de sus\u00a0madres, quienes han\u00a0emigrado a tierras del norte.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3438,
+        "image_card": "https://static.filminlatino.mx/images/media/3438/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3438/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3438/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3438/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3438/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Y se fue",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "y-se-fue",
+        "synopsis": "Una inmersi\u00f3n en la vida cotidiana de ocho ni\u00f1os de la sierra de Zongolica, Veracruz, marcada por el abandono y la desesperanza ante la ausencia de sus\u00a0madres, quienes han emigrado a tierras del norte. Sin certeza del regreso de sus progenitoras, esta pandilla de peque\u00f1os se ha reconstruido como una nueva familia en compa\u00f1\u00eda de sus abuelas. Una po\u00e9tica de silencios y met\u00e1foras que exhuma una realidad tan bella como dura.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Y se fue",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/y-se-fue",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3176,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2012
+    }
+}

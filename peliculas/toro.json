@@ -1,0 +1,229 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Casas",
+                "gender": "m",
+                "id": 3420,
+                "slug": "mario-casas",
+                "url": "https://www.filminlatino.mx/actor/mario-casas"
+            },
+            {
+                "full_name": "Luis Tosar",
+                "gender": "m",
+                "id": 1933,
+                "slug": "luis-tosar",
+                "url": "https://www.filminlatino.mx/actor/luis-tosar"
+            },
+            {
+                "full_name": "Jos\u00e9 Sacrist\u00e1n",
+                "gender": "m",
+                "id": 2397,
+                "slug": "jose-sacristan",
+                "url": "https://www.filminlatino.mx/actor/jose-sacristan"
+            }
+        ],
+        "avg_votes": 3.8,
+        "avg_votes_formatted": "3,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Kike Ma\u00edllo",
+                "gender": "m",
+                "id": 1484,
+                "slug": "kike-maillo",
+                "url": "https://www.filminlatino.mx/director/kike-maillo"
+            }
+        ],
+        "duration_in_minutes": 106,
+        "excerpt": "Agentes encubiertos, persecuciones, armas e intrigas: acci\u00f3n a la espa\u00f1ola.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 18,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/accion"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2808,
+        "image_card": "https://static.filminlatino.mx/images/media/2808/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2808/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2808/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2808/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2808/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2808/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2808/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2808/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Toro",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1101,
+                "name": "Apaches Entertainment",
+                "slug": "apaches-entertainment",
+                "url": "https://www.filminlatino.mx/producer/apaches-entertainment"
+            },
+            {
+                "acronym": "",
+                "id": 1231,
+                "name": "Atresmedia Cine",
+                "slug": "atresmedia-cine",
+                "url": "https://www.filminlatino.mx/producer/atresmedia-cine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "toro",
+        "synopsis": "Dos hermanos se reencuentran despu\u00e9s de cinco a\u00f1os. Uno ha estado en la c\u00e1rcel. El otro, tras robar a un peligroso perista, huye con su peque\u00f1a hija Diana. Los tres emprenden un viaje por una Andaluc\u00eda m\u00edtica, violenta y salvaje. Un viaje en el que reaparecen las viejas heridas del pasado y en el que los hermanos se ven obligados a reconciliarse para poder salvar la vida.",
+        "tags": [
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 714,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 568,
+                "name": "Cine espa\u00f1ol",
+                "slug": "cine-espanol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-espanol"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1461283200,
+        "theater_release_date": 1461283200,
+        "theater_spectators_formatted": null,
+        "title": "Toro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/toro",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2214,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/toro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/toro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/toro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

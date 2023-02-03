@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-valdivia-chile",
+                "name": "Festival Internacional de Cine Valdivia, Chile ",
+                "slug": "festival-internacional-de-cine-valdivia-chile",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival de la Memoria",
+                "slug": "festival-de-la-memoria",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine Documental Doqumenta",
+                "slug": "festival-de-cine-documental-doqumenta",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alba Herrera Rivas",
+                "gender": "m",
+                "id": 2574,
+                "slug": "alba-herrera-rivas",
+                "url": "https://www.filminlatino.mx/director/alba-herrera-rivas"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Previo a su injusta condena, los yaquis Mario y Fernando encabezan, junto a su pueblo, una lucha legal y de desobediencia civil para recuperar las aguas del r\u00edo Yaqui.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5636,
+        "image_card": "https://static.filminlatino.mx/images/media/5636/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5636/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5636/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5636/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5636/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5636/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5636/1/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 30,
+        "original_title": "Mover un r\u00edo",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mover-un-rio",
+        "synopsis": "Previo a su injusta condena, los yaquis Mario y Fernando encabezan, junto a su pueblo, una lucha legal y de desobediencia civil para recuperar las aguas del r\u00edo Yaqui.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 697,
+                "name": "Contaminaci\u00f3n",
+                "slug": "contaminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/contaminacion"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1507,
+                "name": "Muestra en defensa del territorio y el agua",
+                "slug": "muestra-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 1761,
+                "name": "Miguel Hidalgo | Promotores Culturales Comunitarios",
+                "slug": "miguel-hidalgo-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miguel-hidalgo-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 2552,
+                "name": "Espiral Foro Cultural Universitario",
+                "slug": "espiral-foro-cultural-universitario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiral-foro-cultural-universitario"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mover un r\u00edo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mover-un-rio",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5128,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MOVERUN.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MOVERUN/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MOVERUN/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

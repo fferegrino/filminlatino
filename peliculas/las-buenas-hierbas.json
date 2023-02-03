@@ -1,0 +1,507 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ana Ofelia Murgu\u00eda",
+                "gender": "f",
+                "id": 264,
+                "slug": "ana-ofelia-murguia",
+                "url": "https://www.filminlatino.mx/actriz/ana-ofelia-murguia"
+            },
+            {
+                "full_name": "Gabino Rodr\u00edguez",
+                "gender": "m",
+                "id": 492,
+                "slug": "gabino-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/gabino-rodriguez"
+            },
+            {
+                "full_name": "\u00darsula Pruneda",
+                "gender": "f",
+                "id": 666,
+                "slug": "ursula-pruneda",
+                "url": "https://www.filminlatino.mx/actriz/ursula-pruneda"
+            },
+            {
+                "full_name": "Ofelia Medina",
+                "gender": "f",
+                "id": 667,
+                "slug": "ofelia-medina",
+                "url": "https://www.filminlatino.mx/actriz/ofelia-medina"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2010
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2010
+            },
+            {
+                "category": "Premio del p\u00fablico cinecolor al Mejor largometraje mexicano de ficci\u00f3n",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Premio Mezcal ",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Femenina",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2010
+            },
+            {
+                "category": "Premio Marc Aurelio como Mejores actrices",
+                "icon": "festival-internacional-de-cine-de-roma",
+                "name": "Festival Internacional de Cine de Roma",
+                "slug": "festival-internacional-de-cine-de-roma",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-de-amazonas",
+                "name": "Festival de Cine de Amazonas",
+                "slug": "festival-de-cine-de-amazonas",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cine-de-amazonas",
+                "name": "Festival de Cine de Amazonas",
+                "slug": "festival-de-cine-de-amazonas",
+                "year": 2010
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "muestra-internacional-de-cine-de-santo-domingo-republica-dominicana",
+                "name": "Muestra Internacional de Cine de Santo Domingo, Rep\u00fablica Dominicana",
+                "slug": "muestra-internacional-de-cine-de-santo-domingo-republica-dominicana",
+                "year": 2010
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "muestra-internacional-de-cine-de-santo-domingo-republica-dominicana",
+                "name": "Muestra Internacional de Cine de Santo Domingo, Rep\u00fablica Dominicana",
+                "slug": "muestra-internacional-de-cine-de-santo-domingo-republica-dominicana",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mar\u00eda Novaro",
+                "gender": "f",
+                "id": 208,
+                "slug": "maria-novaro",
+                "url": "https://www.filminlatino.mx/directora/maria-novaro"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Una pel\u00edcula que nos envuelve en la maravilla de la Herbolaria Mexicana y nos muestra una Ciudad de M\u00e9xico viva y frondosa, como parec\u00eda no existir m\u00e1s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 240,
+        "image_card": "https://static.filminlatino.mx/images/media/240/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/240/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/240/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/240/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/240/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 99,
+        "original_title": "Las buenas hierbas",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CUEC",
+                "id": 95,
+                "name": "Centro Universitario de Estudios Cinematogr\u00e1ficos",
+                "slug": "centro-universitario-de-estudios-cinematograficos",
+                "url": "https://www.filminlatino.mx/producer/centro-universitario-de-estudios-cinematograficos"
+            },
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            },
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            },
+            {
+                "acronym": "",
+                "id": 181,
+                "name": "ECHASA",
+                "slug": "echasa",
+                "url": "https://www.filminlatino.mx/producer/echasa"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "las-buenas-hierbas",
+        "synopsis": "Un relato sobre la qu\u00edmica del cerebro, la qu\u00edmica de las plantas y de las emociones humanas. Da cuenta de los lazos invisibles que unen a los seres vivos con sus muertos; de la naturaleza que a todos nos envuelve y a la que en \u00faltima instancia pertenecemos. De los lazos que nos unen y las separaciones inevitables. De la herencia herbolaria mexicana y del conocimiento ancestral de ciertas plantas que ayudan a curar el alma.",
+        "tags": [
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 353,
+                "name": "Medicina alternativa",
+                "slug": "medicina-alternativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medicina-alternativa"
+            },
+            {
+                "id": 381,
+                "name": "Alzheimer",
+                "slug": "alzheimer",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alzheimer"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 90,
+                "name": "Gastronom\u00eda",
+                "slug": "gastronomia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gastronomia"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1363,
+                "name": "Efectos Especiales y visuales Ariel",
+                "slug": "efectos-especiales-y-visuales-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/efectos-especiales-y-visuales-ariel"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1885,
+                "name": "16 d\u00edas de activismo",
+                "slug": "16-dias-de-activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2117,
+                "name": "Ciclo El cine en el l\u00edmite de la medicina",
+                "slug": "ciclo-el-cine-en-el-limite-de-la-medicina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-cine-en-el-limite-de-la-medicina"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2612,
+                "name": "Ediciones anteriores",
+                "slug": "ediciones-anteriores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ediciones-anteriores"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1282262400,
+        "theater_release_date": 1282262400,
+        "theater_spectators_formatted": null,
+        "title": "Las buenas hierbas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-buenas-hierbas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 92,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/las-buenas-hierbas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/las-buenas-hierbas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/las-buenas-hierbas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

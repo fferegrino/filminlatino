@@ -1,0 +1,409 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Nominada a Mejor Largometraje Documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Competencia Oficial",
+                "icon": "festival-internacional-de-cine-contemporaneo-de-la-ciudad-de-mexico",
+                "name": "Festival Internacional de Cine Contempor\u00e1neo de la Ciudad de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-contemporaneo-de-la-ciudad-de-mexico",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Rosa Elena  Carbajal",
+                "gender": "f",
+                "id": 103,
+                "slug": "rosa-elena-carbajal",
+                "url": "https://www.filminlatino.mx/character/rosa-elena-carbajal"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Yulene Olaizola",
+                "gender": "f",
+                "id": 1063,
+                "slug": "yulene-olaizola",
+                "url": "https://www.filminlatino.mx/directora/yulene-olaizola"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Narraci\u00f3n sobre las historias y vivencias que pasaron en la casa de hu\u00e9spedes de la abuela de la realizadora.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5004,
+        "image_card": "https://static.filminlatino.mx/images/media/5004/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5004/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5004/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/5004/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5004/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5004/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5004/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5004/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/5004/2/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/5004/2/still_7_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 167,
+        "original_title": "Intimidades de Shakespeare y V\u00edctor Hugo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1702,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/producer/ccc"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "intimidades-de-shakespeare-y-victor-hugo",
+        "synopsis": "Este documental, ganador a mejor \u00f3pera prima en la 51\u00b0 edici\u00f3n de los premios Ariel, muestra\u00a0a la abuela de la\u00a0realizadora para introducir\u00a0las historias y vivencias que pasaron en su casa de hu\u00e9spedes. La joven cineasta reflexiona sobre la verdad y la leyenda, el recuerdo y las relaciones entre los seres humanos, que pueden moverse, veleidosamente, desde el amor hasta el ansia criminal.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1478,
+                "name": "Mujeres del CCC",
+                "slug": "mujeres-del-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-ccc"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1754,
+                "name": "Cuajimalpa de Morelos | Promotores Culturales Comunitarios",
+                "slug": "cuajimalpa-de-morelos-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuajimalpa-de-morelos-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 1761,
+                "name": "Miguel Hidalgo | Promotores Culturales Comunitarios",
+                "slug": "miguel-hidalgo-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miguel-hidalgo-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            },
+            {
+                "id": 2160,
+                "name": "Semana por el D\u00eda Nacional del Bibliotecario",
+                "slug": "semana-por-el-dia-nacional-del-bibliotecario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-por-el-dia-nacional-del-bibliotecario"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Intimidades de Shakespeare y V\u00edctor Hugo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/intimidades-de-shakespeare-y-victor-hugo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 4300,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/INTIMIDADESHAKESPEARE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/INTIMIDADESHAKESPEARE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/INTIMIDADESHAKESPEARE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

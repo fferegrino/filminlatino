@@ -1,0 +1,535 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "\u00c1ngeles Cruz",
+                "gender": "f",
+                "id": 172,
+                "slug": "angeles-cruz",
+                "url": "https://www.filminlatino.mx/actriz/angeles-cruz"
+            },
+            {
+                "full_name": "Angelina Pel\u00e1ez",
+                "gender": "f",
+                "id": 3163,
+                "slug": "angelina-pelaez",
+                "url": "https://www.filminlatino.mx/actriz/angelina-pelaez"
+            },
+            {
+                "full_name": "Mercedes Pascual",
+                "gender": "f",
+                "id": 129,
+                "slug": "mercedes-pascual",
+                "url": "https://www.filminlatino.mx/actriz/mercedes-pascual"
+            },
+            {
+                "full_name": "Gustavo S\u00e1nchez Parra",
+                "gender": "m",
+                "id": 1403,
+                "slug": "gustavo-sanchez-parra",
+                "url": "https://www.filminlatino.mx/actor/gustavo-sanchez-parra"
+            },
+            {
+                "full_name": "Harold Torres",
+                "gender": "m",
+                "id": 686,
+                "slug": "harold-torres",
+                "url": "https://www.filminlatino.mx/actor/harold-torres"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Nominada a Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz de cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula Internacional",
+                "icon": "festival-de-zurich",
+                "name": "Festival de Zurich",
+                "slug": "festival-de-zurich",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luc\u00eda Carreras",
+                "gender": "f",
+                "id": 532,
+                "slug": "lucia-carreras",
+                "url": "https://www.filminlatino.mx/directora/lucia-carreras"
+            }
+        ],
+        "duration_in_minutes": 108,
+        "excerpt": "Luego de que Tamara encontrara a una beb\u00e9 en un puesto de peri\u00f3dicos, su vida y Do\u00f1a Meche dar\u00e1 un giro muy radical.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4952,
+        "image_card": "https://static.filminlatino.mx/images/media/4952/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4952/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4952/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/1/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_11_3.jpg",
+            "https://static.filminlatino.mx/images/media/4952/2/still_12_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 231,
+        "original_title": "Tamara y la Catarina",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tamara-y-la-catarina",
+        "synopsis": "Tamara es una mujer con discapacidad mental que es abandonada por su hermano. Cuando conoce a Do\u00f1a Meche se da cuenta\u00a0de lo poderosa que puede ser la amistad. Un d\u00eda, Tamara encuentra a una beb\u00e9 en un puesto de peri\u00f3dicos, de quien se encari\u00f1a r\u00e1pidamente y a quien decide poner bajo su cuidado. Ambas mujeres ver\u00e1n en la peque\u00f1a, llamada Catarina, una especie de consuelo y esperanza.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 742,
+                "name": "Familiar_MX",
+                "slug": "familiar-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familiar-mx"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 552,
+                "name": "Beb\u00e9",
+                "slug": "bebe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bebe"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 1375,
+                "name": "Estrenos nacionales aniversario",
+                "slug": "estrenos-nacionales-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-aniversario"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1262,
+                "name": "2016",
+                "slug": "2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2016"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 1402,
+                "name": "Talento Emergente",
+                "slug": "talento-emergente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/talento-emergente"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1654,
+                "name": "Otro Cine | Quienes somos",
+                "slug": "otro-cine-quienes-somos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otro-cine-quienes-somos"
+            },
+            {
+                "id": 1806,
+                "name": "Retrospectiva Los Cabos Film Festival",
+                "slug": "retrospectiva-los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-los-cabos-film-festival"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2010,
+                "name": "Retrospectiva \u00c1ngeles Cruz",
+                "slug": "retrospectiva-angeles-cruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-angeles-cruz"
+            },
+            {
+                "id": 2075,
+                "name": "Universidad Aut\u00f3noma de Estudios Regionales de la UNAM",
+                "slug": "universidad-autonoma-de-estudios-regionales-de-la-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universidad-autonoma-de-estudios-regionales-de-la-unam"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2453,
+                "name": "Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/compendio-de-cineastas-contemporaneas"
+            },
+            {
+                "id": 2454,
+                "name": "\u00c1ngeles Cruz | Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "angeles-cruz-compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/angeles-cruz-compendio-de-cineastas-contemporaneas"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2585,
+                "name": "SEP - Inclusi\u00f3n",
+                "slug": "sep-inclusion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-inclusion"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1540512000,
+        "theater_release_date": 1540512000,
+        "theater_spectators_formatted": null,
+        "title": "Tamara y la Catarina",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tamara-y-la-catarina",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4294,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LACATARINA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LACATARINA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LACATARINA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

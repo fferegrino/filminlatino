@@ -1,0 +1,222 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 6,
+        "avg_votes_formatted": "6",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-contemporaneo-de-la-ciudad-de-mexico",
+                "name": "Festival Internacional de Cine Contempor\u00e1neo de la Ciudad de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-contemporaneo-de-la-ciudad-de-mexico",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luis Fernando Fr\u00edas de la Parra",
+                "gender": "m",
+                "id": 1844,
+                "slug": "luis-fernando-frias-de-la-parra",
+                "url": "https://www.filminlatino.mx/director/luis-fernando-frias-de-la-parra"
+            }
+        ],
+        "duration_in_minutes": 53,
+        "excerpt": "Un documental que\u00a0narra y celebra la universalidad de los ciclos y rituales de la\u00a0vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3424,
+        "image_card": "https://static.filminlatino.mx/images/media/3424/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3424/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3424/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3424/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3424/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3424/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3424/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Calentamiento local",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "calentamiento-local",
+        "synopsis": "En una paradis\u00edaca playa del Pac\u00edfico mexicano ocurre un extra\u00f1o fen\u00f3meno: turistas extranjeros y hombres\u00a0de la regi\u00f3n se re\u00fanen para compartir una danza de cortejo. Luis Fernando Fr\u00edas de la Parra ofrece un an\u00e1lisis antropol\u00f3gico sobre el comportamiento animal recurriendo a\u00a0la poes\u00eda descriptiva para narrar y celebrar la universalidad de los ciclos y los rituales de la vida. Este documental form\u00f3 parte de la selecci\u00f3n oficial del Festival Internacional de Cine de Morelia.\u00a0",
+        "tags": [
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 489,
+                "name": "Playa",
+                "slug": "playa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/playa"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 946,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canal-22"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 999,
+                "name": "Documentales canal 22",
+                "slug": "documentales-canal-22",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-canal-22"
+            },
+            {
+                "id": 836,
+                "name": "6\u00b0 FICM",
+                "slug": "60-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/60-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Calentamiento local",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/calentamiento-local",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2778,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

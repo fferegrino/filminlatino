@@ -1,0 +1,293 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Mejor Pel\u00edcula Latina ",
+                "icon": "premio-cinema",
+                "name": "Premio Cinema ",
+                "slug": "premio-cinema",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Documental ",
+                "icon": "premio-michael-moore",
+                "name": "Premio Michael Moore ",
+                "slug": "premio-michael-moore",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Largometraje Documental ",
+                "icon": "festival-de-cine-latino-de-san-diego-eua",
+                "name": "Festival de Cine Latino de San Diego, EUA",
+                "slug": "festival-de-cine-latino-de-san-diego-eua",
+                "year": 2013
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-nueva-orleans-eua",
+                "name": "Festival de Cine de Nueva Orleans, EUA.",
+                "slug": "festival-de-cine-de-nueva-orleans-eua",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo  Reyes ",
+                "gender": "m",
+                "id": 388,
+                "slug": "rodrigo-reyes",
+                "url": "https://www.filminlatino.mx/director/rodrigo-reyes"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Una f\u00e1bula humanista, una experiencia \u00e9pica y visceral con poderosas im\u00e1genes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 419,
+        "image_card": "https://static.filminlatino.mx/images/media/419/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/419/5/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/419/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/13/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/14/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/15/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/16/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/5/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/6/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/7/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/419/8/still_11_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Purgatorio, un viaje al coraz\u00f3n de la frontera",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 368,
+                "name": "RR Cinema",
+                "slug": "rr-cinema",
+                "url": "https://www.filminlatino.mx/producer/rr-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 369,
+                "name": "La Maroma Producciones",
+                "slug": "la-maroma-producciones",
+                "url": "https://www.filminlatino.mx/producer/la-maroma-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "purgatorio-un-viaje-al-corazon-de-la-frontera",
+        "synopsis": "Un retrato profundamente humano de la realidad ca\u00f3tica de la frontera M\u00e9xico-Estados Unidos. Est\u00e1 lleno de im\u00e1genes impactantes y elaborado como una cl\u00e1sica sinfon\u00eda urbana, en la que la suma de las partes forma una visi\u00f3n superior. Un universo entero de peque\u00f1as historias para crear una experiencia intensa y visceral que transporta al espectador hasta el alma misma de la vida en la frontera.",
+        "tags": [
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1362096000,
+        "theater_release_date": 1362096000,
+        "theater_spectators_formatted": null,
+        "title": "Purgatorio, un viaje al coraz\u00f3n de la frontera",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/purgatorio-un-viaje-al-corazon-de-la-frontera",
+        "versions": [
+            {
+                "codes": [],
+                "id": 663,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/purgatorio-un-viaje.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/purgatorio-un-viaje/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/purgatorio-un-viaje/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

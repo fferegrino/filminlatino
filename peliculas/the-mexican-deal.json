@@ -1,0 +1,252 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Bosco Arochi",
+                "gender": "m",
+                "id": 1425,
+                "slug": "bosco-arochi",
+                "url": "https://www.filminlatino.mx/director/bosco-arochi"
+            }
+        ],
+        "duration_in_minutes": 50,
+        "excerpt": "Un n\u00famero de trabajadores agr\u00edcolas mexicanos van cada a\u00f1o a Canad\u00e1 bajo un programa oficial para participar en los cultivos para su importaci\u00f3n. Este documental son sus historias.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2720,
+        "image_card": "https://static.filminlatino.mx/images/media/2720/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2720/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2720/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2720/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2720/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2720/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2720/6/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2720/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Le deal mexicain",
+        "producers": [
+            {
+                "acronym": "NFB",
+                "id": 204,
+                "name": "National Film Board of Canada ",
+                "slug": "national-film-board-of-canada",
+                "url": "https://www.filminlatino.mx/producer/national-film-board-of-canada"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "the-mexican-deal",
+        "synopsis": "Reconocido por su activismo al interior de la industria del cine mexicano a finales de la d\u00e9cada de los setenta, Bosco Arochi filma este documental en Ontario para acercarse a la\u00a0vida cotidiana de los trabajadores mexicanos inmersos en la \"experiencia canadiense\". Da cuenta del funcionamiento de conocido programa oficial que re\u00fane a cientos de campesinos cada a\u00f1o para emplearles en tierras de cultivo bajo condiciones deplorables. \u00a0",
+        "tags": [
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 1014,
+                "name": "Documental canadiense",
+                "slug": "documental-canadiense",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-canadiense"
+            },
+            {
+                "id": 1094,
+                "name": "MEX-CAN",
+                "slug": "mex-can",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mex-can"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1489,
+                "name": "Centro de Producci\u00f3n de Cortometraje",
+                "slug": "centro-de-produccion-de-cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/centro-de-produccion-de-cortometraje"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "The mexican deal",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/the-mexican-deal",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2562,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1980
+    }
+}

@@ -1,0 +1,557 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Juan Diego",
+                "gender": "m",
+                "id": 103,
+                "slug": "juan-diego",
+                "url": "https://www.filminlatino.mx/actor/juan-diego"
+            },
+            {
+                "full_name": "Daniel Gim\u00e9nez Cacho",
+                "gender": "m",
+                "id": 104,
+                "slug": "daniel-gimenez-cacho",
+                "url": "https://www.filminlatino.mx/actor/daniel-gimenez-cacho"
+            },
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Carlos Casta\u00f1\u00f3n",
+                "gender": "m",
+                "id": 106,
+                "slug": "carlos-castanon",
+                "url": "https://www.filminlatino.mx/actor/carlos-castanon"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1991
+            },
+            {
+                "category": "Makila de oro a Mejor Pel\u00edcula",
+                "icon": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "name": "Festival Internacional de Cine Iberoamericano de Biarritz",
+                "slug": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "year": 1991
+            },
+            {
+                "category": "Makila al Mejor Actor",
+                "icon": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "name": "Festival Internacional de Cine Iberoamericano de Biarritz",
+                "slug": "festival-internacional-de-cine-iberoamericano-de-biarritz",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Pel\u00edcula de la Organizaci\u00f3n Cat\u00f3lica Internacional de Cine",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano en La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-en-la-habana",
+                "year": 1991
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nicol\u00e1s Echevarr\u00eda",
+                "gender": "m",
+                "id": 41,
+                "slug": "nicolas-echevarria",
+                "url": "https://www.filminlatino.mx/director/nicolas-echevarria"
+            }
+        ],
+        "duration_in_minutes": 112,
+        "excerpt": "Un verdadero poema l\u00edrico y visual sobre el encuentro de los europeos con Am\u00e9rica.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 60,
+        "image_card": "https://static.filminlatino.mx/images/media/60/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/60/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/60/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/60/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/60/13/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/60/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/60/13/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 204,
+        "original_title": "Cabeza de Vaca",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": null,
+                "id": 3,
+                "name": "Producciones Iguana",
+                "slug": "producciones-iguana",
+                "url": "https://www.filminlatino.mx/producer/producciones-iguana"
+            },
+            {
+                "acronym": "TVE",
+                "id": 4,
+                "name": "Televisi\u00f3n Espa\u00f1ola",
+                "slug": "television-espanola",
+                "url": "https://www.filminlatino.mx/producer/television-espanola"
+            },
+            {
+                "acronym": null,
+                "id": 5,
+                "name": "Sociedad Estatal Quinto Centenario",
+                "slug": "sociedad-estatal-quinto-centenario",
+                "url": "https://www.filminlatino.mx/producer/sociedad-estatal-quinto-centenario"
+            },
+            {
+                "acronym": null,
+                "id": 6,
+                "name": "American Play House Theatrical Films",
+                "slug": "american-play-house-theatrical-films",
+                "url": "https://www.filminlatino.mx/producer/american-play-house-theatrical-films"
+            },
+            {
+                "acronym": null,
+                "id": 7,
+                "name": "Grupo Alicia Cooperativa Jos\u00e9 Revueltas",
+                "slug": "grupo-alicia-cooperativa-jose-revueltas",
+                "url": "https://www.filminlatino.mx/producer/grupo-alicia-cooperativa-jose-revueltas"
+            },
+            {
+                "acronym": null,
+                "id": 8,
+                "name": "Channel Four",
+                "slug": "channel-four",
+                "url": "https://www.filminlatino.mx/producer/channel-four"
+            },
+            {
+                "acronym": "FFCC",
+                "id": 2,
+                "name": "Fondo de Fomento a la Calidad Cinematogr\u00e1fica",
+                "slug": "fondo-de-fomento-a-la-calidad-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/fondo-de-fomento-a-la-calidad-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cabeza-de-vaca",
+        "synopsis": "Inspirado en la narraci\u00f3n del propio Alvar N\u00fa\u00f1ez, el filme es un verdadero poema l\u00edrico y visual sobre el encuentro de los europeos con Am\u00e9rica. \"Cabeza de Vaca\" narra c\u00f3mo durante los primeros a\u00f1os de la conquista espa\u00f1ola en 1527, el tesorero de Carlos I de Espa\u00f1a se embarc\u00f3 en la expedici\u00f3n de P\u00e1nfilo de Narv\u00e1ez a la Florida. Cuando la expedici\u00f3n naufraga en las costas de Texas tras ser diezmados por flechas ind\u00edgenas, Cabeza de Vaca cae prisionero y es convertido en esclavo junto con algunos sobrevivientes de la expedici\u00f3n. Durante varios a\u00f1os Alvar N\u00fa\u00f1ez ser\u00e1 el servidor de un cham\u00e1n trashumante y aprender\u00e1 sus t\u00e9cnicas curativas. M\u00e1s que una propuesta hist\u00f3rica rigurosa, el filme de Echevarr\u00eda plantea una visi\u00f3n pl\u00e1stica del mundo americano del siglo XVI al recurrir a la creaci\u00f3n de comunidades ind\u00edgenas probables de esa \u00e9poca -ninguna de ellas hist\u00f3ricamente cierta-. El cineasta sintetiza la visi\u00f3n imperante en ese mundo y, sobre todo, la incomprensi\u00f3n del europeo ante esa nueva realidad.\u00a0",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 168,
+                "name": "Brujer\u00eda",
+                "slug": "brujeria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/brujeria"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 321,
+                "name": "Exploradores y aventureros",
+                "slug": "exploradores-y-aventureros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exploradores-y-aventureros"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 598,
+                "name": "Hechos Reales MX",
+                "slug": "hechos-reales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hechos-reales-mx"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 875,
+                "name": "Restauradas",
+                "slug": "restauradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/restauradas"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 914,
+                "name": "M\u00e9xico cerca del Oscar",
+                "slug": "mexico-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-cerca-del-oscar"
+            },
+            {
+                "id": 678,
+                "name": "Digitalizadas",
+                "slug": "digitalizadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/digitalizadas"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 956,
+                "name": "Las m\u00e1s vistas Gratis MX",
+                "slug": "las-mas-vistas-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-gratis-mx"
+            },
+            {
+                "id": 1013,
+                "name": "Bertha Navarro",
+                "slug": "bertha-navarro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bertha-navarro"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1376,
+                "name": "Las m\u00e1s vistas FVOD cuarto aniversario",
+                "slug": "las-mas-vistas-fvod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-fvod-cuarto-aniversario"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1441,
+                "name": "Las m\u00e1s vistas 2019",
+                "slug": "las-mas-vistas-2019",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2019"
+            },
+            {
+                "id": 337,
+                "name": "Prehisp\u00e1nico",
+                "slug": "prehispanico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prehispanico"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 1653,
+                "name": "Retratos de M\u00e9xico, De la conquista a los cristeros",
+                "slug": "retratos-de-mexico-de-la-conquista-a-los-cristeros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos-de-mexico-de-la-conquista-a-los-cristeros"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2614,
+                "name": "Homenaje Daniel Gim\u00e9nez Cacho",
+                "slug": "homenaje-daniel-gimenez-cacho",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homenaje-daniel-gimenez-cacho"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Cabeza de Vaca",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cabeza-de-vaca",
+        "versions": [
+            {
+                "codes": [],
+                "id": 151,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cabeza-de-vaca.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cabeza-de-vaca/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cabeza-de-vaca/master.m3u8"
+                }
+            ]
+        },
+        "year": 1991
+    }
+}

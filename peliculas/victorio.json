@@ -1,0 +1,306 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roberto Sosa",
+                "gender": "m",
+                "id": 105,
+                "slug": "roberto-sosa",
+                "url": "https://www.filminlatino.mx/actor/roberto-sosa"
+            },
+            {
+                "full_name": "Luis Fernando Pe\u00f1a",
+                "gender": "m",
+                "id": 290,
+                "slug": "luis-fernando-pena",
+                "url": "https://www.filminlatino.mx/actor/luis-fernando-pena"
+            },
+            {
+                "full_name": "Manuel Ojeda",
+                "gender": "m",
+                "id": 534,
+                "slug": "manuel-ojeda",
+                "url": "https://www.filminlatino.mx/actor/manuel-ojeda"
+            },
+            {
+                "full_name": "Carmen Salinas",
+                "gender": "f",
+                "id": 645,
+                "slug": "carmen-salinas",
+                "url": "https://www.filminlatino.mx/actriz/carmen-salinas"
+            },
+            {
+                "full_name": "Ir\u00e1n Castillo",
+                "gender": "f",
+                "id": 646,
+                "slug": "iran-castillo",
+                "url": "https://www.filminlatino.mx/actriz/iran-castillo"
+            },
+            {
+                "full_name": "Guillermo Quintanilla",
+                "gender": "m",
+                "id": 648,
+                "slug": "guillermo-quintanilla",
+                "url": "https://www.filminlatino.mx/actor/guillermo-quintanilla"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alex Noppel Brise\u00f1o",
+                "gender": "m",
+                "id": 200,
+                "slug": "alex-noppel-briseno",
+                "url": "https://www.filminlatino.mx/director/alex-noppel-briseno"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Esta pel\u00edcula est\u00e1 dedicada a quienes a pesar de sentirse marginados no han perdido los sue\u00f1os.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 231,
+        "image_card": "https://static.filminlatino.mx/images/media/231/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/231/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/231/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/231/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/231/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "Victorio",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "victorio",
+        "synopsis": "Un mara temerario y una bella mujer que no conoce el miedo, cruzaron sus miradas y se amaron para siempre. Victorio sacrifica todo por Gabriela y juntos intentan escapar de un mundo hostil al que ya no pertenecen. Una historia de redenci\u00f3n, drama y acci\u00f3n, donde s\u00f3lo el amor vence todos los obst\u00e1culos.",
+        "tags": [
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 350,
+                "name": "Bandas callejeras",
+                "slug": "bandas-callejeras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bandas-callejeras"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 2643,
+                "name": "Directores que participan en el GIFF 25",
+                "slug": "directores-que-participan-en-el-giff-25",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-que-participan-en-el-giff-25"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1304640000,
+        "theater_release_date": 1304640000,
+        "theater_spectators_formatted": null,
+        "title": "Victorio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/victorio",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 130,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/victorio.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/victorio/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/victorio/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Marcos Duarte",
+                "gender": "m",
+                "id": 1366,
+                "slug": "marcos-duarte",
+                "url": "https://www.filminlatino.mx/actor/marcos-duarte"
+            },
+            {
+                "full_name": "Micho  Camacho",
+                "gender": "m",
+                "id": 6683,
+                "slug": "micho-camacho",
+                "url": "https://www.filminlatino.mx/actor/micho-camacho"
+            },
+            {
+                "full_name": "Mar\u00eda  Pura",
+                "gender": "f",
+                "id": 6684,
+                "slug": "maria-pura",
+                "url": "https://www.filminlatino.mx/actriz/maria-pura"
+            },
+            {
+                "full_name": "Isaac P\u00e9rez Calzada",
+                "gender": "m",
+                "id": 2730,
+                "slug": "isaac-perez-calzada",
+                "url": "https://www.filminlatino.mx/actor/isaac-perez-calzada"
+            },
+            {
+                "full_name": "Blanca  Ferreyra",
+                "gender": "f",
+                "id": 6685,
+                "slug": "blanca-ferreyra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-ferreyra"
+            },
+            {
+                "full_name": "\u00c1ngel Garnica",
+                "gender": "m",
+                "id": 2732,
+                "slug": "angel-garnica",
+                "url": "https://www.filminlatino.mx/actor/angel-garnica"
+            },
+            {
+                "full_name": "Enrique  Cervantes",
+                "gender": "m",
+                "id": 6686,
+                "slug": "enrique-cervantes",
+                "url": "https://www.filminlatino.mx/actor/enrique-cervantes"
+            },
+            {
+                "full_name": "Pablo  Toledo",
+                "gender": "m",
+                "id": 6687,
+                "slug": "pablo-toledo",
+                "url": "https://www.filminlatino.mx/actor/pablo-toledo"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro G. Alegre",
+                "gender": "m",
+                "id": 516,
+                "slug": "alejandro-g-alegre",
+                "url": "https://www.filminlatino.mx/director/alejandro-g-alegre"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Un doctor es secuestrado por un joven con problemas mentales.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6189,
+        "image_card": "https://static.filminlatino.mx/images/media/6189/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6189/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6189/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6189/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6189/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6189/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/6189/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/6189/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 191,
+        "original_title": "El diablo me dijo qu\u00e9 hacer",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2521,
+                "name": "Alex G. Alegre",
+                "slug": "alex-g-alegre",
+                "url": "https://www.filminlatino.mx/producer/alex-g-alegre"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-diablo-me-dijo-que-hacer",
+        "synopsis": "Un joven con severos problemas mentales secuestra a un doctor que se dedica a hacer fraudes con seguros m\u00e9dicos, para hacerlo confesar sus delitos.\u00a0",
+        "tags": [
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 138,
+                "name": "Terror cl\u00e1sico",
+                "slug": "terror-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-clasico"
+            },
+            {
+                "id": 675,
+                "name": "Terror psicol\u00f3gico",
+                "slug": "terror-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-psicologico"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 843,
+                "name": "Cl\u00e1sicos de horror",
+                "slug": "clasicos-de-horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-de-horror"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 759,
+                "name": "Horror_MX",
+                "slug": "horror-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror-mx"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 685,
+                "name": "Enfermedades mentales",
+                "slug": "enfermedades-mentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-mentales"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 989,
+                "name": "Especial Macabro",
+                "slug": "especial-macabro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-macabro"
+            },
+            {
+                "id": 757,
+                "name": "Thriller_MX",
+                "slug": "thriller-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-mx"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 561,
+                "name": "Fantasmas",
+                "slug": "fantasmas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasmas"
+            },
+            {
+                "id": 1593,
+                "name": "Macabro 2020",
+                "slug": "macabro-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/macabro-2020"
+            },
+            {
+                "id": 1595,
+                "name": "Largometraje iberoamericano de horror | Macabro 2020",
+                "slug": "largometraje-iberoamericano-de-horror-macabro-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-iberoamericano-de-horror-macabro-2020"
+            },
+            {
+                "id": 1744,
+                "name": "Largometrajes nacionales | Espanto Film Fest",
+                "slug": "largometrajes-nacionales-espanto-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-nacionales-espanto-film-fest"
+            },
+            {
+                "id": 1745,
+                "name": "Espanto Film Fest",
+                "slug": "espanto-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espanto-film-fest"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2736,
+                "name": "10 d\u00edas de terror en FilminLatino ",
+                "slug": "10-dias-de-terror-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/10-dias-de-terror-en-filminlatino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El diablo me dijo qu\u00e9 hacer",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-diablo-me-dijo-que-hacer",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5931,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/EL-DIABLO-ME-DIJO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/EL-DIABLO-ME-DIJO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/EL-DIABLO-ME-DIJO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Kuno Becker",
+                "gender": "m",
+                "id": 1838,
+                "slug": "kuno-becker",
+                "url": "https://www.filminlatino.mx/actor/kuno-becker"
+            },
+            {
+                "full_name": "Ana Serradilla",
+                "gender": "f",
+                "id": 983,
+                "slug": "ana-serradilla",
+                "url": "https://www.filminlatino.mx/actriz/ana-serradilla"
+            },
+            {
+                "full_name": "Roc\u00edo Verdejo",
+                "gender": "f",
+                "id": 610,
+                "slug": "rocio-verdejo",
+                "url": "https://www.filminlatino.mx/actriz/rocio-verdejo"
+            },
+            {
+                "full_name": "Gerardo Taracena",
+                "gender": "m",
+                "id": 171,
+                "slug": "gerardo-taracena",
+                "url": "https://www.filminlatino.mx/actor/gerardo-taracena"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Kai Parlange Tessmann",
+                "gender": "m",
+                "id": 661,
+                "slug": "kai-parlange-tessmann",
+                "url": "https://www.filminlatino.mx/director/kai-parlange-tessmann"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "La gran f\u00e9 y dignidad de L\u00e1zaro mostrar\u00e1n lo inquebrantable que puede llegar a ser el esp\u00edritu humano.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1017,
+        "image_card": "https://static.filminlatino.mx/images/media/1017/3/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1017/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1017/4/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1017/4/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1017/4/still_3_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Espacio interior",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 646,
+                "name": "Sin Sentido Films ",
+                "slug": "sin-sentido-films",
+                "url": "https://www.filminlatino.mx/producer/sin-sentido-films"
+            },
+            {
+                "acronym": "",
+                "id": 645,
+                "name": "Glorieta Films",
+                "slug": "glorieta-films",
+                "url": "https://www.filminlatino.mx/producer/glorieta-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "espacio-interior",
+        "synopsis": "L\u00e1zaro permanece secuestrado en un cuarto de tres metros cuadrados completamente aislado del mundo exterior. Obligado a revelar informaci\u00f3n \u00edntima sobre sus familiares, cae en una desidia total. Al borde de la muerte, se da cuenta, esperanzado, de que su voluntad y su mente nunca podr\u00e1n ser secuestrados.",
+        "tags": [
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 914,
+                "name": "M\u00e9xico cerca del Oscar",
+                "slug": "mexico-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-cerca-del-oscar"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1331683200,
+        "theater_release_date": 1331683200,
+        "theater_spectators_formatted": null,
+        "title": "Espacio interior",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/espacio-interior",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 836,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/espacio-interior.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/espacio-interior/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/espacio-interior/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

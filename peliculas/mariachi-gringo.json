@@ -1,0 +1,282 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Shawn Ashmore",
+                "gender": "m",
+                "id": 1839,
+                "slug": "shawn-ashmore",
+                "url": "https://www.filminlatino.mx/actor/shawn-ashmore"
+            },
+            {
+                "full_name": "Martha Higareda",
+                "gender": "f",
+                "id": 1840,
+                "slug": "martha-higareda",
+                "url": "https://www.filminlatino.mx/actriz/martha-higareda"
+            },
+            {
+                "full_name": "Kate Burton",
+                "gender": "m",
+                "id": 1841,
+                "slug": "kate-burton",
+                "url": "https://www.filminlatino.mx/actor/kate-burton"
+            },
+            {
+                "full_name": "Adriana Barraza",
+                "gender": "f",
+                "id": 545,
+                "slug": "adriana-barraza",
+                "url": "https://www.filminlatino.mx/actriz/adriana-barraza"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2012
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Tom Gustafson",
+                "gender": "m",
+                "id": 662,
+                "slug": "tom-gustafson",
+                "url": "https://www.filminlatino.mx/director/tom-gustafson"
+            }
+        ],
+        "duration_in_minutes": 108,
+        "excerpt": "Una cinta que explora la frase \"seguir tus sue\u00f1os\" a trav\u00e9s de \u00e1mbitos culturales y personales.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1018,
+        "image_card": "https://static.filminlatino.mx/images/media/1018/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1018/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1018/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1018/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1018/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Mariachi Gringo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 646,
+                "name": "Sin Sentido Films ",
+                "slug": "sin-sentido-films",
+                "url": "https://www.filminlatino.mx/producer/sin-sentido-films"
+            },
+            {
+                "acronym": "",
+                "id": 647,
+                "name": "SPEAK productions",
+                "slug": "speak-productions",
+                "url": "https://www.filminlatino.mx/producer/speak-productions"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "mariachi-gringo",
+        "synopsis": "Una comedia rom\u00e1ntica sobre un joven que -tras tener como improvisado maestro de guitarra a un emigrante- viaja a M\u00e9xico huyendo de su vida tediosa y de su familia, para ejercitarse como mariachi.",
+        "tags": [
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 943,
+                "name": "Bisexualidad",
+                "slug": "bisexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bisexualidad"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 1498,
+                "name": "Orgullo LGBT+",
+                "slug": "orgullo-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullo-lgbt"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1283,
+                "name": "Amigas ",
+                "slug": "amigas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amigas"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 1329,
+                "name": "Directores",
+                "slug": "directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1330646400,
+        "theater_release_date": 1330646400,
+        "theater_spectators_formatted": null,
+        "title": "Mariachi Gringo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mariachi-gringo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 887,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/mariachi-gringo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/mariachi-gringo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/mariachi-gringo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

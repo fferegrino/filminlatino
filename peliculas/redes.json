@@ -1,0 +1,279 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Silvio Hern\u00e1ndez",
+                "gender": "m",
+                "id": 3641,
+                "slug": "silvio-hernandez",
+                "url": "https://www.filminlatino.mx/actor/silvio-hernandez"
+            },
+            {
+                "full_name": "David  Valle Gonz\u00e1lez",
+                "gender": "m",
+                "id": 3642,
+                "slug": "david-valle-gonzalez",
+                "url": "https://www.filminlatino.mx/actor/david-valle-gonzalez"
+            },
+            {
+                "full_name": "Rafael  Hinojosa",
+                "gender": "m",
+                "id": 3643,
+                "slug": "rafael-hinojosa",
+                "url": "https://www.filminlatino.mx/actor/rafael-hinojosa"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emilio G\u00f3mez Muriel",
+                "gender": "m",
+                "id": 1248,
+                "slug": "emilio-gomez-muriel",
+                "url": "https://www.filminlatino.mx/director/emilio-gomez-muriel"
+            },
+            {
+                "full_name": "Fred Zinnemann",
+                "gender": "m",
+                "id": 1249,
+                "slug": "fred-zinnemann",
+                "url": "https://www.filminlatino.mx/director/fred-zinnemann"
+            }
+        ],
+        "duration_in_minutes": 58,
+        "excerpt": "En Veracruz los pescadores son explotados, por un jefe que les paga una miseria y los trata mal, un joven pescador cansado de esa injusticia se propone unirlos para oponerse a la explotaci\u00f3n",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2510,
+        "image_card": "https://static.filminlatino.mx/images/media/2510/12/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2510/11/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2510/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2510/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2510/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2510/11/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 52,
+        "original_title": "Redes",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1435,
+                "name": "Azteca Films",
+                "slug": "azteca-films",
+                "url": "https://www.filminlatino.mx/producer/azteca-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "redes",
+        "synopsis": "En un pueblo de Veracruz, los pescadores que trabajan diez horas diarias, son explotados por Anselmo el rico comerciante de la regi\u00f3n les paga muy poco y no les alcanza ni siquiera para cubrir sus necesidades diarias y entonces deciden reclamar un mejor pago por su pescado, pero ante la negativa del acaparador comerciante Miro, un joven pescador se propone unirlos para oponerse a la explotaci\u00f3n, pero don Anselmo est\u00e1 dispuesto a aplicar su lema: \"Divide y reinar\u00e1s\".",
+        "tags": [
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 286,
+                "name": "Revuelta social",
+                "slug": "revuelta-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revuelta-social"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 829,
+                "name": "14\u00b0 FICM",
+                "slug": "140-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-ficm"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1069,
+                "name": "Filmoteca UNAM",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmoteca-unam"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1162,
+                "name": "Cl\u00e1sicos en blanco y negro",
+                "slug": "clasicos-en-blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-en-blanco-y-negro"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1410,
+                "name": "Aniversario UNAM",
+                "slug": "aniversario-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aniversario-unam"
+            },
+            {
+                "id": 1411,
+                "name": "Especial UNAM",
+                "slug": "especial-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-unam"
+            },
+            {
+                "id": 1415,
+                "name": "Arcadia UNAM",
+                "slug": "arcadia-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arcadia-unam"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -1055980800,
+        "theater_release_date": -1055980800,
+        "theater_spectators_formatted": null,
+        "title": "Redes",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/redes",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2153,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1936
+    }
+}

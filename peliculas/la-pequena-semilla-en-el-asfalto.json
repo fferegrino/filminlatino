@@ -1,0 +1,263 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Ganador",
+                "icon": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "name": "Encuentro Hispanoamericano de Cine y Video Documental Independiente \"Contra el Silencio Todas las Voces\"",
+                "slug": "encuentro-hispanoamericano-de-cine-y-video-documental-independiente-contra-el-silencio-todas-las-voces",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Dolores S\u00e1ntiz G\u00f3mez",
+                "gender": "f",
+                "id": 2679,
+                "slug": "dolores-santiz-gomez",
+                "url": "https://www.filminlatino.mx/character/dolores-santiz-gomez"
+            },
+            {
+                "full_name": "Flavio Jim\u00e9nez Alfonso",
+                "gender": "m",
+                "id": 2680,
+                "slug": "flavio-jimenez-alfonso",
+                "url": "https://www.filminlatino.mx/character/flavio-jimenez-alfonso"
+            },
+            {
+                "full_name": "Floriano Enrique Hern\u00e1ndez Cruz \u201cRonyk\u201d",
+                "gender": "m",
+                "id": 2681,
+                "slug": "floriano-enrique-hernandez-cruz-ronyk",
+                "url": "https://www.filminlatino.mx/character/floriano-enrique-hernandez-cruz-ronyk"
+            },
+            {
+                "full_name": "Pascuala D\u00edaz G\u00f3mez",
+                "gender": "f",
+                "id": 2682,
+                "slug": "pascuala-diaz-gomez",
+                "url": "https://www.filminlatino.mx/character/pascuala-diaz-gomez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pedro Daniel L\u00f3pez L\u00f3pez",
+                "gender": "m",
+                "id": 6333,
+                "slug": "pedro-daniel-lopez-lopez",
+                "url": "https://www.filminlatino.mx/director/pedro-daniel-lopez-lopez"
+            }
+        ],
+        "duration_in_minutes": 78,
+        "excerpt": "Dolores, Pascuala, Floriano y Flavio provienen de diferentes etnias de Chiapas, buscando establecerse en la urbe y en ella luchar por una vida digna.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10787,
+        "image_card": "https://static.filminlatino.mx/images/media/10787/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10787/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10787/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10787/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10787/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10787/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "La peque\u00f1a semilla en el asfalto",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-pequena-semilla-en-el-asfalto",
+        "synopsis": "Dolores Santiz, Pascuala D\u00edaz, Floriano Enrique Ronyk y Flavio Jim\u00e9nez, son provenientes de diferentes etnias ind\u00edgenas de Chiapas y que impulsan un largo recorrido que incluye la salida de la comunidad de nacimiento, la instalaci\u00f3n en la urbe y en ella la lucha por una vida digna y justa; as\u00ed como la b\u00fasqueda del reconocimiento de una nueva comunidad, con todas sus problem\u00e1ticas, pero que est\u00e1 adquiriendo fuerza.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 539,
+                "name": "Culturismo",
+                "slug": "culturismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturismo"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 2504,
+                "name": "Exposici\u00f3n virtual Ejxt\u00e4\u2019\u00e4n P\u00ebjkmujkt\u00e4\u00e4jk",
+                "slug": "exposicion-virtual-ejxtaan-pejkmujktaajk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exposicion-virtual-ejxtaan-pejkmujktaajk"
+            },
+            {
+                "id": 2503,
+                "name": "3\u00b0 Muestra de Cine en Lenguas Ind\u00edgenas",
+                "slug": "30-muestra-de-cine-en-lenguas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/30-muestra-de-cine-en-lenguas-indigenas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La peque\u00f1a semilla en el asfalto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-pequena-semilla-en-el-asfalto",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12610,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

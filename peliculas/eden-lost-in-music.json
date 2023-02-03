@@ -1,0 +1,345 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "F\u00e9lix De Givry",
+                "gender": "m",
+                "id": 3972,
+                "slug": "felix-de-givry",
+                "url": "https://www.filminlatino.mx/actor/felix-de-givry"
+            },
+            {
+                "full_name": "Pauline Etienne",
+                "gender": "f",
+                "id": 3973,
+                "slug": "pauline-etienne",
+                "url": "https://www.filminlatino.mx/actriz/pauline-etienne"
+            },
+            {
+                "full_name": "Laura Smet",
+                "gender": "f",
+                "id": 3974,
+                "slug": "laura-smet",
+                "url": "https://www.filminlatino.mx/actriz/laura-smet"
+            },
+            {
+                "full_name": "Vincent Lacoste",
+                "gender": "m",
+                "id": 3975,
+                "slug": "vincent-lacoste",
+                "url": "https://www.filminlatino.mx/actor/vincent-lacoste"
+            },
+            {
+                "full_name": "Greta Gerwig",
+                "gender": "f",
+                "id": 1316,
+                "slug": "greta-gerwig",
+                "url": "https://www.filminlatino.mx/actriz/greta-gerwig"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2014
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mia Hansen-L\u00f8ve",
+                "gender": "f",
+                "id": 1376,
+                "slug": "mia-hansen-love",
+                "url": "https://www.filminlatino.mx/directora/mia-hansen-love"
+            }
+        ],
+        "duration_in_minutes": 131,
+        "excerpt": "Una interesante mirada al mundo de la m\u00fasica electr\u00f3nica. Su naturaleza agridulce es su mejor cualidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2655,
+        "image_card": "https://static.filminlatino.mx/images/media/2655/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2655/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2655/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2655/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2655/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2655/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2655/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2655/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "Eden: Lost in music",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1175,
+                "name": "CG Cin\u00e9ma",
+                "slug": "cg-cinema",
+                "url": "https://www.filminlatino.mx/producer/cg-cinema"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "eden-lost-in-music",
+        "synopsis": "En la d\u00e9cada de los 90, la m\u00fasica electr\u00f3nica se desarrolla a gran velocidad. En la excitante vida nocturna parisina, el joven Paul da sus primeros pasos como DJ.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 819,
+                "name": "Mundo digital",
+                "slug": "mundo-digital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-digital"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1438905600,
+        "theater_release_date": 1438905600,
+        "theater_spectators_formatted": null,
+        "title": "Eden: Lost in music",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/eden-lost-in-music",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2015,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/eden.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/eden/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/eden/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

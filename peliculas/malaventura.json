@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Enrique Arias",
+                "gender": "m",
+                "id": 2598,
+                "slug": "enrique-arias",
+                "url": "https://www.filminlatino.mx/actor/enrique-arias"
+            },
+            {
+                "full_name": "Payaso Clavito",
+                "gender": "m",
+                "id": 2599,
+                "slug": "payaso-clavito",
+                "url": "https://www.filminlatino.mx/actor/payaso-clavito"
+            },
+            {
+                "full_name": "Ra\u00fal Sol\u00f3rzano",
+                "gender": "m",
+                "id": 2605,
+                "slug": "raul-solorzano",
+                "url": "https://www.filminlatino.mx/actor/raul-solorzano"
+            },
+            {
+                "full_name": "Francisco Jim\u00e9nez",
+                "gender": "m",
+                "id": 904,
+                "slug": "francisco-jimenez",
+                "url": "https://www.filminlatino.mx/actor/francisco-jimenez"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n a la Dama Harimaguada de Oro",
+                "icon": "las-palmas-film-festival",
+                "name": "Las Palmas Film Festival",
+                "slug": "las-palmas-film-festival",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Michel Lipkes",
+                "gender": "m",
+                "id": 897,
+                "slug": "michel-lipkes",
+                "url": "https://www.filminlatino.mx/director/michel-lipkes"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Los recuerdos que aquejan a un anciano en el \u00faltimo d\u00eda de su vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1397,
+        "image_card": "https://static.filminlatino.mx/images/media/1397/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/1397/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1397/3/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/1397/2/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Malaventura",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            },
+            {
+                "acronym": "",
+                "id": 976,
+                "name": "Circo 2.12 A.C.",
+                "slug": "circo-212-ac",
+                "url": "https://www.filminlatino.mx/producer/circo-212-ac"
+            },
+            {
+                "acronym": "",
+                "id": 930,
+                "name": "Ki Visual",
+                "slug": "ki-visual",
+                "url": "https://www.filminlatino.mx/producer/ki-visual"
+            },
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "malaventura",
+        "synopsis": "Los recuerdos que aquejan a un anciano en el \u00faltimo d\u00eda de su vida. Camina las calles de la ciudad y la vida transcurre cotidianamente, la culpabilidad lo conduce y el dolor toma forma. El viejo sigue su camino, hasta el final, mientras la vida sigue sus extra\u00f1os rumbos.",
+        "tags": [
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1031,
+                "name": "Axolote",
+                "slug": "axolote",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axolote"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Malaventura",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/malaventura",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1949,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/malaventura.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/malaventura/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/malaventura/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 4.7,
+        "avg_votes_formatted": "4,7",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Sunscreen Film Festival",
+                "slug": "sunscreen-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio de M\u00e9rito",
+                "icon": "",
+                "name": "Nature Without Borders International Film Festival",
+                "slug": "nature-without-borders-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Tokyo Lift-Off Film Festival",
+                "slug": "tokyo-lift-off-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor M\u00fasica Original ",
+                "icon": "",
+                "name": "New York Cinematography Awards",
+                "slug": "new-york-cinematography-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Ambiental",
+                "icon": "",
+                "name": "Silk Road Awards Cannes",
+                "slug": "silk-road-awards-cannes",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "White Unicorn International Film Festival",
+                "slug": "white-unicorn-international-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Edson Matus",
+                "gender": "m",
+                "id": 3294,
+                "slug": "edson-matus",
+                "url": "https://www.filminlatino.mx/character/edson-matus"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jose\u0301 Emilio Ramos Go\u0301mez",
+                "gender": "m",
+                "id": 6985,
+                "slug": "jose-emilio-ramos-gomez",
+                "url": "https://www.filminlatino.mx/director/jose-emilio-ramos-gomez"
+            }
+        ],
+        "duration_in_minutes": 51,
+        "excerpt": "El Polo Norte, donde el cielo nocturno ha sobrevivido a la extinci\u00f3n por la contaminaci\u00f3n lum\u00ednica, y se observa uno de los fen\u00f3menos m\u00e1s bellos de la naturaleza: las auroras boreales.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11889,
+        "image_card": "https://static.filminlatino.mx/images/media/11889/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11889/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11889/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11889/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11889/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11889/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11889/10/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Giro polar",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3593,
+                "name": "Iva\u0301n Espinosa Luna",
+                "slug": "ivan-espinosa-luna",
+                "url": "https://www.filminlatino.mx/producer/ivan-espinosa-luna"
+            },
+            {
+                "acronym": "",
+                "id": 3594,
+                "name": "Manuel Ga\u0301lvez Cruz",
+                "slug": "manuel-galvez-cruz",
+                "url": "https://www.filminlatino.mx/producer/manuel-galvez-cruz"
+            },
+            {
+                "acronym": "",
+                "id": 3595,
+                "name": "Justin B. Allen",
+                "slug": "justin-b-allen",
+                "url": "https://www.filminlatino.mx/producer/justin-b-allen"
+            },
+            {
+                "acronym": "",
+                "id": 3596,
+                "name": "Jose\u0301 Emilio Ramos Go\u0301mez",
+                "slug": "jose-emilio-ramos-gomez",
+                "url": "https://www.filminlatino.mx/producer/jose-emilio-ramos-gomez"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "giro-polar",
+        "synopsis": "Un viaje a lo desconocido para descubrir los lugares ma\u0301s lejanos, la u\u0301ltima frontera, donde las noches son largas y ge\u0301lidas, las condiciones para la vida son extremas, la dualidad siempre presente entre la belleza y su hostilidad, la tranquilidad y el silencio que trae la muerte, la lucha constante para mantenerse vivo. El Polo Norte, donde los cielos nocturnos cristalinos e impolutos han sobrevivido al proceso de extincio\u0301n por la contaminacio\u0301n lumi\u0301nica de la civilizaciones, y el lugar en el que se observa uno de los feno\u0301menos ma\u0301s extraordinarios de la naturaleza: las auroras boreales. Este viajero escapa de la luz artificial para encontrar la luz ma\u0301s pura y distante, perdie\u0301ndose en lo desconocido para encontrarse a si\u0301 mismo y cuestionar su rol en este universo y tiempo, en el que somos diminutos y fugaces.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 742,
+                "name": "Familiar_MX",
+                "slug": "familiar-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familiar-mx"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 2492,
+                "name": "Viajes transformadores",
+                "slug": "viajes-transformadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-transformadores"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Giro polar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/giro-polar",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13745,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2020
+    }
+}

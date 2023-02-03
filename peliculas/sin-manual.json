@@ -1,0 +1,313 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine, Ciudad y Arquitectura, Nicaragua 2017.",
+                "slug": "festival-de-cine-ciudad-y-arquitectura-nicaragua-2017",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Cholula Film Festival, Puebla, M\u00e9xico 2017",
+                "slug": "cholula-film-festival-puebla-mexico-2017",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Festival Internacional de Cine y Arquitectura Santander, FICARQ",
+                "slug": "festival-internacional-de-cine-y-arquitectura-santander-ficarq",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Architecture Film Festival 2018",
+                "slug": "architecture-film-festival-2018",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": " Toyo Ito",
+                "gender": "m",
+                "id": 49,
+                "slug": "toyo-ito",
+                "url": "https://www.filminlatino.mx/character/toyo-ito"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francisco Gonz\u00e1lez Pi\u00f1a",
+                "gender": "m",
+                "id": 2095,
+                "slug": "francisco-gonzalez-pina",
+                "url": "https://www.filminlatino.mx/director/francisco-gonzalez-pina"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "Historia de un equipo mexicano que puso a prueba su ingenio haciendo equipo con el arquitecto japon\u00e9s Toyo Ito.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4269,
+        "image_card": "https://static.filminlatino.mx/images/media/4269/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/4269/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4269/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4269/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4269/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/4269/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 142,
+        "original_title": "Sin manual",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1953,
+                "name": "Lum\u00e1tica Media",
+                "slug": "lumatica-media",
+                "url": "https://www.filminlatino.mx/producer/lumatica-media"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sin-manual",
+        "synopsis": "Un equipo tom\u00f3 el reto de construir un inmueble ideado por\u00a0japon\u00e9s Toyo Ito, reconocido en Europa y Asia por sus fant\u00e1sticas obras arquitect\u00f3nicas. Poner en pie un museo de estas dimensiones fue algo sin precedentes para muchos de los involucrados as\u00ed que fue necesario\u00a0improvisar maneras extraordinarias para hacerlo realidad y cumplir con la meta que todo el equipo ten\u00eda en com\u00fan: terminar la construcci\u00f3n en 27 semanas. El resultado es el Museo Internacional del Barroco, ubicado en Puebla, M\u00e9xico.",
+        "tags": [
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 65,
+                "name": "Arquitectura",
+                "slug": "arquitectura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arquitectura"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 1315,
+                "name": "Museos ",
+                "slug": "museos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/museos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 1699,
+                "name": "CINETEKTON 7",
+                "slug": "cinetekton-7",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7"
+            },
+            {
+                "id": 1700,
+                "name": "CINETEKTON 7 a\u00f1os",
+                "slug": "cinetekton-7-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7-anos"
+            },
+            {
+                "id": 1749,
+                "name": "Selecci\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "seleccion-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1482710400,
+        "theater_release_date": 1482710400,
+        "theater_spectators_formatted": null,
+        "title": "Sin manual",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sin-manual",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 3652,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/sin.manual.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/sin.manual/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/sin.manual/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

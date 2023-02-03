@@ -1,0 +1,236 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Maurice Bulbulian",
+                "gender": "m",
+                "id": 1691,
+                "slug": "maurice-bulbulian",
+                "url": "https://www.filminlatino.mx/director/maurice-bulbulian"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "La traves\u00eda del frente unido \"Tierra y libertad\", un grupo de campesinos construyendo su propio tipo de sociedad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2736,
+        "image_card": "https://static.filminlatino.mx/images/media/2736/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2736/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2736/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/5/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/7/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/9/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/11/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/13/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/2736/15/still_10_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Tierra y libertad",
+        "producers": [
+            {
+                "acronym": "NFB",
+                "id": 204,
+                "name": "National Film Board of Canada ",
+                "slug": "national-film-board-of-canada",
+                "url": "https://www.filminlatino.mx/producer/national-film-board-of-canada"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tierra-y-libertad",
+        "synopsis": "Documental que presenta las traves\u00edas y vivencias del frente unido \"Tierra y Libertad\" de antiguos campesinos mexicanos que se aglomeraban en las afueras de la ciudad de Monterrey, en el norte industrial de M\u00e9xico, que ocupan tierras urbanas construyendo su propio tipo de sociedad.",
+        "tags": [
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 1094,
+                "name": "MEX-CAN",
+                "slug": "mex-can",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mex-can"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1799,
+                "name": "Ba'du (Ni\u00f1as/ni\u00f1os) | MIC Istmo",
+                "slug": "badu-ninasninos-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/badu-ninasninos-mic-istmo"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tierra y libertad",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tierra-y-libertad",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2576,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1978
+    }
+}

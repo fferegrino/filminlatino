@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Premio Cuenca",
+                "icon": "festival-internacional-de-cine-y-medio-ambiente-cinema-planeta-de-mexico",
+                "name": "Festival Internacional de Cine y Medio Ambiente, Cinema Planeta de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-y-medio-ambiente-cinema-planeta-de-mexico",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "DOCSMX",
+                "slug": "docsmx",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival Internacional de Documentales Santiago \u00c1lvarez in Memoriam",
+                "slug": "festival-internacional-de-documentales-santiago-alvarez-in-memoriam",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "FICWALLMAPU: Festival Internacional de Cine y Video",
+                "slug": "ficwallmapu-festival-internacional-de-cine-y-video",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "festival-de-documentales-contra-el-silencio-todas-las-voces",
+                "name": "Festival de Documentales Contra el Silencio Todas las Voces",
+                "slug": "festival-de-documentales-contra-el-silencio-todas-las-voces",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "festival-de-cine-ibero-latinoamericano-de-montreal-canada",
+                "name": "Festival de Cine Ibero-Latinoamericano de Montr\u00e9al, Canad\u00e1",
+                "slug": "festival-de-cine-ibero-latinoamericano-de-montreal-canada",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Arteaga",
+                "gender": "m",
+                "id": 2006,
+                "slug": "jose-arteaga",
+                "url": "https://www.filminlatino.mx/director/jose-arteaga"
+            },
+            {
+                "full_name": "Rafael Camacho",
+                "gender": "m",
+                "id": 2007,
+                "slug": "rafael-camacho",
+                "url": "https://www.filminlatino.mx/director/rafael-camacho"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "Una mirada a la experiencia de una comunidad ind\u00edgena en M\u00e9xico que logr\u00f3 recuperar su territorio ocupado por un cartel de la droga.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3985,
+        "image_card": "https://static.filminlatino.mx/images/media/3985/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3985/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3985/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3985/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3985/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3985/2/still_4_3.JPG",
+            "https://static.filminlatino.mx/images/media/3985/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3985/2/still_6_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 34,
+        "original_title": "Recuperando el para\u00edso",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1914,
+                "name": "Terracer\u00eda",
+                "slug": "terraceria",
+                "url": "https://www.filminlatino.mx/producer/terraceria"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "recuperando-el-paraiso",
+        "synopsis": "Un grupo de personas desplazadas por la narcoviolencia se levanta en armas para enfrentar a la organizaci\u00f3n criminal que desde hace a\u00f1os aterroriza a su comunidad en Ostula, Michoac\u00e1n. 'Recuperando el para\u00edso' es una mirada confidencial a la lucha de un pueblo por sobrevivir y defender su tierra en medio de la violencia y la corrupci\u00f3n que azota gran parte del territorio mexicano.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 275,
+                "name": "Democracia ",
+                "slug": "democracia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/democracia"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 345,
+                "name": "Liberaci\u00f3n",
+                "slug": "liberacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/liberacion"
+            },
+            {
+                "id": 473,
+                "name": "Libertad",
+                "slug": "libertad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 539,
+                "name": "Culturismo",
+                "slug": "culturismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturismo"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1224,
+                "name": "Michoac\u00e1n",
+                "slug": "michoacan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michoacan"
+            },
+            {
+                "id": 1260,
+                "name": "20017",
+                "slug": "20017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/20017"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Recuperando el para\u00edso",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/recuperando-el-paraiso",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3311,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

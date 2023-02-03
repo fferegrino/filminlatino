@@ -1,0 +1,234 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Edurne Ferrer",
+                "gender": "f",
+                "id": 1289,
+                "slug": "edurne-ferrer",
+                "url": "https://www.filminlatino.mx/actriz/edurne-ferrer"
+            },
+            {
+                "full_name": "Javier Oliv\u00e1n",
+                "gender": "m",
+                "id": 636,
+                "slug": "javier-olivan",
+                "url": "https://www.filminlatino.mx/actor/javier-olivan"
+            },
+            {
+                "full_name": "Eligio  Mel\u00e9ndez",
+                "gender": "m",
+                "id": 1290,
+                "slug": "eligio-melendez",
+                "url": "https://www.filminlatino.mx/actor/eligio-melendez"
+            },
+            {
+                "full_name": "Eduardo Victoria",
+                "gender": "m",
+                "id": 1291,
+                "slug": "eduardo-victoria",
+                "url": "https://www.filminlatino.mx/actor/eduardo-victoria"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Gonz\u00e1lez Nava",
+                "gender": "m",
+                "id": 490,
+                "slug": "raul-gonzalez-nava",
+                "url": "https://www.filminlatino.mx/director/raul-gonzalez-nava"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "La pel\u00edcula muestra c\u00f3mo dos personas buscan satisfacer sus deseos, ambiciones y obtener una mejor vida a partir de las desgracias de otros.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 510,
+        "image_card": "https://static.filminlatino.mx/images/media/510/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/510/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/510/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/510/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/510/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/510/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Buitres",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 345,
+                "name": "Canal 22",
+                "slug": "canal-22",
+                "url": "https://www.filminlatino.mx/producer/canal-22"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "buitres",
+        "synopsis": "Cinta que relata la historia de un asistente forense y una fot\u00f3grafa desempleada, cuyas vidas cambian cuando encuentran el cuerpo de un hombre que muri\u00f3 atropellado.El occiso es un renombrado escritor quien d\u00edas antes, en un programa de televisi\u00f3n, hab\u00eda hecho el anuncio de que morir\u00eda consumido por las llamas. Al darse cuenta de ello, ambos personajes deciden ocultar los hechos y sacar el mayor provecho posible. No obstante, tendr\u00e1n que lograrlo sin parecer sospechosos de asesinato.",
+        "tags": [
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1366156800,
+        "theater_release_date": 1366156800,
+        "theater_spectators_formatted": null,
+        "title": "Buitres",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/buitres",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 538,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2013
+    }
+}

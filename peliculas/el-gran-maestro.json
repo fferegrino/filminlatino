@@ -1,0 +1,319 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Tony Leung Chiu Wai",
+                "gender": "m",
+                "id": 3595,
+                "slug": "tony-leung-chiu-wai",
+                "url": "https://www.filminlatino.mx/actor/tony-leung-chiu-wai"
+            },
+            {
+                "full_name": "Zhang Ziyi",
+                "gender": "f",
+                "id": 3596,
+                "slug": "zhang-ziyi",
+                "url": "https://www.filminlatino.mx/actriz/zhang-ziyi"
+            },
+            {
+                "full_name": "Zhao Benshan",
+                "gender": "m",
+                "id": 3597,
+                "slug": "zhao-benshan",
+                "url": "https://www.filminlatino.mx/actor/zhao-benshan"
+            },
+            {
+                "full_name": "Chang Chen",
+                "gender": "m",
+                "id": 3598,
+                "slug": "chang-chen",
+                "url": "https://www.filminlatino.mx/actor/chang-chen"
+            },
+            {
+                "full_name": "Hye-kyo Song",
+                "gender": "f",
+                "id": 4695,
+                "slug": "hye-kyo-song",
+                "url": "https://www.filminlatino.mx/actriz/hye-kyo-song"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 2013
+            },
+            {
+                "category": "Nominada a Mejor Vestuario",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 2013
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 95,
+                "name": "Hong Kong",
+                "slug": "hong-kong",
+                "url": "https://www.filminlatino.mx/catalogo/pais/hong-kong"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Wong Kar-Wai",
+                "gender": "m",
+                "id": 1229,
+                "slug": "wong-kar-wai",
+                "url": "https://www.filminlatino.mx/director/wong-kar-wai"
+            }
+        ],
+        "duration_in_minutes": 123,
+        "excerpt": "Historia de traici\u00f3n, honor y amor que se desarrolla en la tumultuosa \u00e9poca que sigui\u00f3 a la ca\u00edda de la \u00faltima dinast\u00eda china.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 18,
+                "name": "Acci\u00f3n",
+                "slug": "accion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/accion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2489,
+        "image_card": "https://static.filminlatino.mx/images/media/2489/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2489/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2489/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/13/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/6/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/11/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2489/10/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 61,
+        "original_title": "The grandmaster",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1414,
+                "name": "Annapurna Pictures",
+                "slug": "annapurna-pictures",
+                "url": "https://www.filminlatino.mx/producer/annapurna-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 1411,
+                "name": "Coproducci\u00f3n China-Hong Kong; Block 2 Pictures ",
+                "slug": "coproduccion-china-hong-kong-block-2-pictures",
+                "url": "https://www.filminlatino.mx/producer/coproduccion-china-hong-kong-block-2-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 1412,
+                "name": "Jet Tone Production",
+                "slug": "jet-tone-production",
+                "url": "https://www.filminlatino.mx/producer/jet-tone-production"
+            },
+            {
+                "acronym": "",
+                "id": 1413,
+                "name": " Sil-Metropole Organisation",
+                "slug": "sil-metropole-organisation",
+                "url": "https://www.filminlatino.mx/producer/sil-metropole-organisation"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-gran-maestro",
+        "synopsis": "Un relato sobre las artes marciales y el alma de la civilizaci\u00f3n china. Dos maestros de kung fu, Ip Man, el hombre que entren\u00f3 al m\u00edtico Bruce Lee, y la bella Gong Er se re\u00fanen en la ciudad natal de Ip Man en v\u00edsperas de la invasi\u00f3n japonesa de 1936. El padre de Gong Er, un gran maestro de renombre, tambi\u00e9n viaja a esa ciudad para la ceremonia de su jubilaci\u00f3n, que tendr\u00e1 lugar en el legendario burdel El pabell\u00f3n de oro.",
+        "tags": [
+            {
+                "id": 198,
+                "name": "Relaci\u00f3n maestro y alumno",
+                "slug": "relacion-maestro-y-alumno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-maestro-y-alumno"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 518,
+                "name": "China",
+                "slug": "china",
+                "url": "https://www.filminlatino.mx/catalogo/tema/china"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 494,
+                "name": "Honor",
+                "slug": "honor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/honor"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 38,
+                "name": "Cine oriental",
+                "slug": "cine-oriental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-oriental"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 93,
+                "name": "Artes marciales",
+                "slug": "artes-marciales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-marciales"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El gran maestro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-gran-maestro",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2127,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-gran-maestro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-gran-maestro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-gran-maestro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

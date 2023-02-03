@@ -1,0 +1,522 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Premio M\u00e1rgenes",
+                "icon": "",
+                "name": "Festival de Cine en Red-REDFECI ",
+                "slug": "festival-de-cine-en-red-redfeci",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "",
+                "name": "FECILS",
+                "slug": "fecils",
+                "year": null
+            },
+            {
+                "category": "Premio M\u00e1rgenes",
+                "icon": "",
+                "name": "Festival de Cine en Red-REDFECI ",
+                "slug": "festival-de-cine-en-red-redfeci",
+                "year": null
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "",
+                "name": "FEMCINE",
+                "slug": "femcine",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Docs Barcelona ",
+                "slug": "docs-barcelona",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Internacional",
+                "icon": "",
+                "name": "Zinegoak Bilbao International LGTB Film Festival",
+                "slug": "zinegoak-bilbao-international-lgtb-film-festival",
+                "year": null
+            },
+            {
+                "category": "Estreno Internacional",
+                "icon": "",
+                "name": "FIC VALDIVIA",
+                "slug": "fic-valdivia",
+                "year": null
+            },
+            {
+                "category": "Estreno Internacional",
+                "icon": ".",
+                "name": " DOC NYC",
+                "slug": "doc-nyc",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Internacional",
+                "icon": "",
+                "name": "Festival Zinegoak",
+                "slug": "festival-zinegoak",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "VoxFeminae",
+                "slug": "voxfeminae",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Internacional",
+                "icon": "",
+                "name": "Festival Cinematogr\u00e1fico Internacional El Ojo Cojo",
+                "slug": "festival-cinematografico-internacional-el-ojo-cojo",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Internacional",
+                "icon": "",
+                "name": "LesGaiCineMad- Festival Internacional de Cine LGBT+",
+                "slug": "lesgaicinemad-festival-internacional-de-cine-lgbt",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival Internacional de Cine de La Serena",
+                "slug": "festival-internacional-de-cine-de-la-serena",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Docs Valparaiso",
+                "slug": "docs-valparaiso",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "idfa",
+                "name": "IDFA",
+                "slug": "idfa",
+                "year": null
+            },
+            {
+                "category": "Premio a la Mejor Pel\u00edcula Latinx de Estados Unidos",
+                "icon": "festival-de-cinema-tropical",
+                "name": "Festival de Cinema Tropical",
+                "slug": "festival-de-cinema-tropical",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Iv\u00e1n Monalisa Ojeda",
+                "gender": "m",
+                "id": 2625,
+                "slug": "ivan-monalisa-ojeda",
+                "url": "https://www.filminlatino.mx/character/ivan-monalisa-ojeda"
+            },
+            {
+                "full_name": "Nicole Costa",
+                "gender": "f",
+                "id": 2626,
+                "slug": "nicole-costa",
+                "url": "https://www.filminlatino.mx/character/nicole-costa"
+            },
+            {
+                "full_name": "Mauricio \u201cM\u00e1xima\u201d  Rodas",
+                "gender": "m",
+                "id": 2627,
+                "slug": "mauricio-maxima-rodas",
+                "url": "https://www.filminlatino.mx/character/mauricio-maxima-rodas"
+            },
+            {
+                "full_name": "Ury Argueta",
+                "gender": "m",
+                "id": 2628,
+                "slug": "ury-argueta",
+                "url": "https://www.filminlatino.mx/character/ury-argueta"
+            },
+            {
+                "full_name": "Alejandro \u201cChato\u201d Moreno",
+                "gender": "m",
+                "id": 2629,
+                "slug": "alejandro-chato-moreno",
+                "url": "https://www.filminlatino.mx/character/alejandro-chato-moreno"
+            }
+        ],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": " Nicole  Costa",
+                "gender": "f",
+                "id": 5093,
+                "slug": "nicole-costa",
+                "url": "https://www.filminlatino.mx/directora/nicole-costa"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Iv\u00e1n Monalisa se reencuentra con una vieja amiga de la universidad y vuelve a florecer en la b\u00fasqueda de identidad como artista transg\u00e9nero.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8789,
+        "image_card": "https://static.filminlatino.mx/images/media/8789/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/8789/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8789/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/8789/2/still_7_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "The Journey of Monalisa",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-viaje-de-monalisa",
+        "synopsis": "En 1995, tras una promisoria carrera teatral en Chile, el artista esc\u00e9nico Iv\u00e1n Ojeda es invitado a Nueva York a realizar una investigaci\u00f3n teatral de un mes, pero Iv\u00e1n decide quedarse ilegalmente para convertirse en Monalisa y ejercer el trabajo sexual. Diecisiete a\u00f1os despu\u00e9s, se reencuentra con su amiga de la universidad, Nicole, quien llega a vivir a Nueva York.<br>Direcci\u00f3n: Nicole CostaProducci\u00f3n: Daniela CaminoProducci\u00f3n ejecutiva: Gregory CostaGui\u00f3n: Nicole Costa, Melisa Miranda, Daniela CaminoMontaje: Melisa MirandaDise\u00f1o sonoro: SonamosM\u00fasica original: Kato Hideki<br><br>Este largometraje documental destaca por el diverso material de archivo que de inmediato atrapa los sentidos y nos sumerge en la vida de Monalisa, su poes\u00eda y su embriagante mirada y talento.\u00a0",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 1312,
+                "name": "Diversidad ",
+                "slug": "diversidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diversidad"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 944,
+                "name": "Cine Trans",
+                "slug": "cine-trans",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-trans"
+            },
+            {
+                "id": 709,
+                "name": "Transg\u00e9nero",
+                "slug": "transgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transgenero"
+            },
+            {
+                "id": 710,
+                "name": "Transexual",
+                "slug": "transexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transexual"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 1498,
+                "name": "Orgullo LGBT+",
+                "slug": "orgullo-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullo-lgbt"
+            },
+            {
+                "id": 1310,
+                "name": "Sexualidad",
+                "slug": "sexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexualidad"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 376,
+                "name": "Cabaret",
+                "slug": "cabaret",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cabaret"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 2169,
+                "name": "Doqumenta 2021",
+                "slug": "doqumenta-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doqumenta-2021"
+            },
+            {
+                "id": 2173,
+                "name": "Vibramos en diversidad | Doqumenta 2021",
+                "slug": "vibramos-en-diversidad-doqumenta-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vibramos-en-diversidad-doqumenta-2021"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 253,
+                "name": "Stop-motion",
+                "slug": "stop-motion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/stop-motion"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            },
+            {
+                "id": 2610,
+                "name": "Desde la otra banqueta | Muestra de cine sobre diversidad sexual",
+                "slug": "desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual"
+            },
+            {
+                "id": 2659,
+                "name": "identidad de g\u00e9nero",
+                "slug": "identidad-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad-de-genero"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El viaje de Monalisa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-viaje-de-monalisa",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10097,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ELVIAJEDEMONALISATRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ELVIAJEDEMONALISATRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ELVIAJEDEMONALISATRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

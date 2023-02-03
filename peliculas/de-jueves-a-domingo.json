@@ -1,0 +1,331 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Santi Ahumada",
+                "gender": "f",
+                "id": 1138,
+                "slug": "santi-ahumada",
+                "url": "https://www.filminlatino.mx/actriz/santi-ahumada"
+            },
+            {
+                "full_name": "Emiliano Freifeld",
+                "gender": "m",
+                "id": 1139,
+                "slug": "emiliano-freifeld",
+                "url": "https://www.filminlatino.mx/actor/emiliano-freifeld"
+            },
+            {
+                "full_name": "Paola Giannini",
+                "gender": "f",
+                "id": 1140,
+                "slug": "paola-giannini",
+                "url": "https://www.filminlatino.mx/actriz/paola-giannini"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "name": "Festival Internacional de Cine Independiente de Buenos Aires",
+                "slug": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-valdivia-chile",
+                "name": "Festival Internacional de Cine de Valdivia, Chile ",
+                "slug": "festival-internacional-de-cine-de-valdivia-chile",
+                "year": null
+            },
+            {
+                "category": "Premio Tigre",
+                "icon": "festival-internacional-de-cine-de-rotterdam",
+                "name": "Festival Internacional de Cine de Rotterdam",
+                "slug": "festival-internacional-de-cine-de-rotterdam",
+                "year": null
+            },
+            {
+                "category": "Gran Premio ",
+                "icon": "",
+                "name": "IndieLisboa Festival Internacional de Cine Independiente",
+                "slug": "indielisboa-festival-internacional-de-cine-independiente",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-latino-de-los-angeles-eua",
+                "name": "Festival Internacional de Cine Latino de Los \u00c1ngeles, EUA",
+                "slug": "festival-internacional-de-cine-latino-de-los-angeles-eua",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            },
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dominga Sotomayor",
+                "gender": "f",
+                "id": 439,
+                "slug": "dominga-sotomayor",
+                "url": "https://www.filminlatino.mx/directora/dominga-sotomayor"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "El filme plantea la distancia que hay entre los ni\u00f1os y los adultos, distancia que al crecer se olvida, subestimando esa etapa como de pura dependencia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 470,
+        "image_card": "https://static.filminlatino.mx/images/media/470/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/470/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/470/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/470/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/470/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/470/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/470/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/470/4/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "De jueves a domingo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 522,
+                "name": "Forastero",
+                "slug": "forastero",
+                "url": "https://www.filminlatino.mx/producer/forastero"
+            },
+            {
+                "acronym": "",
+                "id": 523,
+                "name": "Circe Films",
+                "slug": "circe-films",
+                "url": "https://www.filminlatino.mx/producer/circe-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "de-jueves-a-domingo",
+        "synopsis": "Dos ni\u00f1os viajan junto a sus padres hacia el norte de Chile por un fin de semana largo. Mientras la soledad del paisaje y el encierro del auto evidencian los conflictos de la pareja, Luc\u00eda y su hermano van contra el viento, sin saber c\u00f3mo esta \u00faltima oportunidad se va convirtiendo en la despedida del padre y posiblemente en el \u00faltimo viaje familiar.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 210,
+                "name": "FilminLatino Ni\u00f1os",
+                "slug": "filminlatino-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-ninos"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "De jueves a domingo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/de-jueves-a-domingo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 263,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Domingo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Domingo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Domingo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Karin Viard",
+                "gender": "f",
+                "id": 2704,
+                "slug": "karin-viard",
+                "url": "https://www.filminlatino.mx/actriz/karin-viard"
+            },
+            {
+                "full_name": "Gilles Lellouche",
+                "gender": "m",
+                "id": 2705,
+                "slug": "gilles-lellouche",
+                "url": "https://www.filminlatino.mx/actor/gilles-lellouche"
+            },
+            {
+                "full_name": "Audrey Lamy",
+                "gender": "f",
+                "id": 2706,
+                "slug": "audrey-lamy",
+                "url": "https://www.filminlatino.mx/actriz/audrey-lamy"
+            },
+            {
+                "full_name": "Marine Vacth",
+                "gender": "f",
+                "id": 2837,
+                "slug": "marine-vacth",
+                "url": "https://www.filminlatino.mx/actriz/marine-vacth"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "C\u00e9dric Klapisch",
+                "gender": "m",
+                "id": 979,
+                "slug": "cedric-klapisch",
+                "url": "https://www.filminlatino.mx/director/cedric-klapisch"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "Un filme que ilustra el choque de clases, culturas y visiones del mundo y que tendr\u00e1 consecuencias sobre la vida cotidiana de France.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1454,
+        "image_card": "https://static.filminlatino.mx/images/media/1454/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1454/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1454/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1454/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Ma Part du G\u00e2teau",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1031,
+                "name": "Ce Qui Me Meut Motion Pictures",
+                "slug": "ce-qui-me-meut-motion-pictures",
+                "url": "https://www.filminlatino.mx/producer/ce-qui-me-meut-motion-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 762,
+                "name": "StudioCanal",
+                "slug": "studiocanal",
+                "url": "https://www.filminlatino.mx/producer/studiocanal"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1032,
+                "name": "C.R.R.A.V. Nord Pas de Calais",
+                "slug": "crrav-nord-pas-de-calais",
+                "url": "https://www.filminlatino.mx/producer/crrav-nord-pas-de-calais"
+            },
+            {
+                "acronym": "",
+                "id": 1002,
+                "name": "R\u00e9gion Nord-Pas-de-Calais",
+                "slug": "region-nord-pas-de-calais",
+                "url": "https://www.filminlatino.mx/producer/region-nord-pas-de-calais"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 471,
+                "name": "Cin\u00e9Cin\u00e9ma",
+                "slug": "cinecinema",
+                "url": "https://www.filminlatino.mx/producer/cinecinema"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            },
+            {
+                "acronym": "",
+                "id": 1033,
+                "name": "Banque Postale Image 4",
+                "slug": "banque-postale-image-4",
+                "url": "https://www.filminlatino.mx/producer/banque-postale-image-4"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mi-parte-del-pastel",
+        "synopsis": "France vive en Dunkerque y pierde su empleo por motivos econ\u00f3micos. Decide entonces buscar trabajo en Par\u00eds, pero regresa a menudo para ver a su hermana, su ex-marido y sus hijos. En la capital conoce a alguien cuyas actividades est\u00e1n vinculadas al despido del cual fue v\u00edctima.",
+        "tags": [
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 559,
+                "name": "Desempleo",
+                "slug": "desempleo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desempleo"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 1009,
+                "name": "15\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "150-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/150-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1300233600,
+        "theater_release_date": 1300233600,
+        "theater_spectators_formatted": null,
+        "title": "Mi parte del pastel",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-parte-del-pastel",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1268,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/mi-parte-del-pastel.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/mi-parte-del-pastel/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/mi-parte-del-pastel/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

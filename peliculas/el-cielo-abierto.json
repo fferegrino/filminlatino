@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Premio de la Prensa",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2011
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Festival de la Memoria Documental Iberoamericano",
+                "slug": "festival-de-la-memoria-documental-iberoamericano",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-documental-de-uruguay",
+                "name": "Festival Internacional de Cine Documental de Uruguay",
+                "slug": "festival-internacional-de-cine-documental-de-uruguay",
+                "year": 2011
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "premio-jose-rovirosa",
+                "name": "Premio Jos\u00e9 Rovirosa",
+                "slug": "premio-jose-rovirosa",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Everardo Gonz\u00e1lez",
+                "gender": "m",
+                "id": 128,
+                "slug": "everardo-gonzalez",
+                "url": "https://www.filminlatino.mx/director/everardo-gonzalez"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Primero fue la palabra, luego la bala asesina y a continuaci\u00f3n el silencio. Un documental que aborda la vida radical del sacerdote \u00d3scar Arnulfo Romero.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 172,
+        "image_card": "https://static.filminlatino.mx/images/media/172/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/172/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/172/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/172/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/172/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 31,
+        "original_title": "El cielo abierto",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 65,
+                "name": "Ci\u00e9nega Docs",
+                "slug": "cienega-docs",
+                "url": "https://www.filminlatino.mx/producer/cienega-docs"
+            },
+            {
+                "acronym": "444",
+                "id": 93,
+                "name": "Artegios S.A. de C.V.",
+                "slug": "artegios-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/artegios-sa-de-cv"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-cielo-abierto",
+        "synopsis": "Vigoroso documental sobre Monse\u00f1or Oscar Arnulfo Romero, la voz de los sin voz en El Salvador, el pastor que en medio de una de las guerras civiles m\u00e1s sangrientas, se atrevi\u00f3 a decir que la misi\u00f3n de la Iglesia es identificarse con los pobres. Monse\u00f1or Romero fue asesinado el 24 de marzo de 1980.",
+        "tags": [
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1301011200,
+        "theater_release_date": 1301011200,
+        "theater_spectators_formatted": null,
+        "title": "El cielo abierto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-cielo-abierto",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 116,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-cielo-abierto.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-cielo-abierto/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-cielo-abierto/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

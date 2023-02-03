@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jorge Alejandro  Fegan",
+                "gender": "m",
+                "id": 7386,
+                "slug": "jorge-alejandro-fegan",
+                "url": "https://www.filminlatino.mx/actor/jorge-alejandro-fegan"
+            },
+            {
+                "full_name": "Diego Coral",
+                "gender": "m",
+                "id": 7387,
+                "slug": "diego-coral",
+                "url": "https://www.filminlatino.mx/actor/diego-coral"
+            },
+            {
+                "full_name": "Cat\u00f3n  Danilo Vega",
+                "gender": "m",
+                "id": 7388,
+                "slug": "caton-danilo-vega",
+                "url": "https://www.filminlatino.mx/actor/caton-danilo-vega"
+            },
+            {
+                "full_name": "Mar\u00eda Josefina  Viteri",
+                "gender": "f",
+                "id": 7389,
+                "slug": "maria-josefina-viteri",
+                "url": "https://www.filminlatino.mx/actriz/maria-josefina-viteri"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 63,
+                "name": "Ecuador",
+                "slug": "ecuador",
+                "url": "https://www.filminlatino.mx/catalogo/pais/ecuador"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Javier Izquierdo",
+                "gender": "m",
+                "id": 2152,
+                "slug": "javier-izquierdo",
+                "url": "https://www.filminlatino.mx/director/javier-izquierdo"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Basada en hechos reales, sobre c\u00f3mo se prepara un secuestro.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6625,
+        "image_card": "https://static.filminlatino.mx/images/media/6625/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6625/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6625/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6625/4/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6625/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6625/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6625/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6625/3/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Panam\u00e1",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2826,
+                "name": "Tom\u00e1s Astudillo",
+                "slug": "tomas-astudillo",
+                "url": "https://www.filminlatino.mx/producer/tomas-astudillo"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "panama",
+        "synopsis": "Dos ex compa\u00f1eros de colegio quite\u00f1os se encuentran por casualidad en Ciudad de Panam\u00e1 en 1985. No se han visto desde su graduaci\u00f3n y aunque entonces fueron cercanos, han tomado caminos opuestos: Esteban trabaja en la banca y est\u00e1 en Panam\u00e1 por negocios, no siempre l\u00edcitos. Jos\u00e9 Luis se presenta como periodista pero en realidad es miembro de la guerrilla Alfaro Vive \u00a1Carajo!, viviendo en la clandestinidad mientras prepara una nueva acci\u00f3n en el Ecuador: el secuestro de un banquero.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1496,
+                "name": "Abuso de poder",
+                "slug": "abuso-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuso-de-poder"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Panam\u00e1",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/panama",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6392,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PANAMA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PANAMA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PANAMA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

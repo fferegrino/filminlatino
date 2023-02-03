@@ -1,0 +1,358 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Blanca Guerra",
+                "gender": "f",
+                "id": 484,
+                "slug": "blanca-guerra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-guerra"
+            },
+            {
+                "full_name": "Enrique Rocha",
+                "gender": "m",
+                "id": 603,
+                "slug": "enrique-rocha",
+                "url": "https://www.filminlatino.mx/actor/enrique-rocha"
+            },
+            {
+                "full_name": "Alejandro Parodi",
+                "gender": "m",
+                "id": 140,
+                "slug": "alejandro-parodi",
+                "url": "https://www.filminlatino.mx/actor/alejandro-parodi"
+            },
+            {
+                "full_name": "Emilio Echevarr\u00eda",
+                "gender": "m",
+                "id": 1865,
+                "slug": "emilio-echevarria",
+                "url": "https://www.filminlatino.mx/actor/emilio-echevarria"
+            },
+            {
+                "full_name": "Ana Ofelia Murgu\u00eda",
+                "gender": "f",
+                "id": 264,
+                "slug": "ana-ofelia-murguia",
+                "url": "https://www.filminlatino.mx/actriz/ana-ofelia-murguia"
+            },
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "premio-catalina-de-oro",
+                "name": "Premio Catalina de Oro ",
+                "slug": "premio-catalina-de-oro",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-ace",
+                "name": "Premios ACE ",
+                "slug": "premios-ace",
+                "year": null
+            },
+            {
+                "category": "Mejor actor de reparto",
+                "icon": "premios-ace",
+                "name": "Premios ACE ",
+                "slug": "premios-ace",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-ace",
+                "name": "Premios ACE ",
+                "slug": "premios-ace",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": null
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "trieste-festival-of-latin-american-cinema",
+                "name": "Trieste Festival of Latin-American Cinema",
+                "slug": "trieste-festival-of-latin-american-cinema",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Pelayo Rangel",
+                "gender": "m",
+                "id": 92,
+                "slug": "alejandro-pelayo-rangel",
+                "url": "https://www.filminlatino.mx/director/alejandro-pelayo-rangel"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "Un filme en clave negra, un policiaco sin polic\u00edas: pel\u00edcula de denuncia sobre el caciquismo y la pol\u00edtica mexicana basada en la novela de H\u00e9ctor Aguilar Cam\u00edn.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2768,
+        "image_card": "https://static.filminlatino.mx/images/media/2768/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2768/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2768/10/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/2768/12/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2768/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2768/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2768/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2768/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2768/7/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2768/8/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Morir en el golfo",
+        "producers": [
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 205,
+                "name": "Cooperativa de Producci\u00f3n Cinematogr\u00e1fica Jos\u00e9 Revueltas  ",
+                "slug": "cooperativa-de-produccion-cinematografica-jose-revueltas",
+                "url": "https://www.filminlatino.mx/producer/cooperativa-de-produccion-cinematografica-jose-revueltas"
+            },
+            {
+                "acronym": "CORACYT ",
+                "id": 206,
+                "name": "Coordinaci\u00f3n de Radio, Televisi\u00f3n y Cinematograf\u00eda del Estado de Tlaxcala",
+                "slug": "coordinacion-de-radio-television-y-cinematografia-del-estado-de-tlaxcala",
+                "url": "https://www.filminlatino.mx/producer/coordinacion-de-radio-television-y-cinematografia-del-estado-de-tlaxcala"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 141,
+                "name": "Instituto Mexicano de Cinematograf\u00eda ",
+                "slug": "instituto-mexicano-de-cinematografia",
+                "url": "https://www.filminlatino.mx/producer/instituto-mexicano-de-cinematografia"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "morir-en-el-golfo",
+        "synopsis": "Los Santana \u2014un pol\u00edtico mediocre y arribista y su ambiciosa mujer Eleonora\u2014 se enfrentan a Fito Uzcanga \u2014un poderoso cacique\u2014 por la posesi\u00f3n de tierras aptas para el turismo. En su lucha, Eleonora involucra al periodista Raymundo, su amigo desde los a\u00f1os estudiantiles, y denuncia arbitrariedades del cacique.",
+        "tags": [
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 535,
+                "name": "Capitalismo",
+                "slug": "capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/capitalismo"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2542,
+                "name": "64 FILUG",
+                "slug": "64-filug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/64-filug"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 636854400,
+        "theater_release_date": 636854400,
+        "theater_spectators_formatted": null,
+        "title": "Morir en el golfo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/morir-en-el-golfo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2138,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1988
+    }
+}

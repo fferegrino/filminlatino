@@ -1,0 +1,300 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Erando Gonz\u00e1lez",
+                "gender": "m",
+                "id": 500,
+                "slug": "erando-gonzalez",
+                "url": "https://www.filminlatino.mx/actor/erando-gonzalez"
+            },
+            {
+                "full_name": "Juan Carlos Remolina",
+                "gender": "m",
+                "id": 858,
+                "slug": "juan-carlos-remolina",
+                "url": "https://www.filminlatino.mx/actor/juan-carlos-remolina"
+            },
+            {
+                "full_name": "Mar\u00eda Barranco",
+                "gender": "f",
+                "id": 963,
+                "slug": "maria-barranco",
+                "url": "https://www.filminlatino.mx/actriz/maria-barranco"
+            },
+            {
+                "full_name": "Carlos Cobos",
+                "gender": "m",
+                "id": 964,
+                "slug": "carlos-cobos",
+                "url": "https://www.filminlatino.mx/actor/carlos-cobos"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arturo Ripstein",
+                "gender": "m",
+                "id": 75,
+                "slug": "arturo-ripstein",
+                "url": "https://www.filminlatino.mx/director/arturo-ripstein"
+            }
+        ],
+        "duration_in_minutes": 119,
+        "excerpt": "\"El carnaval de Sodoma\", hace coincidir la poes\u00eda y la decadencia de un un burdel.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 395,
+        "image_card": "https://static.filminlatino.mx/images/media/395/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/395/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/395/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/395/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/395/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 36,
+        "original_title": "El Carnaval de Sodoma",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 326,
+                "name": "Carnaval Films",
+                "slug": "carnaval-films",
+                "url": "https://www.filminlatino.mx/producer/carnaval-films"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-carnaval-de-sodoma",
+        "synopsis": "En un burdel de mala muerte, desfilan las frustraciones de una serie de s\u00f3rdidos personajes: un poeta que nunca ha publicado, un revolucionario que lleg\u00f3 tarde a la historia, un \u00e1ngel provocador, un bur\u00f3crata con delirios de bailar\u00edn, un chico avaricioso y su timorata esposa, una prostituta con baja estima profesional, una caterva de hetairas de dudosa sensualidad y, por \u00faltimo, un cura con hedor a santidad. La llegada de una forastera con aires de princesa, trastocar\u00e1 el equilibrio del establecimiento.",
+        "tags": [
+            {
+                "id": 79,
+                "name": "Prostituci\u00f3n",
+                "slug": "prostitucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prostitucion"
+            },
+            {
+                "id": 360,
+                "name": "Doble moral",
+                "slug": "doble-moral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doble-moral"
+            },
+            {
+                "id": 376,
+                "name": "Cabaret",
+                "slug": "cabaret",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cabaret"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 834,
+                "name": "4\u00b0 FICM",
+                "slug": "40-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/40-ficm"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 960,
+                "name": "Paz Alicia Garciadiego",
+                "slug": "paz-alicia-garciadiego",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz-alicia-garciadiego"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1238112000,
+        "theater_release_date": 1238112000,
+        "theater_spectators_formatted": null,
+        "title": "El Carnaval de Sodoma",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-carnaval-de-sodoma",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 340,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/carnaval.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/carnaval/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/carnaval/master.m3u8"
+                }
+            ]
+        },
+        "year": 2006
+    }
+}

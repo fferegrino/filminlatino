@@ -1,0 +1,299 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alfredo Castro",
+                "gender": "m",
+                "id": 4018,
+                "slug": "alfredo-castro",
+                "url": "https://www.filminlatino.mx/actor/alfredo-castro"
+            },
+            {
+                "full_name": "Paola Lattus",
+                "gender": "f",
+                "id": 4032,
+                "slug": "paola-lattus",
+                "url": "https://www.filminlatino.mx/actriz/paola-lattus"
+            },
+            {
+                "full_name": "H\u00e9ctor Morales",
+                "gender": "m",
+                "id": 4033,
+                "slug": "hector-morales",
+                "url": "https://www.filminlatino.mx/actor/hector-morales"
+            },
+            {
+                "full_name": "Amparo Noguera",
+                "gender": "f",
+                "id": 1776,
+                "slug": "amparo-noguera",
+                "url": "https://www.filminlatino.mx/actriz/amparo-noguera"
+            },
+            {
+                "full_name": "Elsa Poblete",
+                "gender": "f",
+                "id": 4034,
+                "slug": "elsa-poblete",
+                "url": "https://www.filminlatino.mx/actriz/elsa-poblete"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2008
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            },
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pablo Larra\u00edn",
+                "gender": "m",
+                "id": 1346,
+                "slug": "pablo-larrain",
+                "url": "https://www.filminlatino.mx/director/pablo-larrain"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "En plena dictadura en Chile, un hombre llevar\u00e1 lejos su obsesionado con interpretar al personaje Tony Manero (John Travolta en \u201cFiebre de s\u00e1bado por la noche\u201d).",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2674,
+        "image_card": "https://static.filminlatino.mx/images/media/2674/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2674/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2674/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2674/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Tony Manero",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1585,
+                "name": "Fabula production",
+                "slug": "fabula-production",
+                "url": "https://www.filminlatino.mx/producer/fabula-production"
+            },
+            {
+                "acronym": "",
+                "id": 1591,
+                "name": "Prodigital",
+                "slug": "prodigital",
+                "url": "https://www.filminlatino.mx/producer/prodigital"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tony-manero",
+        "synopsis": "Santiago de Chile, 1978. En medio de un dif\u00edcil contexto social, la dictadura de Pinochet, Ra\u00fal Peralta, de unos cincuenta a\u00f1os, est\u00e1 obsesionado con la idea de interpretar a Tony Manero, el personaje de John Travolta en \"Fiebre del S\u00e1bado Noche\". Sus ansias de interpretar a su gran \u00eddolo y su anhelo de ser reconocido como una estrella del mundo del espect\u00e1culo a nivel nacional le empujan a cometer una serie de cr\u00edmenes y robos.",
+        "tags": [
+            {
+                "id": 582,
+                "name": "Persecuciones",
+                "slug": "persecuciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/persecuciones"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 295,
+                "name": "Dictadura",
+                "slug": "dictadura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dictadura"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 292,
+                "name": "Obsesiones",
+                "slug": "obsesiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/obsesiones"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 626,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tony Manero",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tony-manero",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2120,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

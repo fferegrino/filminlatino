@@ -1,0 +1,314 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Clotilde Hesme",
+                "gender": "f",
+                "id": 1205,
+                "slug": "clotilde-hesme",
+                "url": "https://www.filminlatino.mx/actriz/clotilde-hesme"
+            },
+            {
+                "full_name": "Gr\u00e9gory Gadebois",
+                "gender": "m",
+                "id": 1842,
+                "slug": "gregory-gadebois",
+                "url": "https://www.filminlatino.mx/actor/gregory-gadebois"
+            },
+            {
+                "full_name": "Evelyne Didi",
+                "gender": "m",
+                "id": 1843,
+                "slug": "evelyne-didi",
+                "url": "https://www.filminlatino.mx/actor/evelyne-didi"
+            },
+            {
+                "full_name": "Antoine Couleau",
+                "gender": "m",
+                "id": 1844,
+                "slug": "antoine-couleau",
+                "url": "https://www.filminlatino.mx/actor/antoine-couleau"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Actriz Revelaci\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alix Delaporte",
+                "gender": "f",
+                "id": 664,
+                "slug": "alix-delaporte",
+                "url": "https://www.filminlatino.mx/directora/alix-delaporte"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Una incre\u00edble historia de amor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1020,
+        "image_card": "https://static.filminlatino.mx/images/media/1020/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1020/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1020/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1020/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Ang\u00e8le et Tony",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            },
+            {
+                "acronym": "",
+                "id": 471,
+                "name": "Cin\u00e9Cin\u00e9ma",
+                "slug": "cinecinema",
+                "url": "https://www.filminlatino.mx/producer/cinecinema"
+            },
+            {
+                "acronym": "",
+                "id": 648,
+                "name": "Lionceau Films",
+                "slug": "lionceau-films",
+                "url": "https://www.filminlatino.mx/producer/lionceau-films"
+            },
+            {
+                "acronym": "",
+                "id": 649,
+                "name": "Cofinova ",
+                "slug": "cofinova",
+                "url": "https://www.filminlatino.mx/producer/cofinova"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "un-amor-apasionado",
+        "synopsis": "Ang\u00e8le es una madre joven que quiere recuperar a su hijo cuando conoce a Tony, un pescador en busca de afecto. A pesar de su deseo por ella, Tony mantiene la distancia.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1310083200,
+        "theater_release_date": 1310083200,
+        "theater_spectators_formatted": null,
+        "title": "Un amor apasionado",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-amor-apasionado",
+        "versions": [
+            {
+                "codes": [],
+                "id": 839,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-amor-apasionado.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-amor-apasionado/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-amor-apasionado/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

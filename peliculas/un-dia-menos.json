@@ -1,0 +1,282 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2009
+            },
+            {
+                "category": "Mejor dise\u00f1o sonoro  ",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dariela Ludlow",
+                "gender": "f",
+                "id": 385,
+                "slug": "dariela-ludlow",
+                "url": "https://www.filminlatino.mx/directora/dariela-ludlow"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "El olvido hacia los viejos puede darse incluso viviendo en la misma casa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 414,
+        "image_card": "https://static.filminlatino.mx/images/media/414/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/414/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/414/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/414/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/414/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Un d\u00eda menos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 328,
+                "name": "Chamaca Films",
+                "slug": "chamaca-films",
+                "url": "https://www.filminlatino.mx/producer/chamaca-films"
+            },
+            {
+                "acronym": "",
+                "id": 353,
+                "name": "Puntoguionpunto",
+                "slug": "puntoguionpunto",
+                "url": "https://www.filminlatino.mx/producer/puntoguionpunto"
+            },
+            {
+                "acronym": "",
+                "id": 354,
+                "name": "Bonsal 3",
+                "slug": "bonsal-3",
+                "url": "https://www.filminlatino.mx/producer/bonsal-3"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-dia-menos",
+        "synopsis": "Carmen y Emeterio son un matrimonio anciano que vive sus \u00faltimos a\u00f1os en su casa de Acapulco, la misma casa que construyeron con sus propias manos. El tiempo parece haberse detenido para ellos, ning\u00fan d\u00eda es m\u00e1s o menos especial que el anterior; tan s\u00f3lo les queda esperar. Carmen y Eme sobreviven juntos mientras esperan la pr\u00f3xima visita de su familia.",
+        "tags": [
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1250,
+                "name": "Guerrero",
+                "slug": "guerrero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerrero"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 1316,
+                "name": "tiempo",
+                "slug": "tiempo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tiempo"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 698,
+                "name": "Abuelos",
+                "slug": "abuelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuelos"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "Un d\u00eda menos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-dia-menos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 460,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-dia-menos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-dia-menos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-dia-menos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

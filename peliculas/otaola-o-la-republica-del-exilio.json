@@ -1,0 +1,277 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Iv\u00e1n Mart\u00ednez",
+                "gender": "m",
+                "id": 358,
+                "slug": "mario-ivan-martinez",
+                "url": "https://www.filminlatino.mx/actor/mario-ivan-martinez"
+            },
+            {
+                "full_name": "Janet Ruiz",
+                "gender": "f",
+                "id": 359,
+                "slug": "janet-ruiz",
+                "url": "https://www.filminlatino.mx/actriz/janet-ruiz"
+            },
+            {
+                "full_name": "Luis Ferrer",
+                "gender": "m",
+                "id": 360,
+                "slug": "luis-ferrer",
+                "url": "https://www.filminlatino.mx/actor/luis-ferrer"
+            },
+            {
+                "full_name": "Kristian Natalicchio",
+                "gender": "m",
+                "id": 361,
+                "slug": "kristian-natalicchio",
+                "url": "https://www.filminlatino.mx/actor/kristian-natalicchio"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-de-amiens-francia",
+                "name": "Festival Internacional de Cine de Amiens, Francia",
+                "slug": "festival-internacional-de-cine-de-amiens-francia",
+                "year": 2000
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Busteros",
+                "gender": "m",
+                "id": 100,
+                "slug": "raul-busteros",
+                "url": "https://www.filminlatino.mx/director/raul-busteros"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "Documental ver\u00eddico con toques de ficci\u00f3n, que narra las diversas traves\u00edas por las que un grupo de exiliados debe pasar para asistir al velatorio de uno de ellos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 133,
+        "image_card": "https://static.filminlatino.mx/images/media/133/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/133/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/133/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/133/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/133/4/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Otaola o la rep\u00fablica del exilio",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 73,
+                "name": "Producciones Redondo S.A. de C.V. ",
+                "slug": "producciones-redondo-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/producciones-redondo-sa-de-cv"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "otaola-o-la-republica-del-exilio",
+        "synopsis": "Ensayo cinematogr\u00e1fico donde las historias reales y las imaginarias se combinan en l\u00edneas de narraci\u00f3n paralelas y alternadas y que , juntas, crean el mundo de la pel\u00edcula. La historia comienza con una noticia: ha muerto en M\u00e9xico un exiliado republicano espa\u00f1ol muy importante. De la noticia se van enterando, de formas diversas, un grupo de exiliados y cada uno de ellos har\u00e1 su viaje, directo o en varias etapas, hacia el velorio.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 1199,
+                "name": "2001",
+                "slug": "2001",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2001"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1002240000,
+        "theater_release_date": 1002240000,
+        "theater_spectators_formatted": null,
+        "title": "Otaola o la rep\u00fablica del exilio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/otaola-o-la-republica-del-exilio",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 134,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2000
+    }
+}

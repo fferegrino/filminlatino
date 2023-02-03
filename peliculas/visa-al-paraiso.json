@@ -1,0 +1,303 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "encuentro-de-cine-sudamericano-de-marsella",
+                "name": "Encuentro de Cine Sudamericano de Marsella",
+                "slug": "encuentro-de-cine-sudamericano-de-marsella",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Investigaci\u00f3n",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lillian Liberman Shkolnikoff",
+                "gender": "f",
+                "id": 199,
+                "slug": "lillian-liberman-shkolnikoff",
+                "url": "https://www.filminlatino.mx/directora/lillian-liberman-shkolnikoff"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "Un cuidadoso trabajo de investigaci\u00f3n sobre archivos nacionales y extranjeros sobre refugiados republicanos espa\u00f1oles, en M\u00e9xico, al estallar la Guerra Mundial de 1939.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 230,
+        "image_card": "https://static.filminlatino.mx/images/media/230/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/230/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/230/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/230/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/230/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/230/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Visa al para\u00edso",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 149,
+                "name": "Programa Ibermedia",
+                "slug": "programa-ibermedia",
+                "url": "https://www.filminlatino.mx/producer/programa-ibermedia"
+            },
+            {
+                "acronym": "",
+                "id": 165,
+                "name": "Producciones Nitya",
+                "slug": "producciones-nitya",
+                "url": "https://www.filminlatino.mx/producer/producciones-nitya"
+            },
+            {
+                "acronym": "",
+                "id": 166,
+                "name": "Bamb\u00fa Audiovisual",
+                "slug": "bambu-audiovisual",
+                "url": "https://www.filminlatino.mx/producer/bambu-audiovisual"
+            },
+            {
+                "acronym": "",
+                "id": 168,
+                "name": "Shottama, A.C",
+                "slug": "shottama-ac",
+                "url": "https://www.filminlatino.mx/producer/shottama-ac"
+            },
+            {
+                "acronym": "",
+                "id": 167,
+                "name": "1, 2, 3 Producciones",
+                "slug": "1-2-3-producciones",
+                "url": "https://www.filminlatino.mx/producer/1-2-3-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "visa-al-paraiso",
+        "synopsis": "Tras su derrota en la Guerra Civil contra Franco, cuando 500 mil republicanos cruzaron la frontera con Francia para salvar sus vidas. Donde muchos de ellos fueron instalados en campos de concentraci\u00f3n, sin ningunas condiciones sanitarias, L\u00e1zaro C\u00e1rdenas env\u00eda a Gilberto Bosques como C\u00f3nsul General de M\u00e9xico en Par\u00eds con el fin de rescatar al mayor n\u00famero de republicanos espa\u00f1oles concentrados en el sur de Francia. Al estallar la Guerra Mundial en 1939, Bosques instala el Consulado en Marsella, ampl\u00eda la misi\u00f3n diplom\u00e1tica y salva a miles de perseguidos del nazi-fascismo.",
+        "tags": [
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 23,
+                "name": "Segunda Guerra Mundial",
+                "slug": "segunda-guerra-mundial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segunda-guerra-mundial"
+            },
+            {
+                "id": 1418,
+                "name": "Guerra civil espa\u00f1ola",
+                "slug": "guerra-civil-espanola",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil-espanola"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1268438400,
+        "theater_release_date": 1268438400,
+        "theater_spectators_formatted": null,
+        "title": "Visa al para\u00edso",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/visa-al-paraiso",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 216,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/visa-al-paraiso.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/visa-al-paraiso/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/visa-al-paraiso/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

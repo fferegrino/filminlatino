@@ -1,0 +1,279 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carola Reyna",
+                "gender": "f",
+                "id": 2733,
+                "slug": "carola-reyna",
+                "url": "https://www.filminlatino.mx/actriz/carola-reyna"
+            },
+            {
+                "full_name": "Geraldine Chaplin",
+                "gender": "f",
+                "id": 2221,
+                "slug": "geraldine-chaplin",
+                "url": "https://www.filminlatino.mx/actriz/geraldine-chaplin"
+            },
+            {
+                "full_name": "Ana Torrent",
+                "gender": "m",
+                "id": 1895,
+                "slug": "ana-torrent",
+                "url": "https://www.filminlatino.mx/actor/ana-torrent"
+            },
+            {
+                "full_name": "Diana Bracho",
+                "gender": "f",
+                "id": 268,
+                "slug": "diana-bracho",
+                "url": "https://www.filminlatino.mx/actriz/diana-bracho"
+            },
+            {
+                "full_name": "Carmen Montejo",
+                "gender": "f",
+                "id": 1000,
+                "slug": "carmen-montejo",
+                "url": "https://www.filminlatino.mx/actriz/carmen-montejo"
+            }
+        ],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [
+            {
+                "category": "Nominada a Mejor Coactuaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2001
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guita Schyfter",
+                "gender": "f",
+                "id": 985,
+                "slug": "guita-schyfter",
+                "url": "https://www.filminlatino.mx/directora/guita-schyfter"
+            }
+        ],
+        "duration_in_minutes": 116,
+        "excerpt": "Sugerencia feminista y nost\u00e1lgica de los rostros de estas cinco latinoamericanas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1462,
+        "image_card": "https://static.filminlatino.mx/images/media/1462/9/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1462/9/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1462/17/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1462/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1462/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1462/13/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1462/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1462/15/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Las caras de la luna",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 373,
+                "name": "Argos",
+                "slug": "argos",
+                "url": "https://www.filminlatino.mx/producer/argos"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "las-caras-de-la-luna",
+        "synopsis": "La famosa actriz mexicana Magdalena Puente organiza el Tercer Festival de Cine Latinoamericano de Mujeres, en le que participan como jurado, cinco cineastas de diferentes pa\u00edses. Durante seis d\u00edas vertiginosos compartir\u00e1n todas sus experiencias, fantasmas y expectativas. La trama deja entre ver en el trayecto la historia reciente de Am\u00e9rica Latina. Las caras de la luna es una pel\u00edcula de mujeres, amor, lealtad y compromiso sobre la vida actual.",
+        "tags": [
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2518,
+                "name": "Ciclo mujeres: revoluciones y revelaciones",
+                "slug": "ciclo-mujeres-revoluciones-y-revelaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-mujeres-revoluciones-y-revelaciones"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1336780800,
+        "theater_release_date": 1336780800,
+        "theater_spectators_formatted": null,
+        "title": "Las caras de la luna",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-caras-de-la-luna",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2501,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2001
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Devery Jacobs",
+                "gender": "f",
+                "id": 12921,
+                "slug": "devery-jacobs",
+                "url": "https://www.filminlatino.mx/actriz/devery-jacobs"
+            },
+            {
+                "full_name": "Pascale Bussi\u00e8res",
+                "gender": "f",
+                "id": 12922,
+                "slug": "pascale-bussieres",
+                "url": "https://www.filminlatino.mx/actriz/pascale-bussieres"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Jutra Awards",
+                "slug": "jutra-awards",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Le Gala Quebec Cinema",
+                "slug": "le-gala-quebec-cinema",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Caroline Monnet",
+                "gender": "f",
+                "id": 6989,
+                "slug": "caroline-monnet",
+                "url": "https://www.filminlatino.mx/directora/caroline-monnet"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Caroline Monnet dirige esta \u00f3pera prima sobre la relaci\u00f3n hacia la prohibici\u00f3n y el contrabando en una localidad del Norte de Quebec, y cuestiona la toma de poder pol\u00edtico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11895,
+        "image_card": "https://static.filminlatino.mx/images/media/11895/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11895/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11895/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11895/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11895/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11895/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11895/9/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Bootlegger",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bootlegger",
+        "synopsis": "Mani, una estudiante de M\u00e1ster, vuelve al Norte de Quebec, donde pas\u00f3 su infancia. Su doloroso pasado vuelve a surgir. Dispuesta a encontrar su lugar,decide involucrarse en el debate sobre un refer\u00e9ndum para permitir la venta libre de alcohol. Laura, una traficante, embolsa los beneficios bajo la protecci\u00f3n del consejo de la banda y de Raymond, su compa\u00f1ero. Este \u00faltimo a\u00fan guarda rencor a Mani, a quien considera responsable de la muerte de su hija en un incendio. Dos mujeres radicalmente opuestas van a dividir muy r\u00e1pido a toda la comunidad en dos clanes, que acabar\u00e1n enfrent\u00e1ndose para encontrar el mejor camino hacia la independencia.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2791,
+                "name": "Face + Places | MyFFF 2023",
+                "slug": "face-places-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/face-places-myfff-2023"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Bootlegger",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bootlegger",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13752,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

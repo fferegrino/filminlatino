@@ -1,0 +1,264 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "name": " Festival Internacional de Cine de Cartagena de Indias, Colombia",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias-colombia",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Clare Weiskopf",
+                "gender": "f",
+                "id": 31,
+                "slug": "clare-weiskopf",
+                "url": "https://www.filminlatino.mx/character/clare-weiskopf"
+            },
+            {
+                "full_name": "Valerie Meikle",
+                "gender": "f",
+                "id": 32,
+                "slug": "valerie-meikle",
+                "url": "https://www.filminlatino.mx/character/valerie-meikle"
+            },
+            {
+                "full_name": "Diego Weiskopf",
+                "gender": "m",
+                "id": 33,
+                "slug": "diego-weiskopf",
+                "url": "https://www.filminlatino.mx/character/diego-weiskopf"
+            }
+        ],
+        "countries": [
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Clare Weiskopf",
+                "gender": "f",
+                "id": 1988,
+                "slug": "clare-weiskopf",
+                "url": "https://www.filminlatino.mx/directora/clare-weiskopf"
+            },
+            {
+                "full_name": "Nicol\u00e1s Van Hemelryck",
+                "gender": "m",
+                "id": 1989,
+                "slug": "nicolas-van-hemelryck",
+                "url": "https://www.filminlatino.mx/director/nicolas-van-hemelryck"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "Documental que explora\u00a0los l\u00edmites entre la responsabilidad y la libertad, el poder del amor y el significado de la familia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3950,
+        "image_card": "https://static.filminlatino.mx/images/media/3950/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3950/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3950/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3950/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3950/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3950/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3950/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "Amazona",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1907,
+                "name": "Nicol\u00e1s van Hemelryck",
+                "slug": "nicolas-van-hemelryck",
+                "url": "https://www.filminlatino.mx/producer/nicolas-van-hemelryck"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "amazona",
+        "synopsis": "Esta es la historia de Val y Clare: una madre y una hija.\u00a0Despu\u00e9s de la tr\u00e1gica muerte de su hija mayor, Val deja atr\u00e1s a su familia y escapa a la jungla colombiana para buscar su identidad.\u00a0Clare solo ten\u00eda 11 a\u00f1os cuando su madre se fue y no pod\u00eda entender lo que estaba pasando: un hijo que se convirti\u00f3 en adicto, tres rupturas y una familia fracturada se qued\u00f3 atr\u00e1s.\u00a0Ahora Clare est\u00e1 embarazada y decide enfrentarse a su madre, curar las heridas del pasado y tratar de definir la maternidad en sus propios t\u00e9rminos.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Amazona",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/amazona",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3290,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Julia Garner",
+                "gender": "f",
+                "id": 3959,
+                "slug": "julia-garner",
+                "url": "https://www.filminlatino.mx/actriz/julia-garner"
+            },
+            {
+                "full_name": "Ambyr Childers",
+                "gender": "f",
+                "id": 3960,
+                "slug": "ambyr-childers",
+                "url": "https://www.filminlatino.mx/actriz/ambyr-childers"
+            },
+            {
+                "full_name": "Bill Sage",
+                "gender": "m",
+                "id": 3961,
+                "slug": "bill-sage",
+                "url": "https://www.filminlatino.mx/actor/bill-sage"
+            },
+            {
+                "full_name": "Kelly McGillis",
+                "gender": "f",
+                "id": 2058,
+                "slug": "kelly-mcgillis",
+                "url": "https://www.filminlatino.mx/actriz/kelly-mcgillis"
+            },
+            {
+                "full_name": "Michael Parks",
+                "gender": "m",
+                "id": 3962,
+                "slug": "michael-parks",
+                "url": "https://www.filminlatino.mx/actor/michael-parks"
+            },
+            {
+                "full_name": "Wyatt Russell",
+                "gender": "m",
+                "id": 3963,
+                "slug": "wyatt-russell",
+                "url": "https://www.filminlatino.mx/actor/wyatt-russell"
+            }
+        ],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [
+            {
+                "category": "Quincena de Realizadores",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "austin-fantastic-fest",
+                "name": "Austin Fantastic Fest",
+                "slug": "austin-fantastic-fest",
+                "year": null
+            },
+            {
+                "category": "Mejor director",
+                "icon": "toronto-after-dark-film-festival",
+                "name": "Toronto After Dark Film Festival ",
+                "slug": "toronto-after-dark-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Fot\u00f3grafo ",
+                "icon": "toronto-after-dark-film-festival",
+                "name": "Toronto After Dark Film Festival ",
+                "slug": "toronto-after-dark-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor asesinato",
+                "icon": "toronto-after-dark-film-festival",
+                "name": "Toronto After Dark Film Festival ",
+                "slug": "toronto-after-dark-film-festival",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-sitges",
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "year": 2013
+            },
+            {
+                "category": "Mejor largometraje de terror",
+                "icon": "toronto-after-dark-film-festival",
+                "name": "Toronto After Dark Film Festival ",
+                "slug": "toronto-after-dark-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "fangoria-chainsaw-awards",
+                "name": "Fangoria Chainsaw Awards",
+                "slug": "fangoria-chainsaw-awards",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jim Mickle",
+                "gender": "m",
+                "id": 737,
+                "slug": "jim-mickle",
+                "url": "https://www.filminlatino.mx/director/jim-mickle"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Uno de los remakes hechos por Hollywood menos hollywoodenses. La particular familia mexicana de \"Somos lo que hay\" de Jorge Michel Grau en una versi\u00f3n libre y m\u00e1s transgresora.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2652,
+        "image_card": "https://static.filminlatino.mx/images/media/2652/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2652/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2652/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2652/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2652/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2652/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 34,
+        "original_title": "We are what we are",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1561,
+                "name": "Memento Films International",
+                "slug": "memento-films-international",
+                "url": "https://www.filminlatino.mx/producer/memento-films-international"
+            },
+            {
+                "acronym": "",
+                "id": 1562,
+                "name": "Uncorked Productions",
+                "slug": "uncorked-productions",
+                "url": "https://www.filminlatino.mx/producer/uncorked-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1563,
+                "name": "The Zoo",
+                "slug": "the-zoo",
+                "url": "https://www.filminlatino.mx/producer/the-zoo"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "somos-lo-que-somos",
+        "synopsis": "Los Parker, una familia solitaria que siguen las costumbres antiguas. El patriarca, decidido a mantener intactas las tradiciones familiares, gobierna con mano de hierro. Como si de la tempestad de lluvia torrencial que acecha la zona se tratase, la tragedia golpea a los Parker cuando las hijas, Iris y Rose, se ven obligados a asumir responsabilidades que van m\u00e1s all\u00e1 de las de una familia t\u00edpica. Las autoridades locales empiezan a descubrir pistas que les acercan al secreto que los Parker han mantenido oculto durante a\u00f1os.",
+        "tags": [
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 664,
+                "name": "Can\u00edbales",
+                "slug": "canibales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canibales"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 61,
+                "name": "Remake",
+                "slug": "remake",
+                "url": "https://www.filminlatino.mx/catalogo/tema/remake"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 845,
+                "name": "Sangre",
+                "slug": "sangre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sangre"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 958,
+                "name": "Terror en el GIFF",
+                "slug": "terror-en-el-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-en-el-giff"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 1465,
+                "name": "Atrapados",
+                "slug": "atrapados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/atrapados"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Somos lo que somos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/somos-lo-que-somos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2141,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2013
+    }
+}

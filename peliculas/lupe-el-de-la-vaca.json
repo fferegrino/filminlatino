@@ -1,0 +1,318 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Blanca X. Aguerre",
+                "gender": "f",
+                "id": 172,
+                "slug": "blanca-x-aguerre",
+                "url": "https://www.filminlatino.mx/directora/blanca-x-aguerre"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "Un testimonio de c\u00f3mo el campo mexicano ha sido abandonado a su suerte, pero tambi\u00e9n un homenaje a los hombres y mujeres de gran fortaleza que no se dan por vencidos f\u00e1cilmente.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 191,
+        "image_card": "https://static.filminlatino.mx/images/media/191/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/191/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/191/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/191/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Lupe el de la vaca",
+        "producers": [
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "FONCA",
+                "id": 25,
+                "name": "Fondo Nacional para la Cultura y las Artes ",
+                "slug": "fondo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 19,
+                "name": "Filmoteca UNAM ",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/producer/filmoteca-unam"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 67,
+                "name": "Jan Vrijman Fund",
+                "slug": "jan-vrijman-fund",
+                "url": "https://www.filminlatino.mx/producer/jan-vrijman-fund"
+            },
+            {
+                "acronym": "",
+                "id": 109,
+                "name": "ITESO",
+                "slug": "iteso",
+                "url": "https://www.filminlatino.mx/producer/iteso"
+            },
+            {
+                "acronym": "",
+                "id": 110,
+                "name": "La Diez y media",
+                "slug": "la-diez-y-media",
+                "url": "https://www.filminlatino.mx/producer/la-diez-y-media"
+            },
+            {
+                "acronym": "",
+                "id": 111,
+                "name": "Ollin Estudio",
+                "slug": "ollin-estudio",
+                "url": "https://www.filminlatino.mx/producer/ollin-estudio"
+            },
+            {
+                "acronym": "",
+                "id": 112,
+                "name": "New Art Lab",
+                "slug": "new-art-lab",
+                "url": "https://www.filminlatino.mx/producer/new-art-lab"
+            },
+            {
+                "acronym": "",
+                "id": 113,
+                "name": "El bloque ",
+                "slug": "el-bloque",
+                "url": "https://www.filminlatino.mx/producer/el-bloque"
+            },
+            {
+                "acronym": "",
+                "id": 114,
+                "name": "La banda sonora",
+                "slug": "la-banda-sonora",
+                "url": "https://www.filminlatino.mx/producer/la-banda-sonora"
+            },
+            {
+                "acronym": "",
+                "id": 115,
+                "name": "Primera Mente",
+                "slug": "primera-mente",
+                "url": "https://www.filminlatino.mx/producer/primera-mente"
+            },
+            {
+                "acronym": "",
+                "id": 116,
+                "name": "Kodak",
+                "slug": "kodak",
+                "url": "https://www.filminlatino.mx/producer/kodak"
+            },
+            {
+                "acronym": "",
+                "id": 117,
+                "name": "Cine Color M\u00e9xico",
+                "slug": "cine-color-mexico",
+                "url": "https://www.filminlatino.mx/producer/cine-color-mexico"
+            },
+            {
+                "acronym": "",
+                "id": 118,
+                "name": "Fideicomiso para la producci\u00f3n de Cine Documental de la Academia Jalisciense de Cinematograf\u00eda",
+                "slug": "fideicomiso-para-la-produccion-de-cine-documental-de-la-academia-jalisciense-de-cinematografia",
+                "url": "https://www.filminlatino.mx/producer/fideicomiso-para-la-produccion-de-cine-documental-de-la-academia-jalisciense-de-cinematografia"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lupe-el-de-la-vaca",
+        "synopsis": "Es el nombre de un personaje peculiar al que nunca vemos pero que le da enunciado al documental. Sirve como pretexto l\u00fadico para acercarse a las personas de una comunidad de la Sierra del Tigre, Jalisco, para hablar de la subsistencia en el campo mexicano. Un homenaje sencillo y lleno de buena leche a estos campesinos que aman lo que hacen.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1216,
+                "name": "Jalisco",
+                "slug": "jalisco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jalisco"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lupe el de la vaca",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lupe-el-de-la-vaca",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 120,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

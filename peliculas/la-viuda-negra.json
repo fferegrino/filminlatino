@@ -1,0 +1,410 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Isela Vega",
+                "gender": "f",
+                "id": 328,
+                "slug": "isela-vega",
+                "url": "https://www.filminlatino.mx/actriz/isela-vega"
+            },
+            {
+                "full_name": "Mario Almada",
+                "gender": "m",
+                "id": 329,
+                "slug": "mario-almada",
+                "url": "https://www.filminlatino.mx/actor/mario-almada"
+            },
+            {
+                "full_name": "Hilda Aguirre",
+                "gender": "f",
+                "id": 330,
+                "slug": "hilda-aguirre",
+                "url": "https://www.filminlatino.mx/actriz/hilda-aguirre"
+            },
+            {
+                "full_name": "Eduardo Alcaraz",
+                "gender": "m",
+                "id": 331,
+                "slug": "eduardo-alcaraz",
+                "url": "https://www.filminlatino.mx/actor/eduardo-alcaraz"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1977
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1977
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arturo Ripstein",
+                "gender": "m",
+                "id": 75,
+                "slug": "arturo-ripstein",
+                "url": "https://www.filminlatino.mx/director/arturo-ripstein"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Uno de los casos m\u00e1s sonados de censura en la historia de la cinematograf\u00eda mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 123,
+        "image_card": "https://static.filminlatino.mx/images/media/123/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/123/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/123/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/123/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/123/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/123/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 236,
+        "original_title": "La viuda negra",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-viuda-negra",
+        "synopsis": "En un peque\u00f1o pueblo de M\u00e9xico, se viven las intrigas y los secretos. Matea es una hu\u00e9rfana que asiste al cura, el sacerdote Feliciano, en su parroquia. El m\u00e9dico del pueblo intenta seducirla pero fracasa y procede a difamarla diciendo que mantiene relaciones con el cl\u00e9rigo.",
+        "tags": [
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 595,
+                "name": "Los que se fueron",
+                "slug": "los-que-se-fueron",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-que-se-fueron"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 135,
+                "name": "Estreno controvertido",
+                "slug": "estreno-controvertido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estreno-controvertido"
+            },
+            {
+                "id": 179,
+                "name": "Orfandad",
+                "slug": "orfandad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orfandad"
+            },
+            {
+                "id": 302,
+                "name": "Esc\u00e1ndalo sexual",
+                "slug": "escandalo-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escandalo-sexual"
+            },
+            {
+                "id": 420,
+                "name": "Femme Fatale MX",
+                "slug": "femme-fatale-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/femme-fatale-mx"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 935,
+                "name": "Actrices imprescindibles",
+                "slug": "actrices-imprescindibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actrices-imprescindibles"
+            },
+            {
+                "id": 994,
+                "name": "Presencia Mx Venecia",
+                "slug": "presencia-mx-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/presencia-mx-venecia"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1181,
+                "name": "1977",
+                "slug": "1977",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1977"
+            },
+            {
+                "id": 1191,
+                "name": "Guanajuato",
+                "slug": "guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guanajuato"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1655,
+                "name": "Encuentro de Novela Negra",
+                "slug": "encuentro-de-novela-negra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encuentro-de-novela-negra"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2788,
+                "name": "Los t\u00edtulos m\u00e1s vistos del 2022",
+                "slug": "los-titulos-mas-vistos-del-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-titulos-mas-vistos-del-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 430012800,
+        "theater_release_date": 430012800,
+        "theater_spectators_formatted": null,
+        "title": "La viuda negra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-viuda-negra",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 140,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-viuda-negra.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-viuda-negra/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-viuda-negra/master.m3u8"
+                }
+            ]
+        },
+        "year": 1977
+    }
+}

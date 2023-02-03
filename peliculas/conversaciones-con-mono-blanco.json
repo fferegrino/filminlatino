@@ -1,0 +1,183 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jaime Francisco Cruz Ram\u00edrez",
+                "gender": "m",
+                "id": 1777,
+                "slug": "jaime-francisco-cruz-ramirez",
+                "url": "https://www.filminlatino.mx/director/jaime-francisco-cruz-ramirez"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "Un documental sobre\u00a0la persistencia, el trabajo, el empe\u00f1o, la visi\u00f3n y el sue\u00f1o de la agrupaci\u00f3n musical\u00a0Mono Blanco.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            },
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3342,
+        "image_card": "https://static.filminlatino.mx/images/media/3342/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3342/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3342/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3342/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3342/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3342/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3342/10/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 22,
+        "original_title": "Conversaciones con Mono Blanco",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "conversaciones-con-mono-blanco",
+        "synopsis": "Hablar del trabajo de Gilberto Guti\u00e9rrez y la agrupaci\u00f3n de la cual es l\u00edder, Mono Blanco, es hablar del resurgimiento del son jarocho. Nos da testimonio de su migraci\u00f3n a la Ciudad de M\u00e9xico, el descubrimiento de su vocaci\u00f3n y el gran viaje que a\u00fan no termina y le ha llevado por los cinco continentes, su memoria y su tradici\u00f3n. Este documental, producido con ayuda del crowdfunding, cuenta la trayectoria de una de los grupos de son m\u00e1s importantes de M\u00e9xico, activo en la escena de la m\u00fasica tradicional desde hace m\u00e1s de tres d\u00e9cadas.",
+        "tags": [
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 385,
+                "name": "Cantantes",
+                "slug": "cantantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cantantes"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1035,
+                "name": "Barlovento Films",
+                "slug": "barlovento-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barlovento-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Conversaciones con Mono Blanco",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/conversaciones-con-mono-blanco",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2687,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Medio Ambiente y Desarrollo Sustentable",
+                "icon": "",
+                "name": "X Encuentro Hispanoamiercano de Cine y Video \u201cContra el Silencio Todas las Voces\u201d",
+                "slug": "x-encuentro-hispanoamiercano-de-cine-y-video-contra-el-silencio-todas-las-voces",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Derechos Humanos (Bannab\u00e1)",
+                "slug": "festival-internacional-de-cine-de-derechos-humanos-bannaba",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n no oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Medio Ambiente de Barcelona (FICMA)",
+                "slug": "festival-internacional-de-cine-de-medio-ambiente-de-barcelona-ficma",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine de M\u00e9rida y Yucat\u00e1n",
+                "slug": "festival-internacional-de-cine-de-merida-y-yucatan",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Belize Film Festival",
+                "slug": "belize-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Humano Film Festival",
+                "slug": "humano-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "The BLUE Ocean Film Festival and Conservation",
+                "slug": "the-blue-ocean-film-festival-and-conservation",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine Verde de Colombia (Festiver)",
+                "slug": "festival-de-cine-verde-de-colombia-festiver",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Planetario",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Ra\u00fal Padilla",
+                "gender": "m",
+                "id": 1494,
+                "slug": "raul-padilla",
+                "url": "https://www.filminlatino.mx/character/raul-padilla"
+            },
+            {
+                "full_name": "Raymundo Tineo",
+                "gender": "m",
+                "id": 1495,
+                "slug": "raymundo-tineo",
+                "url": "https://www.filminlatino.mx/character/raymundo-tineo"
+            },
+            {
+                "full_name": "Marisol Rueda Flores",
+                "gender": "f",
+                "id": 1496,
+                "slug": "marisol-rueda-flores",
+                "url": "https://www.filminlatino.mx/character/marisol-rueda-flores"
+            },
+            {
+                "full_name": "Lupita De la Rosa Villalba",
+                "gender": "f",
+                "id": 1497,
+                "slug": "lupita-de-la-rosa-villalba",
+                "url": "https://www.filminlatino.mx/character/lupita-de-la-rosa-villalba"
+            },
+            {
+                "full_name": "Jer\u00f3nimo Avil\u00e9s",
+                "gender": "m",
+                "id": 1498,
+                "slug": "jeronimo-aviles",
+                "url": "https://www.filminlatino.mx/character/jeronimo-aviles"
+            },
+            {
+                "full_name": "Aniceto Camaal",
+                "gender": "m",
+                "id": 1499,
+                "slug": "aniceto-camaal",
+                "url": "https://www.filminlatino.mx/character/aniceto-camaal"
+            },
+            {
+                "full_name": "Germ\u00e1n Ya\u00f1ez",
+                "gender": "m",
+                "id": 1500,
+                "slug": "german-yanez",
+                "url": "https://www.filminlatino.mx/character/german-yanez"
+            },
+            {
+                "full_name": "Jerem\u00edas Cano",
+                "gender": "m",
+                "id": 1501,
+                "slug": "jeremias-cano",
+                "url": "https://www.filminlatino.mx/character/jeremias-cano"
+            },
+            {
+                "full_name": "Paul Blanchon",
+                "gender": "m",
+                "id": 1502,
+                "slug": "paul-blanchon",
+                "url": "https://www.filminlatino.mx/character/paul-blanchon"
+            },
+            {
+                "full_name": "Brigitta van Tussenbroek",
+                "gender": "f",
+                "id": 1503,
+                "slug": "brigitta-van-tussenbroek",
+                "url": "https://www.filminlatino.mx/character/brigitta-van-tussenbroek"
+            },
+            {
+                "full_name": "Ronald Waterman",
+                "gender": "m",
+                "id": 1504,
+                "slug": "ronald-waterman",
+                "url": "https://www.filminlatino.mx/character/ronald-waterman"
+            },
+            {
+                "full_name": "Beatriz Urtuzuastegui",
+                "gender": "f",
+                "id": 1505,
+                "slug": "beatriz-urtuzuastegui",
+                "url": "https://www.filminlatino.mx/character/beatriz-urtuzuastegui"
+            },
+            {
+                "full_name": "Jos\u00e9 G\u00f3mez Burgos",
+                "gender": "m",
+                "id": 1506,
+                "slug": "jose-gomez-burgos",
+                "url": "https://www.filminlatino.mx/character/jose-gomez-burgos"
+            },
+            {
+                "full_name": "Escole Carpinteri Rico",
+                "gender": "m",
+                "id": 1507,
+                "slug": "escole-carpinteri-rico",
+                "url": "https://www.filminlatino.mx/character/escole-carpinteri-rico"
+            },
+            {
+                "full_name": "Miguel Rico Diener",
+                "gender": "m",
+                "id": 1508,
+                "slug": "miguel-rico-diener",
+                "url": "https://www.filminlatino.mx/character/miguel-rico-diener"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos  Underwood",
+                "gender": "m",
+                "id": 4815,
+                "slug": "carlos-underwood",
+                "url": "https://www.filminlatino.mx/director/carlos-underwood"
+            },
+            {
+                "full_name": "Sergio Santiago",
+                "gender": "m",
+                "id": 4816,
+                "slug": "sergio-santiago",
+                "url": "https://www.filminlatino.mx/director/sergio-santiago"
+            }
+        ],
+        "duration_in_minutes": 77,
+        "excerpt": "Documental que denuncia las problem\u00e1ticas ambientales y la amenaza al jaguar en el Caribe mexicano, provocadas por el desarrollo tur\u00edstico y la miner\u00eda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8358,
+        "image_card": "https://static.filminlatino.mx/images/media/8358/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8358/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8358/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/8358/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/8358/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/8358/1/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/8358/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Erosi\u00f3n",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "erosion",
+        "synopsis": "Con el testimonio de cient\u00edficos, investigadores, activistas, pol\u00edticos y civiles, este documental enfrenta un tema trascendental: la explotaci\u00f3n incontrolada de los recursos naturales en Playa del Carmen. Los directores narran el proceso de transformaci\u00f3n de esta regi\u00f3n para convertirse en el principal destino tur\u00edstico de M\u00e9xico y el Caribe, que es una bomba de tiempo por la inadecuada planificaci\u00f3n y la mala ejecuci\u00f3n de las leyes de protecci\u00f3n ambiental, la descarga de aguas residuales en el mar y los acu\u00edferos, el deterioro de las playas, la deforestaci\u00f3n incontrolada, la destrucci\u00f3n del patrimonio hist\u00f3rico y paleontol\u00f3gico, el da\u00f1o al h\u00e1bitat de especies protegidas como el jaguar, y el efecto negativo de las actividades industriales de la miner\u00eda.",
+        "tags": [
+            {
+                "id": 697,
+                "name": "Contaminaci\u00f3n",
+                "slug": "contaminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/contaminacion"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 1286,
+                "name": "Crisis de agua",
+                "slug": "crisis-de-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-agua"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 303,
+                "name": "Miner\u00eda",
+                "slug": "mineria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mineria"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 335,
+                "name": "Investigaci\u00f3n cient\u00edfica",
+                "slug": "investigacion-cientifica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/investigacion-cientifica"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 2121,
+                "name": "Deforestaci\u00f3n",
+                "slug": "deforestacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deforestacion"
+            },
+            {
+                "id": 2122,
+                "name": "Especies protegidas",
+                "slug": "especies-protegidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especies-protegidas"
+            },
+            {
+                "id": 2123,
+                "name": "Da\u00f1o ambiental",
+                "slug": "dano-ambiental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dano-ambiental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 2126,
+                "name": "Muestra | 2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2125,
+                "name": "2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Erosi\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/erosion",
+        "versions": [
+            {
+                "codes": [],
+                "id": 9516,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/T1.ERO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/T1.ERO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/T1.ERO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

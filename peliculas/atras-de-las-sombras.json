@@ -1,0 +1,281 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adolfo Ram\u00edrez",
+                "gender": "m",
+                "id": 965,
+                "slug": "adolfo-ramirez",
+                "url": "https://www.filminlatino.mx/actor/adolfo-ramirez"
+            },
+            {
+                "full_name": "Alfredo Cruz Ruvalcaba",
+                "gender": "m",
+                "id": 966,
+                "slug": "alfredo-cruz-ruvalcaba",
+                "url": "https://www.filminlatino.mx/actor/alfredo-cruz-ruvalcaba"
+            },
+            {
+                "full_name": "Armando Castill\u00e1n",
+                "gender": "m",
+                "id": 967,
+                "slug": "armando-castillan",
+                "url": "https://www.filminlatino.mx/actor/armando-castillan"
+            },
+            {
+                "full_name": "Andr\u00e9s Tavira",
+                "gender": "m",
+                "id": 968,
+                "slug": "andres-tavira",
+                "url": "https://www.filminlatino.mx/actor/andres-tavira"
+            }
+        ],
+        "avg_votes": 10,
+        "avg_votes_formatted": "10",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ozcar Ram\u00edrez",
+                "gender": "m",
+                "id": 186,
+                "slug": "ozcar-ramirez",
+                "url": "https://www.filminlatino.mx/director/ozcar-ramirez"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "Al lado de los grandes nombres hay otro grupo de personas que tambi\u00e9n son responsables de la magia del cine.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 397,
+        "image_card": "https://static.filminlatino.mx/images/media/397/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/397/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/397/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/397/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/397/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Atr\u00e1s de las sombras",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 327,
+                "name": "Hartos Indios",
+                "slug": "hartos-indios",
+                "url": "https://www.filminlatino.mx/producer/hartos-indios"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "atras-de-las-sombras",
+        "synopsis": "Al lado de productores, guionistas, directores, actores y fot\u00f3grafos hay otro grupo de personas que tambi\u00e9n son responsables de la magia del cine. Son los hombres y las mujeres que trabajan detr\u00e1s de las c\u00e1maras: los t\u00e9cnicos. Siempre listos, preparando la siguiente escena; son los que aparecen en los cr\u00e9ditos finales, generalmente ignorados por los espectadores. Este documental es la historia de todos ellos: su voz, sus memorias, sus vivencias y an\u00e9cdotas de toda una vida en el cine.",
+        "tags": [
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 833,
+                "name": "3\u00b0 FICM",
+                "slug": "30-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/30-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1249,
+                "name": "2002",
+                "slug": "2002",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2002"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1901,
+                "name": "Arte 7 ",
+                "slug": "arte-7",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte-7"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1021248000,
+        "theater_release_date": 1021248000,
+        "theater_spectators_formatted": null,
+        "title": "Atr\u00e1s de las sombras",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/atras-de-las-sombras",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 464,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/atras-de-las-sombras.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/atras-de-las-sombras/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/atras-de-las-sombras/master.m3u8"
+                }
+            ]
+        },
+        "year": 2005
+    }
+}

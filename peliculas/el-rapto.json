@@ -1,0 +1,330 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Yvan Attal",
+                "gender": "m",
+                "id": 2743,
+                "slug": "yvan-attal",
+                "url": "https://www.filminlatino.mx/actor/yvan-attal"
+            },
+            {
+                "full_name": "Anne Marivin",
+                "gender": "f",
+                "id": 1487,
+                "slug": "anne-marivin",
+                "url": "https://www.filminlatino.mx/actriz/anne-marivin"
+            },
+            {
+                "full_name": "Andr\u00e9 Marcon",
+                "gender": "m",
+                "id": 2744,
+                "slug": "andre-marcon",
+                "url": "https://www.filminlatino.mx/actor/andre-marcon"
+            }
+        ],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lucas Belvaux",
+                "gender": "m",
+                "id": 988,
+                "slug": "lucas-belvaux",
+                "url": "https://www.filminlatino.mx/director/lucas-belvaux"
+            }
+        ],
+        "duration_in_minutes": 126,
+        "excerpt": "Un filme que muestra a un hombre al borde de la locura mientras se encuentra secuestrado en espera de que lo rescaten.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1469,
+        "image_card": "https://static.filminlatino.mx/images/media/1469/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1469/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1469/7/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1469/10/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Rapt",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1050,
+                "name": "Agat Films & Cie",
+                "slug": "agat-films-cie",
+                "url": "https://www.filminlatino.mx/producer/agat-films-cie"
+            },
+            {
+                "acronym": "",
+                "id": 1051,
+                "name": "Entre Chien et Loup",
+                "slug": "entre-chien-et-loup",
+                "url": "https://www.filminlatino.mx/producer/entre-chien-et-loup"
+            },
+            {
+                "acronym": "",
+                "id": 530,
+                "name": "France 3 Cin\u00e9ma",
+                "slug": "france-3-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-3-cinema"
+            },
+            {
+                "acronym": "RTBF",
+                "id": 1026,
+                "name": "Radio T\u00e9l\u00e9vision Belge Francophone",
+                "slug": "radio-television-belge-francophone",
+                "url": "https://www.filminlatino.mx/producer/radio-television-belge-francophone"
+            },
+            {
+                "acronym": "",
+                "id": 1052,
+                "name": "Ateliers de Baere",
+                "slug": "ateliers-de-baere",
+                "url": "https://www.filminlatino.mx/producer/ateliers-de-baere"
+            },
+            {
+                "acronym": "",
+                "id": 899,
+                "name": "Eurimages",
+                "slug": "eurimages",
+                "url": "https://www.filminlatino.mx/producer/eurimages"
+            },
+            {
+                "acronym": "",
+                "id": 1053,
+                "name": "Tax Shelter ING Invest de Tax Shelter Productions",
+                "slug": "tax-shelter-ing-invest-de-tax-shelter-productions",
+                "url": "https://www.filminlatino.mx/producer/tax-shelter-ing-invest-de-tax-shelter-productions"
+            },
+            {
+                "acronym": "",
+                "id": 42,
+                "name": "Centre du Cin\u00e9ma et de l'Audiovisuel de la Communaut\u00e9 Fran\u00e7aise de Belgique",
+                "slug": "centre-du-cinema-et-de-laudiovisuel-de-la-communaute-francaise-de-belgique",
+                "url": "https://www.filminlatino.mx/producer/centre-du-cinema-et-de-laudiovisuel-de-la-communaute-francaise-de-belgique"
+            },
+            {
+                "acronym": "",
+                "id": 990,
+                "name": "R\u00e9gion Ile-de-France",
+                "slug": "region-ile-de-france",
+                "url": "https://www.filminlatino.mx/producer/region-ile-de-france"
+            },
+            {
+                "acronym": "",
+                "id": 1054,
+                "name": "R\u00e9gion Wallone",
+                "slug": "region-wallone",
+                "url": "https://www.filminlatino.mx/producer/region-wallone"
+            },
+            {
+                "acronym": "",
+                "id": 1055,
+                "name": "Soficin\u00e9ma 5",
+                "slug": "soficinema-5",
+                "url": "https://www.filminlatino.mx/producer/soficinema-5"
+            },
+            {
+                "acronym": "",
+                "id": 1056,
+                "name": "Sofica Soficin\u00e9ma 4",
+                "slug": "sofica-soficinema-4",
+                "url": "https://www.filminlatino.mx/producer/sofica-soficinema-4"
+            },
+            {
+                "acronym": "",
+                "id": 1057,
+                "name": "Banque Postale Image 2",
+                "slug": "banque-postale-image-2",
+                "url": "https://www.filminlatino.mx/producer/banque-postale-image-2"
+            },
+            {
+                "acronym": "",
+                "id": 1058,
+                "name": "Cofimage 20",
+                "slug": "cofimage-20",
+                "url": "https://www.filminlatino.mx/producer/cofimage-20"
+            },
+            {
+                "acronym": "",
+                "id": 1059,
+                "name": "Uni Etoile ",
+                "slug": "uni-etoile",
+                "url": "https://www.filminlatino.mx/producer/uni-etoile"
+            },
+            {
+                "acronym": "",
+                "id": 1060,
+                "name": "Tetrade Consulting",
+                "slug": "tetrade-consulting",
+                "url": "https://www.filminlatino.mx/producer/tetrade-consulting"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "FR 3",
+                "id": 186,
+                "name": "France 3",
+                "slug": "france-3",
+                "url": "https://www.filminlatino.mx/producer/france-3"
+            },
+            {
+                "acronym": "",
+                "id": 471,
+                "name": "Cin\u00e9Cin\u00e9ma",
+                "slug": "cinecinema",
+                "url": "https://www.filminlatino.mx/producer/cinecinema"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-rapto",
+        "synopsis": "Un industrialista millonario es brutalmente secuestrado. Mientras \u00e9l se degenera f\u00edsica y mentalmente en prisi\u00f3n, los secuestradores, la polic\u00eda y la compa\u00f1\u00eda de la que es director, negocian su rescate de 50 millones de euros.",
+        "tags": [
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 582,
+                "name": "Persecuciones",
+                "slug": "persecuciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/persecuciones"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 1010,
+                "name": "14\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "140-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El rapto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-rapto",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1262,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-rapto.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-rapto/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-rapto/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

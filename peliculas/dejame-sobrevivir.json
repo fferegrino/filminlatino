@@ -1,0 +1,223 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Craig Fairbrass",
+                "gender": "m",
+                "id": 4152,
+                "slug": "craig-fairbrass",
+                "url": "https://www.filminlatino.mx/actor/craig-fairbrass"
+            },
+            {
+                "full_name": "Kierston Wareing",
+                "gender": "f",
+                "id": 3939,
+                "slug": "kierston-wareing",
+                "url": "https://www.filminlatino.mx/actriz/kierston-wareing"
+            },
+            {
+                "full_name": "Isabella Blake-Thomas",
+                "gender": "m",
+                "id": 4153,
+                "slug": "isabella-blake-thomas",
+                "url": "https://www.filminlatino.mx/actor/isabella-blake-thomas"
+            }
+        ],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo Rossoff",
+                "gender": "m",
+                "id": 692,
+                "slug": "eduardo-rossoff",
+                "url": "https://www.filminlatino.mx/director/eduardo-rossoff"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Kate es la \u00fanica superviviente de un terrible accidente y ahora tendr\u00e1 que probar su inocencia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2752,
+        "image_card": "https://static.filminlatino.mx/images/media/2752/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2752/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2752/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2752/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2752/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Let me survive",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1639,
+                "name": "Banana Films",
+                "slug": "banana-films",
+                "url": "https://www.filminlatino.mx/producer/banana-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "dejame-sobrevivir",
+        "synopsis": "Kate Callaghan y su hija son obligadas a embarcar con su exmarido en un yate rumbo a la costa africana. A los cinco d\u00edas de zarpar, una tormenta les golpea y tratan de sobrevivir en un bote. Pero cuando la guardia costera belga llega al rescate, dos semanas despu\u00e9s, ella es la \u00fanica que queda viva. Kate es incapaz de explicar lo que pas\u00f3 y por qu\u00e9 ella es la \u00fanica superviviente as\u00ed que, mientras todav\u00eda est\u00e1 recuper\u00e1ndose en el hospital, la polic\u00eda belga comienza a interrogarla como sospechosa de haber asesinado a su familia.",
+        "tags": [
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 134,
+                "name": "Basada en un bestseller",
+                "slug": "basada-en-un-bestseller",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-bestseller"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1384992000,
+        "theater_release_date": 1384992000,
+        "theater_spectators_formatted": null,
+        "title": "D\u00e9jame sobrevivir",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dejame-sobrevivir",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2111,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/dejame-sobrevivir.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/dejame-sobrevivir/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/dejame-sobrevivir/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

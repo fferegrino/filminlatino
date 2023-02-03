@@ -1,0 +1,299 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Ram\u00f3n Mikelaj\u00e1uregui",
+                "gender": "m",
+                "id": 1265,
+                "slug": "jose-ramon-mikelajauregui",
+                "url": "https://www.filminlatino.mx/director/jose-ramon-mikelajauregui"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "Documental que retrata la Revoluci\u00f3n Mexicana, desde el final del porfiriato hasta la firma de la Constituci\u00f3n de 1917. Todo esto a trav\u00e9s de m\u00fasica e im\u00e1genes de archivo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2508,
+        "image_card": "https://static.filminlatino.mx/images/media/2508/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2508/9/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2508/4/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2508/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2508/4/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "La historia en la mirada",
+        "producers": [
+            {
+                "acronym": "UNAM",
+                "id": 266,
+                "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+                "slug": "universidad-nacional-autonoma-de-mexico",
+                "url": "https://www.filminlatino.mx/producer/universidad-nacional-autonoma-de-mexico"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-historia-en-la-mirada",
+        "synopsis": "Pel\u00edcula documental que retrata el final del porfiriato, etapa previa al estallido de la Revoluci\u00f3n Mexicana, la efervescencia social y el ef\u00edmero gobierno de Madero, as\u00ed como la presencia de las clases populares con la figura de Villa y Zapata, hasta la firma de la Constituci\u00f3n de 1917.",
+        "tags": [
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 283,
+                "name": "Porfiriato",
+                "slug": "porfiriato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/porfiriato"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 888,
+                "name": "Cineteca Nacional",
+                "slug": "cineteca-nacional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cineteca-nacional"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 1069,
+                "name": "Filmoteca UNAM",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmoteca-unam"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1274,
+                "name": "Emiliano Zapata",
+                "slug": "emiliano-zapata",
+                "url": "https://www.filminlatino.mx/catalogo/tema/emiliano-zapata"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1410,
+                "name": "Aniversario UNAM",
+                "slug": "aniversario-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aniversario-unam"
+            },
+            {
+                "id": 1411,
+                "name": "Especial UNAM",
+                "slug": "especial-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-unam"
+            },
+            {
+                "id": 1415,
+                "name": "Arcadia UNAM",
+                "slug": "arcadia-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arcadia-unam"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2612,
+                "name": "Ediciones anteriores",
+                "slug": "ediciones-anteriores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ediciones-anteriores"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La historia en la mirada",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-historia-en-la-mirada",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2152,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-historia-en-la.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-historia-en-la/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-historia-en-la/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

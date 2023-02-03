@@ -1,0 +1,277 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 20.1,
+        "avg_votes_formatted": "20,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ivonne Fuentes",
+                "gender": "f",
+                "id": 166,
+                "slug": "ivonne-fuentes",
+                "url": "https://www.filminlatino.mx/directora/ivonne-fuentes"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Una pareja de maestros jubilados inicia un viaje sobre un viejo autob\u00fas transformado en su casa rodante.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 178,
+        "image_card": "https://static.filminlatino.mx/images/media/178/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/178/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/178/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/178/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/178/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "El viaje del cometa",
+        "producers": [
+            {
+                "acronym": "FONCA",
+                "id": 25,
+                "name": "Fondo Nacional para la Cultura y las Artes ",
+                "slug": "fondo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 100,
+                "name": "13 Lunas",
+                "slug": "13-lunas",
+                "url": "https://www.filminlatino.mx/producer/13-lunas"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-viaje-del-cometa",
+        "synopsis": "Una pareja de maestros jubilados transforma un autob\u00fas escolar en desuso en su casa rodante. Con la ayuda de unos telescopios, un sueldo de jubilados y un sue\u00f1o anhelado, inician un viaje a los sitios m\u00e1s apartados de M\u00e9xico para ense\u00f1ar gratuitamente un poco de astronom\u00eda en las escuelas p\u00fablicas del pa\u00eds.",
+        "tags": [
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 335,
+                "name": "Investigaci\u00f3n cient\u00edfica",
+                "slug": "investigacion-cientifica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/investigacion-cientifica"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 557,
+                "name": "Ciencia",
+                "slug": "ciencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1459,
+                "name": "Astronom\u00eda",
+                "slug": "astronomia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/astronomia"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1237852800,
+        "theater_release_date": 1237852800,
+        "theater_spectators_formatted": null,
+        "title": "El viaje del cometa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-viaje-del-cometa",
+        "versions": [
+            {
+                "codes": [],
+                "id": 77,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-viaje-del-cometa.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-viaje-del-cometa/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-viaje-del-cometa/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

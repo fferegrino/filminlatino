@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ingrid Eunice Fabi\u00e1n Gonz\u00e1lez",
+                "gender": "f",
+                "id": 1794,
+                "slug": "ingrid-eunice-fabian-gonzalez",
+                "url": "https://www.filminlatino.mx/directora/ingrid-eunice-fabian-gonzalez"
+            }
+        ],
+        "duration_in_minutes": 62,
+        "excerpt": "Dos comunidades del Istmo de Tehuantepec luchan por resistir los embates de empresas e\u00f3licas transnacionales y recuperar sus tierras y trabajos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3925,
+        "image_card": "https://static.filminlatino.mx/images/media/3925/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3925/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3925/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3925/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3925/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3925/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3925/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3925/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "Gente de mar y viento",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "gente-de-mar-y-viento",
+        "synopsis": "\u00c1lvaro Obreg\u00f3n, una comunidad de pescadores en el Istmo de Tehuantepec, ha resistido desde hace varios a\u00f1os ante la amenaza de la construcci\u00f3n de un parque e\u00f3lico. Pero en La Venta, un pueblo agricultor y ganadero, las cosas son muy distintas: empresas transnacionales e\u00f3licas lograron invadir las tierras hace m\u00e1s de una d\u00e9cada. Largometraje realizado a trav\u00e9s del Est\u00edmulo Gabriel Garc\u00eda M\u00e1rquez para la Creaci\u00f3n Cinematogr\u00e1fica en M\u00e9xico y Centroam\u00e9rica, \u00a0una iniciativa del Instituto Mexicano de Cinematograf\u00eda (IMCINE) y la W.K.Kellogg Foundation para apoyar la producci\u00f3n de cine documental narrado desde sus actores sociales al interior de las comunidades ind\u00edgenas y afro en M\u00e9xico y Centroam\u00e9rica.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 535,
+                "name": "Capitalismo",
+                "slug": "capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/capitalismo"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 15,
+                "name": "Cine reinvindicativo",
+                "slug": "cine-reinvindicativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-reinvindicativo"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 42,
+                "name": "Cr\u00edtica a la burgues\u00eda",
+                "slug": "critica-a-la-burguesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-burguesia"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 1136,
+                "name": "Est\u00edmulo Gabriel Garc\u00eda M\u00e1rquez/IMCINE",
+                "slug": "estimulo-gabriel-garcia-marquezimcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estimulo-gabriel-garcia-marquezimcine"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1269,
+                "name": "Cortometrajes IMCINE",
+                "slug": "cortometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometrajes-imcine"
+            },
+            {
+                "id": 1407,
+                "name": "Pacifismo",
+                "slug": "pacifismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pacifismo"
+            },
+            {
+                "id": 2125,
+                "name": "2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2126,
+                "name": "Muestra | 2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2246,
+                "name": "Los pueblos originarios y su propia mirada",
+                "slug": "los-pueblos-originarios-y-su-propia-mirada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-pueblos-originarios-y-su-propia-mirada"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Gente de mar y viento",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/gente-de-mar-y-viento",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 3249,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DEMAR.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DEMAR/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DEMAR/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

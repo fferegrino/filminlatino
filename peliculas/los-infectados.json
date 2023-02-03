@@ -1,0 +1,300 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Marcos Duarte",
+                "gender": "m",
+                "id": 1366,
+                "slug": "marcos-duarte",
+                "url": "https://www.filminlatino.mx/actor/marcos-duarte"
+            },
+            {
+                "full_name": "Claudia Nin",
+                "gender": "f",
+                "id": 1367,
+                "slug": "claudia-nin",
+                "url": "https://www.filminlatino.mx/actriz/claudia-nin"
+            },
+            {
+                "full_name": "Zoe Cuellar",
+                "gender": "f",
+                "id": 1369,
+                "slug": "zoe-cuellar",
+                "url": "https://www.filminlatino.mx/actriz/zoe-cuellar"
+            },
+            {
+                "full_name": "Renato de Triana",
+                "gender": "m",
+                "id": 1368,
+                "slug": "renato-de-triana",
+                "url": "https://www.filminlatino.mx/actor/renato-de-triana"
+            }
+        ],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro G. Alegre",
+                "gender": "m",
+                "id": 516,
+                "slug": "alejandro-g-alegre",
+                "url": "https://www.filminlatino.mx/director/alejandro-g-alegre"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "El mundo se ha llenado de infectados, el \u00fanico camino es sobrevivir.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            },
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 808,
+        "image_card": "https://static.filminlatino.mx/images/media/808/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/808/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/808/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/808/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/808/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 19,
+        "original_title": "Los Infectados",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 577,
+                "name": "Dinamogeno Films",
+                "slug": "dinamogeno-films",
+                "url": "https://www.filminlatino.mx/producer/dinamogeno-films"
+            },
+            {
+                "acronym": "",
+                "id": 578,
+                "name": "Bumsonico Rock",
+                "slug": "bumsonico-rock",
+                "url": "https://www.filminlatino.mx/producer/bumsonico-rock"
+            },
+            {
+                "acronym": "",
+                "id": 579,
+                "name": "Dulce De Dios",
+                "slug": "dulce-de-dios",
+                "url": "https://www.filminlatino.mx/producer/dulce-de-dios"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-infectados",
+        "synopsis": "El repentino brote de un virus convierte a la gente en criaturas rabiosas y hambrientas. Marcos, Claudia, Renato y Zoe, una peque\u00f1a de cinco a\u00f1os, buscan la forma de sobrevivir y huyen hac\u00eda las monta\u00f1as con la esperanza de alejarse de todo el caos. Pero la horda de zombies no tardar\u00e1 en llegar hasta donde se encuentra el grupo de sobrevivientes.",
+        "tags": [
+            {
+                "id": 184,
+                "name": "Virus",
+                "slug": "virus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/virus"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 426,
+                "name": "Zombies",
+                "slug": "zombies",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zombies"
+            },
+            {
+                "id": 103,
+                "name": "Apocalipsis",
+                "slug": "apocalipsis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apocalipsis"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 844,
+                "name": "Terror hecho en M\u00e9xico",
+                "slug": "terror-hecho-en-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-hecho-en-mexico"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 958,
+                "name": "Terror en el GIFF",
+                "slug": "terror-en-el-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-en-el-giff"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1022,
+                "name": "Alejandro Alegre",
+                "slug": "alejandro-alegre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alejandro-alegre"
+            },
+            {
+                "id": 1047,
+                "name": "Regreso de la muerte",
+                "slug": "regreso-de-la-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-de-la-muerte"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1501,
+                "name": "Festival Aleph 2020",
+                "slug": "festival-aleph-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-aleph-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2736,
+                "name": "10 d\u00edas de terror en FilminLatino ",
+                "slug": "10-dias-de-terror-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/10-dias-de-terror-en-filminlatino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1306713600,
+        "theater_release_date": 1306713600,
+        "theater_spectators_formatted": null,
+        "title": "Los Infectados",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-infectados",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 549,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-infectados.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-infectados/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-infectados/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Emilie Lan-Du\u0308rr",
+                "gender": "f",
+                "id": 12934,
+                "slug": "emilie-lan-durr",
+                "url": "https://www.filminlatino.mx/actriz/emilie-lan-durr"
+            },
+            {
+                "full_name": "Maxime G\u00e9min",
+                "gender": "m",
+                "id": 12935,
+                "slug": "maxime-gemin",
+                "url": "https://www.filminlatino.mx/actor/maxime-gemin"
+            },
+            {
+                "full_name": "Arthur Pereira",
+                "gender": "m",
+                "id": 12936,
+                "slug": "arthur-pereira",
+                "url": "https://www.filminlatino.mx/actor/arthur-pereira"
+            }
+        ],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "",
+                "name": "Festival de Annecy",
+                "slug": "festival-de-annecy",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "My French Film Festival ",
+                "slug": "my-french-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Florence Miailhe",
+                "gender": "f",
+                "id": 6999,
+                "slug": "florence-miailhe",
+                "url": "https://www.filminlatino.mx/directora/florence-miailhe"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Dedicada a \u00abtodas aquellas personas que un d\u00eda u otro dejan su pa\u00eds en busca de un futuro mejor\u00bb. Una pel\u00edcula impactante y universal, construida a base de pinturas animadas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 11,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/animacion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11903,
+        "image_card": "https://static.filminlatino.mx/images/media/11903/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/11903/1/poster_0_3.PNG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11903/1/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/11903/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/11903/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/11903/8/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/11903/10/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "La travers\u00e9e",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-cruce",
+        "synopsis": "Un pueblo saqueado, una familia a la fuga y dos ni\u00f1os perdidos por los caminos del exilio...Kyona y Adriel huyen de sus perseguidores, hasta llegar a un pa\u00eds con un r\u00e9gimen pol\u00edtico m\u00e1s tolerante. Durante un viaje inici\u00e1tico que los llevar\u00e1 a viajar desde la infancia hasta la adolescencia, cruzar\u00e1n un continente asolado por la caza de migrantes y deber\u00e1n superar duras pruebas, tanto fant\u00e1sticas como reales, hasta llegar a un Mundo Nuevo en el que ser\u00e1n libres.",
+        "tags": [
+            {
+                "id": 205,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion"
+            },
+            {
+                "id": 1398,
+                "name": "Animaci\u00f3n 2D",
+                "slug": "animacion-2d",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion-2d"
+            },
+            {
+                "id": 68,
+                "name": "Animaci\u00f3n para adultos",
+                "slug": "animacion-para-adultos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion-para-adultos"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 2565,
+                "name": "Viajes a trav\u00e9s de la pantalla",
+                "slug": "viajes-a-traves-de-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-a-traves-de-la-pantalla"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 2566,
+                "name": "Infancias por la Tierra",
+                "slug": "infancias-por-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancias-por-la-tierra"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 2558,
+                "name": "FilminLatino infantil",
+                "slug": "filminlatino-infantil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-infantil"
+            },
+            {
+                "id": 361,
+                "name": "P\u00fablico infantil",
+                "slug": "publico-infantil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/publico-infantil"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2789,
+                "name": "My French Film Festival 2023",
+                "slug": "my-french-film-festival-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/my-french-film-festival-2023"
+            },
+            {
+                "id": 2793,
+                "name": "Kids turned out fine | MyFFF 2023",
+                "slug": "kids-turned-out-fine-myfff-2023",
+                "url": "https://www.filminlatino.mx/catalogo/tema/kids-turned-out-fine-myfff-2023"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El cruce",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-cruce",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13760,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "cc"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2020
+    }
+}

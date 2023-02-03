@@ -1,0 +1,366 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "MIC G\u00e9nero",
+                "slug": "mic-genero",
+                "year": null
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "",
+                "name": "Premios Pantalla de Cristal",
+                "slug": "premios-pantalla-de-cristal",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-mix-de-diversidad-sexual",
+                "name": " Festival Mix de Diversidad Sexual",
+                "slug": "festival-mix-de-diversidad-sexual",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Mar\u00eda Juana Cruz Garfias",
+                "gender": "f",
+                "id": 182,
+                "slug": "maria-juana-cruz-garfias",
+                "url": "https://www.filminlatino.mx/character/maria-juana-cruz-garfias"
+            },
+            {
+                "full_name": "Elizabeth Ortega Ponce",
+                "gender": "f",
+                "id": 183,
+                "slug": "elizabeth-ortega-ponce",
+                "url": "https://www.filminlatino.mx/character/elizabeth-ortega-ponce"
+            },
+            {
+                "full_name": "Felipe Ram\u00edrez Santos",
+                "gender": "m",
+                "id": 184,
+                "slug": "felipe-ramirez-santos",
+                "url": "https://www.filminlatino.mx/character/felipe-ramirez-santos"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dalia Reyes Campos",
+                "gender": "f",
+                "id": 2417,
+                "slug": "dalia-reyes-campos",
+                "url": "https://www.filminlatino.mx/directora/dalia-reyes-campos"
+            }
+        ],
+        "duration_in_minutes": 68,
+        "excerpt": "Un viaje al interior de la vida de los ba\u00f1os p\u00fablicos a trav\u00e9s de las voces de los tres personajes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5289,
+        "image_card": "https://static.filminlatino.mx/images/media/5289/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5289/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5289/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5289/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5289/1/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 215,
+        "original_title": "Ba\u00f1o de vida",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bano-de-vida",
+        "synopsis": "Un viaje al interior de la vida de los ba\u00f1os p\u00fablicos a trav\u00e9s de las voces de los tres personajes: Felipe, encargado de los ba\u00f1os desde 1984; Juana, barrendera del centro de la Ciudad de M\u00e9xico; y Jose, clienta asidua desde hace m\u00e1s de cuarenta a\u00f1os. \"Ba\u00f1o de vida\" es un confesionario de aquellos que confluyen en un mismo espacio: el cuarto de vapor.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1478,
+                "name": "Mujeres del CCC",
+                "slug": "mujeres-del-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-ccc"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 467,
+                "name": "Relatos",
+                "slug": "relatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relatos"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 1472,
+                "name": "Daimon Muestra Internacional de Cine en Streaming",
+                "slug": "daimon-muestra-internacional-de-cine-en-streaming",
+                "url": "https://www.filminlatino.mx/catalogo/tema/daimon-muestra-internacional-de-cine-en-streaming"
+            },
+            {
+                "id": 1699,
+                "name": "CINETEKTON 7",
+                "slug": "cinetekton-7",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7"
+            },
+            {
+                "id": 1700,
+                "name": "CINETEKTON 7 a\u00f1os",
+                "slug": "cinetekton-7-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinetekton-7-anos"
+            },
+            {
+                "id": 1805,
+                "name": "Ciclo perspectiva de g\u00e9nero",
+                "slug": "ciclo-perspectiva-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-perspectiva-de-genero"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2013,
+                "name": "Muestra El cine transformado por nosotras",
+                "slug": "muestra-el-cine-transformado-por-nosotras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-el-cine-transformado-por-nosotras"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ba\u00f1o de vida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bano-de-vida",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4655,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/BANO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/BANO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/BANO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

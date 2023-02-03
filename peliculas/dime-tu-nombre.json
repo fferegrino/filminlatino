@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rolando  \u00c1vila de la Parra",
+                "gender": "m",
+                "id": 6274,
+                "slug": "rolando-avila-de-la-parra",
+                "url": "https://www.filminlatino.mx/actor/rolando-avila-de-la-parra"
+            },
+            {
+                "full_name": "Michelle  Santan\u00e9",
+                "gender": "f",
+                "id": 6275,
+                "slug": "michelle-santane",
+                "url": "https://www.filminlatino.mx/actriz/michelle-santane"
+            },
+            {
+                "full_name": "Macario Brujo",
+                "gender": "m",
+                "id": 6276,
+                "slug": "macario-brujo",
+                "url": "https://www.filminlatino.mx/actor/macario-brujo"
+            }
+        ],
+        "avg_votes": 3.5,
+        "avg_votes_formatted": "3,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rolando \u00c1vila de la Parra",
+                "gender": "m",
+                "id": 2694,
+                "slug": "rolando-avila-de-la-parra",
+                "url": "https://www.filminlatino.mx/director/rolando-avila-de-la-parra"
+            }
+        ],
+        "duration_in_minutes": 140,
+        "excerpt": "Comedia rom\u00e1ntica ligera en donde un directivo de universidad y una alumna se enamoran.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5861,
+        "image_card": "https://static.filminlatino.mx/images/media/5861/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5861/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5861/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5861/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5861/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5861/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5861/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5861/1/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5861/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5861/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5861/3/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/5861/3/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 35,
+        "original_title": "Dime tu nombre",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2212,
+                "name": "Universidad Aut\u00f3noma de Durango ",
+                "slug": "universidad-autonoma-de-durango",
+                "url": "https://www.filminlatino.mx/producer/universidad-autonoma-de-durango"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "dime-tu-nombre",
+        "synopsis": "Andr\u00e9s es un exitoso directivo de una prestigiada universidad, su vida transcurre entre el trabajo, la fiesta y los ligues casuales. Hasta que conoce a la nueva alumna deintercambio. Ella traer\u00e1 toda la magia que su alma necesita. El problema es que es alumna, la diferencia de edades y el pasado inmediato de Andr\u00e9s que llegar\u00e1 a cobrar factura.",
+        "tags": [
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 608,
+                "name": "Comedia Rom\u00e1ntica MX",
+                "slug": "comedia-romantica-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica-mx"
+            },
+            {
+                "id": 745,
+                "name": "Comedias MX",
+                "slug": "comedias-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-mx"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Dime tu nombre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/dime-tu-nombre",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5422,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DIME-TU-NOMBRE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DIME-TU-NOMBRE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DIME-TU-NOMBRE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

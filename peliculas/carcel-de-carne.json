@@ -1,0 +1,224 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "name": "Festival Internacional de Cine de Canc\u00fan y la Riviera Maya",
+                "slug": "festival-internacional-de-cine-de-cancun-y-la-riviera-maya",
+                "year": 2009
+            },
+            {
+                "category": "Menci\u00f3n especial en la secci\u00f3n de Mejor documental mexicano",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Roque Azcuaga",
+                "gender": "m",
+                "id": 202,
+                "slug": "roque-azcuaga",
+                "url": "https://www.filminlatino.mx/director/roque-azcuaga"
+            }
+        ],
+        "duration_in_minutes": 77,
+        "excerpt": "Un retrato sobre la experiencia de vida de personas que padecen esclerosis lateral amiotr\u00f3fica. Una historia que nos hace reflexionar sobre la condici\u00f3n humana y la muerte.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 234,
+        "image_card": "https://static.filminlatino.mx/images/media/234/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/234/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/234/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/234/1/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "C\u00e1rcel de carne",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 171,
+                "name": "Zensky Cine",
+                "slug": "zensky-cine",
+                "url": "https://www.filminlatino.mx/producer/zensky-cine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "carcel-de-carne",
+        "synopsis": "Documental que profundiza en una rara enfermedad neurol\u00f3gica que es mortal. No tiene cura y no se sabe qu\u00e9 la provoca. La esclerosis lateral amiotr\u00f3fica ataca las neuronas del movimiento. La gente que la padece deja de moverse paulatinamente hasta quedar completamente inm\u00f3vil. Contada en primera persona, los personajes de esta producci\u00f3n hablan de su condici\u00f3n de enfermos terminales y, a trav\u00e9s de su experiencia de vida, podemos entender la enfermedad y vislumbrar una parte de la condici\u00f3n humana en relaci\u00f3n con la muerte, la esperanza y la trascendencia.",
+        "tags": [
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1740,
+                "name": "Desde el m\u00e1s all\u00e1",
+                "slug": "desde-el-mas-alla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-el-mas-alla"
+            },
+            {
+                "id": 1894,
+                "name": "Muestra Virtual de Cine, Arte y Discapacidad 2020",
+                "slug": "muestra-virtual-de-cine-arte-y-discapacidad-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-virtual-de-cine-arte-y-discapacidad-2020"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1256083200,
+        "theater_release_date": 1256083200,
+        "theater_spectators_formatted": null,
+        "title": "C\u00e1rcel de carne",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/carcel-de-carne",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 103,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/carcel-de-carne.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/carcel-de-carne/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/carcel-de-carne/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-y-medio-ambiente-cinema-planeta-de-mexico",
+                "name": "Festival Internacional de Cine y Medio Ambiente, Cinema Planeta de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-y-medio-ambiente-cinema-planeta-de-mexico",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "",
+                "name": "International Barents Ecology Film Festival (BEFF)",
+                "slug": "international-barents-ecology-film-festival-beff",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "EKOFILM International Environmental Film Festival",
+                "slug": "ekofilm-international-environmental-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "",
+                "name": "International Environmental \u00abGreen Vision\u00bb Film Festival",
+                "slug": "international-environmental-green-vision-film-festival",
+                "year": null
+            },
+            {
+                "category": "Ganador",
+                "icon": "",
+                "name": "International Ecological Telefestival \u201cTo Save and Preserve\u201d",
+                "slug": "international-ecological-telefestival-to-save-and-preserve",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            },
+            {
+                "category": "Ganador",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo Quiroz Barrios",
+                "gender": "m",
+                "id": 2556,
+                "slug": "eduardo-quiroz-barrios",
+                "url": "https://www.filminlatino.mx/director/eduardo-quiroz-barrios"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "Es una reflexi\u00f3n en torno a temas muy actuales, dando voz a todos los actores de este drama.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5491,
+        "image_card": "https://static.filminlatino.mx/images/media/5491/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5491/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5491/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5491/1/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5491/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5491/2/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5491/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5491/2/still_6_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 26,
+        "original_title": "La tortuga primordial",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-tortuga-primordial",
+        "synopsis": "Esta es una pel\u00edcula sobre las graves amenazas de extinci\u00f3n que enfrentan las tortugas marinas en Baja California Sur, pero tambi\u00e9n sobre los esfuerzos que se hacen para su conservaci\u00f3n. Es una reflexi\u00f3n en torno a temas muy actuales, dando voz a todos los actores de este drama.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 702,
+                "name": "Animales y ni\u00f1os",
+                "slug": "animales-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-y-ninos"
+            },
+            {
+                "id": 106,
+                "name": "Animales salvajes",
+                "slug": "animales-salvajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-salvajes"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1803,
+                "name": "Rul\u00e1 (Salvar) | MIC Istmo",
+                "slug": "rula-salvar-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rula-salvar-mic-istmo"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2125,
+                "name": "2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            },
+            {
+                "id": 2126,
+                "name": "Muestra | 2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2552,
+                "name": "Espiral Foro Cultural Universitario",
+                "slug": "espiral-foro-cultural-universitario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiral-foro-cultural-universitario"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La tortuga primordial",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-tortuga-primordial",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4986,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Odiseo Bichir",
+                "gender": "m",
+                "id": 946,
+                "slug": "odiseo-bichir",
+                "url": "https://www.filminlatino.mx/actor/odiseo-bichir"
+            },
+            {
+                "full_name": "Claudia Ram\u00edrez",
+                "gender": "f",
+                "id": 948,
+                "slug": "claudia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/claudia-ramirez"
+            },
+            {
+                "full_name": "Javier Escobar",
+                "gender": "m",
+                "id": 2536,
+                "slug": "javier-escobar",
+                "url": "https://www.filminlatino.mx/actor/javier-escobar"
+            },
+            {
+                "full_name": "Claudia Zepeda",
+                "gender": "f",
+                "id": 947,
+                "slug": "claudia-zepeda",
+                "url": "https://www.filminlatino.mx/actriz/claudia-zepeda"
+            },
+            {
+                "full_name": "Ernesto G\u00f3mez Cruz",
+                "gender": "m",
+                "id": 138,
+                "slug": "ernesto-gomez-cruz",
+                "url": "https://www.filminlatino.mx/actor/ernesto-gomez-cruz"
+            }
+        ],
+        "avg_votes": 6.4,
+        "avg_votes_formatted": "6,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guillermo Gonz\u00e1lez",
+                "gender": "m",
+                "id": 365,
+                "slug": "guillermo-gonzalez",
+                "url": "https://www.filminlatino.mx/director/guillermo-gonzalez"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "La exploraci\u00f3n de las pasiones del ser humano son la premisa de \u00b4Flor de fango\u00b4, una traves\u00eda llena de dolor y expiaci\u00f3n en la que se experimentan profundas transformaciones personales.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3381,
+        "image_card": "https://static.filminlatino.mx/images/media/3381/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3381/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3381/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3381/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 55,
+        "original_title": "Flor de fango",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "flor-de-fango",
+        "synopsis": "La exploraci\u00f3n de las pasiones del ser humano son la premisa de \u00b4Flor de fango\u00b4, donde Augusto, un profesor de universidad deja a su esposa, su trabajo y la comodidad de su vida para perseguir a Marlene, una adolescente de 14 a\u00f1os de extraordinaria belleza que irrumpi\u00f3 inesperadamente en su vida. Esta traves\u00eda llena de dolor y expiaci\u00f3n hace que los personajes experimenten una profunda transformaci\u00f3n personal.<br>",
+        "tags": [
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 674,
+                "name": "Brecha generacional",
+                "slug": "brecha-generacional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/brecha-generacional"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 272,
+                "name": "Decadencia",
+                "slug": "decadencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decadencia"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Flor de fango",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/flor-de-fango",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2712,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

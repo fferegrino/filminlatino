@@ -1,0 +1,387 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ernesto G\u00f3mez Cruz",
+                "gender": "m",
+                "id": 138,
+                "slug": "ernesto-gomez-cruz",
+                "url": "https://www.filminlatino.mx/actor/ernesto-gomez-cruz"
+            },
+            {
+                "full_name": "Aar\u00f3n Hern\u00e1n",
+                "gender": "m",
+                "id": 149,
+                "slug": "aaron-hernan",
+                "url": "https://www.filminlatino.mx/actor/aaron-hernan"
+            },
+            {
+                "full_name": "Sergio Jim\u00e9nez",
+                "gender": "m",
+                "id": 320,
+                "slug": "sergio-jimenez",
+                "url": "https://www.filminlatino.mx/actor/sergio-jimenez"
+            },
+            {
+                "full_name": "Ra\u00fal Ram\u00edrez",
+                "gender": "m",
+                "id": 321,
+                "slug": "raul-ramirez",
+                "url": "https://www.filminlatino.mx/actor/raul-ramirez"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1976
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1976
+            },
+            {
+                "category": "Mejor director",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1976
+            },
+            {
+                "category": "Mejor director",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1976
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1976
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1976
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Araiza",
+                "gender": "m",
+                "id": 123,
+                "slug": "raul-araiza",
+                "url": "https://www.filminlatino.mx/director/raul-araiza"
+            }
+        ],
+        "duration_in_minutes": 104,
+        "excerpt": "Versi\u00f3n HD estabilizada por la Cineteca Nacional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 120,
+        "image_card": "https://static.filminlatino.mx/images/media/120/5/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/120/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/120/6/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/120/7/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/120/9/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/120/11/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/120/13/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/120/15/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/120/17/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/120/19/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/120/21/still_9_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 54,
+        "original_title": "Cascabel",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 14,
+                "name": "Dasa Films S.A.",
+                "slug": "dasa-films-sa",
+                "url": "https://www.filminlatino.mx/producer/dasa-films-sa"
+            },
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cascabel",
+        "synopsis": "Alfredo, un director de cine, es contratado para dirigir un documental sobre los chamulas. Los que lo contratan, aseguran total libertad creativa si \u00e9l respeta el gui\u00f3n. Alfredo toma el trabajo e inicia la filmaci\u00f3n con culpa pues el gui\u00f3n falsea la realidad. Mientras filma, experimenta serios problemas existenciales y familiares que culminan cuando se separa de su pareja. Al ver los avances del documental, los patrocinadores -entre ellos un ministro-, se molestan con las miserables condiciones de los chamulas que ha retratado el cineasta, que incluyen entrevistas con miembros de la oposici\u00f3n como Heberto Castillo.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 15,
+                "name": "Cine reinvindicativo",
+                "slug": "cine-reinvindicativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-reinvindicativo"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 941760000,
+        "theater_release_date": 941760000,
+        "theater_spectators_formatted": null,
+        "title": "Cascabel",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cascabel",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 57,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cascabel.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cascabel/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cascabel/master.m3u8"
+                }
+            ]
+        },
+        "year": 1976
+    }
+}

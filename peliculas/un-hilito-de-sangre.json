@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Diego Luna",
+                "gender": "m",
+                "id": 1008,
+                "slug": "diego-luna",
+                "url": "https://www.filminlatino.mx/actor/diego-luna"
+            },
+            {
+                "full_name": "Jorge Mart\u00ednez Hoyos",
+                "gender": "m",
+                "id": 477,
+                "slug": "jorge-martinez-hoyos",
+                "url": "https://www.filminlatino.mx/actor/jorge-martinez-hoyos"
+            },
+            {
+                "full_name": "Yuriria Rodr\u00edguez",
+                "gender": "f",
+                "id": 1010,
+                "slug": "yuriria-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/yuriria-rodriguez"
+            },
+            {
+                "full_name": "Rafael Incl\u00e1n",
+                "gender": "m",
+                "id": 298,
+                "slug": "rafael-inclan",
+                "url": "https://www.filminlatino.mx/actor/rafael-inclan"
+            }
+        ],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Erwin  Neumaier",
+                "gender": "m",
+                "id": 390,
+                "slug": "erwin-neumaier",
+                "url": "https://www.filminlatino.mx/director/erwin-neumaier"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "Basada en la novela hom\u00f3nimo de Eusebio Ruvalcaba, esta pel\u00edcula retrata el salto definitivo de la ni\u00f1ez a la adolescencia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 421,
+        "image_card": "https://static.filminlatino.mx/images/media/421/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/421/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/421/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/421/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/421/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Un hilito de sangre",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 16,
+                "name": "Estudios Churubusco Azteca S.A.",
+                "slug": "estudios-churubusco-azteca-sa",
+                "url": "https://www.filminlatino.mx/producer/estudios-churubusco-azteca-sa"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 152,
+                "name": "Tabasco Films",
+                "slug": "tabasco-films",
+                "url": "https://www.filminlatino.mx/producer/tabasco-films"
+            },
+            {
+                "acronym": "",
+                "id": 371,
+                "name": "Cinematogr\u00e1fica Cumbre",
+                "slug": "cinematografica-cumbre",
+                "url": "https://www.filminlatino.mx/producer/cinematografica-cumbre"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "un-hilito-de-sangre",
+        "synopsis": "Le\u00f3n, un adolescente de catorce a\u00f1os, est\u00e1 obsesionado con Osbelia, una bella joven de aspecto angelical. Como Le\u00f3n est\u00e1 en constante desacuerdo con su padre, roba dinero y huye de su casa para ir en busca de Osbelia quien viaja a Guadalajara con su familia en plan vacacional. El camino se convierte en una traves\u00eda plena de aventuras, en las que Le\u00f3n se relaciona con diversos personajes que lo har\u00e1n crecer, notando que su ni\u00f1ez est\u00e1 por extinguirse y que la adolescencia est\u00e1 m\u00e1s cerca de lo que \u00e9l imagina.",
+        "tags": [
+            {
+                "id": 763,
+                "name": "Diego y Gael",
+                "slug": "diego-y-gael",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diego-y-gael"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 50,
+                "name": "Humor",
+                "slug": "humor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1200,
+                "name": "Guadalajara",
+                "slug": "guadalajara",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guadalajara"
+            },
+            {
+                "id": 1252,
+                "name": "1995",
+                "slug": "1995",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1995"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 800236800,
+        "theater_release_date": 800236800,
+        "theater_spectators_formatted": null,
+        "title": "Un hilito de sangre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-hilito-de-sangre",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 361,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-hilito-de-sangre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-hilito-de-sangre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-hilito-de-sangre/master.m3u8"
+                }
+            ]
+        },
+        "year": 1995
+    }
+}

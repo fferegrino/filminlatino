@@ -1,0 +1,246 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Casas",
+                "gender": "m",
+                "id": 3420,
+                "slug": "mario-casas",
+                "url": "https://www.filminlatino.mx/actor/mario-casas"
+            },
+            {
+                "full_name": "Adriana Ugarte",
+                "gender": "f",
+                "id": 3063,
+                "slug": "adriana-ugarte",
+                "url": "https://www.filminlatino.mx/actriz/adriana-ugarte"
+            },
+            {
+                "full_name": "Macarena Garc\u00eda",
+                "gender": "f",
+                "id": 3670,
+                "slug": "macarena-garcia",
+                "url": "https://www.filminlatino.mx/actriz/macarena-garcia"
+            }
+        ],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [
+            {
+                "category": "Mejor canci\u00f3n original",
+                "icon": "goya",
+                "name": "Goya",
+                "slug": "goya",
+                "year": null
+            },
+            {
+                "category": "Mejor direcci\u00f3n de arte ",
+                "icon": "goya",
+                "name": "Goya",
+                "slug": "goya",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernando Gonz\u00e1lez Molina",
+                "gender": "m",
+                "id": 1485,
+                "slug": "fernando-gonzalez-molina",
+                "url": "https://www.filminlatino.mx/director/fernando-gonzalez-molina"
+            }
+        ],
+        "duration_in_minutes": 163,
+        "excerpt": "Un amor complicado enmarcado en paisajes exuberantes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2809,
+        "image_card": "https://static.filminlatino.mx/images/media/2809/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2809/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2809/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2809/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2809/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Palmeras en la nieve",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1231,
+                "name": "Atresmedia Cine",
+                "slug": "atresmedia-cine",
+                "url": "https://www.filminlatino.mx/producer/atresmedia-cine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "palmeras-en-la-nieve",
+        "synopsis": "Es 1953, Kilian abandona las monta\u00f1as de Huesca en Espa\u00f1a para emprender con su hermano un viaje a Fernando Poo, una antigua colonia espa\u00f1ola en Guinea Ecuatorial. All\u00ed los espera su padre en la finca Sampaka, donde cultiva uno de los mejores cacaos del mundo. Ah\u00ed descubrir\u00e1n que la vida social es m\u00e1s placentera que en la encorsetada y gris Espa\u00f1a, vivir\u00e1n los contrastes entre colonos y nativos y conocer\u00e1n el significado de la amistad, la pasi\u00f3n, el amor y el odio.",
+        "tags": [
+            {
+                "id": 31,
+                "name": "Cine de \u00e9poca",
+                "slug": "cine-de-epoca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-epoca"
+            },
+            {
+                "id": 610,
+                "name": "\u00c1frica",
+                "slug": "africa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/africa"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1451001600,
+        "theater_release_date": 1451001600,
+        "theater_spectators_formatted": null,
+        "title": "Palmeras en la nieve",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/palmeras-en-la-nieve",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2213,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/palmeras-en-la-nieve.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/palmeras-en-la-nieve/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/palmeras-en-la-nieve/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

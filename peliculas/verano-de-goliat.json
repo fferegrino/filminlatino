@@ -1,0 +1,396 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Teresa S\u00e1nchez",
+                "gender": "f",
+                "id": 663,
+                "slug": "teresa-sanchez",
+                "url": "https://www.filminlatino.mx/actriz/teresa-sanchez"
+            },
+            {
+                "full_name": "Gabino Rodr\u00edguez",
+                "gender": "m",
+                "id": 492,
+                "slug": "gabino-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/gabino-rodriguez"
+            },
+            {
+                "full_name": "Harold Torres",
+                "gender": "m",
+                "id": 686,
+                "slug": "harold-torres",
+                "url": "https://www.filminlatino.mx/actor/harold-torres"
+            },
+            {
+                "full_name": "Juana Rodr\u00edguez",
+                "gender": "f",
+                "id": 1019,
+                "slug": "juana-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/juana-rodriguez"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "",
+                "name": "Festival de Rotterdam",
+                "slug": "festival-de-rotterdam",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": 2010
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "las-palmas-film-festival",
+                "name": "Las Palmas Film Festival",
+                "slug": "las-palmas-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Papel de Cuadro Feminino",
+                "icon": "festival-internacional-de-cine-de-valdivia-chile",
+                "name": "Festival Internacional de Cine de Valdivia, Chile ",
+                "slug": "festival-internacional-de-cine-de-valdivia-chile",
+                "year": 2010
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nicol\u00e1s Pereda",
+                "gender": "m",
+                "id": 207,
+                "slug": "nicolas-pereda",
+                "url": "https://www.filminlatino.mx/director/nicolas-pereda"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "Un filme sobre la violencia en un ambiente rural.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 426,
+        "image_card": "https://static.filminlatino.mx/images/media/426/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/426/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/426/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/426/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/426/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Verano de Goliat",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 382,
+                "name": "Nicol\u00e1s Pereda",
+                "slug": "nicolas-pereda",
+                "url": "https://www.filminlatino.mx/producer/nicolas-pereda"
+            },
+            {
+                "acronym": "",
+                "id": 383,
+                "name": "Andr\u00e9s Casta\u00f1eda",
+                "slug": "andres-castaneda",
+                "url": "https://www.filminlatino.mx/producer/andres-castaneda"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "verano-de-goliat",
+        "synopsis": "La historia se desarrolla en un pueblo llamado Huilotepec en el que la gente es solitaria y ha crecido con resentimiento. Ah\u00ed, los soldados intimidan a la poblaci\u00f3n en la que se registran muertes misteriosas. El ambiente del lugar est\u00e1 impregnado de sentimientos de abandono.",
+        "tags": [
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 992,
+                "name": "Ganadoras Venecia",
+                "slug": "ganadoras-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-venecia"
+            },
+            {
+                "id": 995,
+                "name": "Secciones paralelas Venecia",
+                "slug": "secciones-paralelas-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secciones-paralelas-venecia"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 203,
+                "name": "Festival de Rotterdam",
+                "slug": "festival-de-rotterdam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-rotterdam"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2576,
+                "name": "Retrospectiva Nicol\u00e1s Pereda",
+                "slug": "retrospectiva-nicolas-pereda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-nicolas-pereda"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1428192000,
+        "theater_release_date": 1428192000,
+        "theater_spectators_formatted": null,
+        "title": "Verano de Goliat",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/verano-de-goliat",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 405,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/verano-de-goliat.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/verano-de-goliat/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/verano-de-goliat/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

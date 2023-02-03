@@ -1,0 +1,283 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.7,
+        "avg_votes_formatted": "9,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo  Maldonado",
+                "gender": "m",
+                "id": 1436,
+                "slug": "eduardo-maldonado",
+                "url": "https://www.filminlatino.mx/director/eduardo-maldonado"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "Narra la situaci\u00f3n del campo en\u00a0M\u00e9xico y en particular sobre los jornaleros agr\u00edcolas, que se desplazan de una regi\u00f3n a otra.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2734,
+        "image_card": "https://static.filminlatino.mx/images/media/2734/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2734/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2734/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2734/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2734/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2734/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2734/10/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 29,
+        "original_title": "Jornaleros ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1631,
+                "name": " Centro de Producci\u00f3n de Cortometraje de Churubusco",
+                "slug": "centro-de-produccion-de-cortometraje-de-churubusco",
+                "url": "https://www.filminlatino.mx/producer/centro-de-produccion-de-cortometraje-de-churubusco"
+            },
+            {
+                "acronym": "",
+                "id": 1630,
+                "name": "Cine Difusi\u00f3n SEP",
+                "slug": "cine-difusion-sep",
+                "url": "https://www.filminlatino.mx/producer/cine-difusion-sep"
+            },
+            {
+                "acronym": "",
+                "id": 1629,
+                "name": "Office National du Film de Canada ",
+                "slug": "office-national-du-film-de-canada",
+                "url": "https://www.filminlatino.mx/producer/office-national-du-film-de-canada"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "jornaleros",
+        "synopsis": "Eduardo Maldonado \u2013director de Testimonio de un grupo (1970), Sociedad colectiva quechehueca (1971), y Atencingo, cacicazgo y corrupci\u00f3n (1973)\u2013 film\u00f3 los testimonios de campesinos de Oaxaca, Morelos, Michoac\u00e1n y Guerrero en su b\u00fasqueda de trabajo y salario digno.\u00a0El documental muestra\u00a0el camino que suelen seguir agricultores de las zonas sur para acceder a las zonas de mayor desarrollo en el noroeste de M\u00e9xico, persiguiendo mejores posibilidades para la subsistencia de sus familias. Desde finales de la d\u00e9cada de los a\u00f1os setenta, las im\u00e1genes que abordan el tema de los jornaleros en el cine mexicano hasta la fecha no var\u00edan en tanto a las condiciones que nuestros compatriotas deben encarar en el campo.\u00a0",
+        "tags": [
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1094,
+                "name": "MEX-CAN",
+                "slug": "mex-can",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mex-can"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1489,
+                "name": "Centro de Producci\u00f3n de Cortometraje",
+                "slug": "centro-de-produccion-de-cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/centro-de-produccion-de-cortometraje"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 2028,
+                "name": "Ciclo Visitas al cine etnogr\u00e1fico",
+                "slug": "ciclo-visitas-al-cine-etnografico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-visitas-al-cine-etnografico"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Jornaleros",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/jornaleros",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2561,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/jornaleros.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/jornaleros/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/jornaleros/master.m3u8"
+                }
+            ]
+        },
+        "year": 1978
+    }
+}

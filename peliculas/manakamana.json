@@ -1,0 +1,270 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Depth of Field Competition",
+                "icon": "",
+                "name": "DocAviv Film Festival",
+                "slug": "docaviv-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominada al premio ALFS",
+                "icon": "",
+                "name": "London Critics Circle Film Awards",
+                "slug": "london-critics-circle-film-awards",
+                "year": null
+            },
+            {
+                "category": "Nominado a Gotham Independent Film Award",
+                "icon": "",
+                "name": "Gotham Awards",
+                "slug": "gotham-awards",
+                "year": null
+            },
+            {
+                "category": " Nominado al Premio de la audiencia",
+                "icon": "",
+                "name": "Gotham Awards",
+                "slug": "gotham-awards",
+                "year": null
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "name": "Festival Internacional de Cine Independiente de Buenos Aires",
+                "slug": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "year": null
+            },
+            {
+                "category": "EDA Award",
+                "icon": "festival-internacional-de-edimburgo",
+                "name": "Festival Internacional de Edimburgo",
+                "slug": "festival-internacional-de-edimburgo",
+                "year": null
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-internacional-de-cine-de-locarno",
+                "name": "Festival Internacional de Cine de Locarno",
+                "slug": "festival-internacional-de-cine-de-locarno",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "riverrun-international-film-festival",
+                "name": "RiverRun International Film Festival",
+                "slug": "riverrun-international-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 167,
+                "name": "Nepal",
+                "slug": "nepal",
+                "url": "https://www.filminlatino.mx/catalogo/pais/nepal"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Stephanie Spray",
+                "gender": "f",
+                "id": 1728,
+                "slug": "stephanie-spray",
+                "url": "https://www.filminlatino.mx/directora/stephanie-spray"
+            },
+            {
+                "full_name": "Pacho Velez",
+                "gender": "m",
+                "id": 1729,
+                "slug": "pacho-velez",
+                "url": "https://www.filminlatino.mx/director/pacho-velez"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "La pel\u00edcula fue galardonada con el primer premio en el concurso 'Cinema of the Present' del Festival de Locarno. Elogiada como una pel\u00edcula que redefine al cine etnogr\u00e1fico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3304,
+        "image_card": "https://static.filminlatino.mx/images/media/3304/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3304/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3304/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3304/8/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Manakamana",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1851,
+                "name": "Sensory Etnography Lab",
+                "slug": "sensory-etnography-lab",
+                "url": "https://www.filminlatino.mx/producer/sensory-etnography-lab"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "manakamana",
+        "synopsis": "Un documental elogiado como una pel\u00edcula que redefine al cine etnogr\u00e1fico y muestra el d\u00eda a d\u00eda sobre un grupo de peregrinos que viajan a Nepal para adorar en el legendario templo Manakamana.",
+        "tags": [
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 463,
+                "name": "Antiguas civilizaciones",
+                "slug": "antiguas-civilizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiguas-civilizaciones"
+            },
+            {
+                "id": 65,
+                "name": "Arquitectura",
+                "slug": "arquitectura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arquitectura"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1081,
+                "name": "La Ola",
+                "slug": "la-ola",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-ola"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Manakamana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/manakamana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2641,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MANAKAMANA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MANAKAMANA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MANAKAMANA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

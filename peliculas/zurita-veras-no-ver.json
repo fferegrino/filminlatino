@@ -1,0 +1,280 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " International Film Festival Florianopolis 2019 Brasil",
+                "slug": "international-film-festival-florianopolis-2019-brasil",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Noida International Film Festival 2019 India",
+                "slug": "noida-international-film-festival-2019-india",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Festival de Cine Latinoamericano de Trieste 2019 Italia",
+                "slug": "festival-de-cine-latinoamericano-de-trieste-2019-italia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Bafici 2019 Argentina",
+                "slug": "bafici-2019-argentina",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Cin\u00e9latino Recontres de Toulouse 2019 Francia",
+                "slug": "cinelatino-recontres-de-toulouse-2019-francia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Fidocs 2015 Chile",
+                "slug": "fidocs-2015-chile",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": ".",
+                "name": " Festival Internacional de Cine de Valdivia. 2018 Chile Competencia Cine Chileno.",
+                "slug": "festival-internacional-de-cine-de-valdivia-2018-chile-competencia-cine-chileno",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Ra\u00fal Zurita",
+                "gender": "m",
+                "id": 1076,
+                "slug": "raul-zurita",
+                "url": "https://www.filminlatino.mx/character/raul-zurita"
+            }
+        ],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": " Alejandra  Carmona Cannobio",
+                "gender": "f",
+                "id": 4340,
+                "slug": "alejandra-carmona-cannobio",
+                "url": "https://www.filminlatino.mx/directora/alejandra-carmona-cannobio"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "\u00c9l escribe poemas que buscan sanaci\u00f3n en un mundo cada vez m\u00e1s conflictivo y violento.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7558,
+        "image_card": "https://static.filminlatino.mx/images/media/7558/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/7558/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7558/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7558/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7558/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7558/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7558/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7558/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Zurita, ver\u00e1s no ver",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "zurita-veras-no-ver",
+        "synopsis": "Zurita, un poeta que no se rinde ante la muerte, resiste al dolor y la tortura gracias a la poes\u00eda. Sus acciones po\u00e9ticas plasman un sentimiento universal frente a la historia chilena y del mundo. Poemas que solo se contemplan desde el cielo, desde el mar o desde la tierra, mirando el cielo.\u00a0",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1141,
+                "name": "Estrenos",
+                "slug": "estrenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1748,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chile"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 500,
+                "name": "Dolor",
+                "slug": "dolor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dolor"
+            },
+            {
+                "id": 657,
+                "name": "Sentimientos",
+                "slug": "sentimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sentimientos"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 2095,
+                "name": "Promotor de difusi\u00f3n y cultura CDC",
+                "slug": "promotor-de-difusion-y-cultura-cdc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/promotor-de-difusion-y-cultura-cdc"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Zurita, ver\u00e1s no ver",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/zurita-veras-no-ver",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 8289,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

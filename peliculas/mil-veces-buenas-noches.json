@@ -1,0 +1,272 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Juliette Binoche",
+                "gender": "f",
+                "id": 1151,
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/actriz/juliette-binoche"
+            },
+            {
+                "full_name": "Nikolaj Coster-Waldau",
+                "gender": "m",
+                "id": 4243,
+                "slug": "nikolaj-coster-waldau",
+                "url": "https://www.filminlatino.mx/actor/nikolaj-coster-waldau"
+            },
+            {
+                "full_name": "Maria Doyle Kennedy",
+                "gender": "f",
+                "id": 4244,
+                "slug": "maria-doyle-kennedy",
+                "url": "https://www.filminlatino.mx/actriz/maria-doyle-kennedy"
+            },
+            {
+                "full_name": "Larry Mullen Jr.",
+                "gender": "m",
+                "id": 4245,
+                "slug": "larry-mullen-jr",
+                "url": "https://www.filminlatino.mx/actor/larry-mullen-jr"
+            },
+            {
+                "full_name": "Mads Ousdal",
+                "gender": "m",
+                "id": 4246,
+                "slug": "mads-ousdal",
+                "url": "https://www.filminlatino.mx/actor/mads-ousdal"
+            }
+        ],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 102,
+                "name": "Irlanda",
+                "slug": "irlanda",
+                "url": "https://www.filminlatino.mx/catalogo/pais/irlanda"
+            },
+            {
+                "id": 166,
+                "name": "Noruega",
+                "slug": "noruega",
+                "url": "https://www.filminlatino.mx/catalogo/pais/noruega"
+            },
+            {
+                "id": 196,
+                "name": "Suecia",
+                "slug": "suecia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/suecia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Erik Poppe",
+                "gender": "m",
+                "id": 1483,
+                "slug": "erik-poppe",
+                "url": "https://www.filminlatino.mx/director/erik-poppe"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "La dif\u00edcil profesi\u00f3n de una fot\u00f3grafa de guerra, interpretada por Juliette Binoche.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2807,
+        "image_card": "https://static.filminlatino.mx/images/media/2807/8/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2807/13/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2807/13/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/2807/13/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 67,
+        "original_title": "Tusen ganger god natt ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1649,
+                "name": "Zentropa International Sweden",
+                "slug": "zentropa-international-sweden",
+                "url": "https://www.filminlatino.mx/producer/zentropa-international-sweden"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "mil-veces-buenas-noches",
+        "synopsis": "Rebecca es una de las mejores fot\u00f3grafas de guerra del mundo. Ella debe resistir una gran tormenta emocional cuando su marido se niega a soportar su peligrosa vida por m\u00e1s tiempo. \u00c9l y sus hijas necesitan a Rebecca, que, sin embargo, ama tanto a su familia como a su trabajo",
+        "tags": [
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 64,
+                "name": "Fotograf\u00eda",
+                "slug": "fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fotografia"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 865,
+                "name": "Juliette Binoche",
+                "slug": "juliette-binoche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juliette-binoche"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 906,
+                "name": "Directores Oso de Oro 2018",
+                "slug": "directores-oso-de-oro-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-oso-de-oro-2018"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1407456000,
+        "theater_release_date": 1407456000,
+        "theater_spectators_formatted": null,
+        "title": "Mil veces buenas noches",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mil-veces-buenas-noches",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2184,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/mil-veces-buenas-noches.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/mil-veces-buenas-noches/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/mil-veces-buenas-noches/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

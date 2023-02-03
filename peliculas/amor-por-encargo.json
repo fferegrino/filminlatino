@@ -1,0 +1,209 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Isabelle Carr\u00e9",
+                "gender": "f",
+                "id": 1475,
+                "slug": "isabelle-carre",
+                "url": "https://www.filminlatino.mx/actriz/isabelle-carre"
+            },
+            {
+                "full_name": "Patrick Bruel",
+                "gender": "m",
+                "id": 4240,
+                "slug": "patrick-bruel",
+                "url": "https://www.filminlatino.mx/actor/patrick-bruel"
+            },
+            {
+                "full_name": "Alice De Lencquesaing",
+                "gender": "f",
+                "id": 4241,
+                "slug": "alice-de-lencquesaing",
+                "url": "https://www.filminlatino.mx/actriz/alice-de-lencquesaing"
+            },
+            {
+                "full_name": "Thomas Soliv\u00e9res",
+                "gender": "m",
+                "id": 4242,
+                "slug": "thomas-soliveres",
+                "url": "https://www.filminlatino.mx/actor/thomas-soliveres"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Anne Giafferi",
+                "gender": "f",
+                "id": 1482,
+                "slug": "anne-giafferi",
+                "url": "https://www.filminlatino.mx/directora/anne-giafferi"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Gabrielle, una madre soltera, visita a su consuegro para pedirle que su hijo se haga responsable del beb\u00e9, sin embargo, ella no esperaba hallar ah\u00ed a un nuevo amor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2801,
+        "image_card": "https://static.filminlatino.mx/images/media/2801/9/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2801/8/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2801/8/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/2801/8/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 25,
+        "original_title": "Ange et Gabrielle",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "amor-por-encargo",
+        "synopsis": "Gabriell es una madre soltera, su hija Claire de 17 a\u00f1os est\u00e1 embarazada, sin embargo el padre del ni\u00f1o, Simon, no tiene ning\u00fan deseo de estar involucrado con su futuro beb\u00e9. Cuando Gabrielle toma las cosas en sus propias manos y le pide ayuda a Ange, el padre de Simon, comenzar\u00e1 una relaci\u00f3n inesperada.",
+        "tags": [
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1466121600,
+        "theater_release_date": 1466121600,
+        "theater_spectators_formatted": null,
+        "title": "Amor por encargo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/amor-por-encargo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2181,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": 1,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alfredo del Diestro",
+                "gender": "m",
+                "id": 3652,
+                "slug": "alfredo-del-diestro",
+                "url": "https://www.filminlatino.mx/actor/alfredo-del-diestro"
+            },
+            {
+                "full_name": "Carmen  Guerrero",
+                "gender": "f",
+                "id": 3653,
+                "slug": "carmen-guerrero",
+                "url": "https://www.filminlatino.mx/actriz/carmen-guerrero"
+            },
+            {
+                "full_name": "Antonio R. Frausto",
+                "gender": "m",
+                "id": 3646,
+                "slug": "antonio-r-frausto",
+                "url": "https://www.filminlatino.mx/actor/antonio-r-frausto"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Bustillo Oro",
+                "gender": "m",
+                "id": 1251,
+                "slug": "juan-bustillo-oro",
+                "url": "https://www.filminlatino.mx/director/juan-bustillo-oro"
+            },
+            {
+                "full_name": "Fernando de Fuentes",
+                "gender": "m",
+                "id": 1250,
+                "slug": "fernando-de-fuentes",
+                "url": "https://www.filminlatino.mx/director/fernando-de-fuentes"
+            }
+        ],
+        "duration_in_minutes": 85,
+        "excerpt": "El segundo de los tres cl\u00e1sicos de Fernando de Fuentes muestra la cr\u00edtica a una clase social emergente y oportunista en plena Revoluci\u00f3n Mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2512,
+        "image_card": "https://static.filminlatino.mx/images/media/2512/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2512/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2512/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2512/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2512/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2512/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 49,
+        "original_title": "El compadre Mendoza",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1436,
+                "name": "Interamericana Films",
+                "slug": "interamericana-films",
+                "url": "https://www.filminlatino.mx/producer/interamericana-films"
+            },
+            {
+                "acronym": "",
+                "id": 1437,
+                "name": "Producciones \u00c1guila",
+                "slug": "producciones-aguila",
+                "url": "https://www.filminlatino.mx/producer/producciones-aguila"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-compadre-mendoza",
+        "synopsis": "Rosalino Mendoza, rico comerciante y terrateniente vividor a quien no le importa la moralidad siempre que obtenga un beneficio a su favor, se aprovecha de los enfrentamientos durante la revoluci\u00f3n para sacarle provecho a ambos bandos que est\u00e1n en guerra durante la revoluci\u00f3n. Mendoza, se colocar\u00e1 a favor de los zapatistas y de los huertistas simult\u00e1neamente.",
+        "tags": [
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 359,
+                "name": "Basada en un relato",
+                "slug": "basada-en-un-relato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-relato"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 986,
+                "name": "Recomendadas de Ernesto Diezmartinez",
+                "slug": "recomendadas-de-ernesto-diezmartinez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ernesto-diezmartinez"
+            },
+            {
+                "id": 1069,
+                "name": "Filmoteca UNAM",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmoteca-unam"
+            },
+            {
+                "id": 1157,
+                "name": "Curadur\u00eda Del Toro",
+                "slug": "curaduria-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/curaduria-del-toro"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1162,
+                "name": "Cl\u00e1sicos en blanco y negro",
+                "slug": "clasicos-en-blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-en-blanco-y-negro"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 824,
+                "name": "Las favoritas de Guillermo Del Toro",
+                "slug": "las-favoritas-de-guillermo-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-guillermo-del-toro"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1410,
+                "name": "Aniversario UNAM",
+                "slug": "aniversario-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aniversario-unam"
+            },
+            {
+                "id": 1411,
+                "name": "Especial UNAM",
+                "slug": "especial-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-unam"
+            },
+            {
+                "id": 1415,
+                "name": "Arcadia UNAM",
+                "slug": "arcadia-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arcadia-unam"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -1127952000,
+        "theater_release_date": -1127952000,
+        "theater_spectators_formatted": null,
+        "title": "El compadre Mendoza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-compadre-mendoza",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2168,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-compadre-mendosa.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-compadre-mendosa/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-compadre-mendosa/master.m3u8"
+                }
+            ]
+        },
+        "year": 1933
+    }
+}

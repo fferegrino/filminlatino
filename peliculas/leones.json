@@ -1,0 +1,319 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Diego Vegezzi",
+                "gender": "m",
+                "id": 2126,
+                "slug": "diego-vegezzi",
+                "url": "https://www.filminlatino.mx/actor/diego-vegezzi"
+            },
+            {
+                "full_name": "Julia Volpato",
+                "gender": "m",
+                "id": 2127,
+                "slug": "julia-volpato",
+                "url": "https://www.filminlatino.mx/actor/julia-volpato"
+            },
+            {
+                "full_name": "Macarena del Corro",
+                "gender": "m",
+                "id": 2128,
+                "slug": "macarena-del-corro",
+                "url": "https://www.filminlatino.mx/actor/macarena-del-corro"
+            },
+            {
+                "full_name": "Tomas Mackinlay",
+                "gender": "m",
+                "id": 2129,
+                "slug": "tomas-mackinlay",
+                "url": "https://www.filminlatino.mx/actor/tomas-mackinlay"
+            },
+            {
+                "full_name": "Pablo Sigal",
+                "gender": "m",
+                "id": 2125,
+                "slug": "pablo-sigal",
+                "url": "https://www.filminlatino.mx/actor/pablo-sigal"
+            }
+        ],
+        "avg_votes": 4.4,
+        "avg_votes_formatted": "4,4",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "venice-film-festival",
+                "name": "Venice Film Festival ",
+                "slug": "venice-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "name": "Festival Internacional de Cine Independiente de Buenos Aires",
+                "slug": "festival-internacional-de-cine-independiente-de-buenos-aires",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jazm\u00edn L\u00f3pez",
+                "gender": "f",
+                "id": 758,
+                "slug": "jazmin-lopez",
+                "url": "https://www.filminlatino.mx/directora/jazmin-lopez"
+            }
+        ],
+        "duration_in_minutes": 84,
+        "excerpt": "La historia de un grupo de j\u00f3venes que se adentran en un bosque para fugarse o encontrar sus destinos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1176,
+        "image_card": "https://static.filminlatino.mx/images/media/1176/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1176/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1176/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1176/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1176/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1176/4/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Leones",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 87,
+                "name": "Rei Cine",
+                "slug": "rei-cine",
+                "url": "https://www.filminlatino.mx/producer/rei-cine"
+            },
+            {
+                "acronym": "",
+                "id": 277,
+                "name": "Lemming Film",
+                "slug": "lemming-film",
+                "url": "https://www.filminlatino.mx/producer/lemming-film"
+            },
+            {
+                "acronym": "",
+                "id": 774,
+                "name": "CEPA Audiovisual",
+                "slug": "cepa-audiovisual",
+                "url": "https://www.filminlatino.mx/producer/cepa-audiovisual"
+            },
+            {
+                "acronym": "",
+                "id": 775,
+                "name": "Petit Film",
+                "slug": "petit-film",
+                "url": "https://www.filminlatino.mx/producer/petit-film"
+            },
+            {
+                "acronym": "",
+                "id": 776,
+                "name": "Viking Film",
+                "slug": "viking-film",
+                "url": "https://www.filminlatino.mx/producer/viking-film"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "leones",
+        "synopsis": "Cinco amigos pasean en un bosque. Un viaje que se ver\u00e1 plasmado por los juegos, inocencia, seducciones y angustias de los personajes. Lo desconocido y la incertidumbre ser\u00e1n la l\u00ednea que los protagonistas seguir\u00e1n en su deambular.",
+        "tags": [
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 108,
+                "name": "Despertar sexual",
+                "slug": "despertar-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despertar-sexual"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Leones",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/leones",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 734,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Leones.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Leones/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Leones/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

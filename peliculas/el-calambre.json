@@ -1,0 +1,254 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Julien Cottereau",
+                "gender": "m",
+                "id": 2463,
+                "slug": "julien-cottereau",
+                "url": "https://www.filminlatino.mx/actor/julien-cottereau"
+            },
+            {
+                "full_name": "Pablo L\u00f3pez",
+                "gender": "m",
+                "id": 2464,
+                "slug": "pablo-lopez",
+                "url": "https://www.filminlatino.mx/actor/pablo-lopez"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mat\u00edas Meyer",
+                "gender": "m",
+                "id": 206,
+                "slug": "matias-meyer",
+                "url": "https://www.filminlatino.mx/director/matias-meyer"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Del escritor y director de Los \u00daltimos Cristeros, uno de los largometrajes m\u00e1s comentados por la cr\u00edtica.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1343,
+        "image_card": "https://static.filminlatino.mx/images/media/1343/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1343/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1343/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1343/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1343/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "El calambre",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 180,
+                "name": "Axolote Cine",
+                "slug": "axolote-cine",
+                "url": "https://www.filminlatino.mx/producer/axolote-cine"
+            },
+            {
+                "acronym": "",
+                "id": 941,
+                "name": "Una Comuni\u00f3n",
+                "slug": "una-comunion",
+                "url": "https://www.filminlatino.mx/producer/una-comunion"
+            },
+            {
+                "acronym": "",
+                "id": 942,
+                "name": "Kidam",
+                "slug": "kidam",
+                "url": "https://www.filminlatino.mx/producer/kidam"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-calambre",
+        "synopsis": "Basada en el cuento hom\u00f3nimo de Gao Xingjian, nos cuenta la historia de un franc\u00e9s depresivo y solitario vaga por una comunidad de pescadores en la costa del Pac\u00edfico mexicano, las Lagunas de Chacahua. Tras d\u00edas en ese lugar de asombrosa belleza natural, nada ni nadie parece llamar su atenci\u00f3n. Es gracias a Pablo, un pescador que le muestra su modo de vida, que Julien lentamente comienza a sentirse mejor. En el cine de Mat\u00edas Meyer las relaciones se construyen de a poco. Incluso, antes de la relaci\u00f3n entre los hombres est\u00e1 la relaci\u00f3n de estos con la naturaleza.\u00a0",
+        "tags": [
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 359,
+                "name": "Basada en un relato",
+                "slug": "basada-en-un-relato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-relato"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 489,
+                "name": "Playa",
+                "slug": "playa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/playa"
+            },
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1031,
+                "name": "Axolote",
+                "slug": "axolote",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axolote"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El calambre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-calambre",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1729,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-calambre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-calambre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-calambre/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

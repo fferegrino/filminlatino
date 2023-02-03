@@ -1,0 +1,305 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Luisa Huertas",
+                "gender": "f",
+                "id": 284,
+                "slug": "luisa-huertas",
+                "url": "https://www.filminlatino.mx/actriz/luisa-huertas"
+            },
+            {
+                "full_name": "Ignacio Guadalupe",
+                "gender": "m",
+                "id": 742,
+                "slug": "ignacio-guadalupe",
+                "url": "https://www.filminlatino.mx/actor/ignacio-guadalupe"
+            },
+            {
+                "full_name": "Hansel Ram\u00edrez",
+                "gender": "m",
+                "id": 961,
+                "slug": "hansel-ramirez",
+                "url": "https://www.filminlatino.mx/actor/hansel-ramirez"
+            },
+            {
+                "full_name": "Susana Salazar",
+                "gender": "f",
+                "id": 962,
+                "slug": "susana-salazar",
+                "url": "https://www.filminlatino.mx/actriz/susana-salazar"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": 2009
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jaime Ruiz Ib\u00e1\u00f1ez",
+                "gender": "m",
+                "id": 371,
+                "slug": "jaime-ruiz-ibanez",
+                "url": "https://www.filminlatino.mx/director/jaime-ruiz-ibanez"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "A falta de hombres, lo que caiga es bueno.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 394,
+        "image_card": "https://static.filminlatino.mx/images/media/394/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/394/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/394/3/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 39,
+        "original_title": "La mitad del mundo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CUEC",
+                "id": 95,
+                "name": "Centro Universitario de Estudios Cinematogr\u00e1ficos",
+                "slug": "centro-universitario-de-estudios-cinematograficos",
+                "url": "https://www.filminlatino.mx/producer/centro-universitario-de-estudios-cinematograficos"
+            },
+            {
+                "acronym": "",
+                "id": 97,
+                "name": "Gobierno del Estado de Zacatecas",
+                "slug": "gobierno-del-estado-de-zacatecas",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-zacatecas"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-mitad-del-mundo",
+        "synopsis": "Es la historia del despertar sexual de Mingo, un joven con cierto retraso mental, carism\u00e1tico y poeta fantasioso que pone atenci\u00f3n a los detalles m\u00e1s insignificantes de la vida cotidiana. Su nueva condici\u00f3n de amante le traer\u00e1 popularidad y tambi\u00e9n problemas: pondr\u00e1 al descubierto los prejuicios y la falsa moral de un pueblo enceguecido que, para lavar sus culpas, cobrar\u00e1 venganza.",
+        "tags": [
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 360,
+                "name": "Doble moral",
+                "slug": "doble-moral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doble-moral"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 90,
+                "name": "Gastronom\u00eda",
+                "slug": "gastronomia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gastronomia"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1270,
+                "name": "Magallanes",
+                "slug": "magallanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magallanes"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1502,
+                "name": "Mari Paz Robles",
+                "slug": "mari-paz-robles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mari-paz-robles"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "La mitad del mundo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-mitad-del-mundo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 336,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-mitad-del-mundo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-mitad-del-mundo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-mitad-del-mundo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

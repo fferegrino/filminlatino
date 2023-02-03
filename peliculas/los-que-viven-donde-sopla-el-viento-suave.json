@@ -1,0 +1,173 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Felipe Cazals",
+                "gender": "m",
+                "id": 74,
+                "slug": "felipe-cazals",
+                "url": "https://www.filminlatino.mx/director/felipe-cazals"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "Documental de encuesta que recoge diversos testimonios orales sobre la vida de los seris, peque\u00f1o grupo \u00e9tnico del estado de Sonora.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8794,
+        "image_card": "https://static.filminlatino.mx/images/media/8794/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8794/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8794/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/8794/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/8794/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Los que viven donde sopla el viento suave ",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-que-viven-donde-sopla-el-viento-suave",
+        "synopsis": "Documental de encuesta que recoge diversos testimonios orales sobre la vida de los seris, peque\u00f1o grupo \u00e9tnico del estado de Sonora. Adem\u00e1s de los propios seris, hablan algunos soci\u00f3logos, doctores, comerciantes y sacerdotes. La c\u00e1mara en mano de Alexis Grivas sirve a Felipe Cazals para recopilar testimonios de diferentes etnias, enfrentadas a la marginaci\u00f3n y la p\u00e9rdida de su identidad cultural y social ante la modernidad; due\u00f1os de tierras tan ricas como la Isla Tibur\u00f3n, frente a la Bah\u00eda de Kino, sin posibilidad de administrarlas.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1217,
+                "name": "Sonora",
+                "slug": "sonora",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonora"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1219,
+                "name": "1974",
+                "slug": "1974",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1974"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 2191,
+                "name": "Ruta Cazals | DNCM 2021",
+                "slug": "ruta-cazals-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-cazals-dncm-2021"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2556,
+                "name": "FICTequila",
+                "slug": "fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fictequila"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2555,
+                "name": "Felipe Cazals | FICTequila",
+                "slug": "felipe-cazals-fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/felipe-cazals-fictequila"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los que viven donde sopla el viento suave",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-que-viven-donde-sopla-el-viento-suave",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10195,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1973
+    }
+}

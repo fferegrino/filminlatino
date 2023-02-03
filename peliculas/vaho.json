@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Francisco God\u00ednez",
+                "gender": "m",
+                "id": 985,
+                "slug": "francisco-godinez",
+                "url": "https://www.filminlatino.mx/actor/francisco-godinez"
+            },
+            {
+                "full_name": "Joel Figueroa",
+                "gender": "m",
+                "id": 986,
+                "slug": "joel-figueroa",
+                "url": "https://www.filminlatino.mx/actor/joel-figueroa"
+            },
+            {
+                "full_name": "\u00d3scar Villarruel",
+                "gender": "m",
+                "id": 987,
+                "slug": "oscar-villarruel",
+                "url": "https://www.filminlatino.mx/actor/oscar-villarruel"
+            },
+            {
+                "full_name": "Roberto Mares",
+                "gender": "m",
+                "id": 988,
+                "slug": "roberto-mares",
+                "url": "https://www.filminlatino.mx/actor/roberto-mares"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2009
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-marrakech-marruecos",
+                "name": "Festival de Cine de Marrakech, Marruecos ",
+                "slug": "festival-de-cine-de-marrakech-marruecos",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Gerber Bicecci",
+                "gender": "m",
+                "id": 378,
+                "slug": "alejandro-gerber-bicecci",
+                "url": "https://www.filminlatino.mx/director/alejandro-gerber-bicecci"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Un ejercicio est\u00e9tico que propone una nueva ruta para el cine mexicano, apostando m\u00e1s a los personajes y a la historia, a la denuncia social.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 404,
+        "image_card": "https://static.filminlatino.mx/images/media/404/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/404/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/404/3/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Vaho",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 40,
+                "name": "Hubert Bals Fund",
+                "slug": "hubert-bals-fund",
+                "url": "https://www.filminlatino.mx/producer/hubert-bals-fund"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 334,
+                "name": "Albricias Production",
+                "slug": "albricias-production",
+                "url": "https://www.filminlatino.mx/producer/albricias-production"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "vaho",
+        "synopsis": "Es una cinta de realidades fuertes pero que no apuesta por el drama social. Aqu\u00ed los personajes no est\u00e1n marcados por su entorno ni se compadecen de su situaci\u00f3n, ninguno de los tres ni\u00f1os protagonistas, sufre por vivir en la miseria (econ\u00f3mica o emocional). Una cinta coral que se muestra como un rompecabezas para ser armado por los espectadores y en el cual su director -Alejandro Gerber- poco a poco ir\u00e1 soltando las piezas, aunque para ello necesite remontarse al pasado de sus personajes.",
+        "tags": [
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "Vaho",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vaho",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 393,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/vaho.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/vaho/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/vaho/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

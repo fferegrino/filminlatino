@@ -1,0 +1,264 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-latino-de-san-diego-eua",
+                "name": "Festival de Cine Latino de San Diego, EUA",
+                "slug": "festival-de-cine-latino-de-san-diego-eua",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-latino-de-san-diego-eua",
+                "name": "Festival de Cine Latino de San Diego, EUA",
+                "slug": "festival-de-cine-latino-de-san-diego-eua",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ana Paola Rodr\u00edguez",
+                "gender": "f",
+                "id": 198,
+                "slug": "ana-paola-rodriguez",
+                "url": "https://www.filminlatino.mx/directora/ana-paola-rodriguez"
+            },
+            {
+                "full_name": "Jos\u00e9 Luis  Figueroa Lewis",
+                "gender": "m",
+                "id": 196,
+                "slug": "jose-luis-figueroa-lewis",
+                "url": "https://www.filminlatino.mx/director/jose-luis-figueroa-lewis"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Este documental reflexiona la problem\u00e1tica de Tijuana, donde un grupo de habitantes imaginan c\u00f3mo quieren que sea y c\u00f3mo quieren ser ellos como individuos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 228,
+        "image_card": "https://static.filminlatino.mx/images/media/228/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/228/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/228/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/228/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/228/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/228/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/228/4/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "Tijuaneados an\u00f3nimos: Una l\u00e1grima, una sonrisa",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 159,
+                "name": "Galatea Audio/visual",
+                "slug": "galatea-audiovisual",
+                "url": "https://www.filminlatino.mx/producer/galatea-audiovisual"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "tijuaneados-anonimos-una-lagrima-una-sonrisa",
+        "synopsis": "La Ciudad fronteriza de Tijuana atraviesa por una crisis de violencia e ingobernabilidad sin precedentes. Esta situaci\u00f3n afecta la vida cotidiana de sus habitantes. Semana a semana, un grupo de personas se re\u00fane en \"Tijuaneados An\u00f3nimos\" para compartir experiencias y juntos detener el fen\u00f3meno social que los aqueja: lo tijuaneado. Entre historias dolorosas, divertidas, absurdas tragedias humanas y heroicas haza\u00f1as, los personajes de este documental reflexionan sobre la ciudad e imaginan c\u00f3mo quieren que sea y c\u00f3mo quieren ser ellos como individuos.",
+        "tags": [
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1225,
+                "name": "Tijuana",
+                "slug": "tijuana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tijuana"
+            },
+            {
+                "id": 1226,
+                "name": "Baja California",
+                "slug": "baja-california",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baja-california"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1934,
+                "name": "Ciclo: En busca de un futuro",
+                "slug": "ciclo-en-busca-de-un-futuro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-en-busca-de-un-futuro"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1254614400,
+        "theater_release_date": 1254614400,
+        "theater_spectators_formatted": null,
+        "title": "Tijuaneados an\u00f3nimos: Una l\u00e1grima, una sonrisa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tijuaneados-anonimos-una-lagrima-una-sonrisa",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 196,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/tijuanedos-anonimos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/tijuanedos-anonimos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/tijuanedos-anonimos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

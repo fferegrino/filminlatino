@@ -1,0 +1,396 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ana Ofelia Murgu\u00eda",
+                "gender": "f",
+                "id": 264,
+                "slug": "ana-ofelia-murguia",
+                "url": "https://www.filminlatino.mx/actriz/ana-ofelia-murguia"
+            },
+            {
+                "full_name": "Manuel Ojeda",
+                "gender": "m",
+                "id": 534,
+                "slug": "manuel-ojeda",
+                "url": "https://www.filminlatino.mx/actor/manuel-ojeda"
+            },
+            {
+                "full_name": "Federico Luppi",
+                "gender": "m",
+                "id": 668,
+                "slug": "federico-luppi",
+                "url": "https://www.filminlatino.mx/actor/federico-luppi"
+            },
+            {
+                "full_name": "Dami\u00e1n Garc\u00eda V\u00e1zquez",
+                "gender": "m",
+                "id": 669,
+                "slug": "damian-garcia-vazquez",
+                "url": "https://www.filminlatino.mx/actor/damian-garcia-vazquez"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1991
+            },
+            {
+                "category": "Premio de la Cr\u00edtica Especializada a la Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 1991
+            },
+            {
+                "category": "Premio India Catalina de Oro a la Mejor fotograf\u00eda",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 1991
+            },
+            {
+                "category": "Premio de la Cr\u00edtica Especializada a la Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 1991
+            },
+            {
+                "category": "Premio India Catalina de Oro a la Mejor fotograf\u00eda",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "sociedad-de-criticos-de-nueva-york",
+                "name": "Sociedad de Cr\u00edticos de Nueva York",
+                "slug": "sociedad-de-criticos-de-nueva-york",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "sociedad-de-criticos-de-nueva-york",
+                "name": "Sociedad de Cr\u00edticos de Nueva York",
+                "slug": "sociedad-de-criticos-de-nueva-york",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 1991
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Garc\u00eda Agraz",
+                "gender": "m",
+                "id": 209,
+                "slug": "carlos-garcia-agraz",
+                "url": "https://www.filminlatino.mx/director/carlos-garcia-agraz"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "La historia de una anciana que pasa la vida aburrida mientras sue\u00f1a con vivir las aventuras que ve en las pel\u00edculas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 242,
+        "image_card": "https://static.filminlatino.mx/images/media/242/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/242/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/242/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/242/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/242/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Mi querido Tom Mix",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "FFCC",
+                "id": 2,
+                "name": "Fondo de Fomento a la Calidad Cinematogr\u00e1fica",
+                "slug": "fondo-de-fomento-a-la-calidad-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/fondo-de-fomento-a-la-calidad-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 97,
+                "name": "Gobierno del Estado de Zacatecas",
+                "slug": "gobierno-del-estado-de-zacatecas",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-zacatecas"
+            },
+            {
+                "acronym": "",
+                "id": 183,
+                "name": "Producciones Amaranta",
+                "slug": "producciones-amaranta",
+                "url": "https://www.filminlatino.mx/producer/producciones-amaranta"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mi-querido-tom-mix",
+        "synopsis": "Ocotito, un pueblito del norte mexicano de los a\u00f1os treinta, es el escenario donde transcurre la pl\u00e1cida vida de Joaquina, una bondadosa solterona cuya sed de aventuras la lleva todas las tardes al \u00fanico cine de la localidad. Las favoritas de Joaquina son las de Tom Mix, el m\u00edtico cowboy del cine mudo hollywoodense. Cuando la pandilla de Pancho \"El Largo\" amenaza la tranquilidad del pueblo, Joaquina no duda en escribirle al \u00fanico h\u00e9roe que ella sabe que puede salvarlos.",
+        "tags": [
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1062,
+                "name": "Estab/Chur/IMCINE",
+                "slug": "estabchurimcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estabchurimcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1171,
+                "name": "1992",
+                "slug": "1992",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1992"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1207,
+                "name": "Zacatecas",
+                "slug": "zacatecas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zacatecas"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1337,
+                "name": "16\u00b0 FICM",
+                "slug": "160-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/160-ficm"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 725241600,
+        "theater_release_date": 725241600,
+        "theater_spectators_formatted": null,
+        "title": "Mi querido Tom Mix",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-querido-tom-mix",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 108,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1991
+    }
+}

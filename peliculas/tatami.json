@@ -1,0 +1,264 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Segundo Lugar a Mejor Documental",
+                "icon": "",
+                "name": "United Latino Film Festival",
+                "slug": "united-latino-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Fabi\u00e1n  S\u00e1nchez",
+                "gender": "m",
+                "id": 233,
+                "slug": "fabian-sanchez",
+                "url": "https://www.filminlatino.mx/character/fabian-sanchez"
+            },
+            {
+                "full_name": "Dan Schon ",
+                "gender": "m",
+                "id": 234,
+                "slug": "dan-schon",
+                "url": "https://www.filminlatino.mx/character/dan-schon"
+            },
+            {
+                "full_name": "Fausto Teran",
+                "gender": "m",
+                "id": 235,
+                "slug": "fausto-teran",
+                "url": "https://www.filminlatino.mx/character/fausto-teran"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "David Torres Labansat",
+                "gender": "m",
+                "id": 2683,
+                "slug": "david-torres-labansat",
+                "url": "https://www.filminlatino.mx/director/david-torres-labansat"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "Dicen que el jiu-jitsu es para todos y si lo es, pero al mismo tiempo no lo es tanto. Se requiere de mucha resistencia f\u00edsica y mental.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5829,
+        "image_card": "https://static.filminlatino.mx/images/media/5829/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5829/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5829/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/5829/2/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Tatami",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2182,
+                "name": "David Torres Labansat",
+                "slug": "david-torres-labansat",
+                "url": "https://www.filminlatino.mx/producer/david-torres-labansat"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tatami",
+        "synopsis": "El tema principal de este documental es el impacto psicosocial que el jiu-jitsu brasile\u00f1o tiene en la vida cotidiana de la gente com\u00fan, incluida la del director. Se hace inevitable adoptar un estilo de vida en el que pueden luchar contra sus frustraciones redirigi\u00e9ndolas a la pr\u00e1ctica de esta disciplina.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 93,
+                "name": "Artes marciales",
+                "slug": "artes-marciales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-marciales"
+            },
+            {
+                "id": 1350,
+                "name": "Ejercicio",
+                "slug": "ejercicio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ejercicio"
+            },
+            {
+                "id": 681,
+                "name": "Salud",
+                "slug": "salud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/salud"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 1349,
+                "name": "Alimentaci\u00f3n ",
+                "slug": "alimentacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alimentacion"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1284,
+                "name": "Consejos",
+                "slug": "consejos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/consejos"
+            },
+            {
+                "id": 472,
+                "name": "Experiencia",
+                "slug": "experiencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/experiencia"
+            },
+            {
+                "id": 1306,
+                "name": "Conocimientos",
+                "slug": "conocimientos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conocimientos"
+            },
+            {
+                "id": 339,
+                "name": "Proceso creativo",
+                "slug": "proceso-creativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/proceso-creativo"
+            },
+            {
+                "id": 1297,
+                "name": "Redes sociales ",
+                "slug": "redes-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redes-sociales"
+            },
+            {
+                "id": 1332,
+                "name": "Producciones independientes ",
+                "slug": "producciones-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-independientes"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 1521,
+                "name": "Dislexia Films",
+                "slug": "dislexia-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dislexia-films"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tatami",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tatami",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5386,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

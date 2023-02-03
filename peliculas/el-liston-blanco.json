@@ -1,0 +1,476 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Susanne Lothar",
+                "gender": "f",
+                "id": 693,
+                "slug": "susanne-lothar",
+                "url": "https://www.filminlatino.mx/actriz/susanne-lothar"
+            },
+            {
+                "full_name": "Ulrich Tukur",
+                "gender": "m",
+                "id": 3988,
+                "slug": "ulrich-tukur",
+                "url": "https://www.filminlatino.mx/actor/ulrich-tukur"
+            },
+            {
+                "full_name": "Leonard Proxauf",
+                "gender": "m",
+                "id": 3989,
+                "slug": "leonard-proxauf",
+                "url": "https://www.filminlatino.mx/actor/leonard-proxauf"
+            },
+            {
+                "full_name": "Burghart Klau\u00dfner",
+                "gender": "f",
+                "id": 3990,
+                "slug": "burghart-klaussner",
+                "url": "https://www.filminlatino.mx/actriz/burghart-klaussner"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2009
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula de habla no inglesa",
+                "icon": "premios-bafta",
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "year": 2009
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula de habla no inglesa",
+                "icon": "nominada-al-oscar",
+                "name": "Nominada al Oscar",
+                "slug": "nominada-al-oscar",
+                "year": 2009
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-del-cine-europeo",
+                "name": "Premios del Cine Europeo",
+                "slug": "premios-del-cine-europeo",
+                "year": 2009
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-del-cine-europeo",
+                "name": "Premios del Cine Europeo",
+                "slug": "premios-del-cine-europeo",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-del-cine-europeo",
+                "name": "Premios del Cine Europeo",
+                "slug": "premios-del-cine-europeo",
+                "year": 2009
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Europea",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Michael Haneke",
+                "gender": "m",
+                "id": 211,
+                "slug": "michael-haneke",
+                "url": "https://www.filminlatino.mx/director/michael-haneke"
+            }
+        ],
+        "duration_in_minutes": 144,
+        "excerpt": "Extra\u00f1os sucesos ocurren en un peque\u00f1o pueblo en el norte de Alemania durante los a\u00f1os previos a la Primera Guerra Mundial, que parecen ser el castigo ritual \u00bfQuien es responsable?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2658,
+        "image_card": "https://static.filminlatino.mx/images/media/2658/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2658/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2658/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2658/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2658/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2658/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 53,
+        "original_title": "Das weisse band",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 527,
+                "name": "Les Films du Losange",
+                "slug": "les-films-du-losange",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-losange"
+            },
+            {
+                "acronym": "",
+                "id": 529,
+                "name": "Wega Film",
+                "slug": "wega-film",
+                "url": "https://www.filminlatino.mx/producer/wega-film"
+            },
+            {
+                "acronym": "",
+                "id": 528,
+                "name": "X-Filme Creative Pool",
+                "slug": "x-filme-creative-pool",
+                "url": "https://www.filminlatino.mx/producer/x-filme-creative-pool"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-liston-blanco",
+        "synopsis": "En 1913, en v\u00edsperas de la Gran Guerra (1914-1918), extra\u00f1os acontecimientos, que poco a poco toman car\u00e1cter de castigo ritual, se dan cita en un peque\u00f1o pueblo protestante del norte de Alemania. Los ni\u00f1os y adolescentes del coro del colegio y de la iglesia dirigido por el maestro, sus familias, el bar\u00f3n, el encargado, el m\u00e9dico, la comadrona, y los granjeros conforman una historia que reflexiona sobre los or\u00edgenes del nazismo en v\u00edsperas de la Primera Guerra Mundial.",
+        "tags": [
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 24,
+                "name": "Primera Guerra Mundial",
+                "slug": "primera-guerra-mundial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primera-guerra-mundial"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 47,
+                "name": "Nazismo",
+                "slug": "nazismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nazismo"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 731,
+                "name": "BBC Top S. XXI",
+                "slug": "bbc-top-s-xxi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bbc-top-s-xxi"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 910,
+                "name": "Gandoras Oscar",
+                "slug": "gandoras-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gandoras-oscar"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 884,
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-bafta"
+            },
+            {
+                "id": 888,
+                "name": "Cineteca Nacional",
+                "slug": "cineteca-nacional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cineteca-nacional"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 985,
+                "name": "Recomendadas de Erick Estrada ",
+                "slug": "recomendadas-de-erick-estrada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-erick-estrada"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 965,
+                "name": "Cl\u00e1sicos alemanes",
+                "slug": "clasicos-alemanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-alemanes"
+            },
+            {
+                "id": 979,
+                "name": "Recomendadas de Luis Pablo Bauregard",
+                "slug": "recomendadas-de-luis-pablo-bauregard",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-luis-pablo-bauregard"
+            },
+            {
+                "id": 970,
+                "name": "Recomendadas de Andrea Rend\u00f3n ",
+                "slug": "recomendadas-de-andrea-rendon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-andrea-rendon"
+            },
+            {
+                "id": 978,
+                "name": "Recomendadas de Leticia Arredondo",
+                "slug": "recomendadas-de-leticia-arredondo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-leticia-arredondo"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1085,
+                "name": "Conchas de Oro ",
+                "slug": "conchas-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conchas-de-oro"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El list\u00f3n blanco",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-liston-blanco",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2103,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-liston-blanco.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-liston-blanco/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-liston-blanco/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

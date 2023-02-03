@@ -1,0 +1,246 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mauricio Bidault",
+                "gender": "m",
+                "id": 153,
+                "slug": "mauricio-bidault",
+                "url": "https://www.filminlatino.mx/director/mauricio-bidault"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "Las vicisitudes de los migrantes nahuas de que ahora viven en Guadalajara y el impacto social, cultural y econ\u00f3mico que este fen\u00f3meno tiene en su comunidad de origen.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 165,
+        "image_card": "https://static.filminlatino.mx/images/media/165/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/165/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/165/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/165/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/165/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/165/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Aqu\u00ed sobre la tierra",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 76,
+                "name": "Arcanofilm",
+                "slug": "arcanofilm",
+                "url": "https://www.filminlatino.mx/producer/arcanofilm"
+            },
+            {
+                "acronym": "",
+                "id": 77,
+                "name": "Secretar\u00eda de Cultura de Jalisco",
+                "slug": "secretaria-de-cultura-de-jalisco",
+                "url": "https://www.filminlatino.mx/producer/secretaria-de-cultura-de-jalisco"
+            },
+            {
+                "acronym": "",
+                "id": 78,
+                "name": "Academia Jalisciense de Cinematograf\u00eda",
+                "slug": "academia-jalisciense-de-cinematografia",
+                "url": "https://www.filminlatino.mx/producer/academia-jalisciense-de-cinematografia"
+            },
+            {
+                "acronym": "CECA",
+                "id": 79,
+                "name": "Consejo Estatal para la Cultura y las Artes",
+                "slug": "consejo-estatal-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-estatal-para-la-cultura-y-las-artes"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "aqui-sobre-la-tierra",
+        "synopsis": "La cinta, narra las vicisitudes de los migrantes nahuas de la Huasteca hidalguense que ahora viven en Guadalajara, y el impacto social, cultural y econ\u00f3mico que este fen\u00f3meno tiene en Santa Cruz, su comunidad de origen. Un adolescente que termina la secundaria y abandona los estudios para ir a trabajar a Guadalajara; una experimentada migrante que ha logrado hacer fortuna y ahora se traza la meta de emigrar a Estados Unidos; y una joven que deja a sus hijos con su madre para ir a trabajar a la ciudad, lugar donde es asesinada. Son algunas de las l\u00edneas argumentales que forman parte de esta historia.",
+        "tags": [
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1200,
+                "name": "Guadalajara",
+                "slug": "guadalajara",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guadalajara"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Aqu\u00ed sobre la tierra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/aqui-sobre-la-tierra",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 127,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

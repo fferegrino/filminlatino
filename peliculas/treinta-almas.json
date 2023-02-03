@@ -1,0 +1,297 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "",
+                "name": "Toulousse Cinespa\u00f1a",
+                "slug": "toulousse-cinespana",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "D\u2019A Film Festival Barcelona",
+                "slug": "da-film-festival-barcelona",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "festival-internacional-de-cine-de-sofia",
+                "name": "Festival Internacional de Cine de Sof\u00eda",
+                "slug": "festival-internacional-de-cine-de-sofia",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Documental",
+                "icon": "festival-internacional-de-cine-de-sofia",
+                "name": "Festival Internacional de Cine de Sof\u00eda",
+                "slug": "festival-internacional-de-cine-de-sofia",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Documental",
+                "icon": "",
+                "name": "Premios Gaud\u00ed",
+                "slug": "premios-gaudi",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diana  Toucedo",
+                "gender": "f",
+                "id": 2191,
+                "slug": "diana-toucedo",
+                "url": "https://www.filminlatino.mx/directora/diana-toucedo"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "\u00bfA d\u00f3nde se van nuestras almas despu\u00e9s de la muerte? Alba, una ni\u00f1a de 12 a\u00f1os se aventura a descubrirlo en una aldea donde conviven los muertos con los vivos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            },
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4905,
+        "image_card": "https://static.filminlatino.mx/images/media/4905/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4905/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4905/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/1/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/4905/2/still_10_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Trinta lumes",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "treinta-almas",
+        "synopsis": "Alba es una ni\u00f1a de 12 a\u00f1os que desea descubrir lo que hay m\u00e1s all\u00e1 de la muerte. Junto a su mejor amigo Samuel, iniciar\u00e1 un viaje misterioso hacia lo desconocido, hacia un mundo paralelo donde los muertos conviven con los vivos. El filme transcurre en la peque\u00f1a aldea de Galicia, Espa\u00f1a, donde \"la vida no se acaba, sino que se transforma en otra cosa\" y utiliza recursos tanto\u00a0de la ficci\u00f3n como del documental para narrar una historia donde la vida y la muerte se encuentran.",
+        "tags": [
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 643,
+                "name": "Imaginaci\u00f3n",
+                "slug": "imaginacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imaginacion"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 592,
+                "name": "Misticismo",
+                "slug": "misticismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misticismo"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 399,
+                "name": "Cine europeo",
+                "slug": "cine-europeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-europeo"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Treinta almas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/treinta-almas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4341,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/TRINTA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/TRINTA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/TRINTA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "muestra-internacional-de-cine-documental-docstown",
+                "name": "Muestra Internacional de Cine Documental DOCSTOWN",
+                "slug": "muestra-internacional-de-cine-documental-docstown",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Independiente de Cosquin, Argentina",
+                "slug": "festival-internacional-de-cine-independiente-de-cosquin-argentina",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "FICUNAM",
+                "slug": "ficunam",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emiliano  Fern\u00e1ndez Hurtado",
+                "gender": "m",
+                "id": 1772,
+                "slug": "emiliano-fernandez-hurtado",
+                "url": "https://www.filminlatino.mx/director/emiliano-fernandez-hurtado"
+            }
+        ],
+        "duration_in_minutes": 66,
+        "excerpt": "Tres Rocas retrata las \u00a0vicisitudes que se les presentan a un grupo de escaladores profesionales en su intento de cumplir los desaf\u00edos que ellos mismos se han impuesto.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 7,
+                "name": "Experimental",
+                "slug": "experimental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/experimental"
+            },
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3340,
+        "image_card": "https://static.filminlatino.mx/images/media/3340/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3340/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3340/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3340/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3340/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Tres rocas",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tres-rocas",
+        "synopsis": "Es una pel\u00edcula en la que transcurren tres relatos acerca del alpinismo en roca. Carlos Garc\u00eda nos lleva a una aventura por la Cordillera Blanca en estilo de gran pared. Diego L\u00f3pez, quien vive para escalar, pasa meses intentando subir bloques de hasta diez metros de altura en el desierto. Un grupo de escaladores trabaja en el armado de una nueva ruta, en una pared de mil metros, buscando alto grado de dificultad.<br>",
+        "tags": [
+            {
+                "id": 410,
+                "name": "Acrobacia",
+                "slug": "acrobacia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/acrobacia"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tres rocas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tres-rocas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2685,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 5.5,
+        "avg_votes_formatted": "5,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            },
+            {
+                "id": 98,
+                "name": "Croacia",
+                "slug": "croacia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/croacia"
+            },
+            {
+                "id": 183,
+                "name": "Portugal",
+                "slug": "portugal",
+                "url": "https://www.filminlatino.mx/catalogo/pais/portugal"
+            },
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            },
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            },
+            {
+                "id": 233,
+                "name": "Uruguay",
+                "slug": "uruguay",
+                "url": "https://www.filminlatino.mx/catalogo/pais/uruguay"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            },
+            {
+                "id": 29,
+                "name": "Bolivia",
+                "slug": "bolivia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/bolivia"
+            },
+            {
+                "id": 252,
+                "name": "Holanda",
+                "slug": "holanda",
+                "url": "https://www.filminlatino.mx/catalogo/pais/holanda"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Varios Directores",
+                "gender": "m",
+                "id": 2113,
+                "slug": "varios-directores",
+                "url": "https://www.filminlatino.mx/director/varios-directores"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Diversos testimonios de un minuto sobre la pandemia del coronavirus y se filmaron con dispositivos m\u00f3viles.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5761,
+        "image_card": "https://static.filminlatino.mx/images/media/5761/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5761/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5761/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5761/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5761/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5761/1/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Un minuto de pandemia",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-minuto-de-pandemia",
+        "synopsis": "La siguiente producci\u00f3n fue sugerida y coordinada por la Red Internacional de Cl\u00fasters Audiovisuales; su prop\u00f3sito fue reunir varios testimonios de un minuto de duraci\u00f3n sobre la pandemia del coronavirus COVID-19, se filmaron del 23 al 25 de marzo de 2020 con dispositivos m\u00f3viles. Se presenta sin propuesta de contenido o est\u00e9tica alguna, y con la participaci\u00f3n de los siguientes pa\u00edses: Colombia, Chile, Uruguay, M\u00e9xico, Bolivia, Holanda, Portugal, Croacia, Brasil, Francia y Argentina.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 421,
+                "name": "Cortos MX",
+                "slug": "cortos-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortos-mx"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 1512,
+                "name": "Cl\u00faster Audiovisual Aguascalientes M\u00e9xico",
+                "slug": "cluster-audiovisual-aguascalientes-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cluster-audiovisual-aguascalientes-mexico"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Un minuto de pandemia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-minuto-de-pandemia",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5326,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/UN-MINUTO-DE-PANDEMIA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/UN-MINUTO-DE-PANDEMIA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/UN-MINUTO-DE-PANDEMIA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Magda Vizca\u00edno",
+                "gender": "f",
+                "id": 5306,
+                "slug": "magda-vizcaino",
+                "url": "https://www.filminlatino.mx/actriz/magda-vizcaino"
+            },
+            {
+                "full_name": "Leticia G\u00f3mez",
+                "gender": "m",
+                "id": 5062,
+                "slug": "leticia-gomez",
+                "url": "https://www.filminlatino.mx/actor/leticia-gomez"
+            },
+            {
+                "full_name": "Pen\u00e9lope  Hern\u00e1ndez",
+                "gender": "f",
+                "id": 11762,
+                "slug": "penelope-hernandez",
+                "url": "https://www.filminlatino.mx/actriz/penelope-hernandez"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Guanajuato Film Fest",
+                "slug": "guanajuato-film-fest",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Filmfest Munich",
+                "slug": "filmfest-munich",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-motovun",
+                "name": "Festival de Motovun",
+                "slug": "festival-de-motovun",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marcelino  Islas Hen\u00e1ndez",
+                "gender": "m",
+                "id": 2789,
+                "slug": "marcelino-islas-henandez",
+                "url": "https://www.filminlatino.mx/director/marcelino-islas-henandez"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "Destino\u2026 lo sabr\u00e9 al final.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10601,
+        "image_card": "https://static.filminlatino.mx/images/media/10601/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/10601/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10601/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/10601/1/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/10601/2/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Martha",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3575,
+                "name": "Centro de Dise\u00f1o, Cine y Televisi\u00f3n, Zamora Films, Cine Chacal",
+                "slug": "centro-de-diseno-cine-y-television-zamora-films-cine-chacal",
+                "url": "https://www.filminlatino.mx/producer/centro-de-diseno-cine-y-television-zamora-films-cine-chacal"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "martha",
+        "synopsis": "Durante el d\u00eda Martha, una mujer de 75 a\u00f1os, archiva documentos en una oficina de seguros, y por las noches ve telenovelas con su vecina de toda la vida, Sonia. La monoton\u00eda que marca su vida rutinaria cambia cuando le anuncian que su trabajo lo desempe\u00f1ar\u00e1 una computadora. Impulsada por las circunstancias y con el apoyo de Eva, la joven encargada de vaciar los archivos en la computadora, Martha decide que acabar\u00e1 con su vida una vez terminada su \u00faltima semana de trabajo.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 475,
+                "name": "Depresi\u00f3n",
+                "slug": "depresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/depresion"
+            },
+            {
+                "id": 107,
+                "name": "Suicidio",
+                "slug": "suicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suicidio"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 559,
+                "name": "Desempleo",
+                "slug": "desempleo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desempleo"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 765,
+                "name": "Blue Monday",
+                "slug": "blue-monday",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blue-monday"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Martha",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/martha",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12349,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

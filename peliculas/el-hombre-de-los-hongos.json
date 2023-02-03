@@ -1,0 +1,322 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Isela Vega",
+                "gender": "f",
+                "id": 328,
+                "slug": "isela-vega",
+                "url": "https://www.filminlatino.mx/actriz/isela-vega"
+            },
+            {
+                "full_name": "Ofelia Medina",
+                "gender": "f",
+                "id": 667,
+                "slug": "ofelia-medina",
+                "url": "https://www.filminlatino.mx/actriz/ofelia-medina"
+            },
+            {
+                "full_name": "Fernando Allende",
+                "gender": "m",
+                "id": 674,
+                "slug": "fernando-allende",
+                "url": "https://www.filminlatino.mx/actor/fernando-allende"
+            },
+            {
+                "full_name": "Philip Michael Thomas",
+                "gender": "m",
+                "id": 675,
+                "slug": "philip-michael-thomas",
+                "url": "https://www.filminlatino.mx/actor/philip-michael-thomas"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Roberto Gavald\u00f3n",
+                "gender": "m",
+                "id": 79,
+                "slug": "roberto-gavaldon",
+                "url": "https://www.filminlatino.mx/director/roberto-gavaldon"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "La llegada de un ni\u00f1o a la vida de una familia parece un acto de inocencia, mas su evidente crecimiento despertar\u00e1 una intensa tensi\u00f3n sexual entre las integrantes de la familia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 245,
+        "image_card": "https://static.filminlatino.mx/images/media/245/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/245/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/245/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/245/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 39,
+        "original_title": "El hombre de los hongos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-hombre-de-los-hongos",
+        "synopsis": "La historia se centra en una familia de latifundistas de la \u00e9poca colonial, quienes posee una plantaci\u00f3n de ca\u00f1a al borde de la selva. Un d\u00eda, mientras el due\u00f1o y sus hombres andan de caza, hallan a un ni\u00f1o hu\u00e9rfano en una cascada llena de hongos. El terrateniente decide llevarlo a casa para regal\u00e1rselo a una de sus hijas. El chico es aceptado como un miembro m\u00e1s de la familia; pero, a medida que crece, su presencia despierta una intensa tensi\u00f3n sexual que llega a enfrentar a las mujeres de la casa.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 257,
+                "name": "Bizarro",
+                "slug": "bizarro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bizarro"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 302,
+                "name": "Esc\u00e1ndalo sexual",
+                "slug": "escandalo-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escandalo-sexual"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1188,
+                "name": "1976",
+                "slug": "1976",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1976"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1191,
+                "name": "Guanajuato",
+                "slug": "guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guanajuato"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2612,
+                "name": "Ediciones anteriores",
+                "slug": "ediciones-anteriores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ediciones-anteriores"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 192672000,
+        "theater_release_date": 192672000,
+        "theater_spectators_formatted": null,
+        "title": "El hombre de los hongos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-hombre-de-los-hongos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 743,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-hombre-de-los-hongos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-hombre-de-los-hongos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-hombre-de-los-hongos/master.m3u8"
+                }
+            ]
+        },
+        "year": 1975
+    }
+}

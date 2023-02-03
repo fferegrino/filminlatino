@@ -1,0 +1,222 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carmen Cook",
+                "gender": "m",
+                "id": 3618,
+                "slug": "carmen-cook",
+                "url": "https://www.filminlatino.mx/actor/carmen-cook"
+            },
+            {
+                "full_name": "Federico Peterson",
+                "gender": "m",
+                "id": 3619,
+                "slug": "federico-peterson",
+                "url": "https://www.filminlatino.mx/actor/federico-peterson"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Saudhi Batalla",
+                "gender": "f",
+                "id": 1236,
+                "slug": "saudhi-batalla",
+                "url": "https://www.filminlatino.mx/directora/saudhi-batalla"
+            }
+        ],
+        "duration_in_minutes": 27,
+        "excerpt": "La mirada de los exploradores y arque\u00f3logos que realizan su trabajo de campo en la Selva Lacandona en 1955 y conviven con la vida cotidiana y ritual de los habitantes de la regi\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2497,
+        "image_card": "https://static.filminlatino.mx/images/media/2497/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2497/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2497/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/2497/1/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Lacandones, expedici\u00f3n Leonard 1955",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1426,
+                "name": "Saudhi Batalla",
+                "slug": "saudhi-batalla",
+                "url": "https://www.filminlatino.mx/producer/saudhi-batalla"
+            },
+            {
+                "acronym": "",
+                "id": 1429,
+                "name": "Centro de Investigaciones Antropol\u00f3gicas de M\u00e9xico",
+                "slug": "centro-de-investigaciones-antropologicas-de-mexico",
+                "url": "https://www.filminlatino.mx/producer/centro-de-investigaciones-antropologicas-de-mexico"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "lacandones-expedicion-leonard-1955",
+        "synopsis": "Lacandones expedici\u00f3n Leonard 1955 es la restauraci\u00f3n f\u00edlmica que muestra la mirada de los exploradores y arque\u00f3logos del Centro de Investigaciones Antropol\u00f3gicas de M\u00e9xico que realizan su trabajo de campo en la Selva Lacandona en 1955 y conviven con la vida cotidiana y ritual de los habitantes de la regi\u00f3n.",
+        "tags": [
+            {
+                "id": 662,
+                "name": "Selva Lacandona",
+                "slug": "selva-lacandona",
+                "url": "https://www.filminlatino.mx/catalogo/tema/selva-lacandona"
+            },
+            {
+                "id": 321,
+                "name": "Exploradores y aventureros",
+                "slug": "exploradores-y-aventureros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exploradores-y-aventureros"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 406,
+                "name": "Arqueolog\u00eda",
+                "slug": "arqueologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arqueologia"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1113,
+                "name": "Saudhi Batalla",
+                "slug": "saudhi-batalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/saudhi-batalla"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1249,
+                "name": "2002",
+                "slug": "2002",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2002"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Lacandones, expedici\u00f3n Leonard 1955",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lacandones-expedicion-leonard-1955",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1889,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2002
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Francisca  Walker",
+                "gender": "f",
+                "id": 7508,
+                "slug": "francisca-walker",
+                "url": "https://www.filminlatino.mx/actriz/francisca-walker"
+            },
+            {
+                "full_name": "Mario  Horton",
+                "gender": "m",
+                "id": 7509,
+                "slug": "mario-horton",
+                "url": "https://www.filminlatino.mx/actor/mario-horton"
+            },
+            {
+                "full_name": "Daniel  Candia",
+                "gender": "m",
+                "id": 7510,
+                "slug": "daniel-candia",
+                "url": "https://www.filminlatino.mx/actor/daniel-candia"
+            },
+            {
+                "full_name": "Juan Pablo  Larenas",
+                "gender": "m",
+                "id": 7511,
+                "slug": "juan-pablo-larenas",
+                "url": "https://www.filminlatino.mx/actor/juan-pablo-larenas"
+            },
+            {
+                "full_name": "Camilo  Carmona",
+                "gender": "m",
+                "id": 7512,
+                "slug": "camilo-carmona",
+                "url": "https://www.filminlatino.mx/actor/camilo-carmona"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-internacional-de-cine-de-la-ciudad-de-mexico",
+                "name": "Festival Internacional de Cine de la Ciudad de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-de-la-ciudad-de-mexico",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernanda  Abarca",
+                "gender": "f",
+                "id": 3408,
+                "slug": "fernanda-abarca",
+                "url": "https://www.filminlatino.mx/directora/fernanda-abarca"
+            },
+            {
+                "full_name": "Andr\u00e9s  Opaso",
+                "gender": "m",
+                "id": 3409,
+                "slug": "andres-opaso",
+                "url": "https://www.filminlatino.mx/director/andres-opaso"
+            }
+        ],
+        "duration_in_minutes": 76,
+        "excerpt": "Santiago 1984. Carmen, ex JJCC, tras ser torturada por la CNI trabaja como agente encubierta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6691,
+        "image_card": "https://static.filminlatino.mx/images/media/6691/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6691/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6691/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6691/1/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/6691/2/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "La \u00faltima frontera",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2910,
+                "name": "Universidad del Desarrollo",
+                "slug": "universidad-del-desarrollo",
+                "url": "https://www.filminlatino.mx/producer/universidad-del-desarrollo"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-ultima-frontera",
+        "synopsis": "Francisco, un agente obsesionado con Carmen, una agente encubierta, la infiltra en una productora de publicidad, conoce a Gast\u00f3n, director creativo. Descubre que \u00e9ste planea un comercial en la cordillera como parte de un operativo de fuga de un preso pol\u00edtico. Carmen manipula a ambos, minti\u00e9ndole a Francisco y acerc\u00e1ndose a Gast\u00f3n, para sumarse al operativo y as\u00ed lograr su propio escape.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 1301,
+                "name": "Hombres",
+                "slug": "hombres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hombres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 54,
+                "name": "Espionaje",
+                "slug": "espionaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espionaje"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La \u00faltima frontera",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-ultima-frontera",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6612,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

@@ -1,0 +1,324 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [
+            {
+                "category": "Muestra",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Roberto  Behar",
+                "gender": "m",
+                "id": 151,
+                "slug": "roberto-behar",
+                "url": "https://www.filminlatino.mx/character/roberto-behar"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Hari Sama",
+                "gender": "m",
+                "id": 527,
+                "slug": "hari-sama",
+                "url": "https://www.filminlatino.mx/director/hari-sama"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Documental que muestra los recuerdos de un polifac\u00e9tico hombre que encontr\u00f3 la paz a trav\u00e9s de la ceremonia del t\u00e9 japon\u00e9s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2690,
+        "image_card": "https://static.filminlatino.mx/images/media/2690/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2690/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2690/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2690/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2690/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2690/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2690/5/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 37,
+        "original_title": "Sunka Raku: Alegr\u00eda evanescente",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 587,
+                "name": "Catatonia Cine",
+                "slug": "catatonia-cine",
+                "url": "https://www.filminlatino.mx/producer/catatonia-cine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sunka-raku-alegria-evanescente",
+        "synopsis": "Sunka Raku muestra la vida de un\u00a0multifac\u00e9tico y carism\u00e1tico hombre, Roberto Behar, quien durante 25 a\u00f1os se ha dedicado a aprender el arte milenario de la ceremonia del t\u00e9 japon\u00e9s. Roberto, a partir de las cuatro estaciones del a\u00f1o, hace una reflexi\u00f3n sobre su vida y de los cambios que tiene el ser humano con el paso de los a\u00f1os. Una historia que habla sobre la construcci\u00f3n minuciosa de unas casas de t\u00e9 japonesas en el Ajusco mexicano. Cuarto largometraje de Hari Sama, director de pel\u00edculas como \"El sue\u00f1o de Lu\" y \"Esto no es Berl\u00edn\".",
+        "tags": [
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 65,
+                "name": "Arquitectura",
+                "slug": "arquitectura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arquitectura"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 753,
+                "name": "Biopic_MX",
+                "slug": "biopic-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic-mx"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 484,
+                "name": "Paz",
+                "slug": "paz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1476,
+                "name": "Encerr\u00f3n Doqumental",
+                "slug": "encerron-doqumental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encerron-doqumental"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Sunka Raku: Alegr\u00eda evanescente",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sunka-raku-alegria-evanescente",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 4469,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SUNKA-RAKU.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SUNKA-RAKU/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SUNKA-RAKU/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

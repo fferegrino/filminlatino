@@ -1,0 +1,292 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "New York Latino Film Festival",
+                "slug": "new-york-latino-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Guadalupe  Guzm\u00e1n",
+                "gender": "f",
+                "id": 846,
+                "slug": "guadalupe-guzman",
+                "url": "https://www.filminlatino.mx/character/guadalupe-guzman"
+            },
+            {
+                "full_name": "Rafaela L\u00f3pez",
+                "gender": "f",
+                "id": 847,
+                "slug": "rafaela-lopez",
+                "url": "https://www.filminlatino.mx/character/rafaela-lopez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Janet  Jarman",
+                "gender": "m",
+                "id": 3654,
+                "slug": "janet-jarman",
+                "url": "https://www.filminlatino.mx/director/janet-jarman"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "A trav\u00e9s del seguimiento de parteras y personal m\u00e9dico en M\u00e9xico, Birth Wars contrasta dos mundos encargados del mismo objetivo: proteger la salud de las madres y dar a luz a sus hijos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6975,
+        "image_card": "https://static.filminlatino.mx/images/media/6975/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6975/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6975/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6975/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6975/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6975/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/6975/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 135,
+        "original_title": "Birth Wars",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "birth-wars",
+        "synopsis": "Birth Wars retrata la lucha de poder entre m\u00e9dicos y parteras en cuatro estados del sureste de M\u00e9xico: Guerrero, Veracruz, Oaxaca y Chiapas, evidenciando las diferencias en sus visiones y maneras de proceder. Tlapa de Comonfort o Acatepec, por ejemplo, son escenarios donde el descuido del sector p\u00fablico de salud alcanza el \u00e1mbito de la maternidad.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 681,
+                "name": "Salud",
+                "slug": "salud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/salud"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 359,
+                "name": "Basada en un relato",
+                "slug": "basada-en-un-relato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-relato"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 1310,
+                "name": "Sexualidad",
+                "slug": "sexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexualidad"
+            },
+            {
+                "id": 1805,
+                "name": "Ciclo perspectiva de g\u00e9nero",
+                "slug": "ciclo-perspectiva-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-perspectiva-de-genero"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2530,
+                "name": "Dadoras de vida",
+                "slug": "dadoras-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dadoras-de-vida"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2778,
+                "name": "16 d\u00edas de activismo INMUJERES 2022",
+                "slug": "16-dias-de-activismo-inmujeres-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo-inmujeres-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Birth Wars",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/birth-wars",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7400,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/BIRTHWARS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/BIRTHWARS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/BIRTHWARS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

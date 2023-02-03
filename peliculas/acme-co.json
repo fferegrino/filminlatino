@@ -1,0 +1,228 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gregorio Rocha",
+                "gender": "m",
+                "id": 150,
+                "slug": "gregorio-rocha",
+                "url": "https://www.filminlatino.mx/director/gregorio-rocha"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Un viaje de lo real a lo imaginario sobre Pancho Villa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 151,
+        "image_card": "https://static.filminlatino.mx/images/media/151/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/151/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/151/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/14/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/20/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/12/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/16/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/18/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/151/4/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Acme & Co",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 74,
+                "name": "Archivia Films",
+                "slug": "archivia-films",
+                "url": "https://www.filminlatino.mx/producer/archivia-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "acme-co",
+        "synopsis": "Basada en estudios hist\u00f3ricos y sociol\u00f3gicos, esta cinta reconstruye e ilustra por medio de t\u00e9cnicas documentales y de ficci\u00f3n la historia de un proyector de cine modelo Acme, utilizado por el empresario y cineasta m\u00e9xico-estadounidense Edmundo Padilla durante sus correr\u00edas por la frontera norte de M\u00e9xico entre 1920 y 1937, as\u00ed como de aquellos exhibidores de cine trashumantes que trabajaron en las postrimer\u00edas. Planteada como continuaci\u00f3n de la obra \"Los rollos perdidos de Pancho Villa\" (2003), del mismo cineasta.",
+        "tags": [
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 834,
+                "name": "4\u00b0 FICM",
+                "slug": "40-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/40-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1210,
+                "name": "2006",
+                "slug": "2006",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2006"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1270,
+                "name": "Magallanes",
+                "slug": "magallanes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magallanes"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1143504000,
+        "theater_release_date": 1143504000,
+        "theater_spectators_formatted": null,
+        "title": "Acme & Co",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/acme-co",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 129,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2005
+    }
+}

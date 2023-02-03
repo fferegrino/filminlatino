@@ -1,0 +1,352 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Fabrice Luchini",
+                "gender": "m",
+                "id": 2819,
+                "slug": "fabrice-luchini",
+                "url": "https://www.filminlatino.mx/actor/fabrice-luchini"
+            },
+            {
+                "full_name": "Lambert Wilson",
+                "gender": "m",
+                "id": 2767,
+                "slug": "lambert-wilson",
+                "url": "https://www.filminlatino.mx/actor/lambert-wilson"
+            },
+            {
+                "full_name": "Maya Sansa",
+                "gender": "f",
+                "id": 2841,
+                "slug": "maya-sansa",
+                "url": "https://www.filminlatino.mx/actriz/maya-sansa"
+            },
+            {
+                "full_name": "Camille Japy",
+                "gender": "f",
+                "id": 2842,
+                "slug": "camille-japy",
+                "url": "https://www.filminlatino.mx/actriz/camille-japy"
+            },
+            {
+                "full_name": "Ged Marlon",
+                "gender": "m",
+                "id": 2843,
+                "slug": "ged-marlon",
+                "url": "https://www.filminlatino.mx/actor/ged-marlon"
+            },
+            {
+                "full_name": "St\u00e9phan Wojtowicz",
+                "gender": "m",
+                "id": 2844,
+                "slug": "stephan-wojtowicz",
+                "url": "https://www.filminlatino.mx/actor/stephan-wojtowicz"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-de-cine-de-sarasota",
+                "name": "Festival de Cine de Sarasota",
+                "slug": "festival-de-cine-de-sarasota",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Philippe Le Guay",
+                "gender": "m",
+                "id": 1023,
+                "slug": "philippe-le-guay",
+                "url": "https://www.filminlatino.mx/director/philippe-le-guay"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Un filme c\u00e1lido que evoca los tintes cl\u00e1sicos que Moli\u00e8re sol\u00eda expresar proyectado en dos actores que luchan por sus egos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1506,
+        "image_card": "https://static.filminlatino.mx/images/media/1506/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1506/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1506/11/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/12/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/13/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/14/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/15/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/6/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/16/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/7/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/17/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/18/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/8/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/19/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/9/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/20/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/1506/10/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "Alceste \u00e0 bicyclette",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1116,
+                "name": "Les Films des Tournelles",
+                "slug": "les-films-des-tournelles",
+                "url": "https://www.filminlatino.mx/producer/les-films-des-tournelles"
+            },
+            {
+                "acronym": "",
+                "id": 491,
+                "name": "Path\u00e9",
+                "slug": "pathe",
+                "url": "https://www.filminlatino.mx/producer/pathe"
+            },
+            {
+                "acronym": "",
+                "id": 1117,
+                "name": "Appaloosa D\u00e9veloppment",
+                "slug": "appaloosa-developpment",
+                "url": "https://www.filminlatino.mx/producer/appaloosa-developpment"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1118,
+                "name": "Soficin\u00e9ma 8",
+                "slug": "soficinema-8",
+                "url": "https://www.filminlatino.mx/producer/soficinema-8"
+            },
+            {
+                "acronym": "",
+                "id": 508,
+                "name": "Soficin\u00e9ma 9",
+                "slug": "soficinema-9",
+                "url": "https://www.filminlatino.mx/producer/soficinema-9"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 494,
+                "name": "Cin\u00e9+",
+                "slug": "cine",
+                "url": "https://www.filminlatino.mx/producer/cine"
+            },
+            {
+                "acronym": "",
+                "id": 1119,
+                "name": "D\u00e9partement de la Charente-Maritime",
+                "slug": "departement-de-la-charente-maritime",
+                "url": "https://www.filminlatino.mx/producer/departement-de-la-charente-maritime"
+            },
+            {
+                "acronym": "",
+                "id": 1120,
+                "name": "R\u00e9gion Poitou-Charentes",
+                "slug": "region-poitou-charentes",
+                "url": "https://www.filminlatino.mx/producer/region-poitou-charentes"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "paseando-con-moliere",
+        "synopsis": "En la cima de su carrera art\u00edstica, Serge Tanneur dej\u00f3 definitivamente el mundo del espect\u00e1culo para mudarse a la Isla de R\u00e9 y vivir como un ermita\u00f1o. Tres a\u00f1os m\u00e1s tarde, Gauthier Valence, un famoso actor de televisi\u00f3n, est\u00e1 planeando una producci\u00f3n de \"El mis\u00e1ntropo\" de Moli\u00e8re, y quiere ofrecerle a Serge el papel principal. Serge le propone a Gauthier cinco d\u00edas de ensayo para saber si quiere participar. Los dos actores se miden y se desaf\u00edan, compartiendo el placer de actuar juntos y al tiempo enormes ganas de pelearse, y todo parece indicar que Serge va a regresar al escenario.",
+        "tags": [
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 719,
+                "name": "Personajes actores",
+                "slug": "personajes-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-actores"
+            },
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 579,
+                "name": "Bicicletas",
+                "slug": "bicicletas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bicicletas"
+            },
+            {
+                "id": 736,
+                "name": "Oto\u00f1o y vino",
+                "slug": "otono-y-vino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otono-y-vino"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 1007,
+                "name": "17\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "170-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/170-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Paseando con Moli\u00e8re",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/paseando-con-moliere",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1028,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/penasndo-con-moliere.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/penasndo-con-moliere/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/penasndo-con-moliere/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

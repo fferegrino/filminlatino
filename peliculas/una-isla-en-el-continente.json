@@ -1,0 +1,265 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Francisco  Hern\u00e1ndez Zamora",
+                "gender": "m",
+                "id": 264,
+                "slug": "francisco-hernandez-zamora",
+                "url": "https://www.filminlatino.mx/character/francisco-hernandez-zamora"
+            },
+            {
+                "full_name": "Edmundo  Lizardi",
+                "gender": "m",
+                "id": 265,
+                "slug": "edmundo-lizardi",
+                "url": "https://www.filminlatino.mx/character/edmundo-lizardi"
+            },
+            {
+                "full_name": "Mar\u00eda de la Luz Guti\u00e9rrez",
+                "gender": "f",
+                "id": 266,
+                "slug": "maria-de-la-luz-gutierrez",
+                "url": "https://www.filminlatino.mx/character/maria-de-la-luz-gutierrez"
+            },
+            {
+                "full_name": "Ricardo Madrazo",
+                "gender": "m",
+                "id": 267,
+                "slug": "ricardo-madrazo",
+                "url": "https://www.filminlatino.mx/character/ricardo-madrazo"
+            },
+            {
+                "full_name": "Antonia Gonz\u00e1lez",
+                "gender": "f",
+                "id": 268,
+                "slug": "antonia-gonzalez",
+                "url": "https://www.filminlatino.mx/character/antonia-gonzalez"
+            },
+            {
+                "full_name": "Victor S\u00e1nchez",
+                "gender": "m",
+                "id": 269,
+                "slug": "victor-sanchez",
+                "url": "https://www.filminlatino.mx/character/victor-sanchez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Pablo  Miquirray Soto",
+                "gender": "m",
+                "id": 2730,
+                "slug": "juan-pablo-miquirray-soto",
+                "url": "https://www.filminlatino.mx/director/juan-pablo-miquirray-soto"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "\u00bfPodremos vivir en armon\u00eda con la naturaleza?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5920,
+        "image_card": "https://static.filminlatino.mx/images/media/5920/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5920/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5920/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5920/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5920/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5920/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "Una isla en el continente",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2272,
+                "name": "Planetario M\u00f3vil de Alta Definici\u00f3n y Sonido S.A. de C.V: (JP&K FILMS)",
+                "slug": "planetario-movil-de-alta-definicion-y-sonido-sa-de-cv-jpk-films",
+                "url": "https://www.filminlatino.mx/producer/planetario-movil-de-alta-definicion-y-sonido-sa-de-cv-jpk-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "una-isla-en-el-continente",
+        "synopsis": "Un recorrido a lo largo y ancho de la Pen\u00ednsula de Baja California, donde el pasado y el presente se entrelazan para crear una bella y \u00fanica sinfon\u00eda de la naturaleza, la historia y la gente de este territorio. Desafortunadamente este m\u00e1gico lugar se ha convertido en un suculento bocado para las mineras as\u00ed como para los grandes inversionistas en turismo, poniendo en peligro su delicado equilibrio.\u00a0",
+        "tags": [
+            {
+                "id": 1401,
+                "name": "Especial DOQUMENTA",
+                "slug": "especial-doqumenta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-doqumenta"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 1543,
+                "name": "Selecci\u00f3n nacional",
+                "slug": "seleccion-nacional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-nacional"
+            },
+            {
+                "id": 1539,
+                "name": "Desplazamiento del silencio | Doqumenta",
+                "slug": "desplazamiento-del-silencio-doqumenta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desplazamiento-del-silencio-doqumenta"
+            },
+            {
+                "id": 1548,
+                "name": "Doqumenta 2020",
+                "slug": "doqumenta-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doqumenta-2020"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Una isla en el continente",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/una-isla-en-el-continente",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 5523,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/UNA-ISLA-EN-EL-CONTINENTE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/UNA-ISLA-EN-EL-CONTINENTE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/UNA-ISLA-EN-EL-CONTINENTE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

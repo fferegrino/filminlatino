@@ -1,0 +1,239 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pio  Amato",
+                "gender": "m",
+                "id": 8268,
+                "slug": "pio-amato",
+                "url": "https://www.filminlatino.mx/actor/pio-amato"
+            },
+            {
+                "full_name": "Koudous Seihon",
+                "gender": "m",
+                "id": 5282,
+                "slug": "koudous-seihon",
+                "url": "https://www.filminlatino.mx/actor/koudous-seihon"
+            },
+            {
+                "full_name": "Damiano  Amato",
+                "gender": "m",
+                "id": 8269,
+                "slug": "damiano-amato",
+                "url": "https://www.filminlatino.mx/actor/damiano-amato"
+            },
+            {
+                "full_name": "Patrizia  Amato",
+                "gender": "f",
+                "id": 8270,
+                "slug": "patrizia-amato",
+                "url": "https://www.filminlatino.mx/actriz/patrizia-amato"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jonas Carpignano",
+                "gender": "m",
+                "id": 1897,
+                "slug": "jonas-carpignano",
+                "url": "https://www.filminlatino.mx/director/jonas-carpignano"
+            }
+        ],
+        "duration_in_minutes": 113,
+        "excerpt": "En la comunidad gitana de A Ciambra, universo sin ley, la familia es lo primero.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7121,
+        "image_card": "https://static.filminlatino.mx/images/media/7121/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7121/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7121/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7121/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7121/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7121/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7121/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7121/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 10,
+        "original_title": "A Ciambra",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3260,
+                "name": "Martin Scorsese",
+                "slug": "martin-scorsese",
+                "url": "https://www.filminlatino.mx/producer/martin-scorsese"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "a-ciambra",
+        "synopsis": "En la comunidad gitana de A Ciambra, universo sin ley, la familia es lo primero. As\u00ed lo ve Pio, de 14 a\u00f1os, cuyo modelo de conducta es su hermano Cosimo. Cuando \u00e9ste va a la c\u00e1rcel, Pio ve la oportunidad de demostrar su hombr\u00eda proveyendo a la familia de peligrosas maneras. Pero ser adulto tiene un precio muy superior al que imagina.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 723,
+                "name": "Hermanos Problem\u00e1ticos",
+                "slug": "hermanos-problematicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos-problematicos"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 490,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/italia"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 170,
+                "name": "Guionista que pasa a director",
+                "slug": "guionista-que-pasa-a-director",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guionista-que-pasa-a-director"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "A Ciambra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/a-ciambra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 7306,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

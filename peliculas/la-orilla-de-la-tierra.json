@@ -1,0 +1,297 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jes\u00fas Ochoa",
+                "gender": "m",
+                "id": 126,
+                "slug": "jesus-ochoa",
+                "url": "https://www.filminlatino.mx/actor/jesus-ochoa"
+            },
+            {
+                "full_name": "Luis Felipe Tovar",
+                "gender": "m",
+                "id": 123,
+                "slug": "luis-felipe-tovar",
+                "url": "https://www.filminlatino.mx/actor/luis-felipe-tovar"
+            },
+            {
+                "full_name": "Alejandra Prado",
+                "gender": "f",
+                "id": 1248,
+                "slug": "alejandra-prado",
+                "url": "https://www.filminlatino.mx/actriz/alejandra-prado"
+            },
+            {
+                "full_name": "Zoraida G\u00f3mez",
+                "gender": "f",
+                "id": 1249,
+                "slug": "zoraida-gomez",
+                "url": "https://www.filminlatino.mx/actriz/zoraida-gomez"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Honor\u00edfica por parte del Jurado",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 1994
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ignacio Ortiz Cruz",
+                "gender": "m",
+                "id": 93,
+                "slug": "ignacio-ortiz-cruz",
+                "url": "https://www.filminlatino.mx/director/ignacio-ortiz-cruz"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Dos amigos buscan intensamente un tesoro que han visto en sus sue\u00f1os, uno ha tenido una se\u00f1al y el otro sabe donde se encuentra.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 43,
+        "image_card": "https://static.filminlatino.mx/images/media/43/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/43/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/43/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/43/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/43/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "La orilla de la tierra",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 181,
+                "name": "ECHASA",
+                "slug": "echasa",
+                "url": "https://www.filminlatino.mx/producer/echasa"
+            },
+            {
+                "acronym": "",
+                "id": 553,
+                "name": " Instituto Oaxaque\u00f1o de Las Culturas",
+                "slug": "instituto-oaxaqueno-de-las-culturas",
+                "url": "https://www.filminlatino.mx/producer/instituto-oaxaqueno-de-las-culturas"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-orilla-de-la-tierra",
+        "synopsis": "En un pueblo donde no pasa nada, de pronto, los habitantes se enteran de un lugar a la orilla de la tierra donde abundan mujeres y dinero. Al ver la oportunidad de irse como braceros a los Estados Unidos, los hombres del lugar no titubean y se van. Mientras tanto Andr\u00e9s y Gregorio llegan al pueblo buscando tesoros y se encuentran s\u00f3lo a Matilde, ya que las dem\u00e1s mujeres huyeron cansadas de esperar el regreso de sus hombres.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 319,
+                "name": "Desierto",
+                "slug": "desierto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desierto"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1173,
+                "name": "1994",
+                "slug": "1994",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1994"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1934,
+                "name": "Ciclo: En busca de un futuro",
+                "slug": "ciclo-en-busca-de-un-futuro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-en-busca-de-un-futuro"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 777168000,
+        "theater_release_date": 777168000,
+        "theater_spectators_formatted": null,
+        "title": "La orilla de la tierra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-orilla-de-la-tierra",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 350,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-orilla-de-la-tierra.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-orilla-de-la-tierra/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-orilla-de-la-tierra/master.m3u8"
+                }
+            ]
+        },
+        "year": 1994
+    }
+}

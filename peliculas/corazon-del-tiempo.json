@@ -1,0 +1,300 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roc\u00edo Barrios",
+                "gender": "f",
+                "id": 903,
+                "slug": "rocio-barrios",
+                "url": "https://www.filminlatino.mx/actriz/rocio-barrios"
+            },
+            {
+                "full_name": "Francisco Jim\u00e9nez",
+                "gender": "m",
+                "id": 904,
+                "slug": "francisco-jimenez",
+                "url": "https://www.filminlatino.mx/actor/francisco-jimenez"
+            },
+            {
+                "full_name": "Leonardo  Rodr\u00edguez",
+                "gender": "m",
+                "id": 905,
+                "slug": "leonardo-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/leonardo-rodriguez"
+            },
+            {
+                "full_name": "Marisela Rodr\u00edguez",
+                "gender": "f",
+                "id": 906,
+                "slug": "marisela-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/marisela-rodriguez"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-ceara",
+                "name": "Festival de Cear\u00e1",
+                "slug": "festival-de-ceara",
+                "year": 2009
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Cort\u00e9s Calder\u00f3n",
+                "gender": "m",
+                "id": 350,
+                "slug": "alberto-cortes-calderon",
+                "url": "https://www.filminlatino.mx/director/alberto-cortes-calderon"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Filmada totalmente en escenarios naturales del estado de Chiapas, retrata la vida cotidiana en las comunidades zapatistas, c\u00f3mo se vive en resistencia y construyendo la autonom\u00eda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 372,
+        "image_card": "https://static.filminlatino.mx/images/media/372/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/372/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/372/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/372/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/372/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/372/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/372/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 22,
+        "original_title": "Coraz\u00f3n del tiempo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 19,
+                "name": "Filmoteca UNAM ",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/producer/filmoteca-unam"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 269,
+                "name": "Batacl\u00e1n Cinematogr\u00e1fica ",
+                "slug": "bataclan-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/bataclan-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "corazon-del-tiempo",
+        "synopsis": "En la Esperanza de San Pedro, Chiapas, en medio de la lucha zapatista, Sonia, miembro de la comunidad, va a casarse. Ya se dio la dote: una vaca; ya se habl\u00f3 con la familia del novio\u0085 Pero Sonia est\u00e1 enamorada de otro: un insurgente. Ahora el EZLN tiene un problema y habr\u00e1 que resolverlo con toda la comunidad para que la voz de sus miembros se escuche y se respete, y sobre la imposici\u00f3n triunfe el coraz\u00f3n.",
+        "tags": [
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 2246,
+                "name": "Los pueblos originarios y su propia mirada",
+                "slug": "los-pueblos-originarios-y-su-propia-mirada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-pueblos-originarios-y-su-propia-mirada"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1232064000,
+        "theater_release_date": 1232064000,
+        "theater_spectators_formatted": null,
+        "title": "Coraz\u00f3n del tiempo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/corazon-del-tiempo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 539,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

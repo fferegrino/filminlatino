@@ -1,0 +1,304 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Vincent Gallo",
+                "gender": "m",
+                "id": 2761,
+                "slug": "vincent-gallo",
+                "url": "https://www.filminlatino.mx/actor/vincent-gallo"
+            },
+            {
+                "full_name": "Alden Ehrenreich",
+                "gender": "m",
+                "id": 2762,
+                "slug": "alden-ehrenreich",
+                "url": "https://www.filminlatino.mx/actor/alden-ehrenreich"
+            },
+            {
+                "full_name": "Maribel Verd\u00fa",
+                "gender": "f",
+                "id": 2329,
+                "slug": "maribel-verdu",
+                "url": "https://www.filminlatino.mx/actriz/maribel-verdu"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francis Ford Coppola",
+                "gender": "m",
+                "id": 578,
+                "slug": "francis-ford-coppola",
+                "url": "https://www.filminlatino.mx/director/francis-ford-coppola"
+            }
+        ],
+        "duration_in_minutes": 124,
+        "excerpt": "Bennie hace una traves\u00eda por Buenos Aires para buscar a su hermano del que encontrar\u00e1 m\u00e1s respuestas de lo que el esperaba.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1474,
+        "image_card": "https://static.filminlatino.mx/images/media/1474/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1474/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1474/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1474/7/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Tetro",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1061,
+                "name": "American Zoetrope",
+                "slug": "american-zoetrope",
+                "url": "https://www.filminlatino.mx/producer/american-zoetrope"
+            },
+            {
+                "acronym": "",
+                "id": 1062,
+                "name": "Zoetrope Argentina",
+                "slug": "zoetrope-argentina",
+                "url": "https://www.filminlatino.mx/producer/zoetrope-argentina"
+            },
+            {
+                "acronym": "",
+                "id": 630,
+                "name": "Tornasol Films",
+                "slug": "tornasol-films",
+                "url": "https://www.filminlatino.mx/producer/tornasol-films"
+            },
+            {
+                "acronym": "",
+                "id": 1024,
+                "name": "BIM Distribuzione",
+                "slug": "bim-distribuzione",
+                "url": "https://www.filminlatino.mx/producer/bim-distribuzione"
+            },
+            {
+                "acronym": "INCAA",
+                "id": 477,
+                "name": "Instituto Nacional de Cine y Artes Audiovisuales",
+                "slug": "instituto-nacional-de-cine-y-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-nacional-de-cine-y-artes-audiovisuales"
+            },
+            {
+                "acronym": "",
+                "id": 1063,
+                "name": "Gerencia de Fomento",
+                "slug": "gerencia-de-fomento",
+                "url": "https://www.filminlatino.mx/producer/gerencia-de-fomento"
+            },
+            {
+                "acronym": "TVE",
+                "id": 4,
+                "name": "Televisi\u00f3n Espa\u00f1ola",
+                "slug": "television-espanola",
+                "url": "https://www.filminlatino.mx/producer/television-espanola"
+            },
+            {
+                "acronym": "",
+                "id": 667,
+                "name": "Canal+ Espa\u00f1a",
+                "slug": "canal-espana",
+                "url": "https://www.filminlatino.mx/producer/canal-espana"
+            },
+            {
+                "acronym": "ICAA",
+                "id": 1029,
+                "name": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales",
+                "slug": "instituto-de-la-cinematografia-y-de-las-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-de-la-cinematografia-y-de-las-artes-audiovisuales"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tetro",
+        "synopsis": "Bennie viaja a Buenos Aires para encontrar a su hermano perdido, un escritor prometedor del que solo quedan residuos del que era antes. Bennie descubre a su hermano y est\u00e1 a punto de encontrar la respuesta para entender su pasado compartido y renovar el vinculo que ten\u00edan.",
+        "tags": [
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 719,
+                "name": "Personajes actores",
+                "slug": "personajes-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-actores"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tetro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tetro",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1009,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/tetro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/tetro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/tetro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

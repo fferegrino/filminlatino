@@ -1,0 +1,255 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Giovanni Ciarlo",
+                "gender": "m",
+                "id": 2307,
+                "slug": "giovanni-ciarlo",
+                "url": "https://www.filminlatino.mx/actor/giovanni-ciarlo"
+            },
+            {
+                "full_name": "Alberto Ruz",
+                "gender": "m",
+                "id": 2308,
+                "slug": "alberto-ruz",
+                "url": "https://www.filminlatino.mx/actor/alberto-ruz"
+            },
+            {
+                "full_name": "Citlalli Millan",
+                "gender": "m",
+                "id": 2309,
+                "slug": "citlalli-millan",
+                "url": "https://www.filminlatino.mx/actor/citlalli-millan"
+            },
+            {
+                "full_name": "Tatiana Holder",
+                "gender": "m",
+                "id": 2310,
+                "slug": "tatiana-holder",
+                "url": "https://www.filminlatino.mx/actor/tatiana-holder"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Tiahoga Ruge",
+                "gender": "f",
+                "id": 821,
+                "slug": "tiahoga-ruge",
+                "url": "https://www.filminlatino.mx/directora/tiahoga-ruge"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Basada en la historia verdadera de Federico Fellini y su fascinaci\u00f3n por el mundo m\u00e1gico de M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1280,
+        "image_card": "https://static.filminlatino.mx/images/media/1280/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1280/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1280/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1280/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1280/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1280/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "So\u00f1ando con Tulum",
+        "producers": [
+            {
+                "acronym": "8480",
+                "id": 872,
+                "name": "Fellini Films M\u00e9xico",
+                "slug": "fellini-films-mexico",
+                "url": "https://www.filminlatino.mx/producer/fellini-films-mexico"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sonando-con-tulum",
+        "synopsis": "En 1985, Federico Fellini es guiado por un cham\u00e1n a trav\u00e9s del mundo m\u00e1gico de M\u00e9xico. La cinta inicia en 1979 con escenas reales del propio Fellini durante la filmaci\u00f3n de \"La ciudad de las mujeres\" hasta llegar al mundo actual con Sof\u00eda, una joven periodista, quien sigue los pasos del director italiano y descubre los secretos de su viaje a Tulum. ",
+        "tags": [
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 86,
+                "name": "Magia",
+                "slug": "magia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magia"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 489,
+                "name": "Playa",
+                "slug": "playa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/playa"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 1065,
+                "name": "Fellini Producciones",
+                "slug": "fellini-producciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fellini-producciones"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1264,
+                "name": "Canc\u00fan",
+                "slug": "cancun",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cancun"
+            },
+            {
+                "id": 282,
+                "name": "Lecciones de cine",
+                "slug": "lecciones-de-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lecciones-de-cine"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 1329,
+                "name": "Directores",
+                "slug": "directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1306886400,
+        "theater_release_date": 1306886400,
+        "theater_spectators_formatted": null,
+        "title": "So\u00f1ando con Tulum",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sonando-con-tulum",
+        "versions": [
+            {
+                "codes": [],
+                "id": 869,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/sonando-con-tulum.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/sonando-con-tulum/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/sonando-con-tulum/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

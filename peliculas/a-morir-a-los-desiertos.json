@@ -1,0 +1,394 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Cin\u00e9 Latino Rencontres de Toulouse",
+                "slug": "cine-latino-rencontres-de-toulouse",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Segundo Festival de Cine \u201cPuy Ta Cuxlejaltic\"",
+                "slug": "segundo-festival-de-cine-puy-ta-cuxlejaltic",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Premio Art Kingdom",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Los Cabos",
+                "slug": "festival-internacional-de-cine-de-los-cabos",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival FILMAR en Am\u00e9rica Latina",
+                "slug": "festival-filmar-en-america-latina",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Honor\u00edfica en la categor\u00eda de Mejor largometraje documental",
+                "icon": "premio-jose-rovirosa",
+                "name": "Premio Jos\u00e9 Rovirosa",
+                "slug": "premio-jose-rovirosa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marta Ferrer",
+                "gender": "f",
+                "id": 5869,
+                "slug": "marta-ferrer",
+                "url": "https://www.filminlatino.mx/directora/marta-ferrer"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "A Morir a los Desiertos es un viaje en busca de los \u00faltimos vestigios de esta tradici\u00f3n nacida de los peones de las haciendas algodoneras y mineras, y que hoy est\u00e1 en v\u00edas de desaparecer.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9863,
+        "image_card": "https://static.filminlatino.mx/images/media/9863/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9863/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9863/4/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/9863/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9863/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/9863/4/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/9863/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/9863/4/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/9863/3/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/9863/2/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "A morir a los desiertos",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "a-morir-a-los-desiertos",
+        "synopsis": "Un viaje al semidesierto de la Comarca Lagunera en busca de los \u00faltimos maestros del Canto Cardenche, un melanc\u00f3lico canto de amor y desprecio, de lamento y tragedia. A morir a los desiertos es un viaje sensorial al semi desierto, en b\u00fasqueda de los \u00faltimos cantantes y vestigios del Canto Cardenche, una tradici\u00f3n del norte de M\u00e9xico que tuvo su auge en el contexto de las haciendas algodoneras, donde la \u00fanica v\u00eda de evasi\u00f3n y expresi\u00f3n de los peones eran esas canciones a las orillas de la siembra",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 319,
+                "name": "Desierto",
+                "slug": "desierto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desierto"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 1196,
+                "name": "Coahuila",
+                "slug": "coahuila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coahuila"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1301,
+                "name": "Hombres",
+                "slug": "hombres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hombres"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 500,
+                "name": "Dolor",
+                "slug": "dolor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dolor"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 2131,
+                "name": "GAAP | Promotores Culturales Comunitarios",
+                "slug": "gaap-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gaap-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2668,
+                "name": "D\u00eda Nacional del Cine Mexicano 2022",
+                "slug": "dia-nacional-del-cine-mexicano-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-nacional-del-cine-mexicano-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "A morir a los desiertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/a-morir-a-los-desiertos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11972,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/TRAILER-A-MORIR-A-LOS-DESIERTOS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/TRAILER-A-MORIR-A-LOS-DESIERTOS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/TRAILER-A-MORIR-A-LOS-DESIERTOS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Sebastian  Van Dun",
+                "gender": "m",
+                "id": 5734,
+                "slug": "sebastian-van-dun",
+                "url": "https://www.filminlatino.mx/actor/sebastian-van-dun"
+            },
+            {
+                "full_name": "Lo\u00efc  Bellemans",
+                "gender": "m",
+                "id": 5735,
+                "slug": "loic-bellemans",
+                "url": "https://www.filminlatino.mx/actor/loic-bellemans"
+            },
+            {
+                "full_name": "Karlijn  Sileghem",
+                "gender": "f",
+                "id": 5736,
+                "slug": "karlijn-sileghem",
+                "url": "https://www.filminlatino.mx/actriz/karlijn-sileghem"
+            },
+            {
+                "full_name": "Mistral  Guidotti",
+                "gender": "m",
+                "id": 5737,
+                "slug": "mistral-guidotti",
+                "url": "https://www.filminlatino.mx/actor/mistral-guidotti"
+            },
+            {
+                "full_name": "Lena  Suijkerbuijk",
+                "gender": "f",
+                "id": 5738,
+                "slug": "lena-suijkerbuijk",
+                "url": "https://www.filminlatino.mx/actriz/lena-suijkerbuijk"
+            },
+            {
+                "full_name": "Els  Dottermans",
+                "gender": "f",
+                "id": 5739,
+                "slug": "els-dottermans",
+                "url": "https://www.filminlatino.mx/actriz/els-dottermans"
+            },
+            {
+                "full_name": "Robbie  Cleiren",
+                "gender": "m",
+                "id": 5740,
+                "slug": "robbie-cleiren",
+                "url": "https://www.filminlatino.mx/actor/robbie-cleiren"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "",
+                "name": "Ghent Film Festival",
+                "slug": "ghent-film-festival",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n Voices",
+                "icon": "",
+                "name": "Festival de Rotterdam",
+                "slug": "festival-de-rotterdam",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n Orizzonti",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-toronto",
+                "name": "Festival de Toronto",
+                "slug": "festival-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "",
+                "name": "Atlantida Mallorca Film Fest",
+                "slug": "atlantida-mallorca-film-fest",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fien  Troch",
+                "gender": "f",
+                "id": 2190,
+                "slug": "fien-troch",
+                "url": "https://www.filminlatino.mx/directora/fien-troch"
+            }
+        ],
+        "duration_in_minutes": 107,
+        "excerpt": "Este filme narra una vida arriesgada impulsada\u00a0por las drogas de Kevin y sus amigos. Ganador a mejor direcci\u00f3n en el Festival de Cine de Venecia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4903,
+        "image_card": "https://static.filminlatino.mx/images/media/4903/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4903/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4903/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4903/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4903/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4903/3/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/4903/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/4903/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4903/3/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Home",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2013,
+                "name": "Prime Time",
+                "slug": "prime-time",
+                "url": "https://www.filminlatino.mx/producer/prime-time"
+            },
+            {
+                "acronym": "",
+                "id": 2014,
+                "name": "Versus Production",
+                "slug": "versus-production",
+                "url": "https://www.filminlatino.mx/producer/versus-production"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "hogar",
+        "synopsis": "Largometraje ganador a mejor direcci\u00f3n en el Festival de Cine de Venecia, \u201cHogar\u201d de Fien Troch narra la vida de Kevin, un adolescente que acaba de salir de un centro de detenci\u00f3n y se instala con sus t\u00edos, ah\u00ed conoce a los amigos de su primo Sammy y forma un v\u00ednculo peculiar con ese nuevo grupo. En este filme vemos la realidad cotidiana de una juventud que es arriesgada, sexualmente activa e impulsada por las drogas.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 167,
+                "name": "Delincuencia juvenil",
+                "slug": "delincuencia-juvenil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/delincuencia-juvenil"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 108,
+                "name": "Despertar sexual",
+                "slug": "despertar-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despertar-sexual"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 672,
+                "name": "Amistades riesgosas",
+                "slug": "amistades-riesgosas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistades-riesgosas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 95,
+                "name": "Cine de veinta\u00f1eros",
+                "slug": "cine-de-veintaneros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-veintaneros"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 203,
+                "name": "Festival de Rotterdam",
+                "slug": "festival-de-rotterdam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-rotterdam"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Hogar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/hogar",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4307,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/HOGAR.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/HOGAR/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/HOGAR/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

@@ -1,0 +1,449 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Armando Silvestre",
+                "gender": "m",
+                "id": 311,
+                "slug": "armando-silvestre",
+                "url": "https://www.filminlatino.mx/actor/armando-silvestre"
+            },
+            {
+                "full_name": "Mercedes Carre\u00f1o",
+                "gender": "f",
+                "id": 523,
+                "slug": "mercedes-carreno",
+                "url": "https://www.filminlatino.mx/actriz/mercedes-carreno"
+            },
+            {
+                "full_name": "Gregorio Casal",
+                "gender": "m",
+                "id": 606,
+                "slug": "gregorio-casal",
+                "url": "https://www.filminlatino.mx/actor/gregorio-casal"
+            },
+            {
+                "full_name": "Pilar Pellicer",
+                "gender": "f",
+                "id": 607,
+                "slug": "pilar-pellicer",
+                "url": "https://www.filminlatino.mx/actriz/pilar-pellicer"
+            },
+            {
+                "full_name": "Salvador S\u00e1nchez",
+                "gender": "m",
+                "id": 608,
+                "slug": "salvador-sanchez",
+                "url": "https://www.filminlatino.mx/actor/salvador-sanchez"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1973
+            },
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "name": " Festival Internacional de Cine de Karlovy Vary, Checoslovaquia ",
+                "slug": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "year": 1973
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1973
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emilio \"El Indio\" Fern\u00e1ndez",
+                "gender": "m",
+                "id": 89,
+                "slug": "emilio-el-indio-fernandez",
+                "url": "https://www.filminlatino.mx/director/emilio-el-indio-fernandez"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Pel\u00edcula dirigida por el actor, directo y productor Emilio \u201cEl indio Fenandez\u201d, uno de los creadores y protagonista de la \u00c9poca de Oro del Cine Mexicano.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 212,
+        "image_card": "https://static.filminlatino.mx/images/media/212/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/212/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/212/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/212/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 62,
+        "original_title": "La choca",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            },
+            {
+                "acronym": "",
+                "id": 16,
+                "name": "Estudios Churubusco Azteca S.A.",
+                "slug": "estudios-churubusco-azteca-sa",
+                "url": "https://www.filminlatino.mx/producer/estudios-churubusco-azteca-sa"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-choca",
+        "synopsis": "Un contrabandista vive alejado de la civilizaci\u00f3n, en una choza en la selva con su mujer, La Choca, su hijo y su cu\u00f1ada Flor. Mart\u00edn va dejando a su mujer y familia solos y llegan unos hombres, quienes lo acusan de haberlos traicionado y estos inician una carnicer\u00eda.",
+        "tags": [
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1219,
+                "name": "1974",
+                "slug": "1974",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1974"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1927,
+                "name": "Muestra de Cine Coahuila 2020",
+                "slug": "muestra-de-cine-coahuila-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-cine-coahuila-2020"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 1,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 266,
+                "name": "Film multipremiado",
+                "slug": "film-multipremiado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/film-multipremiado"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 147571200,
+        "theater_release_date": 147571200,
+        "theater_spectators_formatted": null,
+        "title": "La choca",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-choca",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 143,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1973
+    }
+}

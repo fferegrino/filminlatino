@@ -1,0 +1,394 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Alonso",
+                "gender": "m",
+                "id": 263,
+                "slug": "jose-alonso",
+                "url": "https://www.filminlatino.mx/actor/jose-alonso"
+            },
+            {
+                "full_name": "Germ\u00e1n Robles",
+                "gender": "m",
+                "id": 1800,
+                "slug": "german-robles",
+                "url": "https://www.filminlatino.mx/actor/german-robles"
+            },
+            {
+                "full_name": "H\u00e9ctor Ortega",
+                "gender": "m",
+                "id": 152,
+                "slug": "hector-ortega",
+                "url": "https://www.filminlatino.mx/actor/hector-ortega"
+            },
+            {
+                "full_name": "Claudette Maill\u00e9",
+                "gender": "f",
+                "id": 481,
+                "slug": "claudette-maille",
+                "url": "https://www.filminlatino.mx/actriz/claudette-maille"
+            },
+            {
+                "full_name": "Juan Carlos Colombo",
+                "gender": "m",
+                "id": 133,
+                "slug": "juan-carlos-colombo",
+                "url": "https://www.filminlatino.mx/actor/juan-carlos-colombo"
+            },
+            {
+                "full_name": "Claudio Brook",
+                "gender": "m",
+                "id": 265,
+                "slug": "claudio-brook",
+                "url": "https://www.filminlatino.mx/actor/claudio-brook"
+            },
+            {
+                "full_name": "Juli\u00e1n Pastor",
+                "gender": "m",
+                "id": 779,
+                "slug": "julian-pastor",
+                "url": "https://www.filminlatino.mx/actor/julian-pastor"
+            },
+            {
+                "full_name": "Rafael Cortes",
+                "gender": "m",
+                "id": 3576,
+                "slug": "rafael-cortes",
+                "url": "https://www.filminlatino.mx/actor/rafael-cortes"
+            },
+            {
+                "full_name": "Blanca Torres",
+                "gender": "f",
+                "id": 315,
+                "slug": "blanca-torres",
+                "url": "https://www.filminlatino.mx/actriz/blanca-torres"
+            },
+            {
+                "full_name": "Lumi Cavazos",
+                "gender": "f",
+                "id": 558,
+                "slug": "lumi-cavazos",
+                "url": "https://www.filminlatino.mx/actriz/lumi-cavazos"
+            },
+            {
+                "full_name": "Lorenzo de Rodas",
+                "gender": "m",
+                "id": 1903,
+                "slug": "lorenzo-de-rodas",
+                "url": "https://www.filminlatino.mx/actor/lorenzo-de-rodas"
+            },
+            {
+                "full_name": "Amelia Zapata",
+                "gender": "f",
+                "id": 2578,
+                "slug": "amelia-zapata",
+                "url": "https://www.filminlatino.mx/actriz/amelia-zapata"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Havana Film Festival",
+                "slug": "havana-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Canci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sergio Olhovich Greene",
+                "gender": "m",
+                "id": 103,
+                "slug": "sergio-olhovich-greene",
+                "url": "https://www.filminlatino.mx/director/sergio-olhovich-greene"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Una\u00a0pel\u00edcula considerada de culto, filmada\u00a0con formato teatral. Basada en la obra Bartolom\u00e9 de las Casas, una hoguera en el amanecer de Jaime Salom.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4899,
+        "image_card": "https://static.filminlatino.mx/images/media/4899/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4899/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4899/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/4899/3/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Bartolom\u00e9 de las Casas (La leyenda negra)",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 1865,
+                "name": "FONCA",
+                "slug": "fonca",
+                "url": "https://www.filminlatino.mx/producer/fonca"
+            },
+            {
+                "acronym": "",
+                "id": 2008,
+                "name": "M\u00e9xico Cien",
+                "slug": "mexico-cien",
+                "url": "https://www.filminlatino.mx/producer/mexico-cien"
+            },
+            {
+                "acronym": "",
+                "id": 2006,
+                "name": "Gecisa Internacional ",
+                "slug": "gecisa-internacional",
+                "url": "https://www.filminlatino.mx/producer/gecisa-internacional"
+            },
+            {
+                "acronym": "",
+                "id": 2007,
+                "name": "J.R. Cinevideo Producciones ",
+                "slug": "jr-cinevideo-producciones",
+                "url": "https://www.filminlatino.mx/producer/jr-cinevideo-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bartolome-de-las-casas-la-leyenda-negra",
+        "synopsis": "Pel\u00edcula de culto\u00a0filmada con formato teatral, basada en la obra \"Las Casas, una hoguera en el amanecer\" de Jaime Salom. Tres momentos de la vida de Fray Bartolom\u00e9 de Las Casas; su encuentro en la juventud con los ind\u00edgenas; su renuncia en la madurez a tierras y encomiendas para evangelizar; y defender la justicia y la dignidad contra la crueldad de los espa\u00f1oles.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 753,
+                "name": "Biopic_MX",
+                "slug": "biopic-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic-mx"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 127,
+                "name": "Cine religioso",
+                "slug": "cine-religioso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-religioso"
+            },
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 408,
+                "name": "Libros",
+                "slug": "libros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libros"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1062,
+                "name": "Estab/Chur/IMCINE",
+                "slug": "estabchurimcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estabchurimcine"
+            },
+            {
+                "id": 11,
+                "name": "Pel\u00edcula de culto",
+                "slug": "pelicula-de-culto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-culto"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1171,
+                "name": "1992",
+                "slug": "1992",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1992"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 2542,
+                "name": "64 FILUG",
+                "slug": "64-filug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/64-filug"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Bartolom\u00e9 de las Casas (La leyenda negra)",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bartolome-de-las-casas-la-leyenda-negra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4306,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1992
+    }
+}

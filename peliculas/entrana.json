@@ -1,0 +1,304 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rafael Amador Mart\u00ednez",
+                "gender": "m",
+                "id": 5600,
+                "slug": "rafael-amador-martinez",
+                "url": "https://www.filminlatino.mx/actor/rafael-amador-martinez"
+            },
+            {
+                "full_name": "Jos\u00e9 Pablo Coarasa",
+                "gender": "m",
+                "id": 5599,
+                "slug": "jose-pablo-coarasa",
+                "url": "https://www.filminlatino.mx/actor/jose-pablo-coarasa"
+            }
+        ],
+        "avg_votes": 5.5,
+        "avg_votes_formatted": "5,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Muestra Independiente Audiovisual Xalisco (MIAX)",
+                "slug": "muestra-independiente-audiovisual-xalisco-miax",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-mix-de-diversidad-sexual",
+                "name": " Festival Mix de Diversidad Sexual",
+                "slug": "festival-mix-de-diversidad-sexual",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jair Torres Baizabal",
+                "gender": "m",
+                "id": 2111,
+                "slug": "jair-torres-baizabal",
+                "url": "https://www.filminlatino.mx/director/jair-torres-baizabal"
+            }
+        ],
+        "duration_in_minutes": 120,
+        "excerpt": "\u00c1ngel y Pablo\u00a0son una pareja que busca ponerle fin a sus problemas pero verdades oscuras y amenazas sobrenaturales se har\u00e1n presentes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4354,
+        "image_card": "https://static.filminlatino.mx/images/media/4354/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4354/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4354/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4354/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4354/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4354/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4354/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/4354/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 39,
+        "original_title": "Entra\u00f1a",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "entrana",
+        "synopsis": "\u00c1ngel y Pablo, catalogados por ellos mismos como una pareja disfuncional, inician\u00a0un viaje hacia una caba\u00f1a en el bosque con el objetivo de poner fin a los conflictos en su relaci\u00f3n y dar el \u00faltimo adi\u00f3s a un ser querido, recientemente fallecido en ese lugar. Durante su estancia se revelar\u00e1n verdades oscuras que han estado ocult\u00e1ndose a lo largo de los a\u00f1os, mientras descubren que el lugar que los rodea est\u00e1 plagado de amenazas de una naturaleza perturbadora.",
+        "tags": [
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 751,
+                "name": "Suspense_MX",
+                "slug": "suspense-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspense-mx"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 562,
+                "name": "Sobrenatural",
+                "slug": "sobrenatural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrenatural"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 1343,
+                "name": "Especial Fetival Mix",
+                "slug": "especial-fetival-mix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fetival-mix"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Entra\u00f1a",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/entrana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3717,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ENTRANA.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ENTRANA/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ENTRANA/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Kevin  Sorbo",
+                "gender": "m",
+                "id": 4200,
+                "slug": "kevin-sorbo",
+                "url": "https://www.filminlatino.mx/actor/kevin-sorbo"
+            },
+            {
+                "full_name": "Kristy  Swanson",
+                "gender": "f",
+                "id": 4201,
+                "slug": "kristy-swanson",
+                "url": "https://www.filminlatino.mx/actriz/kristy-swanson"
+            },
+            {
+                "full_name": "John Ratzenberger",
+                "gender": "m",
+                "id": 4202,
+                "slug": "john-ratzenberger",
+                "url": "https://www.filminlatino.mx/actor/john-ratzenberger"
+            }
+        ],
+        "avg_votes": 6,
+        "avg_votes_formatted": "6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Dallas Jenkins",
+                "gender": "m",
+                "id": 1468,
+                "slug": "dallas-jenkins",
+                "url": "https://www.filminlatino.mx/director/dallas-jenkins"
+            }
+        ],
+        "duration_in_minutes": 118,
+        "excerpt": "Un accidente cambia la vida de un hombre de negocios, pues despierta convertido en un predicador.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2786,
+        "image_card": "https://static.filminlatino.mx/images/media/2786/8/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2786/8/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2786/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2786/8/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "What If...",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "que-pasaria-si",
+        "synopsis": "Ben, un hombre de finanzas recibe una carta de su ex novia, lo que le cambia la vida. Despu\u00e9s de un accidente, se despierta siendo un predicador.",
+        "tags": [
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 127,
+                "name": "Cine religioso",
+                "slug": "cine-religioso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-religioso"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00bfQu\u00e9 pasar\u00eda s\u00ed...",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/que-pasaria-si",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2175,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/que-paaria-si.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/que-paaria-si/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/que-paaria-si/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

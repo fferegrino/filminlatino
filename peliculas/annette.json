@@ -1,0 +1,288 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Adam  Driver",
+                "gender": "m",
+                "id": 3633,
+                "slug": "adam-driver",
+                "url": "https://www.filminlatino.mx/actor/adam-driver"
+            },
+            {
+                "full_name": "Marion Cotillard",
+                "gender": "f",
+                "id": 2909,
+                "slug": "marion-cotillard",
+                "url": "https://www.filminlatino.mx/actriz/marion-cotillard"
+            },
+            {
+                "full_name": "Simon Helberg",
+                "gender": "m",
+                "id": 12987,
+                "slug": "simon-helberg",
+                "url": "https://www.filminlatino.mx/actor/simon-helberg"
+            }
+        ],
+        "avg_votes": 7,
+        "avg_votes_formatted": "7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Leos Carax",
+                "gender": "m",
+                "id": 2032,
+                "slug": "leos-carax",
+                "url": "https://www.filminlatino.mx/director/leos-carax"
+            }
+        ],
+        "duration_in_minutes": 141,
+        "excerpt": "Protagonizada por Adam Driver y Marion Cotillard; \"Annette\" es una historia sobre el amor, la fama y la fortuna. Henry y Ann parecen ser la pareja\u00a0perfecta, hasta que nace Annette, su hija.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11934,
+        "image_card": "https://static.filminlatino.mx/images/media/11934/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/11934/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11934/23/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/27/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/29/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/31/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/25/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/21/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/19/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/17/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/15/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/11934/13/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Annette",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "annette",
+        "synopsis": "Annette es una historia sobre el amor, la fama y la fortuna, protagonizada por el nominado al Oscar Adam Driver y la ganadora del Oscar Marion Cotillard, quienes interpretan a una pareja aparentemente perfecta, conformada por un provocador comediante de stand-up y una cantante de \u00f3pera de renombre internacional. Ambos viven una vida glamorosa en Los \u00c1ngeles, sin embargo, cuando dan la bienvenida al mundo a su hija Annette, sus misteriosos dones cambiar\u00e1n sus vidas para siempre.",
+        "tags": [
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 626,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical"
+            },
+            {
+                "id": 749,
+                "name": "Musical_MX",
+                "slug": "musical-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical-mx"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 259,
+                "name": "Parejas en el l\u00edmite",
+                "slug": "parejas-en-el-limite",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas-en-el-limite"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Annette",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/annette",
+        "versions": [
+            {
+                "codes": [],
+                "id": 13793,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "en",
+                        "name": "English"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ANNETTE-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ANNETTE-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ANNETTE-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ANNETTE-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ANNETTE-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ANNETTE-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2021
+    }
+}

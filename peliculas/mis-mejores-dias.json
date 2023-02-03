@@ -1,0 +1,402 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mathieu Amalric",
+                "gender": "m",
+                "id": 1069,
+                "slug": "mathieu-amalric",
+                "url": "https://www.filminlatino.mx/actor/mathieu-amalric"
+            },
+            {
+                "full_name": "Lou Roy-Lecollinet",
+                "gender": "f",
+                "id": 5285,
+                "slug": "lou-roy-lecollinet",
+                "url": "https://www.filminlatino.mx/actriz/lou-roy-lecollinet"
+            },
+            {
+                "full_name": "Quentin Dolmaire",
+                "gender": "m",
+                "id": 5286,
+                "slug": "quentin-dolmaire",
+                "url": "https://www.filminlatino.mx/actor/quentin-dolmaire"
+            },
+            {
+                "full_name": "Olivier Rabourdin",
+                "gender": "m",
+                "id": 2792,
+                "slug": "olivier-rabourdin",
+                "url": "https://www.filminlatino.mx/actor/olivier-rabourdin"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a mejor guion",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Revelaci\u00f3n Femenina",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Gran Premio de la semana de la Cr\u00edtica",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Nominada a mejor guion",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor M\u00fasica Original",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Vestuario",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Revelaci\u00f3n Femenina",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor Revelaci\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "festival-de-cine-de-munich-alemania",
+                "name": "Festival de Cine de Munich, Alemania",
+                "slug": "festival-de-cine-de-munich-alemania",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Largometraje",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": null
+            },
+            {
+                "category": "Mejor direcci\u00f3n de arte ",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Pel\u00edcula extranjera",
+                "icon": "independent-spirit-awards",
+                "name": "Independent Spirit Awards",
+                "slug": "independent-spirit-awards",
+                "year": null
+            },
+            {
+                "category": "Best Picture Not Released",
+                "icon": "international-cinephile-society-awards",
+                "name": "International Cinephile Society Awards",
+                "slug": "international-cinephile-society-awards",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arnaud Desplechin",
+                "gender": "m",
+                "id": 1901,
+                "slug": "arnaud-desplechin",
+                "url": "https://www.filminlatino.mx/director/arnaud-desplechin"
+            }
+        ],
+        "duration_in_minutes": 125,
+        "excerpt": "Los recuerdos de una vida llena de encantos y desencantos, momentos m\u00e1s importantes en los gloriosos a\u00f1os de un joven y cambiaran su vida. Todos, menos uno; Esther, el centro de su vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3491,
+        "image_card": "https://static.filminlatino.mx/images/media/3491/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3491/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3491/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3491/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3491/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3491/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3491/4/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Trois souvenirs de ma jeunesse",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mis-mejores-dias",
+        "synopsis": "Los recuerdos de una vida llena de encantos y desencantos. Paul prepara su salida de Tayikist\u00e1n, mientras a su mente llegan aquellos momentos como: los ataques de locura de su madre, el lazo que lo un\u00eda con su hermano Iv\u00e1n. Su adolescencia y las dificultades con\u00a0su padre, el viudo inconsolable, su viaje a la URSS donde una misi\u00f3n clandestina le llev\u00f3 a ofrecer su propia identidad a un joven ruso. Sobre todo, Paul recuerda a Esther. Ella era el centro de su vida, en pocas palabras, un coraz\u00f3n fan\u00e1tico.",
+        "tags": [
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 970,
+                "name": "Recomendadas de Andrea Rend\u00f3n ",
+                "slug": "recomendadas-de-andrea-rendon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-andrea-rendon"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 1873,
+                "name": "Cine Club UG",
+                "slug": "cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-club-ug"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mis mejores d\u00edas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mis-mejores-dias",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2838,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MIS-MEJORES-DIAS.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MIS-MEJORES-DIAS/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MIS-MEJORES-DIAS/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Hot Docs",
+                "slug": "hot-docs",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Ethnocineca",
+                "slug": "ethnocineca",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "idfa",
+                "name": "IDFA",
+                "slug": "idfa",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": " Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Tamara Villasmil",
+                "gender": "f",
+                "id": 1641,
+                "slug": "tamara-villasmil",
+                "url": "https://www.filminlatino.mx/character/tamara-villasmil"
+            },
+            {
+                "full_name": "Natalie S\u00e1nchez",
+                "gender": "f",
+                "id": 1642,
+                "slug": "natalie-sanchez",
+                "url": "https://www.filminlatino.mx/character/natalie-sanchez"
+            },
+            {
+                "full_name": "Yohanny Navarro Pi\u00f1eiro",
+                "gender": "f",
+                "id": 1643,
+                "slug": "yohanny-navarro-pineiro",
+                "url": "https://www.filminlatino.mx/character/yohanny-navarro-pineiro"
+            }
+        ],
+        "countries": [
+            {
+                "id": 237,
+                "name": "Venezuela",
+                "slug": "venezuela",
+                "url": "https://www.filminlatino.mx/catalogo/pais/venezuela"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Anabel Rodr\u00edguez R\u00edos ",
+                "gender": "f",
+                "id": 5004,
+                "slug": "anabel-rodriguez-rios",
+                "url": "https://www.filminlatino.mx/directora/anabel-rodriguez-rios"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "Un pueblo pr\u00f3spero llamado Congo Mirador se encuentra al borde de desaparecer porque se est\u00e1 sedimentando y la gente pone sus esperanzas en las pr\u00f3ximas elecciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8699,
+        "image_card": "https://static.filminlatino.mx/images/media/8699/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8699/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8699/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/8699/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/8699/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/8699/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/8699/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/8699/2/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 15,
+        "original_title": "\u00c9rase una vez en Venezuela",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "erase-una-vez-en-venezuela",
+        "synopsis": "Bajo el rela\u0301mpago silente del Catatumbo, hay un pueblo de agua llamado Congo Mirador, al sur del Lago de Maracaibo, el mayor yacimiento de petro\u0301leo en Venezuela. Alli\u0301, la gente se prepara para elecciones parlamentarias. Para la li\u0301der chavista del pueblo, Tamara, cada voto cuenta y hace todo para obtenerlos. Para Natalie, ti\u0301midamente de oposicio\u0301n, la poli\u0301tica es un arma para sacarla de su trabajo de maestra. Mientras la pequen\u0303a Yoaini, ve co\u0301mo su comunidad se enloda en la creciente sedimentacio\u0301n y asi\u0301 como su nin\u0303ez se disuelven. \u00bfCo\u0301mo un pueblito de pescadores puede sobrevivir a la corrupcio\u0301n, la contaminacio\u0301n y la devastacio\u0301n poli\u0301tica?",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 697,
+                "name": "Contaminaci\u00f3n",
+                "slug": "contaminacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/contaminacion"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 1496,
+                "name": "Abuso de poder",
+                "slug": "abuso-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuso-de-poder"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1082,
+                "name": "LATAM",
+                "slug": "latam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latam"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2152,
+                "name": "6 a\u00f1os de FilminLatino",
+                "slug": "6-anos-de-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/6-anos-de-filminlatino"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 80,
+                "name": "Pel\u00edculas sobre revoluciones",
+                "slug": "peliculas-sobre-revoluciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-sobre-revoluciones"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00c9rase una vez en Venezuela",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/erase-una-vez-en-venezuela",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 9879,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ERASE-EN-VENEZUELA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ERASE-EN-VENEZUELA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ERASE-EN-VENEZUELA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ERASE-EN-VENEZUELA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ERASE-EN-VENEZUELA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ERASE-EN-VENEZUELA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

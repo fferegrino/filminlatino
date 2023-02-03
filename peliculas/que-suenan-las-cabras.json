@@ -1,0 +1,268 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jorge Prior",
+                "gender": "m",
+                "id": 179,
+                "slug": "jorge-prior",
+                "url": "https://www.filminlatino.mx/director/jorge-prior"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Un documental lleno de color en el que nos asomamos a un mundo donde la relaci\u00f3n con la naturaleza es directa, obligada y respetuosa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 201,
+        "image_card": "https://static.filminlatino.mx/images/media/201/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/201/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/201/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/201/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/201/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/201/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/201/12/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "\u00bfQu\u00e9 sue\u00f1an las cabras?",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 123,
+                "name": "Producciones Volc\u00e1n",
+                "slug": "producciones-volcan",
+                "url": "https://www.filminlatino.mx/producer/producciones-volcan"
+            },
+            {
+                "acronym": "",
+                "id": 124,
+                "name": "TV UNAM",
+                "slug": "tv-unam",
+                "url": "https://www.filminlatino.mx/producer/tv-unam"
+            },
+            {
+                "acronym": "",
+                "id": 125,
+                "name": "Gobierno del Estado de Oaxaca",
+                "slug": "gobierno-del-estado-de-oaxaca",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-oaxaca"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "que-suenan-las-cabras",
+        "synopsis": "Pel\u00edcula sobre la vida volante de los pastores de la Mixteca en Oaxaca, que llevan una vida n\u00f3mada y solitaria en el monte conviviendo con las cabras, hasta que llega la matanza del ganado cabr\u00edo que ocurre cada a\u00f1o. Una tradici\u00f3n que tiene m\u00e1s de cuatrocientos a\u00f1os en la regi\u00f3n. Familias enteras participan en la matanza y la preparaci\u00f3n de la carne de las cabras, y en el aprovechamiento de pieles, cuernos, y v\u00edsceras. La pel\u00edcula es, sobre todo, una reflexi\u00f3n sobre la vida y la muerte en la Mixteca, los protagonistas nos hablan de ello y sus pasiones. Est\u00e1n presentes las tradiciones y la m\u00fasica de la regi\u00f3n a trav\u00e9s de la Orquesta Pasatono, la voz de Lila Downs y un campesino que se pregunta: \u00bfQu\u00e9 sue\u00f1an las cabras?",
+        "tags": [
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 430,
+                "name": "Ecolog\u00eda",
+                "slug": "ecologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ecologia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1133,
+                "name": "Eco friendly",
+                "slug": "eco-friendly",
+                "url": "https://www.filminlatino.mx/catalogo/tema/eco-friendly"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 1153,
+                "name": "Vida salvaje",
+                "slug": "vida-salvaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-salvaje"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1330732800,
+        "theater_release_date": 1330732800,
+        "theater_spectators_formatted": null,
+        "title": "\u00bfQu\u00e9 sue\u00f1an las cabras?",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/que-suenan-las-cabras",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 200,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cabras.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cabras/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cabras/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

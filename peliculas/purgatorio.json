@@ -1,0 +1,468 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Ana Claudia Talanc\u00f3n",
+                "gender": "f",
+                "id": 1863,
+                "slug": "ana-claudia-talancon",
+                "url": "https://www.filminlatino.mx/actriz/ana-claudia-talancon"
+            },
+            {
+                "full_name": "Miguel Rodarte",
+                "gender": "m",
+                "id": 1845,
+                "slug": "miguel-rodarte",
+                "url": "https://www.filminlatino.mx/actor/miguel-rodarte"
+            },
+            {
+                "full_name": "Dolores Heredia",
+                "gender": "f",
+                "id": 917,
+                "slug": "dolores-heredia",
+                "url": "https://www.filminlatino.mx/actriz/dolores-heredia"
+            },
+            {
+                "full_name": "Justo Mart\u00ednez",
+                "gender": "m",
+                "id": 141,
+                "slug": "justo-martinez",
+                "url": "https://www.filminlatino.mx/actor/justo-martinez"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-kerala-india",
+                "name": "Festival Internacional de Cine de Kerala, India",
+                "slug": "festival-internacional-de-cine-de-kerala-india",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-chicago",
+                "name": "Festival Internacional de Cine de Chicago",
+                "slug": "festival-internacional-de-cine-de-chicago",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Taipei Film Festival",
+                "slug": "taipei-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Tiburon International Film Festival",
+                "slug": "tiburon-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Muestra de Cine Latinoamericano de Catalu\u00f1a, Espa\u00f1a",
+                "slug": "muestra-de-cine-latinoamericano-de-cataluna-espana",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Ankara International Film Festival",
+                "slug": "ankara-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-latino-de-los-angeles-eua",
+                "name": "Festival Internacional de Cine Latino de Los \u00c1ngeles, EUA",
+                "slug": "festival-internacional-de-cine-latino-de-los-angeles-eua",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-rotterdam-holanda",
+                "name": "Festival Internacional de Cine de Rotterdam, Holanda ",
+                "slug": "festival-internacional-de-cine-de-rotterdam-holanda",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "name": "Festival Internacional de Cine de S\u00e3o Paulo, Brasil",
+                "slug": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-latinoamericano-de-biarritz-francia",
+                "name": "Festival de Cine Latinoamericano de Biarritz, Francia",
+                "slug": "festival-de-cine-latinoamericano-de-biarritz-francia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "international-film-festival-cine-las-americas",
+                "name": "International Film Festival Cine Las Americas",
+                "slug": "international-film-festival-cine-las-americas",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-santa-barbara",
+                "name": "Festival Internacional de Cine de Santa B\u00e1rbara ",
+                "slug": "festival-internacional-de-cine-de-santa-barbara",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-tribeca",
+                "name": "Festival de Tribeca",
+                "slug": "festival-de-tribeca",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Roberto Roch\u00edn",
+                "gender": "m",
+                "id": 344,
+                "slug": "roberto-rochin",
+                "url": "https://www.filminlatino.mx/director/roberto-rochin"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Cinta basada en tres relatos del escritor mexicano Juan Rulfo, quien penetra en los misterios y hendiduras del M\u00e9xico rural de los a\u00f1os cincuenta en su transici\u00f3n hacia la modernidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3916,
+        "image_card": "https://static.filminlatino.mx/images/media/3916/9/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3916/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3916/4/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3916/4/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3916/4/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3916/4/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/3916/5/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 31,
+        "original_title": "Purgatorio",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 1892,
+                "name": "Roca Motion Control",
+                "slug": "roca-motion-control",
+                "url": "https://www.filminlatino.mx/producer/roca-motion-control"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "purgatorio",
+        "synopsis": "Cinta basada en tres relatos del escritor Juan Rulfo,\u00a0quien penetra en los misterios y hendiduras del M\u00e9xico rural de los a\u00f1os cincuenta en su transici\u00f3n hacia la modernidad.\u00a0En este largometraje que form\u00f3 parte de la selecci\u00f3n oficial del Festival de Berl\u00edn se abordan las historias de\u00a0Bonfilio, quien encarga a su familia con su padre para irse al norte a buscar fortuna; y la de una prostituta y Demetrio, un sepulturero, que se encuentran una noche en la que el amor solo ser\u00e1 completo cuando Demetrio la entierre.",
+        "tags": [
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 127,
+                "name": "Cine religioso",
+                "slug": "cine-religioso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-religioso"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 616,
+                "name": "Juan Rulfo",
+                "slug": "juan-rulfo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juan-rulfo"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 836,
+                "name": "6\u00b0 FICM",
+                "slug": "60-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/60-ficm"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 260,
+                "name": "Cine cl\u00e1sico mexicano",
+                "slug": "cine-clasico-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mexicano"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 325,
+                "name": "Literatura",
+                "slug": "literatura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/literatura"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1299,
+                "name": "Mitos",
+                "slug": "mitos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mitos"
+            },
+            {
+                "id": 795,
+                "name": "Leyendas Mexicanas",
+                "slug": "leyendas-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leyendas-mexicanas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Purgatorio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/purgatorio",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3246,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/PURGATORIO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/PURGATORIO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/PURGATORIO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

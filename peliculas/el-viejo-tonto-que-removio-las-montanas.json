@@ -1,0 +1,172 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 48,
+                "name": "China",
+                "slug": "china",
+                "url": "https://www.filminlatino.mx/catalogo/pais/china"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ant\u00f3n Calder\u00f3n",
+                "gender": "m",
+                "id": 1775,
+                "slug": "anton-calderon",
+                "url": "https://www.filminlatino.mx/director/anton-calderon"
+            },
+            {
+                "full_name": "Diego Torres",
+                "gender": "m",
+                "id": 1776,
+                "slug": "diego-torres",
+                "url": "https://www.filminlatino.mx/director/diego-torres"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "La sociedad civil siempre es limitada, a menudo saboteada y a veces violentamente aplastada por un sistema que prioriza su propia supervivencia sobre cualquier otra cosa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3343,
+        "image_card": "https://static.filminlatino.mx/images/media/3343/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3343/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3343/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3343/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3343/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3343/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3343/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "The foolish old man",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-viejo-tonto-que-removio-las-montanas",
+        "synopsis": "La pel\u00edcula aborda la compleja relaci\u00f3n con el gobierno en Beijing y las diferentes, a veces contradictorias, v\u00edas de acci\u00f3n que eligen tomar: desde aquellos que confrontan al gobierno hasta aquellos que creen que evitar el conflicto puede dar m\u00e1s frutos. 'The Foolish Old Man' cuenta la historia de cuatro activistas sociales en China: un defensor de la pobreza (Deng Fei), un activista medioambiental (Dashi), un organizador laboral (Zhang Zhiru) y un disidente prodemocr\u00e1tico (Hu Jia). Desaf\u00eda el prejuicio generalizado de que ning\u00fan ciudadano puede hacer que su voz se escuche bajo el gobierno del Partido Comunista. La sociedad civil existe en China. Muchas personas luchan por un pa\u00eds mejor y su trabajo ha logrado avances en algunas \u00e1reas.",
+        "tags": [
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 518,
+                "name": "China",
+                "slug": "china",
+                "url": "https://www.filminlatino.mx/catalogo/tema/china"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1110,
+                "name": "Salon Indien Films",
+                "slug": "salon-indien-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/salon-indien-films"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El viejo tonto que removi\u00f3 las monta\u00f1as",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-viejo-tonto-que-removio-las-montanas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2688,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

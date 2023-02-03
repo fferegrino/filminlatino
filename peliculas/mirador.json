@@ -1,0 +1,194 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Pablo Zelis",
+                "gender": "m",
+                "id": 1597,
+                "slug": "pablo-zelis",
+                "url": "https://www.filminlatino.mx/character/pablo-zelis"
+            },
+            {
+                "full_name": "Valeria  Costa",
+                "gender": "f",
+                "id": 1598,
+                "slug": "valeria-costa",
+                "url": "https://www.filminlatino.mx/character/valeria-costa"
+            },
+            {
+                "full_name": "\u00d3scar Fern\u00e1ndez",
+                "gender": "m",
+                "id": 1599,
+                "slug": "oscar-fernandez",
+                "url": "https://www.filminlatino.mx/character/oscar-fernandez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 233,
+                "name": "Uruguay",
+                "slug": "uruguay",
+                "url": "https://www.filminlatino.mx/catalogo/pais/uruguay"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ant\u00f3n  Terni",
+                "gender": "m",
+                "id": 4052,
+                "slug": "anton-terni",
+                "url": "https://www.filminlatino.mx/director/anton-terni"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Una pel\u00edcula po\u00e9tica sobre la amistad a trav\u00e9s de los sentidos, el valor del compa\u00f1erismo y peque\u00f1os momentos de intensa felicidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8617,
+        "image_card": "https://static.filminlatino.mx/images/media/8617/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/8617/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8617/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/8617/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/8617/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/8617/2/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Mirador",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mirador",
+        "synopsis": "Pablo, de 34 a\u00f1os, es ciego y vive solo en Bello Horizonte, un pueblo costero cercano a Montevideo. En su viejo casetero escucha grabaciones cotidianas donde revive sus historias mientras prepara licores caseros. Oscar y Valeria son sus amigos, tambi\u00e9n ciegos, con los que se va de campamento al mar y trasnocha en un concierto de rock. Juntos nos transportan a un mundo sensorial que trasciende la imagen.<br>",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 49,
+                "name": "Discapacidades",
+                "slug": "discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/discapacidades"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 264,
+                "name": "Poes\u00eda",
+                "slug": "poesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poesia"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1759,
+                "name": "Iztapalapa | Promotores Culturales Comunitarios",
+                "slug": "iztapalapa-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iztapalapa-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 765,
+                "name": "Blue Monday",
+                "slug": "blue-monday",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blue-monday"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mirador",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mirador",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 9697,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

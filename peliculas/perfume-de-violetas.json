@@ -1,0 +1,733 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Arcelia Ram\u00edrez",
+                "gender": "f",
+                "id": 117,
+                "slug": "arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-ramirez"
+            },
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            },
+            {
+                "full_name": "Ximena Ayala",
+                "gender": "f",
+                "id": 971,
+                "slug": "ximena-ayala",
+                "url": "https://www.filminlatino.mx/actriz/ximena-ayala"
+            },
+            {
+                "full_name": "Nancy Guti\u00e9rrez",
+                "gender": "f",
+                "id": 972,
+                "slug": "nancy-gutierrez",
+                "url": "https://www.filminlatino.mx/actriz/nancy-gutierrez"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Premio del Centro Martin Luther King",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz, Bolivia ",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2000
+            },
+            {
+                "category": "Premio a la actriz revelaci\u00f3n",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Gui\u00f3n Original",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2000
+            },
+            {
+                "category": "Mayahuel a Mejor actriz ",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2000
+            },
+            {
+                "category": "Diosa de Plata Dolores del R\u00edo",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2000
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-valdivia-chile",
+                "name": "Festival Internacional de Cine de Valdivia, Chile ",
+                "slug": "festival-internacional-de-cine-de-valdivia-chile",
+                "year": 2000
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premio-tatu-tumpa",
+                "name": "Premio Tat\u00fa-Tumpa ",
+                "slug": "premio-tatu-tumpa",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Pel\u00edcula de Contenido ",
+                "icon": "premios-bravo",
+                "name": "Premios Bravo",
+                "slug": "premios-bravo",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-bravo",
+                "name": "Premios Bravo",
+                "slug": "premios-bravo",
+                "year": 2000
+            },
+            {
+                "category": "Premio de la Cr\u00edtica Internacional",
+                "icon": "festival-de-lima-encuentro-latinoamericano-de-cine",
+                "name": "Festival de Lima - Encuentro Latinoamericano de Cine",
+                "slug": "festival-de-lima-encuentro-latinoamericano-de-cine",
+                "year": 2000
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "name": " Festival Internacional de Cine de Karlovy Vary, Checoslovaquia ",
+                "slug": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "year": 2000
+            },
+            {
+                "category": "Premio de la Asociaci\u00f3n de Festivales de Cine Iberoamericanos",
+                "icon": "festival-iberoamericano-de-cine-y-video-de-rio-de-janeiro-cinesul",
+                "name": "Festival Iberoamericano de Cine y V\u00eddeo de R\u00edo de Janeiro Cinesul",
+                "slug": "festival-iberoamericano-de-cine-y-video-de-rio-de-janeiro-cinesul",
+                "year": 2000
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "premio-coral",
+                "name": "Premio Coral",
+                "slug": "premio-coral",
+                "year": 2000
+            },
+            {
+                "category": "Mejor director",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 2000
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premio-de-la-critica-nacional",
+                "name": "Premio de la cr\u00edtica nacional",
+                "slug": "premio-de-la-critica-nacional",
+                "year": 2000
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor pel\u00edcula hispanoamericana",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Maryse Sistach",
+                "gender": "f",
+                "id": 98,
+                "slug": "maryse-sistach",
+                "url": "https://www.filminlatino.mx/directora/maryse-sistach"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Es una pel\u00edcula ruda, llena de verdades que pasan a la vuelta de la esquina.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 399,
+        "image_card": "https://static.filminlatino.mx/images/media/399/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/399/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/399/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/399/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/399/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/399/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/399/4/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 328,
+        "original_title": "Perfume de violetas (Nadie te oye)",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 19,
+                "name": "Filmoteca UNAM ",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/producer/filmoteca-unam"
+            },
+            {
+                "acronym": "",
+                "id": 40,
+                "name": "Hubert Bals Fund",
+                "slug": "hubert-bals-fund",
+                "url": "https://www.filminlatino.mx/producer/hubert-bals-fund"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 145,
+                "name": "Producciones Tragaluz S.A. de C.V.",
+                "slug": "producciones-tragaluz-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/producciones-tragaluz-sa-de-cv"
+            },
+            {
+                "acronym": "",
+                "id": 150,
+                "name": "Fundaci\u00f3n John S. Guggenheim",
+                "slug": "fundacion-john-s-guggenheim",
+                "url": "https://www.filminlatino.mx/producer/fundacion-john-s-guggenheim"
+            },
+            {
+                "acronym": "",
+                "id": 329,
+                "name": "Palmera Films",
+                "slug": "palmera-films",
+                "url": "https://www.filminlatino.mx/producer/palmera-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "perfume-de-violetas",
+        "synopsis": "Cuenta la historia ver\u00eddica de Y\u00e9ssica y Miriam, adolescentes de la Ciudad de M\u00e9xico que registraron una amistad profunda en la secundaria p\u00fablica. Las amigas incluidas cuadernos, juegos, gustos, maquillajes y perfumes; hasta que Jorge y El Topi, violentos c\u00f3mplices, secuestran a Y\u00e9ssica. La indiferencia y el ego\u00edsmo de los adultos rompen la amistad de las j\u00f3venescitas y las orillan a la tragedia.",
+        "tags": [
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 167,
+                "name": "Delincuencia juvenil",
+                "slug": "delincuencia-juvenil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/delincuencia-juvenil"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 804,
+                "name": "En el aula",
+                "slug": "en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-aula"
+            },
+            {
+                "id": 818,
+                "name": "Otras chicas pesadas",
+                "slug": "otras-chicas-pesadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-chicas-pesadas"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 854,
+                "name": "Cintas de Arcelia Ram\u00edrez",
+                "slug": "cintas-de-arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cintas-de-arcelia-ramirez"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 914,
+                "name": "M\u00e9xico cerca del Oscar",
+                "slug": "mexico-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-cerca-del-oscar"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 935,
+                "name": "Actrices imprescindibles",
+                "slug": "actrices-imprescindibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actrices-imprescindibles"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1199,
+                "name": "2001",
+                "slug": "2001",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2001"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 1362,
+                "name": "Mejor Dise\u00f1o de Arte Ariel",
+                "slug": "mejor-diseno-de-arte-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-diseno-de-arte-ariel"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 1564,
+                "name": "Cine a la carta | DNCM",
+                "slug": "cine-a-la-carta-dncm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-a-la-carta-dncm"
+            },
+            {
+                "id": 1533,
+                "name": "Las m\u00e1s vistas 2020",
+                "slug": "las-mas-vistas-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2020"
+            },
+            {
+                "id": 1885,
+                "name": "16 d\u00edas de activismo",
+                "slug": "16-dias-de-activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2013,
+                "name": "Muestra El cine transformado por nosotras",
+                "slug": "muestra-el-cine-transformado-por-nosotras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-el-cine-transformado-por-nosotras"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2525,
+                "name": "Aclamadas por la cr\u00edtica",
+                "slug": "aclamadas-por-la-critica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aclamadas-por-la-critica"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 984268800,
+        "theater_release_date": 984268800,
+        "theater_spectators_formatted": null,
+        "title": "Perfume de violetas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/perfume-de-violetas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 665,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/perfume-de-violetas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/perfume-de-violetas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/perfume-de-violetas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2000
+    }
+}

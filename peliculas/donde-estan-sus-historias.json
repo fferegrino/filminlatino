@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gabino Rodr\u00edguez",
+                "gender": "m",
+                "id": 492,
+                "slug": "gabino-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/gabino-rodriguez"
+            },
+            {
+                "full_name": "Juana Rodr\u00edguez",
+                "gender": "f",
+                "id": 1019,
+                "slug": "juana-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/juana-rodriguez"
+            },
+            {
+                "full_name": "Teresa Rodr\u00edguez",
+                "gender": "f",
+                "id": 3016,
+                "slug": "teresa-rodriguez",
+                "url": "https://www.filminlatino.mx/actriz/teresa-rodriguez"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula de la Competencia Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2007
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": 2007
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nicol\u00e1s Pereda",
+                "gender": "m",
+                "id": 207,
+                "slug": "nicolas-pereda",
+                "url": "https://www.filminlatino.mx/director/nicolas-pereda"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "\u00d3pera prima de Nicol\u00e1s Pereda que exalta las problem\u00e1ticas del gobierno mexicano ante la impunidad de la clase obrera-campesina.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1819,
+        "image_card": "https://static.filminlatino.mx/images/media/1819/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1819/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1819/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1819/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1819/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1819/2/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "\u00bfD\u00f3nde est\u00e1n sus historias?",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1238,
+                "name": "En Chinga Films",
+                "slug": "en-chinga-films",
+                "url": "https://www.filminlatino.mx/producer/en-chinga-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "donde-estan-sus-historias",
+        "synopsis": "Cuenta la historia de Vicente, un joven granjero que vive con su abuela en un peque\u00f1o pueblo en M\u00e9xico. Cuando sus t\u00edos regresan de Estados Unidos y amenazan con vender el terreno de la abuela, Vicente viaja a la Ciudad de M\u00e9xico en busca de justicia. All\u00ed se queda con su madre, a quien no ha visto desde ni\u00f1o y quien trabaja como empleada dom\u00e9stica en un hogar de clase media. Forzado a vivir en un entorno ajeno, Vicente debe enfrentar la realidad de no saber nada acerca de su madre, mientras batalla por su cuenta con un sistema de justicia que parece impenetrable.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 835,
+                "name": "5\u00b0 FICM",
+                "slug": "50-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-ficm"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1247,
+                "name": "2007",
+                "slug": "2007",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2007"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2576,
+                "name": "Retrospectiva Nicol\u00e1s Pereda",
+                "slug": "retrospectiva-nicolas-pereda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-nicolas-pereda"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1187049600,
+        "theater_release_date": 1187049600,
+        "theater_spectators_formatted": null,
+        "title": "\u00bfD\u00f3nde est\u00e1n sus historias?",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/donde-estan-sus-historias",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1392,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2007
+    }
+}

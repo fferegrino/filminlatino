@@ -1,0 +1,271 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Silvia Pinal",
+                "gender": "f",
+                "id": 307,
+                "slug": "silvia-pinal",
+                "url": "https://www.filminlatino.mx/actriz/silvia-pinal"
+            },
+            {
+                "full_name": "Ra\u00fal Araiza",
+                "gender": "m",
+                "id": 628,
+                "slug": "raul-araiza",
+                "url": "https://www.filminlatino.mx/actor/raul-araiza"
+            },
+            {
+                "full_name": "Alonso Ech\u00e1nove",
+                "gender": "m",
+                "id": 629,
+                "slug": "alonso-echanove",
+                "url": "https://www.filminlatino.mx/actor/alonso-echanove"
+            },
+            {
+                "full_name": "Stephanie Salas",
+                "gender": "f",
+                "id": 630,
+                "slug": "stephanie-salas",
+                "url": "https://www.filminlatino.mx/actriz/stephanie-salas"
+            }
+        ],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ra\u00fal Araiza",
+                "gender": "m",
+                "id": 123,
+                "slug": "raul-araiza",
+                "url": "https://www.filminlatino.mx/director/raul-araiza"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "A bordo de un autom\u00f3vil, una mujer inicia un recorrido por la Ciudad de M\u00e9xico para encontrarse con sus memorias del pasado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 221,
+        "image_card": "https://static.filminlatino.mx/images/media/221/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/221/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/221/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/221/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/221/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Modelo antiguo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 151,
+                "name": "Aries Films",
+                "slug": "aries-films",
+                "url": "https://www.filminlatino.mx/producer/aries-films"
+            },
+            {
+                "acronym": "",
+                "id": 152,
+                "name": "Tabasco Films",
+                "slug": "tabasco-films",
+                "url": "https://www.filminlatino.mx/producer/tabasco-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "modelo-antiguo",
+        "synopsis": "Al enterarse de que se encuentra desahuciada, una conductora de radio contrata a un chofer para que a bordo de su autom\u00f3vil inicie un recorrido por la ciudad y reviva su pasado.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 371,
+                "name": "Autos ",
+                "slug": "autos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/autos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1171,
+                "name": "1992",
+                "slug": "1992",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1992"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1212,
+                "name": "Tlaxcala",
+                "slug": "tlaxcala",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tlaxcala"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 715564800,
+        "theater_release_date": 715564800,
+        "theater_spectators_formatted": null,
+        "title": "Modelo antiguo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/modelo-antiguo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 75,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/modelo-antiguo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/modelo-antiguo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/modelo-antiguo/master.m3u8"
+                }
+            ]
+        },
+        "year": 1992
+    }
+}

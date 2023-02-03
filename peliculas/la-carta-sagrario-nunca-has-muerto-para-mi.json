@@ -1,0 +1,248 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Bonilla",
+                "gender": "m",
+                "id": 188,
+                "slug": "rafael-bonilla",
+                "url": "https://www.filminlatino.mx/director/rafael-bonilla"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "La pel\u00edcula documenta la vida y los esfuerzos de Paula Flores en su lucha por la justicia en nombre de su hija y otras mujeres asesinadas y desaparecidas en Ciudad Ju\u00e1rez.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 210,
+        "image_card": "https://static.filminlatino.mx/images/media/210/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/210/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/210/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/210/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/210/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "La carta: Sagrario, nunca has muerto para m\u00ed",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 140,
+                "name": "Huapanguero Volador Films",
+                "slug": "huapanguero-volador-films",
+                "url": "https://www.filminlatino.mx/producer/huapanguero-volador-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-carta-sagrario-nunca-has-muerto-para-mi",
+        "synopsis": "Ella vino de El Salto, Durango, a Lomas de Poleo en Ciudad Ju\u00e1rez, la frontera m\u00e1s violenta de M\u00e9xico y Estados Unidos. Paula Flores escribe cartas y nos cuenta su vida: el secuestro y asesinato de su hija Mar\u00eda Sagrario; la b\u00fasqueda de los asesinos y las acciones contra el feminicidio; la lucha por la tierra en El Poleo, en donde hay, en su parte alta, un campo de concentraci\u00f3n;\u00a0 el suicidio de Chuy, su marido. Pese a todo, Paula es activista por los derechos humanos contra la impunidad y el miedo, en favor de la paz, con sus ni\u00f1os de Lomas y para el mundo.",
+        "tags": [
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 293,
+                "name": "Feminicidio",
+                "slug": "feminicidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminicidio"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 2527,
+                "name": "Mi resistencia es femenina",
+                "slug": "mi-resistencia-es-femenina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mi-resistencia-es-femenina"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1239148800,
+        "theater_release_date": 1239148800,
+        "theater_spectators_formatted": null,
+        "title": "La carta: Sagrario, nunca has muerto para m\u00ed",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-carta-sagrario-nunca-has-muerto-para-mi",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 205,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

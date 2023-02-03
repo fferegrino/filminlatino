@@ -1,0 +1,379 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-ann-arbor",
+                "name": "Festival de Cine Ann Arbor",
+                "slug": "festival-de-cine-ann-arbor",
+                "year": 2013
+            },
+            {
+                "category": "Premio Zapata Documental Mexicano",
+                "icon": "",
+                "name": "Festival de la Memoria Documental Iberoamericano",
+                "slug": "festival-de-la-memoria-documental-iberoamericano",
+                "year": 2013
+            },
+            {
+                "category": "Mejor propuesta de animaci\u00f3n",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sandra Rozental",
+                "gender": "f",
+                "id": 363,
+                "slug": "sandra-rozental",
+                "url": "https://www.filminlatino.mx/directora/sandra-rozental"
+            },
+            {
+                "full_name": "Jesse Lerner",
+                "gender": "m",
+                "id": 364,
+                "slug": "jesse-lerner",
+                "url": "https://www.filminlatino.mx/director/jesse-lerner"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "La historia de Tl\u00e1loc, en un documental que a trav\u00e9s de animaci\u00f3n, material de archivo y filmaci\u00f3n explora la relevancia de las ruinas del pasado en el presente.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 387,
+        "image_card": "https://static.filminlatino.mx/images/media/387/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/387/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/387/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/387/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/387/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/387/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "La piedra ausente",
+        "producers": [
+            {
+                "acronym": "INAH",
+                "id": 60,
+                "name": "INAH",
+                "slug": "inah",
+                "url": "https://www.filminlatino.mx/producer/inah"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 316,
+                "name": "El Egipto Americano, S.A.",
+                "slug": "el-egipto-americano-sa",
+                "url": "https://www.filminlatino.mx/producer/el-egipto-americano-sa"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-piedra-ausente",
+        "synopsis": "En 1964, un enorme monolito prehisp\u00e1nico fue trasladado desde el pueblo de Coatlinch\u00e1n, Texcoco, hasta el Museo Nacional de Antropolog\u00eda. Esta extracci\u00f3n deton\u00f3 una rebeli\u00f3n entre los habitantes del pueblo y la consecuente intervenci\u00f3n del ej\u00e9rcito. Hoy en d\u00eda, la estatua es un monumento urbano y uno de los principales \u00edconos de la identidad nacional. Mientras, la piedra ausente permanece en Coatlinch\u00e1n en los recuerdos de sus habitantes y en un sinn\u00famero de r\u00e9plicas. Recurriendo a animaciones, material de archivo y filmaciones actuales, este documental explora la relevancia de las ruinas del pasado en el presente.",
+        "tags": [
+            {
+                "id": 205,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 370,
+                "name": "Rebeld\u00eda",
+                "slug": "rebeldia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rebeldia"
+            },
+            {
+                "id": 463,
+                "name": "Antiguas civilizaciones",
+                "slug": "antiguas-civilizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiguas-civilizaciones"
+            },
+            {
+                "id": 406,
+                "name": "Arqueolog\u00eda",
+                "slug": "arqueologia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arqueologia"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1129,
+                "name": "Reality",
+                "slug": "reality",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reality"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2329,
+                "name": "Oaxaca Cine | 10 aniversario",
+                "slug": "oaxaca-cine-10-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca-cine-10-aniversario"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1362096000,
+        "theater_release_date": 1362096000,
+        "theater_spectators_formatted": null,
+        "title": "La piedra ausente",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-piedra-ausente",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 371,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/OAXACACINE10-Cortinilla.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/OAXACACINE10-Cortinilla/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/OAXACACINE10-Cortinilla/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-piedra-ausente.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-piedra-ausente/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-piedra-ausente/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

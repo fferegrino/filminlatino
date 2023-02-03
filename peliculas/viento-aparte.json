@@ -1,0 +1,302 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Balandra",
+                "gender": "m",
+                "id": 1236,
+                "slug": "mario-balandra",
+                "url": "https://www.filminlatino.mx/actor/mario-balandra"
+            },
+            {
+                "full_name": "Valentina Buzzurro",
+                "gender": "f",
+                "id": 1237,
+                "slug": "valentina-buzzurro",
+                "url": "https://www.filminlatino.mx/actriz/valentina-buzzurro"
+            },
+            {
+                "full_name": "Margarita Chavarr\u00eda",
+                "gender": "f",
+                "id": 1238,
+                "slug": "margarita-chavarria",
+                "url": "https://www.filminlatino.mx/actriz/margarita-chavarria"
+            },
+            {
+                "full_name": "Sebasti\u00e1n Cobos",
+                "gender": "m",
+                "id": 1239,
+                "slug": "sebastian-cobos",
+                "url": "https://www.filminlatino.mx/actor/sebastian-cobos"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Gerber Bicecci",
+                "gender": "m",
+                "id": 378,
+                "slug": "alejandro-gerber-bicecci",
+                "url": "https://www.filminlatino.mx/director/alejandro-gerber-bicecci"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "Dos hermanos iniciar\u00e1n un viaje en el que se encontrar\u00e1n con la violencia e inseguridad que azotan a M\u00e9xico en la actualidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 306,
+        "image_card": "https://static.filminlatino.mx/images/media/306/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/306/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/306/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/306/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/306/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/306/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/306/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 37,
+        "original_title": "Viento aparte",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 334,
+                "name": "Albricias Production",
+                "slug": "albricias-production",
+                "url": "https://www.filminlatino.mx/producer/albricias-production"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "viento-aparte",
+        "synopsis": "La mam\u00e1 de Omar y Karina cae gravemente enferma durante unas vacaciones familiares en una playa del Pac\u00edfico mexicano. Sin haberlo planeado, los hermanos comenzar\u00e1n un viaje de m\u00e1s de 2 mil 500 kil\u00f3metros hasta Casas Grandes, Chihuahua, donde vive su abuela. Se enfrentar\u00e1n a un pa\u00eds herido por la violencia, la desconfianza y el desamparo, donde el \u00fanico refugio posible es mantenerse unidos.",
+        "tags": [
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1437,
+                "name": "Festival del Puerto",
+                "slug": "festival-del-puerto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-del-puerto"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1437264000,
+        "theater_release_date": 1437264000,
+        "theater_spectators_formatted": null,
+        "title": "Viento aparte",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/viento-aparte",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 461,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/viento-aparte.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/viento-aparte/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/viento-aparte/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

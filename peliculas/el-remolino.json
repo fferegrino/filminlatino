@@ -1,0 +1,524 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor largometraje internacional",
+                "icon": "festival-internacional-de-cine-ecozine-de-espana",
+                "name": "Festival Internacional de Cine Ecozine de Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-ecozine-de-espana",
+                "year": null
+            },
+            {
+                "category": "Mejor largometraje internacional",
+                "icon": "festival-internacional-de-cine-ecozine-de-espana",
+                "name": "Festival Internacional de Cine Ecozine de Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-ecozine-de-espana",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Segundo Premio de la Competencia de Documentales Latinoamericanos",
+                "icon": "",
+                "name": "Festival Internacional de Cine Ambiental FINCA",
+                "slug": "festival-internacional-de-cine-ambiental-finca",
+                "year": null
+            },
+            {
+                "category": "Premio Mark Haslam",
+                "icon": "",
+                "name": "Planet in Focus Environmental Film Festival",
+                "slug": "planet-in-focus-environmental-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Cinematograf\u00eda Saratov",
+                "icon": "",
+                "name": "Documentary Film Festival",
+                "slug": "documentary-film-festival",
+                "year": null
+            },
+            {
+                "category": "Grand Prix Saratov",
+                "icon": "",
+                "name": "Documentary Film Festival",
+                "slug": "documentary-film-festival",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Semaine de la critique ",
+                "slug": "semaine-de-la-critique",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Mejor cinematograf\u00eda ",
+                "icon": "",
+                "name": "Saratov Documentary Film Festival",
+                "slug": "saratov-documentary-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor largometraje nacional",
+                "icon": "",
+                "name": "DocumentaMadrid",
+                "slug": "documentamadrid",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "MIC G\u00e9nero",
+                "slug": "mic-genero",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n de Jurado",
+                "icon": "",
+                "name": "Festival Internacional de Cine de M\u00e9rida y Yucat\u00e1n (FICMY)",
+                "slug": "festival-internacional-de-cine-de-merida-y-yucatan-ficmy",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Oaxaca Film Fest",
+                "slug": "oaxaca-film-fest",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "name": "Festival de Cine Latinoamericano Encuentros de Toulouse, Francia",
+                "slug": "festival-de-cine-latinoamericano-encuentros-de-toulouse-francia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-y-mercado-de-cine-documental-de-guia-de-isora-miradasdoc",
+                "name": "Festival Internacional y Mercado de Cine Documental de Gu\u00eda de Isora (MiradasDoc)",
+                "slug": "festival-internacional-y-mercado-de-cine-documental-de-guia-de-isora-miradasdoc",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-locarno",
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Esther Silva Ben\u00edtez",
+                "gender": "f",
+                "id": 160,
+                "slug": "esther-silva-benitez",
+                "url": "https://www.filminlatino.mx/character/esther-silva-benitez"
+            },
+            {
+                "full_name": "Pedro Silva Ben\u00edtez",
+                "gender": "m",
+                "id": 161,
+                "slug": "pedro-silva-benitez",
+                "url": "https://www.filminlatino.mx/character/pedro-silva-benitez"
+            },
+            {
+                "full_name": "Dana Paola Torres Silva",
+                "gender": "f",
+                "id": 162,
+                "slug": "dana-paola-torres-silva",
+                "url": "https://www.filminlatino.mx/character/dana-paola-torres-silva"
+            },
+            {
+                "full_name": "Beder Guti\u00e9rrez L\u00f3pez",
+                "gender": "m",
+                "id": 163,
+                "slug": "beder-gutierrez-lopez",
+                "url": "https://www.filminlatino.mx/character/beder-gutierrez-lopez"
+            },
+            {
+                "full_name": "Ermezenda Padilla Luna",
+                "gender": "f",
+                "id": 164,
+                "slug": "ermezenda-padilla-luna",
+                "url": "https://www.filminlatino.mx/character/ermezenda-padilla-luna"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Laura  Herrero Garv\u00edn",
+                "gender": "f",
+                "id": 2206,
+                "slug": "laura-herrero-garvin",
+                "url": "https://www.filminlatino.mx/directora/laura-herrero-garvin"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "Pedro es un campesino que defiende su identidad y sus sue\u00f1os; su hermana Esther lucha por una mejor vida para su hija.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5015,
+        "image_card": "https://static.filminlatino.mx/images/media/5015/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5015/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5015/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/4/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/4/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/4/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_11_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_12_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_13_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_14_3.jpg",
+            "https://static.filminlatino.mx/images/media/5015/5/still_15_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 40,
+        "original_title": "El Remolino",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2040,
+                "name": "Bestiario Films",
+                "slug": "bestiario-films",
+                "url": "https://www.filminlatino.mx/producer/bestiario-films"
+            },
+            {
+                "acronym": "",
+                "id": 16,
+                "name": "Estudios Churubusco Azteca S.A.",
+                "slug": "estudios-churubusco-azteca-sa",
+                "url": "https://www.filminlatino.mx/producer/estudios-churubusco-azteca-sa"
+            },
+            {
+                "acronym": "",
+                "id": 1901,
+                "name": "La Sand\u00eda Digital",
+                "slug": "la-sandia-digital",
+                "url": "https://www.filminlatino.mx/producer/la-sandia-digital"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-remolino",
+        "synopsis": "Pedro es un campesino que defiende su identidad y sus sue\u00f1os; su hermana Esther lucha por una mejor vida para su hija. Viven en El Remolino, una diminuta comunidad de Chiapas que se ve afectada cada a\u00f1o por inundaciones. Ambos no s\u00f3lo tienen que combatir con las adversidades clim\u00e1ticas, sino tambi\u00e9n sobrepasar sus problemas personales.\u00a0",
+        "tags": [
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 597,
+                "name": "Vida Rural MX",
+                "slug": "vida-rural-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural-mx"
+            },
+            {
+                "id": 710,
+                "name": "Transexual",
+                "slug": "transexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transexual"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 598,
+                "name": "Hechos Reales MX",
+                "slug": "hechos-reales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hechos-reales-mx"
+            },
+            {
+                "id": 638,
+                "name": "Mundo real",
+                "slug": "mundo-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-real"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1386,
+                "name": "Funciones especiales D\u00eda Nacional MX",
+                "slug": "funciones-especiales-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-dia-nacional-mx"
+            },
+            {
+                "id": 1262,
+                "name": "2016",
+                "slug": "2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2016"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1507,
+                "name": "Muestra en defensa del territorio y el agua",
+                "slug": "muestra-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1798,
+                "name": "Alteridades | MIC Istmo",
+                "slug": "alteridades-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alteridades-mic-istmo"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            },
+            {
+                "id": 2527,
+                "name": "Mi resistencia es femenina",
+                "slug": "mi-resistencia-es-femenina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mi-resistencia-es-femenina"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El Remolino",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-remolino",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4313,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ElRemolino.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ElRemolino/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ElRemolino/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "name": "Festival Internacional de Cine de Derechos Humanos de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Muestra Internacional de Cine Documental, Guatemala",
+                "slug": "muestra-internacional-de-cine-documental-guatemala",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Bronx World Film Cycle",
+                "slug": "bronx-world-film-cycle",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Havana Latin Film Fest",
+                "slug": "havana-latin-film-fest",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Chicago Latin Film Fest",
+                "slug": "chicago-latin-film-fest",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Honor\u00edfica en categor\u00eda Documental Centroamericano",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Costa Rica",
+                "slug": "festival-internacional-de-cine-de-costa-rica",
+                "year": null
+            },
+            {
+                "category": "Premio Amnist\u00eda Internacional",
+                "icon": "",
+                "name": "Festival Internacional de Documentales DOCSBARCELONA",
+                "slug": "festival-internacional-de-documentales-docsbarcelona",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n de Jurado",
+                "icon": "",
+                "name": "Festival Internacional de Documentales DOCSBARCELONA",
+                "slug": "festival-internacional-de-documentales-docsbarcelona",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": " Festival Internacional de Cine Documental de Rep\u00fablica Dominicana y el Caribe",
+                "slug": "festival-internacional-de-cine-documental-de-republica-dominicana-y-el-caribe",
+                "year": null
+            },
+            {
+                "category": "Best Central American Documentary Award",
+                "icon": "",
+                "name": "Festival Internacional de Cine \u00cdcaro",
+                "slug": "festival-internacional-de-cine-icaro",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 209,
+                "name": "El Salvador",
+                "slug": "el-salvador",
+                "url": "https://www.filminlatino.mx/catalogo/pais/el-salvador"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marcela Zamora",
+                "gender": "f",
+                "id": 1976,
+                "slug": "marcela-zamora",
+                "url": "https://www.filminlatino.mx/directora/marcela-zamora"
+            }
+        ],
+        "duration_in_minutes": 60,
+        "excerpt": "Retrato de la desesperaci\u00f3n e impotencia de varias madres salvadore\u00f1as en la b\u00fasqueda de sus hijos desaparecidos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3927,
+        "image_card": "https://static.filminlatino.mx/images/media/3927/5/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3927/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3927/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3927/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3927/5/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3927/5/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3927/4/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "El cuarto de los huesos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 707,
+                "name": "Tr\u00edpode",
+                "slug": "tripode",
+                "url": "https://www.filminlatino.mx/producer/tripode"
+            },
+            {
+                "acronym": "",
+                "id": 1901,
+                "name": "La Sand\u00eda Digital",
+                "slug": "la-sandia-digital",
+                "url": "https://www.filminlatino.mx/producer/la-sandia-digital"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-cuarto-de-los-huesos",
+        "synopsis": "Desde el Instituto de Medicina Legal, 'El cuarto de\u00a0los huesos' acompa\u00f1a a varias madres salvadore\u00f1as en la b\u00fasqueda de sus hijos desaparecidos\u00a0a causa de la violencia que se vive en su pa\u00eds. Mensualmente la morgue recibe una veintena de cuerpos sin reclamar que perecieron en conflictos de pandillas\u00a0y bajo esta oscura estad\u00edstica se detona el documental de Marcela Zamora.\u00a0<br>Largometraje realizado a trav\u00e9s del Est\u00edmulo Gabriel Garc\u00eda M\u00e1rquez para la Creaci\u00f3n Cinematogr\u00e1fica en M\u00e9xico y Centroam\u00e9rica, \u00a0una iniciativa del Instituto Mexicano de Cinematograf\u00eda (IMCINE) y la W.K.Kellogg Foundation para apoyar la producci\u00f3n de cine documental narrado desde sus actores sociales al interior de las comunidades ind\u00edgenas y afro en M\u00e9xico y Centroam\u00e9rica.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 1136,
+                "name": "Est\u00edmulo Gabriel Garc\u00eda M\u00e1rquez/IMCINE",
+                "slug": "estimulo-gabriel-garcia-marquezimcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estimulo-gabriel-garcia-marquezimcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1269,
+                "name": "Cortometrajes IMCINE",
+                "slug": "cortometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometrajes-imcine"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1407,
+                "name": "Pacifismo",
+                "slug": "pacifismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pacifismo"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El cuarto de los huesos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-cuarto-de-los-huesos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 3247,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cuartodeloshuesos-trailer.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cuartodeloshuesos-trailer/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cuartodeloshuesos-trailer/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Luisa Rulfo Leduc",
+                "gender": "f",
+                "id": 1482,
+                "slug": "luisa-rulfo-leduc",
+                "url": "https://www.filminlatino.mx/character/luisa-rulfo-leduc"
+            },
+            {
+                "full_name": "Juan Tapia",
+                "gender": "m",
+                "id": 1483,
+                "slug": "juan-tapia",
+                "url": "https://www.filminlatino.mx/character/juan-tapia"
+            },
+            {
+                "full_name": "Guillermo  Vel\u00e1zquez",
+                "gender": "m",
+                "id": 1484,
+                "slug": "guillermo-velazquez",
+                "url": "https://www.filminlatino.mx/character/guillermo-velazquez"
+            },
+            {
+                "full_name": "Alejandro  Garc\u00eda M\u00e9ndez",
+                "gender": "m",
+                "id": 1485,
+                "slug": "alejandro-garcia-mendez",
+                "url": "https://www.filminlatino.mx/character/alejandro-garcia-mendez"
+            },
+            {
+                "full_name": "Vincent  Vel\u00e1zquez",
+                "gender": "m",
+                "id": 1486,
+                "slug": "vincent-velazquez",
+                "url": "https://www.filminlatino.mx/character/vincent-velazquez"
+            },
+            {
+                "full_name": "Sim\u00f3n Hern\u00e1ndez",
+                "gender": "m",
+                "id": 1487,
+                "slug": "simon-hernandez",
+                "url": "https://www.filminlatino.mx/character/simon-hernandez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Carlos  Rulfo",
+                "gender": "m",
+                "id": 160,
+                "slug": "juan-carlos-rulfo",
+                "url": "https://www.filminlatino.mx/director/juan-carlos-rulfo"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "A trav\u00e9s de la imaginaci\u00f3n de una ni\u00f1a de 10 a\u00f1os, viajamos por M\u00e9xico para descubrir diversas tradiciones en torno al significado de la existencia dentro de un pa\u00eds diverso y complejo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8310,
+        "image_card": "https://static.filminlatino.mx/images/media/8310/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8310/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8310/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/8310/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/8310/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/8310/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "\u00c9rase una vez",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 88,
+                "name": "La Media Luna Producciones",
+                "slug": "la-media-luna-producciones",
+                "url": "https://www.filminlatino.mx/producer/la-media-luna-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "erase-una-vez",
+        "synopsis": "Todo comienza cuando Luisa baja de los cielos y llega a un mundo misterioso y m\u00e1gico. Su misi\u00f3n es encontrar un sue\u00f1o. En su viaje se encuentra con \u00e1ngeles y hadas, demonios, ni\u00f1os y ancianos sabios, que bailan, tocan el tambor, cantan canciones para imaginar sue\u00f1os posibles e imposibles. Todos ellos quieren volar tan alto y aventurarse tan lejos porque alguien les dijo una vez que cuando vengan a este mundo, todos los sue\u00f1os que tengan podr\u00e1n hacerse realidad.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 643,
+                "name": "Imaginaci\u00f3n",
+                "slug": "imaginacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imaginacion"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1389,
+                "name": "2018",
+                "slug": "2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2018"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2186,
+                "name": "Ruta Funciones Especiales | DNCM 2021",
+                "slug": "ruta-funciones-especiales-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-funciones-especiales-dncm-2021"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 2557,
+                "name": "Nuevos fan\u00e1ticos del cine",
+                "slug": "nuevos-fanaticos-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-fanaticos-del-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "\u00c9rase una vez",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/erase-una-vez",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 9350,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ERASE-UNA-VEZ-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ERASE-UNA-VEZ-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ERASE-UNA-VEZ-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ERASEUNAVEZSALUDO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ERASEUNAVEZSALUDO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ERASEUNAVEZSALUDO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

@@ -1,0 +1,573 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Valeria Bruni Tedeschi",
+                "gender": "f",
+                "id": 3264,
+                "slug": "valeria-bruni-tedeschi",
+                "url": "https://www.filminlatino.mx/actriz/valeria-bruni-tedeschi"
+            },
+            {
+                "full_name": "Fabrizio Bentivoglio",
+                "gender": "m",
+                "id": 3265,
+                "slug": "fabrizio-bentivoglio",
+                "url": "https://www.filminlatino.mx/actor/fabrizio-bentivoglio"
+            },
+            {
+                "full_name": "Valeria Golino",
+                "gender": "f",
+                "id": 3266,
+                "slug": "valeria-golino",
+                "url": "https://www.filminlatino.mx/actriz/valeria-golino"
+            },
+            {
+                "full_name": "Fabrizio Gifuni",
+                "gender": "m",
+                "id": 3267,
+                "slug": "fabrizio-gifuni",
+                "url": "https://www.filminlatino.mx/actor/fabrizio-gifuni"
+            },
+            {
+                "full_name": "Luigi Lo Cascio",
+                "gender": "m",
+                "id": 3268,
+                "slug": "luigi-lo-cascio",
+                "url": "https://www.filminlatino.mx/actor/luigi-lo-cascio"
+            },
+            {
+                "full_name": "Giovanni Anzaldo",
+                "gender": "m",
+                "id": 3269,
+                "slug": "giovanni-anzaldo",
+                "url": "https://www.filminlatino.mx/actor/giovanni-anzaldo"
+            },
+            {
+                "full_name": "Matilde Gioli",
+                "gender": "f",
+                "id": 3270,
+                "slug": "matilde-gioli",
+                "url": "https://www.filminlatino.mx/actriz/matilde-gioli"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cine-busto-arsizio",
+                "name": "Festival de Cine Busto Arsizio",
+                "slug": "festival-de-cine-busto-arsizio",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-internacionales-flaiano",
+                "name": "Premios Internacionales Flaiano",
+                "slug": "premios-internacionales-flaiano",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-y-musica-global-de-ischia",
+                "name": "Festival de Cine y M\u00fasica Global de Ischia",
+                "slug": "festival-de-cine-y-musica-global-de-ischia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-de-cine-y-musica-global-de-ischia",
+                "name": "Festival de Cine y M\u00fasica Global de Ischia",
+                "slug": "festival-de-cine-y-musica-global-de-ischia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Historia Original ",
+                "icon": "festival-internacional-de-cine-de-st-louis",
+                "name": "Festival Internacional de Cine de St. Louis",
+                "slug": "festival-internacional-de-cine-de-st-louis",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Italiana",
+                "icon": "federacion-italiana-de-cine-dessai",
+                "name": "Federaci\u00f3n Italiana de Cine d'Essai",
+                "slug": "federacion-italiana-de-cine-dessai",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "federacion-italiana-de-cine-dessai",
+                "name": "Federaci\u00f3n Italiana de Cine d'Essai",
+                "slug": "federacion-italiana-de-cine-dessai",
+                "year": 2013
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-internacional-de-cine-de-ghent",
+                "name": "Festival Internacional de Cine de Ghent",
+                "slug": "festival-internacional-de-cine-de-ghent",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Extranjera",
+                "icon": "festival-internacional-de-cine-fort-lauderdale-us",
+                "name": "Festival Internacional de Cine Fort Lauderdale, US",
+                "slug": "festival-internacional-de-cine-fort-lauderdale-us",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cine-cerase-italia",
+                "name": "Festival de Cine Cerase, Italia",
+                "slug": "festival-de-cine-cerase-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-de-cine-cerase-italia",
+                "name": "Festival de Cine Cerase, Italia",
+                "slug": "festival-de-cine-cerase-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-ciak-de-oro",
+                "name": "Premios Ciak de Oro",
+                "slug": "premios-ciak-de-oro",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-ciak-de-oro",
+                "name": "Premios Ciak de Oro",
+                "slug": "premios-ciak-de-oro",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "premios-ciak-de-oro",
+                "name": "Premios Ciak de Oro",
+                "slug": "premios-ciak-de-oro",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-ciak-de-oro",
+                "name": "Premios Ciak de Oro",
+                "slug": "premios-ciak-de-oro",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Producci\u00f3n",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Banda Sonora",
+                "icon": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "name": "Sindicato Nacional de Cine de periodistas de Italia",
+                "slug": "sindicato-nacional-de-cine-de-periodistas-de-italia",
+                "year": 2013
+            },
+            {
+                "category": "\u00c1guila a Mejor pel\u00edcula Europea",
+                "icon": "globos-de-oro-italia",
+                "name": "Globos de Oro, Italia",
+                "slug": "globos-de-oro-italia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-de-bari",
+                "name": "Festival Internacional de Cine de Bari",
+                "slug": "festival-internacional-de-cine-de-bari",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "festival-internacional-de-cine-de-bari",
+                "name": "Festival Internacional de Cine de Bari",
+                "slug": "festival-internacional-de-cine-de-bari",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-bari",
+                "name": "Festival Internacional de Cine de Bari",
+                "slug": "festival-internacional-de-cine-de-bari",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-internacional-de-cine-de-bari",
+                "name": "Festival Internacional de Cine de Bari",
+                "slug": "festival-internacional-de-cine-de-bari",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "festival-internacional-de-cine-de-bari",
+                "name": "Festival Internacional de Cine de Bari",
+                "slug": "festival-internacional-de-cine-de-bari",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Europea",
+                "icon": "capri-hollywood",
+                "name": "Capri, Hollywood",
+                "slug": "capri-hollywood",
+                "year": 2013
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-de-cine-europeo-de-sevilla",
+                "name": "Festival de Cine Europeo de Sevilla",
+                "slug": "festival-de-cine-europeo-de-sevilla",
+                "year": 2013
+            },
+            {
+                "category": "\u00c1guila a Mejor pel\u00edcula Europea",
+                "icon": "festival-de-cine-europeo-de-sevilla",
+                "name": "Festival de Cine Europeo de Sevilla",
+                "slug": "festival-de-cine-europeo-de-sevilla",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-internacional-de-hawaii",
+                "name": "Festival de Cine Internacional de Hawaii",
+                "slug": "festival-de-cine-internacional-de-hawaii",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Banda Sonora",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actor de reparto",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Historia Original ",
+                "icon": "festival-de-tribeca",
+                "name": "Festival de Tribeca",
+                "slug": "festival-de-tribeca",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Paolo Virzi\u0300",
+                "gender": "m",
+                "id": 1138,
+                "slug": "paolo-virzi",
+                "url": "https://www.filminlatino.mx/director/paolo-virzi"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Un agente inmobiliario se atraviesa con un regalo navide\u00f1o que puede salvar su empresa, por desgracia no es como \u00e9l lo esperaba...",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2361,
+        "image_card": "https://static.filminlatino.mx/images/media/2361/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2361/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2361/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2361/9/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "El capital humano",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1333,
+                "name": "Indiana Production Company",
+                "slug": "indiana-production-company",
+                "url": "https://www.filminlatino.mx/producer/indiana-production-company"
+            },
+            {
+                "acronym": "",
+                "id": 1334,
+                "name": "Motorino Amaranto",
+                "slug": "motorino-amaranto",
+                "url": "https://www.filminlatino.mx/producer/motorino-amaranto"
+            },
+            {
+                "acronym": "",
+                "id": 1106,
+                "name": "Manny Films",
+                "slug": "manny-films",
+                "url": "https://www.filminlatino.mx/producer/manny-films"
+            },
+            {
+                "acronym": "",
+                "id": 1114,
+                "name": "Rai Cinema ",
+                "slug": "rai-cinema",
+                "url": "https://www.filminlatino.mx/producer/rai-cinema"
+            },
+            {
+                "acronym": "MiBAC",
+                "id": 497,
+                "name": "Ministero per i Beni e le Attivit\u00e0 Culturali",
+                "slug": "ministero-per-i-beni-e-le-attivita-culturali",
+                "url": "https://www.filminlatino.mx/producer/ministero-per-i-beni-e-le-attivita-culturali"
+            },
+            {
+                "acronym": "",
+                "id": 1336,
+                "name": "Lombardia Film Commission",
+                "slug": "lombardia-film-commission",
+                "url": "https://www.filminlatino.mx/producer/lombardia-film-commission"
+            },
+            {
+                "acronym": "",
+                "id": 1337,
+                "name": "Fonds Eurimages du Conseil de I'Europe",
+                "slug": "fonds-eurimages-du-conseil-de-ieurope",
+                "url": "https://www.filminlatino.mx/producer/fonds-eurimages-du-conseil-de-ieurope"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-capital-humano",
+        "synopsis": "En la vi\u0301spera del di\u0301a de Navidad, un ciclista es atropellado de noche por un lujoso todoterreno. El desgraciado accidente cambiara\u0301 el destino de dos familias: la del millonario Giovanni Bernaschi, un gran especulador de las finanzas, creador de un fondo que promete un 40 por ciento de intere\u0301s anual atrayendo y esquilmando a los cre\u0301dulos inversores, y la de Dino Ossola, un ambicioso agente inmobiliario cuya empresa esta\u0301 al borde de la quiebra.",
+        "tags": [
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 490,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/italia"
+            },
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1386028800,
+        "theater_release_date": 1386028800,
+        "theater_spectators_formatted": null,
+        "title": "El capital humano",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-capital-humano",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1898,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/capital-humano.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/capital-humano/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/capital-humano/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

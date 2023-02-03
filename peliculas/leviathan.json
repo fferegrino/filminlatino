@@ -1,0 +1,739 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roman Madyanov",
+                "gender": "m",
+                "id": 2915,
+                "slug": "roman-madyanov",
+                "url": "https://www.filminlatino.mx/actor/roman-madyanov"
+            },
+            {
+                "full_name": "Vladimir Vdovichenkov",
+                "gender": "m",
+                "id": 2916,
+                "slug": "vladimir-vdovichenkov",
+                "url": "https://www.filminlatino.mx/actor/vladimir-vdovichenkov"
+            },
+            {
+                "full_name": "Elena Lyadova",
+                "gender": "f",
+                "id": 2917,
+                "slug": "elena-lyadova",
+                "url": "https://www.filminlatino.mx/actriz/elena-lyadova"
+            },
+            {
+                "full_name": "Aleksey Serebryakov",
+                "gender": "m",
+                "id": 2918,
+                "slug": "aleksey-serebryakov",
+                "url": "https://www.filminlatino.mx/actor/aleksey-serebryakov"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "\u00c1guila a Mejor pel\u00edcula Europea",
+                "icon": "festival-de-cine-latinoamericano-de-londres",
+                "name": "Festival de Cine Latinoamericano de Londres ",
+                "slug": "festival-de-cine-latinoamericano-de-londres",
+                "year": 2014
+            },
+            {
+                "category": "Premio ALFFS a Pel\u00edcula de lengua extranjera del A\u00f1o",
+                "icon": "circulo-de-criticos-cinematograficos-de-londres",
+                "name": "C\u00edrculo de Cr\u00edticos Cinematogr\u00e1ficos de Londres",
+                "slug": "circulo-de-criticos-cinematograficos-de-londres",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al ALFS al Logro T\u00e9cnico del A\u00f1o",
+                "icon": "circulo-de-criticos-cinematograficos-de-londres",
+                "name": "C\u00edrculo de Cr\u00edticos Cinematogr\u00e1ficos de Londres",
+                "slug": "circulo-de-criticos-cinematograficos-de-londres",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al ALFS a Pel\u00edcula del A\u00f1o",
+                "icon": "circulo-de-criticos-cinematograficos-de-londres",
+                "name": "C\u00edrculo de Cr\u00edticos Cinematogr\u00e1ficos de Londres",
+                "slug": "circulo-de-criticos-cinematograficos-de-londres",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a la Palma de Oro",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "premios-bafta",
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "houston-film-critics-society-awards",
+                "name": "Houston Film Critics Society Awards",
+                "slug": "houston-film-critics-society-awards",
+                "year": 2014
+            },
+            {
+                "category": "\u00c1guila a Mejor pel\u00edcula Europea",
+                "icon": "polish-film-awards",
+                "name": "Polish Film Awards",
+                "slug": "polish-film-awards",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Logro de Director",
+                "icon": "asia-pacific-screen-awards",
+                "name": "Asia Pacific Screen Awards",
+                "slug": "asia-pacific-screen-awards",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Logro en Cinematograf\u00eda",
+                "icon": "asia-pacific-screen-awards",
+                "name": "Asia Pacific Screen Awards",
+                "slug": "asia-pacific-screen-awards",
+                "year": 2014
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asia-pacific-screen-awards",
+                "name": "Asia Pacific Screen Awards",
+                "slug": "asia-pacific-screen-awards",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor Pel\u00edcula, Cine Internacional",
+                "icon": "premios-satellite",
+                "name": "Premios Satellite",
+                "slug": "premios-satellite",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actor de cuadro",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Mejor pel\u00edcula de la Competencia Oficial",
+                "icon": "london-film-festival",
+                "name": "London Film festival",
+                "slug": "london-film-festival",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Actriz de cuadro",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominada a Mejor Actor",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actor Secundario",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al Elefante Blanco a Mejor actriz secundaria",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al Elefante Blanco a Mejor Cinematograf\u00eda",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor Actor secundario",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor Actor",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor Actriz",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor Gui\u00f3n",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor director",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Elefante Blanco a Mejor pel\u00edcula ",
+                "icon": "russian-guild-of-film-critics",
+                "name": "Russian Guild of Film Critics",
+                "slug": "russian-guild-of-film-critics",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Sonido",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Gui\u00f3n",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Dise\u00f1o de producci\u00f3n",
+                "icon": "premios-nika",
+                "name": "Premios Nika",
+                "slug": "premios-nika",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al \u00d3scar a Mejor Pel\u00edcula de habla extranjera del a\u00f1o",
+                "icon": "academy-awards-usa",
+                "name": "Academy Awards, USA",
+                "slug": "academy-awards-usa",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "online-film-television-association",
+                "name": "Online Film & Television Association",
+                "slug": "online-film-television-association",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al Critics Choice Award a Mejor pel\u00edcula de lengua extranjera",
+                "icon": "broadcast-film-critics-association-awards",
+                "name": "Broadcast Film Critics Association Awards",
+                "slug": "broadcast-film-critics-association-awards",
+                "year": 2014
+            },
+            {
+                "category": "Tercer Lugar a Mejor pel\u00edcula de habla extranjera",
+                "icon": "toronto-film-critics-association-awards",
+                "name": "Toronto Film Critics Association Awards",
+                "slug": "toronto-film-critics-association-awards",
+                "year": 2014
+            },
+            {
+                "category": "Top Ten Films",
+                "icon": "dublin-film-critics-circle-awards",
+                "name": "Dublin Film Critics Circle Awards",
+                "slug": "dublin-film-critics-circle-awards",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al Gran Premio a Mejor pel\u00edcula",
+                "icon": "ghent-international-film-festival",
+                "name": "Ghent International Film Festival",
+                "slug": "ghent-international-film-festival",
+                "year": 2014
+            },
+            {
+                "category": "Premio Fedeora de Cineastas del ma\u00f1ana",
+                "icon": "haifa-international-film-festival",
+                "name": "Haifa International Film Festival",
+                "slug": "haifa-international-film-festival",
+                "year": 2014
+            },
+            {
+                "category": "Premio FIPRESCI a Mejor pel\u00edcula de lengua extranjera",
+                "icon": "festival-internacional-de-cine-de-palm-springs",
+                "name": "Festival Internacional de Cine de Palm Springs",
+                "slug": "festival-internacional-de-cine-de-palm-springs",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-de-sevilla",
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "year": 2014
+            },
+            {
+                "category": "Rana de Oro de la Competencia Principal",
+                "icon": "camerimage-film-festival",
+                "name": "Camerimage Film Festival",
+                "slug": "camerimage-film-festival",
+                "year": 2014
+            },
+            {
+                "category": "Premio ARRI/OSRAM a Mejor Pel\u00edcula Internacional",
+                "icon": "festival-de-cine-de-munich-alemania",
+                "name": "Festival de Cine de Munich, Alemania",
+                "slug": "festival-de-cine-de-munich-alemania",
+                "year": 2014
+            },
+            {
+                "category": "Amanda a Mejor pel\u00edcula de ficci\u00f3n extranjera",
+                "icon": "premios-amanda-noruega",
+                "name": "Premios Amanda, Noruega",
+                "slug": "premios-amanda-noruega",
+                "year": 2014
+            },
+            {
+                "category": "Premio Perla Negra a Mejor Largometraje de Ficci\u00f3n",
+                "icon": "festival-de-cine-de-abu-dhabi-emiratos-arabes-unidos",
+                "name": "Festival de Cine de Abu Dhabi, Emiratos \u00c1rabes Unidos",
+                "slug": "festival-de-cine-de-abu-dhabi-emiratos-arabes-unidos",
+                "year": 2014
+            },
+            {
+                "category": "Competencia de ficci\u00f3n a Mejor Actor",
+                "icon": "festival-de-cine-de-abu-dhabi-emiratos-arabes-unidos",
+                "name": "Festival de Cine de Abu Dhabi, Emiratos \u00c1rabes Unidos",
+                "slug": "festival-de-cine-de-abu-dhabi-emiratos-arabes-unidos",
+                "year": 2014
+            },
+            {
+                "category": "Globo de Oro a Mejor pel\u00edcula de lengua extranjera",
+                "icon": "golden-globes-usa",
+                "name": "Golden Globes, USA",
+                "slug": "golden-globes-usa",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n al ACCA a Mejor pel\u00edcula de lengua extranjera",
+                "icon": "circuit-community-awards",
+                "name": "Circuit Community Awards",
+                "slug": "circuit-community-awards",
+                "year": 2014
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "name": "Festival Internacional de Cine de S\u00e3o Paulo, Brasil",
+                "slug": "festival-internacional-de-cine-de-sao-paulo-brasil",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "dallas-fort-worth-film-critics-association-awards",
+                "name": "Dallas-Fort Worth Film Critics Association Awards",
+                "slug": "dallas-fort-worth-film-critics-association-awards",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "international-online-cinema-awards-inoca",
+                "name": "International Online Cinema Awards (INOCA)",
+                "slug": "international-online-cinema-awards-inoca",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor Guionista",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2014
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2014
+            },
+            {
+                "category": "Top 5 Pel\u00edculas de Lengua extranjera",
+                "icon": "national-board-of-review-usa",
+                "name": "National Board of Review, USA",
+                "slug": "national-board-of-review-usa",
+                "year": 2014
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula Internacional",
+                "icon": "independent-spirit-awards",
+                "name": "Independent Spirit Awards",
+                "slug": "independent-spirit-awards",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 190,
+                "name": "Rusia",
+                "slug": "rusia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/rusia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Andrey Zvyagintsev",
+                "gender": "m",
+                "id": 1038,
+                "slug": "andrey-zvyagintsev",
+                "url": "https://www.filminlatino.mx/director/andrey-zvyagintsev"
+            }
+        ],
+        "duration_in_minutes": 141,
+        "excerpt": "En una ciudad costera de Rusia, Kolya se ve obligado a luchar para evitar la demolici\u00f3n de su casa.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1523,
+        "image_card": "https://static.filminlatino.mx/images/media/1523/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/1523/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1523/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/5/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1523/10/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1523/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1523/11/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 36,
+        "original_title": "Leviafan",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1181,
+                "name": "Non-Stop Productions",
+                "slug": "non-stop-productions",
+                "url": "https://www.filminlatino.mx/producer/non-stop-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "leviathan",
+        "synopsis": "Kolya vive en un pueblito a orillas del mar de Barents, al norte de Rusia. Tiene un taller de mec\u00e1nica al lado de su casa, donde vive con su joven esposa y su hijo, fruto de una relaci\u00f3n anterior. El alcalde del pueblo est\u00e1 decidido a apropiarse de la casa y del taller de Kolya a toda costa. Primero intenta comprar el terreno, que \u00e9l no est\u00e1 dispuesto a vender; para lograr quedarse con \u00e9l, recluta un amigo abogado, pero la llegada del hombre trae mayor desgracia para Kolya y su familia .",
+        "tags": [
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 489,
+                "name": "Playa",
+                "slug": "playa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/playa"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 104,
+                "name": "Juicios",
+                "slug": "juicios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juicios"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 731,
+                "name": "BBC Top S. XXI",
+                "slug": "bbc-top-s-xxi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bbc-top-s-xxi"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 877,
+                "name": "Esquimales",
+                "slug": "esquimales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/esquimales"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 884,
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-bafta"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 915,
+                "name": "Nominados Oscar 2018",
+                "slug": "nominados-oscar-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominados-oscar-2018"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 981,
+                "name": "Recomendadas de Alonso D\u00edaz de la Vega ",
+                "slug": "recomendadas-de-alonso-diaz-de-la-vega",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-alonso-diaz-de-la-vega"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Leviathan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/leviathan",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1761,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Leviathan.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Leviathan/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Leviathan/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

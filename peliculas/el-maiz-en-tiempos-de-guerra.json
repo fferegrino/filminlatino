@@ -1,0 +1,379 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine en Guadalajara",
+                "slug": "festival-internacional-de-cine-en-guadalajara",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Cort\u00e9s Calder\u00f3n",
+                "gender": "m",
+                "id": 350,
+                "slug": "alberto-cortes-calderon",
+                "url": "https://www.filminlatino.mx/director/alberto-cortes-calderon"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Una epopeya del ma\u00edz desde los conocimientos pr\u00e1cticos,\u00a0los peligros que le acechan y la necesidad actual\u00a0por conservar los territorios que dan continuidad a las milpas mexicanas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3337,
+        "image_card": "https://static.filminlatino.mx/images/media/3337/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3337/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3337/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3337/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3337/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3337/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3337/13/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3337/11/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 73,
+        "original_title": "El ma\u00edz en tiempos de guerra ",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-maiz-en-tiempos-de-guerra",
+        "synopsis": "'El ma\u00edz en tiempos de guerra' sigue el curso anual de cuatro milpas ind\u00edgenas en distintas regiones de M\u00e9xico. El largometraje ilustra el excepcional proceso del ma\u00edz, la delicadeza para seleccionar la semilla y preparar la tierra que va a recibirla, la tenacidad de sus cuidados, la cosecha al cabo de los meses y los usos vitales de sus frutos.\u00a0Una familia wix\u00e1rika (huichola) en el norte de Jalisco, otra m\u00e1s ayuujk (mixe) en Oaxaca, y dos familias tseltales en la selva de Chiapas nos hablan desde sus milpas, los caminos y sus casas, de la importancia de la siembra, de los conocimientos pr\u00e1cticos que permiten la epopeya del ma\u00edz, los peligros que la acechan, la necesidad contempor\u00e1nea de conservar los territorios que dan continuidad a la milpa y la vida de millones de mexicanos ind\u00edgenas y campesinos.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 938,
+                "name": "Nominadas Ariel 60",
+                "slug": "nominadas-ariel-60",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-60"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 955,
+                "name": "Las m\u00e1s vistas en suscripci\u00f3n",
+                "slug": "las-mas-vistas-en-suscripcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-suscripcion"
+            },
+            {
+                "id": 1020,
+                "name": "Alberto Cort\u00e9s",
+                "slug": "alberto-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alberto-cortes"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 1372,
+                "name": "N\u00e1huatl",
+                "slug": "nahuatl",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahuatl"
+            },
+            {
+                "id": 1377,
+                "name": "Las m\u00e1s vistas SVOD cuarto aniversario",
+                "slug": "las-mas-vistas-svod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-svod-cuarto-aniversario"
+            },
+            {
+                "id": 1133,
+                "name": "Eco friendly",
+                "slug": "eco-friendly",
+                "url": "https://www.filminlatino.mx/catalogo/tema/eco-friendly"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1803,
+                "name": "Rul\u00e1 (Salvar) | MIC Istmo",
+                "slug": "rula-salvar-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rula-salvar-mic-istmo"
+            },
+            {
+                "id": 1976,
+                "name": "La lengua materna y nuestras ra\u00edces. La lengua como resistencia",
+                "slug": "la-lengua-materna-y-nuestras-raices-la-lengua-como-resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-lengua-materna-y-nuestras-raices-la-lengua-como-resistencia"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2415,
+                "name": "MIC Istmo 2021",
+                "slug": "mic-istmo-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo-2021"
+            },
+            {
+                "id": 2421,
+                "name": "Rula | MIC Istmo 2021",
+                "slug": "rula-mic-istmo-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rula-mic-istmo-2021"
+            },
+            {
+                "id": 2584,
+                "name": "SEP - Vida saludable",
+                "slug": "sep-vida-saludable",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-vida-saludable"
+            },
+            {
+                "id": 2591,
+                "name": "SEP - Largometrajes",
+                "slug": "sep-largometrajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sep-largometrajes"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El ma\u00edz en tiempos de guerra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-maiz-en-tiempos-de-guerra",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2674,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Maiz.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Maiz/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Maiz/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

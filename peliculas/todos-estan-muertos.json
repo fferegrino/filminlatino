@@ -1,0 +1,593 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Elena Anaya",
+                "gender": "f",
+                "id": 2264,
+                "slug": "elena-anaya",
+                "url": "https://www.filminlatino.mx/actriz/elena-anaya"
+            },
+            {
+                "full_name": "Ang\u00e9lica Arag\u00f3n",
+                "gender": "f",
+                "id": 131,
+                "slug": "angelica-aragon",
+                "url": "https://www.filminlatino.mx/actriz/angelica-aragon"
+            },
+            {
+                "full_name": "Nahuel  P\u00e9rez Biscayart",
+                "gender": "m",
+                "id": 3668,
+                "slug": "nahuel-perez-biscayart",
+                "url": "https://www.filminlatino.mx/actor/nahuel-perez-biscayart"
+            },
+            {
+                "full_name": "Christian  Bernal",
+                "gender": "m",
+                "id": 3669,
+                "slug": "christian-bernal",
+                "url": "https://www.filminlatino.mx/actor/christian-bernal"
+            },
+            {
+                "full_name": "Patrick Criado",
+                "gender": "m",
+                "id": 3009,
+                "slug": "patrick-criado",
+                "url": "https://www.filminlatino.mx/actor/patrick-criado"
+            },
+            {
+                "full_name": "Macarena Garc\u00eda",
+                "gender": "f",
+                "id": 3670,
+                "slug": "macarena-garcia",
+                "url": "https://www.filminlatino.mx/actriz/macarena-garcia"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-feroz",
+                "name": "Premios Feroz",
+                "slug": "premios-feroz",
+                "year": 2014
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "festival-de-cine-de-malaga-espana",
+                "name": "Festival de Cine de M\u00e1laga, Espa\u00f1a",
+                "slug": "festival-de-cine-de-malaga-espana",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-cine-de-malaga-espana",
+                "name": "Festival de Cine de M\u00e1laga, Espa\u00f1a",
+                "slug": "festival-de-cine-de-malaga-espana",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Beatriz Sanch\u00eds",
+                "gender": "f",
+                "id": 1258,
+                "slug": "beatriz-sanchis",
+                "url": "https://www.filminlatino.mx/directora/beatriz-sanchis"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Atrevida \u00f3pera prima de Beatriz Sanch\u00eds que logr\u00f3 dos nominaciones al Goya, donde Elena Anaya brilla interpretando a Lupe, una estrella de rock de los ochenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2515,
+        "image_card": "https://static.filminlatino.mx/images/media/2515/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2515/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2515/11/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2515/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2515/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2515/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2515/1/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2515/7/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 55,
+        "original_title": "Todos est\u00e1n muertos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 768,
+                "name": "Animal de Luz Films",
+                "slug": "animal-de-luz-films",
+                "url": "https://www.filminlatino.mx/producer/animal-de-luz-films"
+            },
+            {
+                "acronym": "",
+                "id": 1408,
+                "name": "Avalon Productions",
+                "slug": "avalon-productions",
+                "url": "https://www.filminlatino.mx/producer/avalon-productions"
+            },
+            {
+                "acronym": "",
+                "id": 800,
+                "name": "Cacerola Films",
+                "slug": "cacerola-films",
+                "url": "https://www.filminlatino.mx/producer/cacerola-films"
+            },
+            {
+                "acronym": "",
+                "id": 899,
+                "name": "Eurimages",
+                "slug": "eurimages",
+                "url": "https://www.filminlatino.mx/producer/eurimages"
+            },
+            {
+                "acronym": "",
+                "id": 1450,
+                "name": "Gas Natural Fenosa",
+                "slug": "gas-natural-fenosa",
+                "url": "https://www.filminlatino.mx/producer/gas-natural-fenosa"
+            },
+            {
+                "acronym": "ICO",
+                "id": 1028,
+                "name": "Instituto de Cr\u00e9dito Oficial",
+                "slug": "instituto-de-credito-oficial",
+                "url": "https://www.filminlatino.mx/producer/instituto-de-credito-oficial"
+            },
+            {
+                "acronym": "ICAA",
+                "id": 1029,
+                "name": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales",
+                "slug": "instituto-de-la-cinematografia-y-de-las-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-de-la-cinematografia-y-de-las-artes-audiovisuales"
+            },
+            {
+                "acronym": "",
+                "id": 1451,
+                "name": "Integral Film",
+                "slug": "integral-film",
+                "url": "https://www.filminlatino.mx/producer/integral-film"
+            },
+            {
+                "acronym": "",
+                "id": 1452,
+                "name": "Junta de Castilla y Le\u00f3n",
+                "slug": "junta-de-castilla-y-leon",
+                "url": "https://www.filminlatino.mx/producer/junta-de-castilla-y-leon"
+            },
+            {
+                "acronym": "",
+                "id": 1453,
+                "name": "Media",
+                "slug": "media",
+                "url": "https://www.filminlatino.mx/producer/media"
+            },
+            {
+                "acronym": "TVE",
+                "id": 4,
+                "name": "Televisi\u00f3n Espa\u00f1ola",
+                "slug": "television-espanola",
+                "url": "https://www.filminlatino.mx/producer/television-espanola"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "todos-estan-muertos",
+        "synopsis": "Atrevida \u00f3pera prima de Beatriz Sanch\u00eds que logr\u00f3 dos nominaciones al premio Goya, donde Elena Anaya brilla interpretando a Lupe, una estrella de rock de los a\u00f1os ochenta. Nadie dir\u00eda que ella ha sido una glamurosa cantante. Atr\u00e1s quedaron los conciertos, la fama y los \u00e9xitos. La agorafobia no le permite salir de casa y depende totalmente de su madre, una mexicana supersticiosa de gran coraz\u00f3n, que no solo se ocupa de su hija sino tambi\u00e9n de su nieto adolescente. El problema es que a Paquita se le acaba el tiempo y no quiere marcharse sin antes recuperar a su hija.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 502,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espana"
+            },
+            {
+                "id": 168,
+                "name": "Brujer\u00eda",
+                "slug": "brujeria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/brujeria"
+            },
+            {
+                "id": 118,
+                "name": "Rock",
+                "slug": "rock",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rock"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 561,
+                "name": "Fantasmas",
+                "slug": "fantasmas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasmas"
+            },
+            {
+                "id": 568,
+                "name": "Cine espa\u00f1ol",
+                "slug": "cine-espanol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-espanol"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 804,
+                "name": "En el aula",
+                "slug": "en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-aula"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 929,
+                "name": "Cine punk",
+                "slug": "cine-punk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-punk"
+            },
+            {
+                "id": 942,
+                "name": "Rusia 2018",
+                "slug": "rusia-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rusia-2018"
+            },
+            {
+                "id": 947,
+                "name": "Copa del Mundo",
+                "slug": "copa-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/copa-del-mundo"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1026,
+                "name": "Animal de Luz",
+                "slug": "animal-de-luz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animal-de-luz"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Todos est\u00e1n muertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/todos-estan-muertos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1925,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/todos-estan-muertos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/todos-estan-muertos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/todos-estan-muertos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

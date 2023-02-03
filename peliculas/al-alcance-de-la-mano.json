@@ -1,0 +1,417 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Helda Morales",
+                "gender": "f",
+                "id": 1838,
+                "slug": "helda-morales",
+                "url": "https://www.filminlatino.mx/character/helda-morales"
+            },
+            {
+                "full_name": "Bruce Ferguson ",
+                "gender": "m",
+                "id": 1839,
+                "slug": "bruce-ferguson",
+                "url": "https://www.filminlatino.mx/character/bruce-ferguson"
+            },
+            {
+                "full_name": "Hugo Reynaldo S\u00e1nchez ",
+                "gender": "m",
+                "id": 1840,
+                "slug": "hugo-reynaldo-sanchez",
+                "url": "https://www.filminlatino.mx/character/hugo-reynaldo-sanchez"
+            },
+            {
+                "full_name": "Ver\u00f3nica Tamayo",
+                "gender": "f",
+                "id": 1841,
+                "slug": "veronica-tamayo",
+                "url": "https://www.filminlatino.mx/character/veronica-tamayo"
+            },
+            {
+                "full_name": "Edith S\u00e1ntiz",
+                "gender": "f",
+                "id": 1842,
+                "slug": "edith-santiz",
+                "url": "https://www.filminlatino.mx/character/edith-santiz"
+            },
+            {
+                "full_name": "Juan Marcos Mendoza",
+                "gender": "m",
+                "id": 1843,
+                "slug": "juan-marcos-mendoza",
+                "url": "https://www.filminlatino.mx/character/juan-marcos-mendoza"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jorge D\u00edaz S\u00e1nchez",
+                "gender": "m",
+                "id": 2567,
+                "slug": "jorge-diaz-sanchez",
+                "url": "https://www.filminlatino.mx/director/jorge-diaz-sanchez"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Cada bocado que nos llevamos a la boca es un acto pol\u00edtico. Un documental del realizador de \"Derecho de playa\".",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9001,
+        "image_card": "https://static.filminlatino.mx/images/media/9001/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/9001/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9001/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/9001/3/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/9001/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/9001/3/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/9001/3/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "Al alcance de la mano",
+        "producers": [
+            {
+                "acronym": "Bruce Ferguson ",
+                "id": 3558,
+                "name": "Bruce Ferguson ",
+                "slug": "bruce-ferguson",
+                "url": "https://www.filminlatino.mx/producer/bruce-ferguson"
+            },
+            {
+                "acronym": "Helda Morales ",
+                "id": 3559,
+                "name": "Helda Morales",
+                "slug": "helda-morales",
+                "url": "https://www.filminlatino.mx/producer/helda-morales"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "al-alcance-de-la-mano",
+        "synopsis": "Dos agroec\u00f3logos crearon un programa interdisciplinario que vincula alimentaci\u00f3n, ciencia, aprendizaje y comunidad. Junto a una red de educadores trabajan en la construcci\u00f3n de conciencia cr\u00edtica respecto a lo que comemos, buscando alternativas de consumo local frente a la producci\u00f3n industrializada de alimentos. Dirigido por Jorge D\u00edaz S\u00e1nchez, quien tambi\u00e9n ha realizado documentales como \"Derecho de playa\" y, el m\u00e1s reciente,\u00a0\"Ska\u2019yaa\".",
+        "tags": [
+            {
+                "id": 1349,
+                "name": "Alimentaci\u00f3n ",
+                "slug": "alimentacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alimentacion"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 17,
+                "name": "Cine educativo",
+                "slug": "cine-educativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-educativo"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 557,
+                "name": "Ciencia",
+                "slug": "ciencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 472,
+                "name": "Experiencia",
+                "slug": "experiencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/experiencia"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 2182,
+                "name": "Aprendizaje",
+                "slug": "aprendizaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aprendizaje"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2118,
+                "name": "Agricultura",
+                "slug": "agricultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agricultura"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Al alcance de la mano",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/al-alcance-de-la-mano",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 10603,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ALALCANCEDELAMANO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ALALCANCEDELAMANO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ALALCANCEDELAMANO/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ALALCANCEDELAMANO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ALALCANCEDELAMANO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ALALCANCEDELAMANO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

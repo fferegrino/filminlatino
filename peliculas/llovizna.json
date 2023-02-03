@@ -1,0 +1,257 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Aar\u00f3n Hern\u00e1n",
+                "gender": "m",
+                "id": 149,
+                "slug": "aaron-hernan",
+                "url": "https://www.filminlatino.mx/actor/aaron-hernan"
+            },
+            {
+                "full_name": "Delia Casanova",
+                "gender": "f",
+                "id": 535,
+                "slug": "delia-casanova",
+                "url": "https://www.filminlatino.mx/actriz/delia-casanova"
+            },
+            {
+                "full_name": "Salvador S\u00e1nchez",
+                "gender": "m",
+                "id": 608,
+                "slug": "salvador-sanchez",
+                "url": "https://www.filminlatino.mx/actor/salvador-sanchez"
+            },
+            {
+                "full_name": "Amado Zumaya",
+                "gender": "m",
+                "id": 615,
+                "slug": "amado-zumaya",
+                "url": "https://www.filminlatino.mx/actor/amado-zumaya"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sergio Olhovich Greene",
+                "gender": "m",
+                "id": 103,
+                "slug": "sergio-olhovich-greene",
+                "url": "https://www.filminlatino.mx/director/sergio-olhovich-greene"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Pel\u00edcula basada en un cuento de Juan de la Cabada que reflexiona sobre el racismo en M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 215,
+        "image_card": "https://static.filminlatino.mx/images/media/215/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/215/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/215/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/215/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/215/5/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 63,
+        "original_title": "Llovizna",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 14,
+                "name": "Dasa Films S.A.",
+                "slug": "dasa-films-sa",
+                "url": "https://www.filminlatino.mx/producer/dasa-films-sa"
+            },
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "llovizna",
+        "synopsis": "Eduardo es un clasemediero que vive con miedo. Miedo a los otros, a su jefe, a los ind\u00edgenas. Esa paranoia que es la constante de la clase media actual. Culpando siempre a los dem\u00e1s de sus problemas, Eduardo no es consciente de las dificultades que acarrea su actitud. En un pa\u00eds con una profunda desigualdad social, es dif\u00edcil conseguir que los ciudadanos simpaticen unos con otros.",
+        "tags": [
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 368,
+                "name": "Paranoia",
+                "slug": "paranoia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paranoia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1220,
+                "name": "1978",
+                "slug": "1978",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1978"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 1372,
+                "name": "N\u00e1huatl",
+                "slug": "nahuatl",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahuatl"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 267926400,
+        "theater_release_date": 267926400,
+        "theater_spectators_formatted": null,
+        "title": "Llovizna",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/llovizna",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 91,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1977
+    }
+}

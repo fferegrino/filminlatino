@@ -1,0 +1,346 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Lima Independiente",
+                "slug": "festival-lima-independiente",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Mejor mediometraje",
+                "icon": "",
+                "name": "Festival dei Popoli, International Documentary Film Festival",
+                "slug": "festival-dei-popoli-international-documentary-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival de Cine Latinoamericano y Caribe\u00f1o Margarita",
+                "slug": "festival-de-cine-latinoamericano-y-caribeno-margarita",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine en Guadalajara",
+                "slug": "festival-internacional-de-cine-en-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Eva Villase\u00f1or Egu\u00eda",
+                "gender": "f",
+                "id": 55,
+                "slug": "eva-villasenor-eguia",
+                "url": "https://www.filminlatino.mx/character/eva-villasenor-eguia"
+            },
+            {
+                "full_name": "Fernanda Valadez",
+                "gender": "f",
+                "id": 1601,
+                "slug": "fernanda-valadez",
+                "url": "https://www.filminlatino.mx/character/fernanda-valadez"
+            },
+            {
+                "full_name": "Miguel Villase\u00f1or",
+                "gender": "m",
+                "id": 1602,
+                "slug": "miguel-villasenor",
+                "url": "https://www.filminlatino.mx/character/miguel-villasenor"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eva Villase\u00f1or",
+                "gender": "f",
+                "id": 2118,
+                "slug": "eva-villasenor",
+                "url": "https://www.filminlatino.mx/directora/eva-villasenor"
+            }
+        ],
+        "duration_in_minutes": 60,
+        "excerpt": "Es la b\u00fasqueda de la realizadora para reconstruir un periodo de su vida en el que perdi\u00f3 la memoria.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8669,
+        "image_card": "https://static.filminlatino.mx/images/media/8669/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8669/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8669/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/8669/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/8669/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/8669/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/8669/7/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Memoria oculta",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "memoria-oculta",
+        "synopsis": "Es la b\u00fasqueda de la realizadora para reconstruir un periodo de su vida en el que perdi\u00f3 la memoria.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 603,
+                "name": "Aniversario CCC",
+                "slug": "aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aniversario-ccc"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1523,
+                "name": "Cortos aniversario CCC",
+                "slug": "cortos-aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortos-aniversario-ccc"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1524,
+                "name": "largometrajes aniversario CCC",
+                "slug": "largometrajes-aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-aniversario-ccc"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 2157,
+                "name": "Documental | 46 aniversario CCC",
+                "slug": "documental-46-aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-46-aniversario-ccc"
+            },
+            {
+                "id": 2156,
+                "name": "46 aniversario CCC",
+                "slug": "46-aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/46-aniversario-ccc"
+            },
+            {
+                "id": 2159,
+                "name": "Directoras | 46 aniversario CCC",
+                "slug": "directoras-46-aniversario-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-46-aniversario-ccc"
+            },
+            {
+                "id": 2295,
+                "name": "Libre Cinema Festival",
+                "slug": "libre-cinema-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libre-cinema-festival"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2303,
+                "name": "Muestra Largometraje | Libre Cinema Festival",
+                "slug": "muestra-largometraje-libre-cinema-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-largometraje-libre-cinema-festival"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2305,
+                "name": "ReDOC Investigaci\u00f3n",
+                "slug": "redoc-investigacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/redoc-investigacion"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1754,
+                "name": "Cuajimalpa de Morelos | Promotores Culturales Comunitarios",
+                "slug": "cuajimalpa-de-morelos-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuajimalpa-de-morelos-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2500,
+                "name": "Nuevos cl\u00e1sicos MX FVOD",
+                "slug": "nuevos-clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevos-clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Memoria oculta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/memoria-oculta",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 9836,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2014
+    }
+}

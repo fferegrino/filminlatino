@@ -1,0 +1,347 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz",
+                "gender": "m",
+                "id": 731,
+                "slug": "pedro-armendariz",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz"
+            },
+            {
+                "full_name": "Julio Taboada",
+                "gender": "m",
+                "id": 732,
+                "slug": "julio-taboada",
+                "url": "https://www.filminlatino.mx/actor/julio-taboada"
+            },
+            {
+                "full_name": "Jaime Fern\u00e1ndez",
+                "gender": "m",
+                "id": 733,
+                "slug": "jaime-fernandez",
+                "url": "https://www.filminlatino.mx/actor/jaime-fernandez"
+            },
+            {
+                "full_name": "Silvia Derb\u00e9z",
+                "gender": "f",
+                "id": 734,
+                "slug": "silvia-derbez",
+                "url": "https://www.filminlatino.mx/actriz/silvia-derbez"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emilio \"El Indio\" Fern\u00e1ndez",
+                "gender": "m",
+                "id": 89,
+                "slug": "emilio-el-indio-fernandez",
+                "url": "https://www.filminlatino.mx/director/emilio-el-indio-fernandez"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Basada en \"El gesticulador\", la obra maestra de Usigli, sobre un hombre que toma la personalidad de un excombatiente ficticio de la revoluci\u00f3n mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 262,
+        "image_card": "https://static.filminlatino.mx/images/media/262/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/262/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/262/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/262/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 64,
+        "original_title": "El impostor",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 197,
+                "name": "Unicornio Films",
+                "slug": "unicornio-films",
+                "url": "https://www.filminlatino.mx/producer/unicornio-films"
+            },
+            {
+                "acronym": "CLASA",
+                "id": 198,
+                "name": "Cinematogr\u00e1fica Latinoamericana S.A.",
+                "slug": "cinematografica-latinoamericana-sa",
+                "url": "https://www.filminlatino.mx/producer/cinematografica-latinoamericana-sa"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-impostor",
+        "synopsis": "La historia de un profesor en una Universidad, que es despedido por reprobar la nueva rector\u00eda que buscaba la p\u00e9rdida de su autonom\u00eda. Vuelve a su pueblo natal donde empiezan las campa\u00f1as pol\u00edticas donde s\u00f3lo hay un partido (el de siempre). Tiene muchos problemas financieros y los campos y el arado no le favorecen. Para su mala fortuna, es confundido por un abuelo de \u00e9ste, h\u00e9roe de la revoluci\u00f3n desaparecido y pol\u00e9mico, que al tener tremendo parecido y compartir el nombre, obtiene su candidatura y la simpat\u00eda del pueblo.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 395,
+                "name": "M\u00e1scaras",
+                "slug": "mascaras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mascaras"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 948,
+                "name": "Poder",
+                "slug": "poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/poder"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1162,
+                "name": "Cl\u00e1sicos en blanco y negro",
+                "slug": "clasicos-en-blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-en-blanco-y-negro"
+            },
+            {
+                "id": 1228,
+                "name": "1960",
+                "slug": "1960",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1960"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 629,
+                "name": "\u00c9poca de Oro",
+                "slug": "epoca-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/epoca-de-oro"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1927,
+                "name": "Muestra de Cine Coahuila 2020",
+                "slug": "muestra-de-cine-coahuila-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-cine-coahuila-2020"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -300153600,
+        "theater_release_date": -300153600,
+        "theater_spectators_formatted": null,
+        "title": "El impostor",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-impostor",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 395,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-impostor.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-impostor/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-impostor/master.m3u8"
+                }
+            ]
+        },
+        "year": 1956
+    }
+}

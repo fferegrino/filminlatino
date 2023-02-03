@@ -1,0 +1,551 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alejandro Parodi",
+                "gender": "m",
+                "id": 140,
+                "slug": "alejandro-parodi",
+                "url": "https://www.filminlatino.mx/actor/alejandro-parodi"
+            },
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            },
+            {
+                "full_name": "Rebeca Silva",
+                "gender": "f",
+                "id": 845,
+                "slug": "rebeca-silva",
+                "url": "https://www.filminlatino.mx/actriz/rebeca-silva"
+            },
+            {
+                "full_name": "Tito Junco",
+                "gender": "m",
+                "id": 846,
+                "slug": "tito-junco",
+                "url": "https://www.filminlatino.mx/actor/tito-junco"
+            },
+            {
+                "full_name": "Daniela  Romo",
+                "gender": "f",
+                "id": 10966,
+                "slug": "daniela-romo",
+                "url": "https://www.filminlatino.mx/actriz/daniela-romo"
+            },
+            {
+                "full_name": "Arlette Pacheco",
+                "gender": "m",
+                "id": 144,
+                "slug": "arlette-pacheco",
+                "url": "https://www.filminlatino.mx/actor/arlette-pacheco"
+            },
+            {
+                "full_name": "Ram\u00f3n M\u00e9ndez Jim\u00e9nez",
+                "gender": "m",
+                "id": 9143,
+                "slug": "ramon-mendez-jimenez",
+                "url": "https://www.filminlatino.mx/actor/ramon-mendez-jimenez"
+            },
+            {
+                "full_name": "Ignacio Retes",
+                "gender": "m",
+                "id": 1258,
+                "slug": "ignacio-retes",
+                "url": "https://www.filminlatino.mx/actor/ignacio-retes"
+            },
+            {
+                "full_name": "Narciso Busquets",
+                "gender": "m",
+                "id": 850,
+                "slug": "narciso-busquets",
+                "url": "https://www.filminlatino.mx/actor/narciso-busquets"
+            },
+            {
+                "full_name": "Leonor Llaus\u00e1s",
+                "gender": "m",
+                "id": 2157,
+                "slug": "leonor-llausas",
+                "url": "https://www.filminlatino.mx/actor/leonor-llausas"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n mejor fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1978
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1978
+            },
+            {
+                "category": "Mejor Gui\u00f3n Cinematogr\u00e1fico ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1978
+            },
+            {
+                "category": "Mejor Adaptaci\u00f3n ",
+                "icon": "fipresci",
+                "name": "FIPRESCI",
+                "slug": "fipresci",
+                "year": 1978
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Felipe Cazals",
+                "gender": "m",
+                "id": 74,
+                "slug": "felipe-cazals",
+                "url": "https://www.filminlatino.mx/director/felipe-cazals"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Cuando la vida de una ciudad se ve amenazada por una epidemia, la verdad puede ser el mejor ant\u00eddoto.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 319,
+        "image_card": "https://static.filminlatino.mx/images/media/319/7/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/319/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/319/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/319/9/still_9_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 224,
+        "original_title": "El a\u00f1o de la peste",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 10,
+                "name": "CONACITE Dos",
+                "slug": "conacite-dos",
+                "url": "https://www.filminlatino.mx/producer/conacite-dos"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-ano-de-la-peste",
+        "synopsis": "Una terrible enfermedad es detectada en alguna ciudad de la Rep\u00fablica Mexicana. El doctor Brennan, ampliamente reconocido en su especialidad, diagnostica que se trata de una epidemia y da aviso a las autoridades, pero estas no oyen sus advertencias. Poco tiempo despu\u00e9s, la epidemia es un hecho consumado. Ante la evidencia, el gobierno decide controlar la informaci\u00f3n para evitar el p\u00e1nico, organiza brigadas represivas disfrazadas de fumigadores y prolonga las vacaciones escolares. Los habitantes, por otro lado, fingen no darse cuenta y tratan de divertirse, mientras la ciudad se llena de cad\u00e1veres.",
+        "tags": [
+            {
+                "id": 750,
+                "name": "Cine cl\u00e1sico_MX",
+                "slug": "cine-clasico-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-clasico-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 184,
+                "name": "Virus",
+                "slug": "virus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/virus"
+            },
+            {
+                "id": 416,
+                "name": "Genocidio",
+                "slug": "genocidio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/genocidio"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1211,
+                "name": "1979",
+                "slug": "1979",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1979"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1501,
+                "name": "Festival Aleph 2020",
+                "slug": "festival-aleph-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-aleph-2020"
+            },
+            {
+                "id": 1533,
+                "name": "Las m\u00e1s vistas 2020",
+                "slug": "las-mas-vistas-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2020"
+            },
+            {
+                "id": 2185,
+                "name": "DNCM 2021",
+                "slug": "dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dncm-2021"
+            },
+            {
+                "id": 2191,
+                "name": "Ruta Cazals | DNCM 2021",
+                "slug": "ruta-cazals-dncm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ruta-cazals-dncm-2021"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 11,
+                "name": "Pel\u00edcula de culto",
+                "slug": "pelicula-de-culto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-culto"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 757,
+                "name": "Thriller_MX",
+                "slug": "thriller-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-mx"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 2436,
+                "name": "Muestra de Cine Coahuila 2021",
+                "slug": "muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2438,
+                "name": "Retrospectiva Felipe Cazals | Muestra de Cine Coahuila 2021",
+                "slug": "retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-felipe-cazals-muestra-de-cine-coahuila-2021"
+            },
+            {
+                "id": 2555,
+                "name": "Felipe Cazals | FICTequila",
+                "slug": "felipe-cazals-fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/felipe-cazals-fictequila"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2468,
+                "name": "Las m\u00e1s vistas 2021",
+                "slug": "las-mas-vistas-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2021"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2556,
+                "name": "FICTequila",
+                "slug": "fictequila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fictequila"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 287712000,
+        "theater_release_date": 287712000,
+        "theater_spectators_formatted": null,
+        "title": "El a\u00f1o de la peste",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-ano-de-la-peste",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 397,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-ano-presente.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-ano-presente/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-ano-presente/master.m3u8"
+                }
+            ]
+        },
+        "year": 1978
+    }
+}

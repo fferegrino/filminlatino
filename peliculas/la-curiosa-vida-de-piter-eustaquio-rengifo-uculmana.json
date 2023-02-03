@@ -1,0 +1,234 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Concurso de Proyectos de Largometraje del CONACINE 2011",
+                "slug": "concurso-de-proyectos-de-largometraje-del-conacine-2011",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Piter Eustaquio Rengifo Uculmana",
+                "gender": "m",
+                "id": 84,
+                "slug": "piter-eustaquio-rengifo-uculmana",
+                "url": "https://www.filminlatino.mx/character/piter-eustaquio-rengifo-uculmana"
+            }
+        ],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gianfranco  Annichini",
+                "gender": "m",
+                "id": 2174,
+                "slug": "gianfranco-annichini",
+                "url": "https://www.filminlatino.mx/director/gianfranco-annichini"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "La vida\u00a0de Piter Eustaquio Rengifo\u00a0llena de\u00a0abundantes percances ligada con su tr\u00e1gica muerte, es reconstruida como un rompecabezas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4837,
+        "image_card": "https://static.filminlatino.mx/images/media/4837/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4837/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4837/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4837/1/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "La curiosa vida de Piter Eustaquio Rengifo Uculmana",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1990,
+                "name": "Cine Moche",
+                "slug": "cine-moche",
+                "url": "https://www.filminlatino.mx/producer/cine-moche"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-curiosa-vida-de-piter-eustaquio-rengifo-uculmana",
+        "synopsis": "La vida de Piter Eustaquio Rengifo llena de\u00a0abundantes percances, riesgos, contratiempos y\u00a0dificultades ligada con su tr\u00e1gica muerte, es reconstruida como un rompecabezas por sus actos de amor, crimen y pecado. Es un hombre como cualquier otro\u00a0con la diferencia de que las iniciales de sus nombres forman la palabra 'PERU'.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 467,
+                "name": "Relatos",
+                "slug": "relatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relatos"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 623,
+                "name": "Or\u00edgenes",
+                "slug": "origenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/origenes"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La curiosa vida de Piter Eustaquio Rengifo Uculmana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-curiosa-vida-de-piter-eustaquio-rengifo-uculmana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4133,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LAcuriosaVIDAdePETER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LAcuriosaVIDAdePETER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LAcuriosaVIDAdePETER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

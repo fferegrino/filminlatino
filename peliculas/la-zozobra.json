@@ -1,0 +1,238 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pablo Cruz Villalba",
+                "gender": "m",
+                "id": 2250,
+                "slug": "pablo-cruz-villalba",
+                "url": "https://www.filminlatino.mx/director/pablo-cruz-villalba"
+            },
+            {
+                "full_name": "Andr\u00e9s  Mart\u00ednez de la Vi\u00f1a",
+                "gender": "m",
+                "id": 3830,
+                "slug": "andres-martinez-de-la-vina",
+                "url": "https://www.filminlatino.mx/director/andres-martinez-de-la-vina"
+            }
+        ],
+        "duration_in_minutes": 69,
+        "excerpt": "Tenemos que defender nuestra integridad, la dignidad, la justicia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7099,
+        "image_card": "https://static.filminlatino.mx/images/media/7099/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7099/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7099/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7099/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7099/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7099/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7099/1/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7099/2/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "La zozobra",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3238,
+                "name": "Pablo Cruz Villalba",
+                "slug": "pablo-cruz-villalba",
+                "url": "https://www.filminlatino.mx/producer/pablo-cruz-villalba"
+            },
+            {
+                "acronym": "",
+                "id": 3239,
+                "name": "Andr\u00e9s Mart\u00ednez de la Vi\u00f1a",
+                "slug": "andres-martinez-de-la-vina",
+                "url": "https://www.filminlatino.mx/producer/andres-martinez-de-la-vina"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-zozobra",
+        "synopsis": "En Ciudad del Carmen, Campeche, encallaron cinco barcos petroleros tripulados: un s\u00edntoma de la violaci\u00f3n a los derechos laborales de m\u00e1s de diez mil trabajadores. Laguna de T\u00e9rminos, la zona de manglar m\u00e1s importante del pa\u00eds, sufre las consecuencias ambientales de la corrupci\u00f3n. La pesca local decae desde el descubrimiento del segundo yacimiento petrolero m\u00e1s grande el mundo.\u00a0",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 1496,
+                "name": "Abuso de poder",
+                "slug": "abuso-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuso-de-poder"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1330,
+                "name": "Perspectiva",
+                "slug": "perspectiva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perspectiva"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1837,
+                "name": "Festival Zanate",
+                "slug": "festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-zanate"
+            },
+            {
+                "id": 1841,
+                "name": "Zanate universitario | Festival Zanate",
+                "slug": "zanate-universitario-festival-zanate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zanate-universitario-festival-zanate"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La zozobra",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-zozobra",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7387,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Ingl\u00e9s",
+                "part": null,
+                "type_id": 4
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2020
+    }
+}

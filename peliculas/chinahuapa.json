@@ -1,0 +1,239 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano, La Habana ",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-la-habana",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Festival Latinoamericano de Cine UNSAM, Argentina ",
+                "slug": "festival-latinoamericano-de-cine-unsam-argentina",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ricardo Garfias",
+                "gender": "m",
+                "id": 1771,
+                "slug": "ricardo-garfias",
+                "url": "https://www.filminlatino.mx/director/ricardo-garfias"
+            }
+        ],
+        "duration_in_minutes": 53,
+        "excerpt": "Es un vistazo a un mundo que ahora parece inexistente: el mundo del autosustento, la vejez plena y del goce por la vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 7,
+                "name": "Experimental",
+                "slug": "experimental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/experimental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3341,
+        "image_card": "https://static.filminlatino.mx/images/media/3341/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3341/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3341/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3341/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3341/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Chinahuapa (Bajo las estrellas)",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "chinahuapa",
+        "synopsis": "Con menci\u00f3n honorifica en el Festival Latinoamericano de Cine UNSAM, en Argentina, y activa participaci\u00f3n en diversos festivales internacionales, Chinahuapa (bajo las estrellas) es el misterio de la oscuridad y de la impresionante niebla que desciende al amanecer en aquel lugar. Vistazo a un mundo que ahora parece inexistente: al del autosustento, la vejez plena y del goce por la vida. Antonia, una mujer peque\u00f1a de rasgos infinitamente memorables por las huellas del tiempo presentes en su rostro, y el charrito, un hombre en el que el paso de los a\u00f1os se manifiesta en el esfuerzo que debe hacer d\u00eda a d\u00eda para trabajar su tierra sin pesar alguno, nos llevan al misterio de la vida en este filme.",
+        "tags": [
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Chinahuapa",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/chinahuapa",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2684,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2011
+    }
+}

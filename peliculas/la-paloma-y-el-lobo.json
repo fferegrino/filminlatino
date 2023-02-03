@@ -1,0 +1,439 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Paloma Petra",
+                "gender": "f",
+                "id": 9981,
+                "slug": "paloma-petra",
+                "url": "https://www.filminlatino.mx/actriz/paloma-petra"
+            },
+            {
+                "full_name": "Armando Hern\u00e1ndez",
+                "gender": "m",
+                "id": 288,
+                "slug": "armando-hernandez",
+                "url": "https://www.filminlatino.mx/actor/armando-hernandez"
+            },
+            {
+                "full_name": "M\u00f3nica del Carmen",
+                "gender": "f",
+                "id": 173,
+                "slug": "monica-del-carmen",
+                "url": "https://www.filminlatino.mx/actriz/monica-del-carmen"
+            },
+            {
+                "full_name": "Pablo  Mendoza",
+                "gender": "m",
+                "id": 7582,
+                "slug": "pablo-mendoza",
+                "url": "https://www.filminlatino.mx/actor/pablo-mendoza"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": ".",
+                "name": " Festival Internacional de Cine de Morelia 2019  M\u00e9xico ",
+                "slug": "festival-internacional-de-cine-de-morelia-2019-mexico",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Locarno Film Festival",
+                "slug": "locarno-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Lenin",
+                "gender": "m",
+                "id": 1362,
+                "slug": "carlos-lenin",
+                "url": "https://www.filminlatino.mx/director/carlos-lenin"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Desplazados por la violencia que arras\u00f3 con su pueblo, Paloma y Lobo sobreviven intentando amarse.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 8687,
+        "image_card": "https://static.filminlatino.mx/images/media/8687/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/8687/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/8687/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/8687/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/8687/3/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/8687/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/8687/1/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 60,
+        "original_title": "La Paloma y el Lobo",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-paloma-y-el-lobo",
+        "synopsis": "Desplazados por la violencia que arras\u00f3 con su pueblo, Paloma y Lobo sobreviven intentando amarse. Entre la sed, el miedo y la nostalgia, Paloma desea regresar a casa pero Lobo vive atado a un recuerdo que le impide volver.<br><br>Esta formidable \u00f3pera prima form\u00f3 parte de la selecci\u00f3n oficial del\u00a0Festival Internacional de Cine de\u00a0Morelia y de\u00a0Locarno Film Festival en 2019, donde adem\u00e1s\u00a0recibi\u00f3 el Swatch Arte Peace Hotel Award.\u00a0",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 1925,
+                "name": "Ficci\u00f3n cortometraje ",
+                "slug": "ficcion-cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion-cortometraje"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 259,
+                "name": "Parejas en el l\u00edmite",
+                "slug": "parejas-en-el-limite",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas-en-el-limite"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 725,
+                "name": "Peligro",
+                "slug": "peligro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligro"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2152,
+                "name": "6 a\u00f1os de FilminLatino",
+                "slug": "6-anos-de-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/6-anos-de-filminlatino"
+            },
+            {
+                "id": 2154,
+                "name": "Funciones especiales por tiempo limitado | 6 a\u00f1os de FilminLatino",
+                "slug": "funciones-especiales-por-tiempo-limitado-6-anos-de-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/funciones-especiales-por-tiempo-limitado-6-anos-de-filminlatino"
+            },
+            {
+                "id": 2494,
+                "name": "SVOD",
+                "slug": "svod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/svod"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 456,
+                "name": "Relaciones de poder",
+                "slug": "relaciones-de-poder",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-de-poder"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 1873,
+                "name": "Cine Club UG",
+                "slug": "cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-club-ug"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La Paloma y el Lobo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-paloma-y-el-lobo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 9871,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LA-PALOMA-Y-EL-LOBO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LA-PALOMA-Y-EL-LOBO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LA-PALOMA-Y-EL-LOBO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LA-PALOMA-Y-EL-LOBO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LA-PALOMA-Y-EL-LOBO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LA-PALOMA-Y-EL-LOBO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

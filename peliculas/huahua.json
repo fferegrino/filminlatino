@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9  Espinosa",
+                "gender": "m",
+                "id": 9012,
+                "slug": "jose-espinosa",
+                "url": "https://www.filminlatino.mx/actor/jose-espinosa"
+            },
+            {
+                "full_name": "Citlalli  Andrango",
+                "gender": "f",
+                "id": 9013,
+                "slug": "citlalli-andrango",
+                "url": "https://www.filminlatino.mx/actriz/citlalli-andrango"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor Largometraje",
+                "icon": ".",
+                "name": "Amazonia DOC 2019 Brasil",
+                "slug": "amazonia-doc-2019-brasil",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": ".",
+                "name": "First People\u2019s Presence Autochtone Film Festival,  2019 Canada",
+                "slug": "first-peoples-presence-autochtone-film-festival-2019-canada",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 63,
+                "name": "Ecuador",
+                "slug": "ecuador",
+                "url": "https://www.filminlatino.mx/catalogo/pais/ecuador"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9  Espinosa",
+                "gender": "m",
+                "id": 4316,
+                "slug": "jose-espinosa",
+                "url": "https://www.filminlatino.mx/director/jose-espinosa"
+            }
+        ],
+        "duration_in_minutes": 68,
+        "excerpt": "Una joven pareja ind\u00edgena enfrenta un sorpresivo embarazo, que los har\u00e1 cuestionarse sobre la identidad y el entorno donde criar al beb\u00e9 que esperan.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7536,
+        "image_card": "https://static.filminlatino.mx/images/media/7536/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/7536/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7536/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7536/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7536/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7536/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7536/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7536/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Huahua",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "huahua",
+        "synopsis": "Una joven pareja descubre que esperan un beb\u00e9. Esta noticia despierta su preocupaci\u00f3n sobre la identidad con la que educar\u00e1n y criar\u00e1n al \u201chuahua\u201d que viene en camino. Jos\u00e9, el futuro padre, regresa a su comunidad buscando respuestas sobre sus ra\u00edces. Citlalli, la futura madre, reflexiona sobre su identidad siendo hija de padre ind\u00edgena y madre mestiza. Los dos se enfrentar\u00e1n a las imposiciones de una sociedad globalizada y a la situaci\u00f3n actual de su cultura, de su pueblo y de su identidad.",
+        "tags": [
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 135,
+                "name": "Estreno controvertido",
+                "slug": "estreno-controvertido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estreno-controvertido"
+            },
+            {
+                "id": 1141,
+                "name": "Estrenos",
+                "slug": "estrenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos"
+            },
+            {
+                "id": 894,
+                "name": "Estrenos simult\u00e1neos",
+                "slug": "estrenos-simultaneos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-simultaneos"
+            },
+            {
+                "id": 140,
+                "name": "Sobre el embarazo",
+                "slug": "sobre-el-embarazo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-embarazo"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 259,
+                "name": "Parejas en el l\u00edmite",
+                "slug": "parejas-en-el-limite",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas-en-el-limite"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 1738,
+                "name": "Inter\u00e9s Cultural  ",
+                "slug": "interes-cultural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interes-cultural"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            },
+            {
+                "id": 2530,
+                "name": "Dadoras de vida",
+                "slug": "dadoras-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dadoras-de-vida"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Huahua",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/huahua",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 8205,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2018
+    }
+}

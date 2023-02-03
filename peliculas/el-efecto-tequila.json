@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Eduardo Victoria",
+                "gender": "m",
+                "id": 1291,
+                "slug": "eduardo-victoria",
+                "url": "https://www.filminlatino.mx/actor/eduardo-victoria"
+            },
+            {
+                "full_name": "Juan Carlos Colombo",
+                "gender": "m",
+                "id": 133,
+                "slug": "juan-carlos-colombo",
+                "url": "https://www.filminlatino.mx/actor/juan-carlos-colombo"
+            },
+            {
+                "full_name": "Juli\u00e1n Pastor",
+                "gender": "m",
+                "id": 779,
+                "slug": "julian-pastor",
+                "url": "https://www.filminlatino.mx/actor/julian-pastor"
+            },
+            {
+                "full_name": "Jos\u00e9 Alonso",
+                "gender": "m",
+                "id": 263,
+                "slug": "jose-alonso",
+                "url": "https://www.filminlatino.mx/actor/jose-alonso"
+            },
+            {
+                "full_name": "Karla Souza",
+                "gender": "f",
+                "id": 3230,
+                "slug": "karla-souza",
+                "url": "https://www.filminlatino.mx/actriz/karla-souza"
+            },
+            {
+                "full_name": "Hector Kotsifakis",
+                "gender": "m",
+                "id": 3865,
+                "slug": "hector-kotsifakis",
+                "url": "https://www.filminlatino.mx/actor/hector-kotsifakis"
+            }
+        ],
+        "avg_votes": 8.2,
+        "avg_votes_formatted": "8,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Le\u00f3n Serment",
+                "gender": "m",
+                "id": 536,
+                "slug": "leon-serment",
+                "url": "https://www.filminlatino.mx/director/leon-serment"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Una historia de amor: al dinero y al poder. Una filme de valor y de coraje.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1011,
+        "image_card": "https://static.filminlatino.mx/images/media/1011/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1011/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1011/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1011/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1011/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "El efecto tequila",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            },
+            {
+                "acronym": "",
+                "id": 634,
+                "name": "Taller de Luz Producciones, S.A. de C.V",
+                "slug": "taller-de-luz-producciones-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/taller-de-luz-producciones-sa-de-cv"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-efecto-tequila",
+        "synopsis": "Una pel\u00edcula valiente que refleja lo mejor y lo peor del ser humano, pero tambi\u00e9n es tragicomedia (como la vida misma) llena de humor, esperanza y autosacrificio: reflejo de un pa\u00eds que vive en una crisis financiera permanente, que produce el efecto tequila, pero que tiene la virtud de no dejarse vencer. Jos\u00e9 Fierro y Ana Luisa son personajes memorables porque representan a los seres que cometen errores y que saben reivindicarse.",
+        "tags": [
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1308268800,
+        "theater_release_date": 1308268800,
+        "theater_spectators_formatted": null,
+        "title": "El efecto tequila",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-efecto-tequila",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 844,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/effecto-tequila.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/effecto-tequila/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/effecto-tequila/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

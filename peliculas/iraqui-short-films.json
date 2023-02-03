@@ -1,0 +1,196 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [
+            {
+                "category": "Mejor Documental sobre el Mundo",
+                "icon": "festival-internacional-de-cine-documental-de-jihlava-republica-checa",
+                "name": "Festival Internacional de Cine Documental de Jihlava, Rep\u00fablica Checa",
+                "slug": "festival-internacional-de-cine-documental-de-jihlava-republica-checa",
+                "year": 2008
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mauro Andrizzi",
+                "gender": "m",
+                "id": 1075,
+                "slug": "mauro-andrizzi",
+                "url": "https://www.filminlatino.mx/director/mauro-andrizzi"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Desde im\u00e1genes prohibidas, clandestinas y secretas, Mauro Andrizzi trata de plasmar la verdadera cara detr\u00e1s de la guerra.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1832,
+        "image_card": "https://static.filminlatino.mx/images/media/1832/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1832/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1832/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1832/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1832/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1832/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1832/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1832/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Iraqui Short Films",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1252,
+                "name": "Mono Films",
+                "slug": "mono-films",
+                "url": "https://www.filminlatino.mx/producer/mono-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "iraqui-short-films",
+        "synopsis": "Un collage elaborado a partir de im\u00e1genes prohibidas, clandestinas y secretas de la guerra en Irak: las que ruedan los soldados y las que ruedan los terroristas. Atentados, sofisticados musicales en las bases aliadas, la preparaci\u00f3n de una bomba e incluso discusiones en off sobre la mejor manera de filmar un atentado. Dejando de lado cualquier tentaci\u00f3n snuff, Andrizzi mejora a Brian de Palma y demuestra que, nos guste o no, los espectadores somos ya parte del juego.",
+        "tags": [
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 27,
+                "name": "Guerra de Irak",
+                "slug": "guerra-de-irak",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-de-irak"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 230,
+                "name": "Cine experimental",
+                "slug": "cine-experimental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-experimental"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 530,
+                "name": "Conflicto Oriente Medio",
+                "slug": "conflicto-oriente-medio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-oriente-medio"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 1076,
+                "name": "INTERIOR XIII",
+                "slug": "interior-xiii",
+                "url": "https://www.filminlatino.mx/catalogo/tema/interior-xiii"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1226361600,
+        "theater_release_date": 1226361600,
+        "theater_spectators_formatted": null,
+        "title": "Iraqui Short Films",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/iraqui-short-films",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1399,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/iraqui-short-films.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/iraqui-short-films/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/iraqui-short-films/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

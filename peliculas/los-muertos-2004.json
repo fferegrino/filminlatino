@@ -1,0 +1,281 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Argentino Vargas",
+                "gender": "m",
+                "id": 1085,
+                "slug": "argentino-vargas",
+                "url": "https://www.filminlatino.mx/actor/argentino-vargas"
+            },
+            {
+                "full_name": "Francisco Dornez",
+                "gender": "m",
+                "id": 1101,
+                "slug": "francisco-dornez",
+                "url": "https://www.filminlatino.mx/actor/francisco-dornez"
+            },
+            {
+                "full_name": "Yolanda Galarza",
+                "gender": "f",
+                "id": 1102,
+                "slug": "yolanda-galarza",
+                "url": "https://www.filminlatino.mx/actriz/yolanda-galarza"
+            },
+            {
+                "full_name": "V\u00edctor Varela",
+                "gender": "m",
+                "id": 1103,
+                "slug": "victor-varela",
+                "url": "https://www.filminlatino.mx/actor/victor-varela"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2004
+            },
+            {
+                "category": "Reader Jury of the \"Standard\"",
+                "icon": "festival-internacional-de-cine-de-viena-austria",
+                "name": "Festival Internacional de Cine de Viena, Austria",
+                "slug": "festival-internacional-de-cine-de-viena-austria",
+                "year": 2004
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-internacional-de-cine-de-viena-austria",
+                "name": "Festival Internacional de Cine de Viena, Austria",
+                "slug": "festival-internacional-de-cine-de-viena-austria",
+                "year": 2004
+            },
+            {
+                "category": "Premio de la Ciudad de Tur\u00edn",
+                "icon": "festival-internacional-de-cine-joven-de-turin",
+                "name": "Festival Internacional de Cine Joven de Tur\u00edn",
+                "slug": "festival-internacional-de-cine-joven-de-turin",
+                "year": 2004
+            },
+            {
+                "category": "Premio CinemAvvenire",
+                "icon": "festival-internacional-de-cine-joven-de-turin",
+                "name": "Festival Internacional de Cine Joven de Tur\u00edn",
+                "slug": "festival-internacional-de-cine-joven-de-turin",
+                "year": 2004
+            },
+            {
+                "category": "C\u00e1mara Independiente ",
+                "icon": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "name": " Festival Internacional de Cine de Karlovy Vary, Checoslovaquia ",
+                "slug": "festival-internacional-de-cine-de-karlovy-vary-checoslovaquia",
+                "year": 2004
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-internacional-de-cine-de-erevan",
+                "name": "Festival Internacional de Cine de Erev\u00e1n",
+                "slug": "festival-internacional-de-cine-de-erevan",
+                "year": 2004
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            },
+            {
+                "id": 43,
+                "name": "Suiza",
+                "slug": "suiza",
+                "url": "https://www.filminlatino.mx/catalogo/pais/suiza"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lisandro Alonso",
+                "gender": "m",
+                "id": 426,
+                "slug": "lisandro-alonso",
+                "url": "https://www.filminlatino.mx/director/lisandro-alonso"
+            }
+        ],
+        "duration_in_minutes": 78,
+        "excerpt": "Un exprisionero emprende un largo viaje por canoa para poder llegar con su familia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 458,
+        "image_card": "https://static.filminlatino.mx/images/media/458/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/458/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/458/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/458/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/458/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/458/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Los muertos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 35,
+                "name": "Arte France Cin\u00e9ma",
+                "slug": "arte-france-cinema",
+                "url": "https://www.filminlatino.mx/producer/arte-france-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 440,
+                "name": "Fortuna Films",
+                "slug": "fortuna-films",
+                "url": "https://www.filminlatino.mx/producer/fortuna-films"
+            },
+            {
+                "acronym": "",
+                "id": 438,
+                "name": "4L",
+                "slug": "4l",
+                "url": "https://www.filminlatino.mx/producer/4l"
+            },
+            {
+                "acronym": "",
+                "id": 439,
+                "name": "Slot Machine",
+                "slug": "slot-machine",
+                "url": "https://www.filminlatino.mx/producer/slot-machine"
+            },
+            {
+                "acronym": "",
+                "id": 448,
+                "name": "Ventura Films",
+                "slug": "ventura-films",
+                "url": "https://www.filminlatino.mx/producer/ventura-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "los-muertos-2004",
+        "synopsis": "Un hombre de cincuenta y cuatro a\u00f1os sale de una c\u00e1rcel en la provincia de Corrientes. Lo \u00fanico que quiere es llegar hasta donde est\u00e1 su hija, que vive en un lugar perdido rodeado de agua y selva. Para llegar hasta donde est\u00e1 deber\u00e1 atravesar un largo trayecto de agua en una canoa.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 474,
+                "name": "Sobrevivir ",
+                "slug": "sobrevivir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobrevivir"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1099440000,
+        "theater_release_date": 1099440000,
+        "theater_spectators_formatted": null,
+        "title": "Los muertos (2004)",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-muertos-2004",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 667,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-muertos-2004.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-muertos-2004/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-muertos-2004/master.m3u8"
+                }
+            ]
+        },
+        "year": 2004
+    }
+}

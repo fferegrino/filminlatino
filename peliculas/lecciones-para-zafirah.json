@@ -1,0 +1,265 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "",
+                "name": "Latinoamericano Film Festival van Vlaanderen",
+                "slug": "latinoamericano-film-festival-van-vlaanderen",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "",
+                "name": "Puebla Festival",
+                "slug": "puebla-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "An\u00fb\u00fb-r\u00fb \u00e2boro",
+                "slug": "anuu-ru-aboro",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Internacional",
+                "icon": "",
+                "name": "Festival Cine Pobre",
+                "slug": "festival-cine-pobre",
+                "year": null
+            },
+            {
+                "category": "Premio Derechos Humanos",
+                "icon": "",
+                "name": "Latinoamericano Film Festival van Vlaanderen",
+                "slug": "latinoamericano-film-festival-van-vlaanderen",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "",
+                "name": "FICUNAM",
+                "slug": "ficunam",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": 2011
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "premio-jose-rovirosa",
+                "name": "Premio Jos\u00e9 Rovirosa",
+                "slug": "premio-jose-rovirosa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carolina Rivas",
+                "gender": "f",
+                "id": 648,
+                "slug": "carolina-rivas",
+                "url": "https://www.filminlatino.mx/directora/carolina-rivas"
+            },
+            {
+                "full_name": "Daoud Sarhandi",
+                "gender": "m",
+                "id": 649,
+                "slug": "daoud-sarhandi",
+                "url": "https://www.filminlatino.mx/director/daoud-sarhandi"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Referente indiscutible del cine mexicano de migraci\u00f3n, hechos, rostros y gestos humanos que se dan cita en torno al tren La Bestia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 987,
+        "image_card": "https://static.filminlatino.mx/images/media/987/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/987/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/987/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/987/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/987/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/987/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/987/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Lecciones para Zafirah",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "lecciones-para-zafirah",
+        "synopsis": "Referente indiscutible del cine mexicano de migraci\u00f3n, Lecciones para Zafirah retrata hechos, rostros y gestos humanos que se dan cita en torno al tren La Bestia \u2013que representa el veh\u00edculo simb\u00f3lico de escape para miles de migrantes que viajan hacia Estados Unidos. A trav\u00e9s de testimonios, captura la participaci\u00f3n de personas en M\u00e9xico que voluntariamente ofrecen ayuda a los migrantes: Las Mujeres de la Patrona y el padre Solalinde. Las im\u00e1genes de la pel\u00edcula son compartidas con la hija de los directores \u2013de nombre Zafirah\u2013 a manera de relato universal sobre la \u00e9poca en la que vive. Con un aliento cr\u00edtico y gozoso, los directores muestran un retrato desolador, pero tambi\u00e9n maravilloso de la grandeza humana \u2013invitando al espectador a transformar la mirada sobre los migrantes.",
+        "tags": [
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1934,
+                "name": "Ciclo: En busca de un futuro",
+                "slug": "ciclo-en-busca-de-un-futuro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-en-busca-de-un-futuro"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1296518400,
+        "theater_release_date": 1296518400,
+        "theater_spectators_formatted": null,
+        "title": "Lecciones para Zafirah",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/lecciones-para-zafirah",
+        "versions": [
+            {
+                "codes": [],
+                "id": 6033,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/lecciones-para-zafiran.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/lecciones-para-zafiran/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/lecciones-para-zafiran/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "San Diego Latino Film Festival",
+                "slug": "san-diego-latino-film-festival",
+                "year": null
+            },
+            {
+                "category": "Competencia Largometraje Documental Mexicano",
+                "icon": "",
+                "name": "Festival de Cine Documental Mexicano Zanate",
+                "slug": "festival-de-cine-documental-mexicano-zanate",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Documentales, Hot Docs Canad\u00e1",
+                "slug": "festival-internacional-de-documentales-hot-docs-canada",
+                "year": null
+            },
+            {
+                "category": "Mejor Documental Realizado por una Mujer ",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "MIC G\u00e9nero",
+                "slug": "mic-genero",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Alicia De los R\u00edos",
+                "gender": "f",
+                "id": 1030,
+                "slug": "alicia-de-los-rios",
+                "url": "https://www.filminlatino.mx/character/alicia-de-los-rios"
+            },
+            {
+                "full_name": "Liliana Guti\u00e9rrez",
+                "gender": "f",
+                "id": 1031,
+                "slug": "liliana-gutierrez",
+                "url": "https://www.filminlatino.mx/character/liliana-gutierrez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Daniela Rea G\u00f3mez",
+                "gender": "m",
+                "id": 4165,
+                "slug": "daniela-rea-gomez",
+                "url": "https://www.filminlatino.mx/director/daniela-rea-gomez"
+            }
+        ],
+        "duration_in_minutes": 73,
+        "excerpt": "Retrato de las batallas de dos mujeres que aguardan a sus familiares desaparecidos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7361,
+        "image_card": "https://static.filminlatino.mx/images/media/7361/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7361/3/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7361/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/7361/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 20,
+        "original_title": "No sucumbi\u00f3 la eternidad",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "no-sucumbio-la-eternidad",
+        "synopsis": "Dos historias distantes por d\u00e9cadas, la de Liliana -que en el 2010 perdi\u00f3 a su esposo por el crimen organizado- y la de Alicia -cuya madre fue desaparecida por el Estado mexicano en la Guerra Sucia-, se encuentran en este documental para mostrar los conflictos de la memoria y la lucha cotidiana de ambas por no desaparecer de la\u00a0vida.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 1954,
+                "name": "Programa Virtual Cu\u00f3rum Morelia",
+                "slug": "programa-virtual-cuorum-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/programa-virtual-cuorum-morelia"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "No sucumbi\u00f3 la eternidad",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/no-sucumbio-la-eternidad",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7828,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

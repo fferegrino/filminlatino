@@ -1,0 +1,352 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Maruja Bustamante ",
+                "gender": "f",
+                "id": 11601,
+                "slug": "maruja-bustamante",
+                "url": "https://www.filminlatino.mx/actriz/maruja-bustamante"
+            },
+            {
+                "full_name": "Monica Raiola ",
+                "gender": "f",
+                "id": 11602,
+                "slug": "monica-raiola",
+                "url": "https://www.filminlatino.mx/actriz/monica-raiola"
+            },
+            {
+                "full_name": "Andrea Strenitz",
+                "gender": "f",
+                "id": 3915,
+                "slug": "andrea-strenitz",
+                "url": "https://www.filminlatino.mx/actriz/andrea-strenitz"
+            },
+            {
+                "full_name": "Camilo Herrera ",
+                "gender": "m",
+                "id": 11603,
+                "slug": "camilo-herrera",
+                "url": "https://www.filminlatino.mx/actor/camilo-herrera"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Puerto Madryn",
+                "slug": "festival-internacional-de-cine-de-puerto-madryn",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Azul  Lombard\u00eda ",
+                "gender": "f",
+                "id": 6147,
+                "slug": "azul-lombardia",
+                "url": "https://www.filminlatino.mx/directora/azul-lombardia"
+            }
+        ],
+        "duration_in_minutes": 72,
+        "excerpt": "Con la llegada del d\u00f3berman de Mecha llega el tragic\u00f3mico final para hacer de la historia apenas un recuadro en las \u00faltimas p\u00e1ginas del diario local de ma\u00f1ana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10256,
+        "image_card": "https://static.filminlatino.mx/images/media/10256/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10256/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10256/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10256/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10256/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "D\u00f3berman ",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "doberman",
+        "synopsis": "Dos mujeres que son vecinas se encuentran una tarde en casa de una de ellas y comienzan a charlar. Pero a medida que la conversaci\u00f3n avanza, el tono de la misma va a cambiar hacia una postura que se presume m\u00e1s radical, ante la cual se intuye la posibilidad de que pueda ocurrir una gran tragedia dom\u00e9stica. La envidia y el prejuicio son los temas m\u00e1s fundamentales que trata el film.<br>",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2011,
+                "name": "Ellas: cine hecho por mujeres",
+                "slug": "ellas-cine-hecho-por-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-cine-hecho-por-mujeres"
+            },
+            {
+                "id": 1282,
+                "name": "Grupo de amigas ",
+                "slug": "grupo-de-amigas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupo-de-amigas"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 50,
+                "name": "Humor",
+                "slug": "humor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humor"
+            },
+            {
+                "id": 1731,
+                "name": "Argentina ",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argentina"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 682,
+                "name": "Destino",
+                "slug": "destino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destino"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 1135,
+                "name": "Animales",
+                "slug": "animales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales"
+            },
+            {
+                "id": 105,
+                "name": "Animales dom\u00e9sticos",
+                "slug": "animales-domesticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animales-domesticos"
+            },
+            {
+                "id": 523,
+                "name": "Slapstick comedia",
+                "slug": "slapstick-comedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/slapstick-comedia"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "D\u00f3berman",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/doberman",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12033,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DOBERMAN-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DOBERMAN-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DOBERMAN-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DOBERMAN-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DOBERMAN-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DOBERMAN-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

@@ -1,0 +1,487 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "latino-international-film-institute",
+                "name": "Latino International Film Institute",
+                "slug": "latino-international-film-institute",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "latino-international-film-institute",
+                "name": "Latino International Film Institute",
+                "slug": "latino-international-film-institute",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-doc-miami",
+                "name": "Festival Doc Miami",
+                "slug": "festival-doc-miami",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-karlovy-vary",
+                "name": "Festival Internacional de Cine Karlovy Vary",
+                "slug": "festival-internacional-de-cine-karlovy-vary",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Trisha Ziff",
+                "gender": "f",
+                "id": 333,
+                "slug": "trisha-ziff",
+                "url": "https://www.filminlatino.mx/directora/trisha-ziff"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "Una pel\u00edcula sobre un apasionado compromiso con una causa y sobre tres j\u00f3venes fot\u00f3grafos que creyeron que pod\u00edan cambiar el mundo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 362,
+        "image_card": "https://static.filminlatino.mx/images/media/362/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/362/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/362/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/362/3/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 55,
+        "original_title": "La maleta mexicana",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "TVE",
+                "id": 4,
+                "name": "Televisi\u00f3n Espa\u00f1ola",
+                "slug": "television-espanola",
+                "url": "https://www.filminlatino.mx/producer/television-espanola"
+            },
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 121,
+                "name": "Fundaci\u00f3n BBVA Bancomer",
+                "slug": "fundacion-bbva-bancomer",
+                "url": "https://www.filminlatino.mx/producer/fundacion-bbva-bancomer"
+            },
+            {
+                "acronym": "",
+                "id": 149,
+                "name": "Programa Ibermedia",
+                "slug": "programa-ibermedia",
+                "url": "https://www.filminlatino.mx/producer/programa-ibermedia"
+            },
+            {
+                "acronym": "",
+                "id": 254,
+                "name": "212 Berl\u00edn",
+                "slug": "212-berlin",
+                "url": "https://www.filminlatino.mx/producer/212-berlin"
+            },
+            {
+                "acronym": "TV3",
+                "id": 257,
+                "name": "Televisi\u00f3 de Catalunya",
+                "slug": "televisio-de-catalunya",
+                "url": "https://www.filminlatino.mx/producer/televisio-de-catalunya"
+            },
+            {
+                "acronym": "",
+                "id": 255,
+                "name": "Mallerich Films Paco Poch",
+                "slug": "mallerich-films-paco-poch",
+                "url": "https://www.filminlatino.mx/producer/mallerich-films-paco-poch"
+            },
+            {
+                "acronym": "",
+                "id": 256,
+                "name": "Alicorn Films",
+                "slug": "alicorn-films",
+                "url": "https://www.filminlatino.mx/producer/alicorn-films"
+            },
+            {
+                "acronym": "",
+                "id": 258,
+                "name": "ICAA",
+                "slug": "icaa",
+                "url": "https://www.filminlatino.mx/producer/icaa"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-maleta-mexicana",
+        "synopsis": "Narra la historia de tres cajas que fueron encontradas en un apartamento de la Ciudad de M\u00e9xico en 2007, tras haber desaparecido en medio del caos que reinaba en Europa a comienzos de la Segunda Guerra Mundial. Esta maleta conten\u00eda cuatro mil 500 negativos, fruto del trabajo de tres amigos que se conocieron en Par\u00eds entre 1936 y 1937 y que se convirtieron despu\u00e9s en los mejores fotorreporteros de su tiempo. Exiliados de sus propios pa\u00edses: Alemania, Polonia y Hungr\u00eda, fueron radicales que entendieron los peligros del fascismo. Viajaron juntos a Espa\u00f1a para combatirlo con sus c\u00e1maras. Sus nombres eran Robert Capa, David \"Chim\" Seymour y Gerda Taro.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 446,
+                "name": "Michael Nyman",
+                "slug": "michael-nyman",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michael-nyman"
+            },
+            {
+                "id": 23,
+                "name": "Segunda Guerra Mundial",
+                "slug": "segunda-guerra-mundial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segunda-guerra-mundial"
+            },
+            {
+                "id": 64,
+                "name": "Fotograf\u00eda",
+                "slug": "fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fotografia"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 978,
+                "name": "Recomendadas de Leticia Arredondo",
+                "slug": "recomendadas-de-leticia-arredondo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-leticia-arredondo"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1129,
+                "name": "Reality",
+                "slug": "reality",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reality"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1197,
+                "name": "2011",
+                "slug": "2011",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2011"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1418,
+                "name": "Guerra civil espa\u00f1ola",
+                "slug": "guerra-civil-espanola",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil-espanola"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 2326,
+                "name": "M\u00e1s de los realizadores del FICM 2021",
+                "slug": "mas-de-los-realizadores-del-ficm-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-realizadores-del-ficm-2021"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1320969600,
+        "theater_release_date": 1320969600,
+        "theater_spectators_formatted": null,
+        "title": "La maleta mexicana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-maleta-mexicana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 508,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-maleta-mexicana.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-maleta-mexicana/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-maleta-mexicana/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

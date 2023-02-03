@@ -1,0 +1,288 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alicia  Qui\u00f1\u00f3nez",
+                "gender": "f",
+                "id": 8543,
+                "slug": "alicia-quinonez",
+                "url": "https://www.filminlatino.mx/actriz/alicia-quinonez"
+            },
+            {
+                "full_name": "Ana Sof\u00eda  Gonz\u00e1lez",
+                "gender": "f",
+                "id": 8544,
+                "slug": "ana-sofia-gonzalez",
+                "url": "https://www.filminlatino.mx/actriz/ana-sofia-gonzalez"
+            },
+            {
+                "full_name": "Carolina  Rocha",
+                "gender": "f",
+                "id": 8545,
+                "slug": "carolina-rocha",
+                "url": "https://www.filminlatino.mx/actriz/carolina-rocha"
+            },
+            {
+                "full_name": "Kaarlo Isaacs  Barria",
+                "gender": "m",
+                "id": 8546,
+                "slug": "kaarlo-isaacs-barria",
+                "url": "https://www.filminlatino.mx/actor/kaarlo-isaacs-barria"
+            },
+            {
+                "full_name": "Alejandro Belmonte",
+                "gender": "m",
+                "id": 656,
+                "slug": "alejandro-belmonte",
+                "url": "https://www.filminlatino.mx/actor/alejandro-belmonte"
+            },
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mich  Zurita",
+                "gender": "m",
+                "id": 4105,
+                "slug": "mich-zurita",
+                "url": "https://www.filminlatino.mx/director/mich-zurita"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "\u00bfQu\u00e9 har\u00edas si el peor d\u00eda de tu vida fue a\u00fan peor de lo que recuerdas?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7293,
+        "image_card": "https://static.filminlatino.mx/images/media/7293/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7293/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7293/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7293/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7293/2/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 125,
+        "original_title": "El d\u00eda que me perd\u00ed",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3409,
+                "name": "Mich Zurita",
+                "slug": "mich-zurita",
+                "url": "https://www.filminlatino.mx/producer/mich-zurita"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-dia-que-me-perdi",
+        "synopsis": "\"El d\u00eda que me perd\u00ed\" narra el viaje de Xochil, una chica que se atreve a sumergirse en su pasado para encontrarse a s\u00ed misma, abriendo las puertas de un mundo que cre\u00eda olvidado.\u00a0",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1330,
+                "name": "Perspectiva",
+                "slug": "perspectiva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perspectiva"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El d\u00eda que me perd\u00ed",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-dia-que-me-perdi",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11063,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/EL-DIA-QUE-ME-PERDI-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/EL-DIA-QUE-ME-PERDI-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/EL-DIA-QUE-ME-PERDI-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

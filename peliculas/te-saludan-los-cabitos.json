@@ -1,0 +1,228 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luis Cintora",
+                "gender": "m",
+                "id": 2151,
+                "slug": "luis-cintora",
+                "url": "https://www.filminlatino.mx/director/luis-cintora"
+            }
+        ],
+        "duration_in_minutes": 67,
+        "excerpt": "Documental que retrata la barbarie del ej\u00e9rcito peruano durante la d\u00e9cada de los a\u00f1os ochenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4584,
+        "image_card": "https://static.filminlatino.mx/images/media/4584/1/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4584/1/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4584/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4584/2/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4584/1/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4584/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4584/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4584/2/still_3_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Te saludan los Cabitos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "te-saludan-los-cabitos",
+        "synopsis": "Durante la d\u00e9cada de los a\u00f1os ochenta, Ayacucho asisti\u00f3 al estallido de la llamada guerra popular que enfrent\u00f3 al movimiento subversivo Sendero Luminoso y al Estado Peruano. En 1983, el comando pol\u00edtico-militar instala su base de operaciones en el Cuartel General n\u00ba 51 de Ayacucho, conocido popularmente como Los Cabitos. Este cuartel se convertir\u00e1 pronto en un centro clandestino de detenci\u00f3n, tortura, desaparici\u00f3n forzada y ejecuci\u00f3n extrajudicial de civiles considerados sospechosos de formar parte de Sendero Luminoso. Este documental es la tercera parte de una trilog\u00eda\u00a0 compuesta tambi\u00e9n por 'Las huellas del Sendero' y 'El expreso cabanino' que retrata la barbarie del ej\u00e9rcito peruano en esos a\u00f1os.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 141,
+                "name": "Guerra Civil ",
+                "slug": "guerra-civil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-civil"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 286,
+                "name": "Revuelta social",
+                "slug": "revuelta-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revuelta-social"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Te saludan los Cabitos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/te-saludan-los-cabitos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4110,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

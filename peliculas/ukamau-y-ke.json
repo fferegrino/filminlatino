@@ -1,0 +1,276 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Documental \u201cEncuentros del Otro Cine\u201d \u2013 EDOC",
+                "slug": "festival-internacional-de-cine-documental-encuentros-del-otro-cine-edoc",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Abraham Boj\u00f3rquez",
+                "gender": "m",
+                "id": 53,
+                "slug": "abraham-bojorquez",
+                "url": "https://www.filminlatino.mx/character/abraham-bojorquez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 29,
+                "name": "Bolivia",
+                "slug": "bolivia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/bolivia"
+            },
+            {
+                "id": 63,
+                "name": "Ecuador",
+                "slug": "ecuador",
+                "url": "https://www.filminlatino.mx/catalogo/pais/ecuador"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Andr\u00e9s Ram\u00edrez",
+                "gender": "m",
+                "id": 2117,
+                "slug": "andres-ramirez",
+                "url": "https://www.filminlatino.mx/director/andres-ramirez"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Documental sobre el\u00a0famoso rapero Abraham Boj\u00f3rquez que narra de manera \u00edntima su expresi\u00f3n art\u00edstica y lo que sucedi\u00f3 con \u00e9l.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4417,
+        "image_card": "https://static.filminlatino.mx/images/media/4417/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4417/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4417/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4417/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/4417/3/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4417/3/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/4417/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4417/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4417/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/4417/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Ukamau y K\u00e9",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1962,
+                "name": "Fondo de Fomento Cinematogr\u00e1fico. Consejo Nacional de Cinematograf\u00eda del Ecuador a\u00f1os 2012-2014",
+                "slug": "fondo-de-fomento-cinematografico-consejo-nacional-de-cinematografia-del-ecuador-anos-2012-2014",
+                "url": "https://www.filminlatino.mx/producer/fondo-de-fomento-cinematografico-consejo-nacional-de-cinematografia-del-ecuador-anos-2012-2014"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "ukamau-y-ke",
+        "synopsis": "Abraham Boj\u00f3rquez desarroll\u00f3 el llamado hip-hop en lengua aymara a principios del siglo XXI y estremeci\u00f3\u00a0a la sociedad latinoam\u00e9rica con su l\u00edrica rebelde. En el documental se trata de develar la\u00a0historia de su deceso cuando estuvo en la c\u00faspide de su carrera musical, justo al terminar la grabaci\u00f3n de su segundo disco. El rapero y\u00a0director ecuatoriano Andr\u00e9s Ram\u00edrez, amigo de Abraham, lo trae de vuelta a la vida mediante archivos, testimonios y visiones on\u00edricas.<br>",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 227,
+                "name": "Onirismo y surrealismo",
+                "slug": "onirismo-y-surrealismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/onirismo-y-surrealismo"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 666,
+                "name": "\u00daltima obra",
+                "slug": "ultima-obra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ultima-obra"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 440,
+                "name": "Hip Hop",
+                "slug": "hip-hop",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hip-hop"
+            },
+            {
+                "id": 688,
+                "name": "Rap",
+                "slug": "rap",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rap"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 385,
+                "name": "Cantantes",
+                "slug": "cantantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cantantes"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 1421,
+                "name": "Sonidos del barrio",
+                "slug": "sonidos-del-barrio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sonidos-del-barrio"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1494892800,
+        "theater_release_date": 1494892800,
+        "theater_spectators_formatted": null,
+        "title": "Ukamau y K\u00e9",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/ukamau-y-ke",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3735,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/UKAMAU.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/UKAMAU/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/UKAMAU/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

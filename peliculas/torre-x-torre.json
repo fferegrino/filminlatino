@@ -1,0 +1,221 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.7,
+        "avg_votes_formatted": "9,7",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Obreg\u00f3n",
+                "gender": "m",
+                "id": 2716,
+                "slug": "juan-obregon",
+                "url": "https://www.filminlatino.mx/director/juan-obregon"
+            },
+            {
+                "full_name": "Roberto Garza",
+                "gender": "m",
+                "id": 2717,
+                "slug": "roberto-garza",
+                "url": "https://www.filminlatino.mx/director/roberto-garza"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Hay h\u00e9roes que nunca lo fueron. Carlos Torre Repetto, un gran maestro internacional de ajedrez s\u00fabitamente deja de jugar en su vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5905,
+        "image_card": "https://static.filminlatino.mx/images/media/5905/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5905/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5905/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5905/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5905/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5905/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "TORRE x TORRE",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2251,
+                "name": "Roberto Garza",
+                "slug": "roberto-garza",
+                "url": "https://www.filminlatino.mx/producer/roberto-garza"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "torre-x-torre",
+        "synopsis": "En los albores de su carrera ajedrec\u00edstica, nadie ten\u00eda dudas de que Carlos Torre era un s\u00f3lido candidato para ser el futuro campe\u00f3n del mundo de ajedrez. Sin embargo, una barrera se interpuso: s\u00fabitamente, tr\u00e1gicamente, su sistema nervioso se colaps\u00f3 afuera del zool\u00f3gico de Nueva York. Torre volvi\u00f3 en s\u00ed tras varios d\u00edas, cuando se encontraba en un barco que lo llevaba de regreso a Yucat\u00e1n. Ya no volver\u00eda a jugar ajedrez profesionalmente en su vida. Ten\u00eda 21 a\u00f1os de edad, era el a\u00f1o de 1926.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 339,
+                "name": "Proceso creativo",
+                "slug": "proceso-creativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/proceso-creativo"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 358,
+                "name": "Azar",
+                "slug": "azar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/azar"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2490,
+                "name": "Despedidas",
+                "slug": "despedidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/despedidas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "TORRE x TORRE",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/torre-x-torre",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5494,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/T-X-T-FINAL.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/T-X-T-FINAL/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/T-X-T-FINAL/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

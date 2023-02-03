@@ -1,0 +1,295 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "DOCSMX",
+                "slug": "docsmx",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Laura Serrano",
+                "gender": "f",
+                "id": 2655,
+                "slug": "laura-serrano",
+                "url": "https://www.filminlatino.mx/character/laura-serrano"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Mariana  Tames",
+                "gender": "f",
+                "id": 6303,
+                "slug": "mariana-tames",
+                "url": "https://www.filminlatino.mx/directora/mariana-tames"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Laura Serrano es una abogada apasionada del boxeo que va a emprender una larga batalla para legalizar el boxeo femenil en M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10717,
+        "image_card": "https://static.filminlatino.mx/images/media/10717/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10717/3/poster_0_3.JPG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10717/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/3/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/3/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/3/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_11_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_12_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_13_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_14_3.jpg",
+            "https://static.filminlatino.mx/images/media/10717/4/still_15_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 15,
+        "original_title": "La poeta del ring",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-poeta-del-ring",
+        "synopsis": "El boxeo femenil en M\u00e9xico era ilegal hasta 1999, Laura Serrano, considerada la pionera del boxeo, dedic\u00f3 a\u00f1os de su vida a luchar para la legalizaci\u00f3n. La Poeta del Ring es el retrato de una mujer excepcional que decidi\u00f3 no aceptar los l\u00edmites que le impon\u00edan la sociedad. Laura Serrano sobrepas\u00f3 muchos obst\u00e1culos para poder boxear pero despu\u00e9s de unos a\u00f1os decidi\u00f3 hacer un cambio radical en su vida.<br>",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 2073,
+                "name": "Luchas hist\u00f3ricas y condiciones actuales",
+                "slug": "luchas-historicas-y-condiciones-actuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchas-historicas-y-condiciones-actuales"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 80,
+                "name": "Pel\u00edculas sobre revoluciones",
+                "slug": "peliculas-sobre-revoluciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-sobre-revoluciones"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 278,
+                "name": "Hero\u00ednas",
+                "slug": "heroinas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroinas"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2528,
+                "name": "Corporalidades triunfantes",
+                "slug": "corporalidades-triunfantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corporalidades-triunfantes"
+            },
+            {
+                "id": 2778,
+                "name": "16 d\u00edas de activismo INMUJERES 2022",
+                "slug": "16-dias-de-activismo-inmujeres-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo-inmujeres-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La poeta del ring",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-poeta-del-ring",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12461,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

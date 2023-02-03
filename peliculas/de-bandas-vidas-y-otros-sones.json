@@ -1,0 +1,319 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [
+            {
+                "category": "Premio al mejor documental educativo  1986",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sonia Fritz",
+                "gender": "f",
+                "id": 6062,
+                "slug": "sonia-fritz",
+                "url": "https://www.filminlatino.mx/directora/sonia-fritz"
+            }
+        ],
+        "duration_in_minutes": 60,
+        "excerpt": "Dos pueblos\u2026 Santa Catarina Albarradas y Ciudad Nezahualc\u00f3yotl, una misma tradici\u00f3n, una sola m\u00fasica, la m\u00fasica de banda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10110,
+        "image_card": "https://static.filminlatino.mx/images/media/10110/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10110/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10110/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10110/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10110/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10110/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/10110/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "De bandas, vidas y otros sones",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "de-bandas-vidas-y-otros-sones",
+        "synopsis": "El pueblo de Santa Catarina Albarradas como muchos otros pueblos de la Sierra Zapoteca posee su banda de m\u00fasica, que es un elemento aglutinador que acompa\u00f1a sus celebraciones comunitarias como fiestas, ritos o entierros. Desde la d\u00e9cada de los sesenta comienza un proceso de migraci\u00f3n al estado de M\u00e9xico en particular a Ciudad Nezahualc\u00f3yotl en donde se asienta un importante grupo de migrantes Zapotecos, quienes a pesar de la distancia contin\u00faan con sus tradiciones y crean su propia banda de m\u00fasica como parte de su identidad, siendo un elemento de uni\u00f3n frente a la adversidad que se pudiese presentar en su condici\u00f3n de migrantes.<br>",
+        "tags": [
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 2360,
+                "name": "Zapoteca",
+                "slug": "zapoteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zapoteca"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 2413,
+                "name": "Migraci\u00f3n | INPI",
+                "slug": "migracion-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion-inpi"
+            },
+            {
+                "id": 2355,
+                "name": "Fiestas y tradiciones",
+                "slug": "fiestas-y-tradiciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-tradiciones"
+            },
+            {
+                "id": 2358,
+                "name": "Fiestas y costumbres | INPI ",
+                "slug": "fiestas-y-costumbres-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-costumbres-inpi"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 59,
+                "name": "Esp\u00edritus",
+                "slug": "espiritus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritus"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 431,
+                "name": "Resistencia",
+                "slug": "resistencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/resistencia"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2693,
+                "name": "17\u00ba edici\u00f3n Shorts MX",
+                "slug": "17o-edicion-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/17o-edicion-shorts-mx"
+            },
+            {
+                "id": 1754,
+                "name": "Cuajimalpa de Morelos | Promotores Culturales Comunitarios",
+                "slug": "cuajimalpa-de-morelos-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuajimalpa-de-morelos-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2501,
+                "name": "Lengua Materna | INPI",
+                "slug": "lengua-materna-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna-inpi"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2698,
+                "name": "Ganadores del premio Ariel de la AMACC | Shorts M\u00e9xico 2022",
+                "slug": "ganadores-del-premio-ariel-de-la-amacc-shorts-mexico-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-del-premio-ariel-de-la-amacc-shorts-mexico-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "De bandas, vidas y otros sones",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/de-bandas-vidas-y-otros-sones",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11901,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1985
+    }
+}

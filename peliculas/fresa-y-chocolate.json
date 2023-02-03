@@ -1,0 +1,464 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jorge Perugorr\u00eda",
+                "gender": "m",
+                "id": 877,
+                "slug": "jorge-perugorria",
+                "url": "https://www.filminlatino.mx/actor/jorge-perugorria"
+            },
+            {
+                "full_name": "Vladimir Cruz",
+                "gender": "m",
+                "id": 878,
+                "slug": "vladimir-cruz",
+                "url": "https://www.filminlatino.mx/actor/vladimir-cruz"
+            },
+            {
+                "full_name": "Mirtha Ibarra",
+                "gender": "f",
+                "id": 2810,
+                "slug": "mirtha-ibarra",
+                "url": "https://www.filminlatino.mx/actriz/mirtha-ibarra"
+            },
+            {
+                "full_name": "Francisco Gattorno",
+                "gender": "m",
+                "id": 880,
+                "slug": "francisco-gattorno",
+                "url": "https://www.filminlatino.mx/actor/francisco-gattorno"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Festival de Cine de Berl\u00edn",
+                "icon": "premio-teddy",
+                "name": "Premio Teddy    ",
+                "slug": "premio-teddy",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a Mejor pel\u00edcula de habla no inglesa",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": null
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula extranjera de habla hispana",
+                "icon": "goya",
+                "name": "Goya",
+                "slug": "goya",
+                "year": null
+            },
+            {
+                "category": "Hugo de Plata al Mejor actor ",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": null
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "",
+                "name": " Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 51,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/pais/cuba"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Tom\u00e1s Guti\u00e9rrez Alea",
+                "gender": "m",
+                "id": 331,
+                "slug": "tomas-gutierrez-alea",
+                "url": "https://www.filminlatino.mx/director/tomas-gutierrez-alea"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "La Cuba de los a\u00f1os 70 retratada a partir de una relaci\u00f3n de amistad entre un artista que cree en la libertad y un estudiante que sigue fielmente en los preceptos de la revoluci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2765,
+        "image_card": "https://static.filminlatino.mx/images/media/2765/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2765/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2765/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2765/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2765/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 97,
+        "original_title": "Fresa y chocolate",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 184,
+                "name": "ICAIC",
+                "slug": "icaic",
+                "url": "https://www.filminlatino.mx/producer/icaic"
+            },
+            {
+                "acronym": "",
+                "id": 853,
+                "name": "TeleMadrid",
+                "slug": "telemadrid",
+                "url": "https://www.filminlatino.mx/producer/telemadrid"
+            },
+            {
+                "acronym": "",
+                "id": 247,
+                "name": "Sociedad General De Autores De Espa\u00f1a",
+                "slug": "sociedad-general-de-autores-de-espana",
+                "url": "https://www.filminlatino.mx/producer/sociedad-general-de-autores-de-espana"
+            },
+            {
+                "acronym": "",
+                "id": 152,
+                "name": "Tabasco Films",
+                "slug": "tabasco-films",
+                "url": "https://www.filminlatino.mx/producer/tabasco-films"
+            },
+            {
+                "acronym": "",
+                "id": 248,
+                "name": "Miramax ",
+                "slug": "miramax",
+                "url": "https://www.filminlatino.mx/producer/miramax"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "fresa-y-chocolate",
+        "synopsis": "David es un comunista convencido que estudia sociolog\u00eda en la Universidad de La Habana. Diego es un artista homosexual acosado por la homofobia del r\u00e9gimen castrista. A pesar de las abismales diferencias que los separan, entre ellos surge una profunda amistad.",
+        "tags": [
+            {
+                "id": 630,
+                "name": "Ganadores del Goya",
+                "slug": "ganadores-del-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-del-goya"
+            },
+            {
+                "id": 92,
+                "name": "Comunismo",
+                "slug": "comunismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunismo"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 156,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuba"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 80,
+                "name": "Pel\u00edculas sobre revoluciones",
+                "slug": "peliculas-sobre-revoluciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-sobre-revoluciones"
+            },
+            {
+                "id": 295,
+                "name": "Dictadura",
+                "slug": "dictadura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dictadura"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 907,
+                "name": "Otras ganadoras Berlin",
+                "slug": "otras-ganadoras-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-ganadoras-berlin"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1424,
+                "name": "Recomendadas de Jonathan Salda\u00f1a",
+                "slug": "recomendadas-de-jonathan-saldana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-jonathan-saldana"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Fresa y chocolate",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/fresa-y-chocolate",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2134,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/fresas-y-chocolates.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/fresas-y-chocolates/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/fresas-y-chocolates/master.m3u8"
+                }
+            ]
+        },
+        "year": 1993
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Rojo",
+                "gender": "f",
+                "id": 137,
+                "slug": "maria-rojo",
+                "url": "https://www.filminlatino.mx/actriz/maria-rojo"
+            },
+            {
+                "full_name": "H\u00e9ctor Ortega",
+                "gender": "m",
+                "id": 152,
+                "slug": "hector-ortega",
+                "url": "https://www.filminlatino.mx/actor/hector-ortega"
+            },
+            {
+                "full_name": "Gina Morett",
+                "gender": "f",
+                "id": 496,
+                "slug": "gina-morett",
+                "url": "https://www.filminlatino.mx/actriz/gina-morett"
+            },
+            {
+                "full_name": "H\u00e9ctor Bonilla",
+                "gender": "m",
+                "id": 521,
+                "slug": "hector-bonilla",
+                "url": "https://www.filminlatino.mx/actor/hector-bonilla"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1991
+            },
+            {
+                "category": "Mejor Actor de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1991
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Buil ",
+                "gender": "m",
+                "id": 96,
+                "slug": "jose-buil",
+                "url": "https://www.filminlatino.mx/director/jose-buil"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Versi\u00f3n\u00a0HD\u00a0estabilizada\u00a0por la Cineteca Nacional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 24,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/genero/suspenso"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 186,
+        "image_card": "https://static.filminlatino.mx/images/media/186/6/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/186/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/186/6/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/186/18/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/186/16/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/186/8/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/186/14/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/186/22/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 57,
+        "original_title": "La leyenda de una m\u00e1scara",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 13,
+                "name": "CONACITE Uno",
+                "slug": "conacite-uno",
+                "url": "https://www.filminlatino.mx/producer/conacite-uno"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-leyenda-de-una-mascara",
+        "synopsis": "Despu\u00e9s de que el \u00eddolo de todas las arenas del pa\u00eds, El \u00e1ngel enmascarado, fuera encontrado muerto en su mansi\u00f3n, el reportero Olmo Robles tiene la dif\u00edcil misi\u00f3n de descubrir todos los secretos del h\u00e9roe.\u00a0Es una combinaci\u00f3n entre el g\u00e9nero de detectives y el cine de luchadores que da como resultado una\u00a0pel\u00edcula 100% de cine negro\u00a0que no le pide nada a ninguna otra pel\u00edcula francesa o estadounidense de este estilo.",
+        "tags": [
+            {
+                "id": 735,
+                "name": "Feratum Film Fest",
+                "slug": "feratum-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feratum-film-fest"
+            },
+            {
+                "id": 751,
+                "name": "Suspense_MX",
+                "slug": "suspense-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspense-mx"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 395,
+                "name": "M\u00e1scaras",
+                "slug": "mascaras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mascaras"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1046,
+                "name": "En el ring",
+                "slug": "en-el-ring",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-ring"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1513,
+                "name": "Homenaje a H\u00e9ctor Ortega",
+                "slug": "homenaje-a-hector-ortega",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homenaje-a-hector-ortega"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2304,
+                "name": "D\u00edptico de Cine Mexicano Vol. IV",
+                "slug": "diptico-de-cine-mexicano-vol-iv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diptico-de-cine-mexicano-vol-iv"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 667094400,
+        "theater_release_date": 667094400,
+        "theater_spectators_formatted": null,
+        "title": "La leyenda de una m\u00e1scara",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-leyenda-de-una-mascara",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 123,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1991
+    }
+}

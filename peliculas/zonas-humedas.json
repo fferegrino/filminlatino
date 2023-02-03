@@ -1,0 +1,364 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Carla Juri",
+                "gender": "f",
+                "id": 2984,
+                "slug": "carla-juri",
+                "url": "https://www.filminlatino.mx/actriz/carla-juri"
+            },
+            {
+                "full_name": "Christoph Letkowski",
+                "gender": "m",
+                "id": 2985,
+                "slug": "christoph-letkowski",
+                "url": "https://www.filminlatino.mx/actor/christoph-letkowski"
+            },
+            {
+                "full_name": "Meret Becker",
+                "gender": "f",
+                "id": 2986,
+                "slug": "meret-becker",
+                "url": "https://www.filminlatino.mx/actriz/meret-becker"
+            },
+            {
+                "full_name": "Axel Milberg",
+                "gender": "m",
+                "id": 2987,
+                "slug": "axel-milberg",
+                "url": "https://www.filminlatino.mx/actor/axel-milberg"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-internacional-de-cine-de-locarno",
+                "name": "Festival Internacional de Cine de Locarno",
+                "slug": "festival-internacional-de-cine-de-locarno",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "David Wnendt",
+                "gender": "m",
+                "id": 1064,
+                "slug": "david-wnendt",
+                "url": "https://www.filminlatino.mx/director/david-wnendt"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "Para espectadores de criterio amplio y preparados para todo. Helen tiene una buena historia qu\u00e9 contar, s\u00f3lo esc\u00fachenla.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1810,
+        "image_card": "https://static.filminlatino.mx/images/media/1810/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1810/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1810/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1810/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 96,
+        "original_title": "Feuchtgebiete",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1105,
+                "name": "Rommel Film",
+                "slug": "rommel-film",
+                "url": "https://www.filminlatino.mx/producer/rommel-film"
+            },
+            {
+                "acronym": "ZDF",
+                "id": 1216,
+                "name": "Zweites Deutsches Fernsehen",
+                "slug": "zweites-deutsches-fernsehen",
+                "url": "https://www.filminlatino.mx/producer/zweites-deutsches-fernsehen"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "zonas-humedas",
+        "synopsis": "Una pel\u00edcula solo para espectadores de amplio criterio. A Helen Memel le gusta experimentar placer en situaciones fuera de lo com\u00fan y piensa que la higiene corporal est\u00e1 completamente sobrevalorada. Tambi\u00e9n le encanta hablar sobre muchos temas que otras personas consideran inapropiados para una chica de su edad.",
+        "tags": [
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 79,
+                "name": "Prostituci\u00f3n",
+                "slug": "prostitucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prostitucion"
+            },
+            {
+                "id": 139,
+                "name": "Sobre el divorcio",
+                "slug": "sobre-el-divorcio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-el-divorcio"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 294,
+                "name": "Basada en novela",
+                "slug": "basada-en-novela",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-novela"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 818,
+                "name": "Otras chicas pesadas",
+                "slug": "otras-chicas-pesadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-chicas-pesadas"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 134,
+                "name": "Basada en un bestseller",
+                "slug": "basada-en-un-bestseller",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-un-bestseller"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 815,
+                "name": "Cuerpos disidentes",
+                "slug": "cuerpos-disidentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuerpos-disidentes"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 1131,
+                "name": "Sex and dating",
+                "slug": "sex-and-dating",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sex-and-dating"
+            },
+            {
+                "id": 929,
+                "name": "Cine punk",
+                "slug": "cine-punk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-punk"
+            },
+            {
+                "id": 968,
+                "name": "Recomendadas de Alberto Acu\u00f1a Navarijo",
+                "slug": "recomendadas-de-alberto-acuna-navarijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-alberto-acuna-navarijo"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1931,
+                "name": "Internacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "internacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/internacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            },
+            {
+                "id": 2657,
+                "name": "Deseo",
+                "slug": "deseo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deseo"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1428624000,
+        "theater_release_date": 1428624000,
+        "theater_spectators_formatted": null,
+        "title": "Zonas h\u00famedas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/zonas-humedas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1273,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/zonas-humedas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/zonas-humedas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/zonas-humedas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

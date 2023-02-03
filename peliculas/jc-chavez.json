@@ -1,0 +1,267 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Luna",
+                "gender": "m",
+                "id": 401,
+                "slug": "diego-luna",
+                "url": "https://www.filminlatino.mx/director/diego-luna"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Un documental dirigido por Diego Luna, sobre la vida del famoso boxeador mexicano, Julio C\u00e9sar Ch\u00e1vez.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2650,
+        "image_card": "https://static.filminlatino.mx/images/media/2650/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2650/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2650/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2650/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2650/8/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 29,
+        "original_title": "J.C. Ch\u00e1vez",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1560,
+                "name": "Canana Films",
+                "slug": "canana-films",
+                "url": "https://www.filminlatino.mx/producer/canana-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "jc-chavez",
+        "synopsis": "Documental acerca de Julio C\u00e9sar Ch\u00e1vez, famoso boxeador mexicano en el que se muestra su historial y entrevistas a personalidades del deporte, periodistas, pol\u00edticos y nuevas im\u00e1genes. La investigaci\u00f3n abarca su vida desde los inicios en su carrera y sus hist\u00f3ricos triunfos, su lucha interna por derrotar el inevitable paso del tiempo y el traspaso de su legado a su hijo, Julio C\u00e9sar Ch\u00e1vez, Jr.",
+        "tags": [
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 102,
+                "name": "Periodismo",
+                "slug": "periodismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/periodismo"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 348,
+                "name": "Luchadores",
+                "slug": "luchadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/luchadores"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 158,
+                "name": "Boxeo",
+                "slug": "boxeo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeo"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 763,
+                "name": "Diego y Gael",
+                "slug": "diego-y-gael",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diego-y-gael"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 893,
+                "name": "Docuficci\u00f3n",
+                "slug": "docuficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docuficcion"
+            },
+            {
+                "id": 951,
+                "name": "Boxeadores",
+                "slug": "boxeadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/boxeadores"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1046,
+                "name": "En el ring",
+                "slug": "en-el-ring",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-ring"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "J.C. Ch\u00e1vez",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/jc-chavez",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2105,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/j-c-chavez.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/j-c-chavez/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/j-c-chavez/master.m3u8"
+                }
+            ]
+        },
+        "year": 2007
+    }
+}

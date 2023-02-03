@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.8,
+        "avg_votes_formatted": "9,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Paloma Ay\u00f3n Rosas",
+                "gender": "f",
+                "id": 387,
+                "slug": "paloma-ayon-rosas",
+                "url": "https://www.filminlatino.mx/directora/paloma-ayon-rosas"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "Imposible mantenerse indiferente. Un documental que refleja la realidad del rezago educativo en M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 417,
+        "image_card": "https://static.filminlatino.mx/images/media/417/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/417/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/417/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/417/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/417/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/417/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Abrir aulas para cerrar celdas",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 361,
+                "name": "Semilla Producciones",
+                "slug": "semilla-producciones",
+                "url": "https://www.filminlatino.mx/producer/semilla-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 362,
+                "name": "Video Arte Producciones",
+                "slug": "video-arte-producciones",
+                "url": "https://www.filminlatino.mx/producer/video-arte-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "abrir-aulas-para-cerrar-celdas",
+        "synopsis": "Colonia Baja California. Los ni\u00f1os y j\u00f3venes conviven con la delincuencia y drogadicci\u00f3n que se percibe en el barrio; necesitan ser prevenidos de caer en ello. Se les presenta la posibilidad de formarse en el Centro Cultural Nana Chela. El sistema del centro y los colaboradores a cargo intentan sembrar cultura y educaci\u00f3n, una educaci\u00f3n que el sistema educativo regular no les est\u00e1 dando. De esa manera se busca que ni\u00f1os y j\u00f3venes puedan sentirse \u00fatiles y solidarios.",
+        "tags": [
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 17,
+                "name": "Cine educativo",
+                "slug": "cine-educativo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-educativo"
+            },
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 198,
+                "name": "Relaci\u00f3n maestro y alumno",
+                "slug": "relacion-maestro-y-alumno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-maestro-y-alumno"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 423,
+                "name": "Educaci\u00f3n",
+                "slug": "educacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/educacion"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 2537,
+                "name": "Memorias de la segregaci\u00f3n",
+                "slug": "memorias-de-la-segregacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memorias-de-la-segregacion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1242086400,
+        "theater_release_date": 1242086400,
+        "theater_spectators_formatted": null,
+        "title": "Abrir aulas para cerrar celdas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/abrir-aulas-para-cerrar-celdas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 736,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

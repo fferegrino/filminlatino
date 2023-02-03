@@ -1,0 +1,345 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Juan Felipe Caburto",
+                "gender": "m",
+                "id": 5999,
+                "slug": "juan-felipe-caburto",
+                "url": "https://www.filminlatino.mx/actor/juan-felipe-caburto"
+            },
+            {
+                "full_name": "Felipe Casanova",
+                "gender": "m",
+                "id": 6000,
+                "slug": "felipe-casanova",
+                "url": "https://www.filminlatino.mx/actor/felipe-casanova"
+            },
+            {
+                "full_name": "Isaely Guevara",
+                "gender": "m",
+                "id": 6001,
+                "slug": "isaely-guevara",
+                "url": "https://www.filminlatino.mx/actor/isaely-guevara"
+            },
+            {
+                "full_name": "Tanatiuh Casta\u00f1eda",
+                "gender": "m",
+                "id": 6002,
+                "slug": "tanatiuh-castaneda",
+                "url": "https://www.filminlatino.mx/actor/tanatiuh-castaneda"
+            },
+            {
+                "full_name": "Cuitlahuac  Pascual",
+                "gender": "m",
+                "id": 6003,
+                "slug": "cuitlahuac-pascual",
+                "url": "https://www.filminlatino.mx/actor/cuitlahuac-pascual"
+            },
+            {
+                "full_name": "Arcelia Caiceros Salda\u00f1a",
+                "gender": "f",
+                "id": 6004,
+                "slug": "arcelia-caiceros-saldana",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-caiceros-saldana"
+            },
+            {
+                "full_name": "Sara Moctezuma",
+                "gender": "f",
+                "id": 6005,
+                "slug": "sara-moctezuma",
+                "url": "https://www.filminlatino.mx/actriz/sara-moctezuma"
+            },
+            {
+                "full_name": "Pen\u00e9lope Vargas Ledezma",
+                "gender": "f",
+                "id": 6006,
+                "slug": "penelope-vargas-ledezma",
+                "url": "https://www.filminlatino.mx/actriz/penelope-vargas-ledezma"
+            },
+            {
+                "full_name": "Giovany Rosas",
+                "gender": "m",
+                "id": 6007,
+                "slug": "giovany-rosas",
+                "url": "https://www.filminlatino.mx/actor/giovany-rosas"
+            },
+            {
+                "full_name": "Amairani Gabriel",
+                "gender": "f",
+                "id": 6008,
+                "slug": "amairani-gabriel",
+                "url": "https://www.filminlatino.mx/actriz/amairani-gabriel"
+            },
+            {
+                "full_name": "Abraham D\u00edaz",
+                "gender": "m",
+                "id": 6010,
+                "slug": "abraham-diaz",
+                "url": "https://www.filminlatino.mx/actor/abraham-diaz"
+            },
+            {
+                "full_name": "Maribel Ramos",
+                "gender": "f",
+                "id": 6011,
+                "slug": "maribel-ramos",
+                "url": "https://www.filminlatino.mx/actriz/maribel-ramos"
+            }
+        ],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [
+            {
+                "category": "Official Selection",
+                "icon": "",
+                "name": "Diorama International Film Festival",
+                "slug": "diorama-international-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Andr\u00e9  Andrade ",
+                "gender": "m",
+                "id": 2368,
+                "slug": "andre-andrade",
+                "url": "https://www.filminlatino.mx/director/andre-andrade"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "Un joven padre, conflictuado con su pasado e identidad ind\u00edgena, busca rescatar a su hija de cuatro a\u00f1os, quien est\u00e1 desaparecida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5197,
+        "image_card": "https://static.filminlatino.mx/images/media/5197/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5197/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5197/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5197/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5197/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5197/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5197/2/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/5197/2/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 30,
+        "original_title": "Tlamatinimes: Los se\u00f1ores del rayo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1880,
+                "name": "Secretar\u00eda de Cultura",
+                "slug": "secretaria-de-cultura",
+                "url": "https://www.filminlatino.mx/producer/secretaria-de-cultura"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tlamatinimes-los-senores-del-rayo",
+        "synopsis": "Un joven padre conflictuado con su pasado e identidad ind\u00edgena busca rescatar a su hija de cuatro a\u00f1os, quien desapareci\u00f3 en circunstancias supernaturales. La madre y el bisabuelo conocen la \u00fanica manera de encontrarla, pero el padre\u00a0se niega. \u00c9l tendr\u00e1 que regresar a su pueblo para aprender de su pasado y del mundo m\u00e1gico de los tlamatines, que rodea la vida de su abuelo, para poder salvar a su hija.",
+        "tags": [
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 86,
+                "name": "Magia",
+                "slug": "magia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magia"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 59,
+                "name": "Esp\u00edritus",
+                "slug": "espiritus",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritus"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 1289,
+                "name": "Viaje espiritual ",
+                "slug": "viaje-espiritual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-espiritual"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 742,
+                "name": "Familiar_MX",
+                "slug": "familiar-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familiar-mx"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tlamatinimes: Los se\u00f1ores del rayo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tlamatinimes-los-senores-del-rayo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4481,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/TLAMANTINI-ORIGINAL.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/TLAMANTINI-ORIGINAL/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/TLAMANTINI-ORIGINAL/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

@@ -1,0 +1,786 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "\u00c1ngel Tavira",
+                "gender": "m",
+                "id": 1292,
+                "slug": "angel-tavira",
+                "url": "https://www.filminlatino.mx/actor/angel-tavira"
+            },
+            {
+                "full_name": "Dagoberto Gama",
+                "gender": "m",
+                "id": 1252,
+                "slug": "dagoberto-gama",
+                "url": "https://www.filminlatino.mx/actor/dagoberto-gama"
+            },
+            {
+                "full_name": "Gerardo Taracena",
+                "gender": "m",
+                "id": 171,
+                "slug": "gerardo-taracena",
+                "url": "https://www.filminlatino.mx/actor/gerardo-taracena"
+            },
+            {
+                "full_name": "Ferm\u00edn Mart\u00ednez",
+                "gender": "m",
+                "id": 959,
+                "slug": "fermin-martinez",
+                "url": "https://www.filminlatino.mx/actor/fermin-martinez"
+            },
+            {
+                "full_name": "Silverio Palacios",
+                "gender": "m",
+                "id": 2281,
+                "slug": "silverio-palacios",
+                "url": "https://www.filminlatino.mx/actor/silverio-palacios"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Mejor Actor",
+                "icon": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "name": "Asociaci\u00f3n Mexicana de Periodistas de Espect\u00e1culos y Cultura",
+                "slug": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "year": 2005
+            },
+            {
+                "category": "Premio Grand Prix",
+                "icon": "festival-de-cine-espanol-y-latinoamericano-en-ajaccio-corega",
+                "name": "Festival de Cine Espa\u00f1ol y Latinoamericano en Ajaccio, C\u00f3rega",
+                "slug": "festival-de-cine-espanol-y-latinoamericano-en-ajaccio-corega",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "black-movie-festival-de-cine-de-otros-mundos-suiza",
+                "name": "Black Movie Festival de Cine de Otros Mundos, Suiza",
+                "slug": "black-movie-festival-de-cine-de-otros-mundos-suiza",
+                "year": 2005
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado a la Mejor pel\u00edcula",
+                "icon": "festival-de-cine-africano-asiatico-y-de-america-latina-italia",
+                "name": "Festival de Cine Africano, Asi\u00e1tico y de Am\u00e9rica Latina, Italia",
+                "slug": "festival-de-cine-africano-asiatico-y-de-america-latina-italia",
+                "year": 2005
+            },
+            {
+                "category": "Premio revelaci\u00f3n",
+                "icon": "festival-internacional-de-cine-de-punta-del-este-uruguay",
+                "name": "Festival Internacional de Cine de Punta del Este, Uruguay",
+                "slug": "festival-internacional-de-cine-de-punta-del-este-uruguay",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Pel\u00edcula Extranjera",
+                "icon": "festival-icaro-de-cine-y-video-en-centroamerica-guatemala",
+                "name": "Festival \u00cdcaro de Cine y V\u00eddeo en Centroam\u00e9rica, Guatemala",
+                "slug": "festival-icaro-de-cine-y-video-en-centroamerica-guatemala",
+                "year": 2005
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-de-cine-de-los-pueblos-del-sur-venezuela",
+                "name": "Festival de Cine de los Pueblos del Sur, Venezuela",
+                "slug": "festival-de-cine-de-los-pueblos-del-sur-venezuela",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz, Bolivia ",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz-bolivia",
+                "year": 2005
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "festival-de-cine-de-lima",
+                "name": "Festival de Cine de Lima",
+                "slug": "festival-de-cine-de-lima",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cinema-des-3-ameriques-quebec",
+                "name": "Festival de Cin\u00e9ma Des 3 Am\u00e9riques, Qu\u00e9bec",
+                "slug": "festival-de-cinema-des-3-ameriques-quebec",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-de-cinema-des-3-ameriques-quebec",
+                "name": "Festival de Cin\u00e9ma Des 3 Am\u00e9riques, Qu\u00e9bec",
+                "slug": "festival-de-cinema-des-3-ameriques-quebec",
+                "year": 2005
+            },
+            {
+                "category": "Gran Premio de la Mejor ficci\u00f3n",
+                "icon": "festival-internacional-de-cine-del-medio-ambiente-francia",
+                "name": "Festival Internacional de Cine del Medio Ambiente, Francia",
+                "slug": "festival-internacional-de-cine-del-medio-ambiente-francia",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico a Mejor pel\u00edcula",
+                "icon": "festival-de-cine-de-chatenay-malabry-francia",
+                "name": "Festival de Cine de Chatenay-Malabry, Francia",
+                "slug": "festival-de-cine-de-chatenay-malabry-francia",
+                "year": 2005
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "name": "Festival Iberoamericano de Cine Cero Latitud, Ecuador",
+                "slug": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "year": 2005
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "name": "Festival Iberoamericano de Cine Cero Latitud, Ecuador",
+                "slug": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "year": 2005
+            },
+            {
+                "category": "Premio de la Prensa",
+                "icon": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "name": "Festival Iberoamericano de Cine Cero Latitud, Ecuador",
+                "slug": "festival-iberoamericano-de-cine-cero-latitud-ecuador",
+                "year": 2005
+            },
+            {
+                "category": "Premio de los valores humanos del Parlamento H\u00e9lenico",
+                "icon": "festival-internacional-de-cine-de-tesalonica-grecia",
+                "name": "Festival Internacional de Cine de Tesal\u00f3nica, Grecia",
+                "slug": "festival-internacional-de-cine-de-tesalonica-grecia",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico a Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-kerala-india",
+                "name": "Festival Internacional de Cine de Kerala, India",
+                "slug": "festival-internacional-de-cine-de-kerala-india",
+                "year": 2005
+            },
+            {
+                "category": "Gran premio del jurado a la Mejor pel\u00edcula",
+                "icon": "festival-el-cinema-de-la-musica-francia",
+                "name": "Festival el Cin\u00e9ma de la M\u00fasica, Francia",
+                "slug": "festival-el-cinema-de-la-musica-francia",
+                "year": 2005
+            },
+            {
+                "category": "Mejor director",
+                "icon": "short-shorts-film-festival-mexico",
+                "name": "Short Shorts Film Festival, M\u00e9xico",
+                "slug": "short-shorts-film-festival-mexico",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "short-shorts-film-festival-mexico",
+                "name": "Short Shorts Film Festival, M\u00e9xico",
+                "slug": "short-shorts-film-festival-mexico",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-los-derechos-humanos-de-nuremberg-alemania",
+                "name": "Festival de los Derechos Humanos de Nuremberg, Alemania",
+                "slug": "festival-de-los-derechos-humanos-de-nuremberg-alemania",
+                "year": 2005
+            },
+            {
+                "category": "Premio al director del a\u00f1o",
+                "icon": "sociedad-general-de-directores-mexicanos",
+                "name": "Sociedad General de Directores Mexicanos",
+                "slug": "sociedad-general-de-directores-mexicanos",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-san-francisco",
+                "name": "Festival Internacional de Cine de San Francisco",
+                "slug": "festival-internacional-de-cine-de-san-francisco",
+                "year": 2005
+            },
+            {
+                "category": "Cristal Simorgh a Mejor gui\u00f3n",
+                "icon": "festival-internacional-de-cine-de-farj-iran",
+                "name": "Festival Internacional de Cine de Farj, Ir\u00e1n",
+                "slug": "festival-internacional-de-cine-de-farj-iran",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "name": "Asociaci\u00f3n Mexicana de Periodistas de Espect\u00e1culos y Cultura",
+                "slug": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "name": "Asociaci\u00f3n Mexicana de Periodistas de Espect\u00e1culos y Cultura",
+                "slug": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "name": "Asociaci\u00f3n Mexicana de Periodistas de Espect\u00e1culos y Cultura",
+                "slug": "asociacion-mexicana-de-periodistas-de-espectaculos-y-cultura",
+                "year": 2005
+            },
+            {
+                "category": "Fernando Birri a Mejor \u00f3pera prima",
+                "icon": "festival-latinoamericano-de-providence-eua",
+                "name": "Festival Latinoamericano de Providence, EUA",
+                "slug": "festival-latinoamericano-de-providence-eua",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-latinoamericano-de-providence-eua",
+                "name": "Festival Latinoamericano de Providence, EUA",
+                "slug": "festival-latinoamericano-de-providence-eua",
+                "year": 2005
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Gui\u00f3n Original",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico a Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2005
+            },
+            {
+                "category": "Mejor actor de la secci\u00f3n Un Certain Regard",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2005
+            },
+            {
+                "category": "Premio SIGNIS",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2005
+            },
+            {
+                "category": "Premio Casa de Am\u00e9rica ",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2005
+            },
+            {
+                "category": "Premio CICAE",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2005
+            },
+            {
+                "category": "Menci\u00f3n especial de la secci\u00f3n Horizontes latinos",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 2005
+            },
+            {
+                "category": "Mejor director",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "name": "Asociaci\u00f3n de Cronistas de Espect\u00e1culos de Nueva York",
+                "slug": "asociacion-de-cronistas-de-espectaculos-de-nueva-york",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula latinoamericana",
+                "icon": "san-juan-cinemafest-de-puerto-rico",
+                "name": "San Juan Cinemafest de Puerto Rico ",
+                "slug": "san-juan-cinemafest-de-puerto-rico",
+                "year": 2005
+            },
+            {
+                "category": "Menci\u00f3n especial Mejor actor",
+                "icon": "festival-de-cine-internacional-de-sao-paulo",
+                "name": "Festival de Cine Internacional de Sao Paulo",
+                "slug": "festival-de-cine-internacional-de-sao-paulo",
+                "year": 2005
+            },
+            {
+                "category": "Premio especial del jurado a la Mejor pel\u00edcula",
+                "icon": "festival-de-cine-internacional-de-sao-paulo",
+                "name": "Festival de Cine Internacional de Sao Paulo",
+                "slug": "festival-de-cine-internacional-de-sao-paulo",
+                "year": 2005
+            },
+            {
+                "category": "Gran Premio del jurado a la Mejor pel\u00edcula Iberoamericana",
+                "icon": "festival-internacional-de-cine-de-miami",
+                "name": "Festival Internacional de Cine de Miami",
+                "slug": "festival-internacional-de-cine-de-miami",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Bogot\u00e1, Colombia",
+                "slug": "festival-internacional-de-cine-de-bogota-colombia",
+                "year": 2005
+            },
+            {
+                "category": "Mejor pel\u00edcula por el jurado popular",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 2005
+            },
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-internacional-de-cine-de-gramado-brasil",
+                "name": "Festival Internacional de Cine de Gramado, Brasil",
+                "slug": "festival-internacional-de-cine-de-gramado-brasil",
+                "year": 2005
+            },
+            {
+                "category": "Uni\u00f3n Latina a Mejor gui\u00f3n",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Bogot\u00e1, Colombia",
+                "slug": "festival-internacional-de-cine-de-bogota-colombia",
+                "year": 2005
+            },
+            {
+                "category": "Col\u00f3n de Oro al Mejor largometraje",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 2005
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 2005
+            },
+            {
+                "category": "Mejor largometraje por la Asociaci\u00f3n de la Prensa Espa\u00f1ola",
+                "icon": "festival-de-cine-iberoamericano-de-huelva",
+                "name": "Festival de Cine Iberoamericano de Huelva",
+                "slug": "festival-de-cine-iberoamericano-de-huelva",
+                "year": 2005
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francisco Vargas",
+                "gender": "m",
+                "id": 491,
+                "slug": "francisco-vargas",
+                "url": "https://www.filminlatino.mx/director/francisco-vargas"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "Don Plutarco y su hijo recorren varios pueblos tocando m\u00fasica para conseguir dinero. Siempre ocultando su participaci\u00f3n en un movimiento guerrillero contra el gobierno.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 511,
+        "image_card": "https://static.filminlatino.mx/images/media/511/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/511/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/511/12/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/511/11/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/511/13/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/511/14/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/511/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/9/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/10/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/511/15/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/511/16/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/511/18/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/511/17/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 110,
+        "original_title": "El viol\u00edn",
+        "producers": [
+            {
+                "acronym": "FIDECINE",
+                "id": 29,
+                "name": "FIDECINE",
+                "slug": "fidecine",
+                "url": "https://www.filminlatino.mx/producer/fidecine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 570,
+                "name": "C\u00e1mara Carnal Films",
+                "slug": "camara-carnal-films",
+                "url": "https://www.filminlatino.mx/producer/camara-carnal-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-violin",
+        "synopsis": "Don Plutarco y su hijo Genaro viven una doble vida: son m\u00fasicos campesinos y al mismo tiempo son parte de un movimiento guerrillero que planea levantarse contra el gobierno. Cuando el ej\u00e9rcito ataca sorpresivamente su comunidad, Don Plutarco logra escapar al monte con las mujeres y los ni\u00f1os, pero las municiones se han quedado en el pueblo, sitiado por los militares. Decide llevar a cabo su propio plan para ayudar a los alzados. Cruza el cerco militar, es atrapado y su inseparable viol\u00edn le es arrebatado. Para recuperar su m\u00e1s preciado tesoro, el viejo entabla una relaci\u00f3n con el capit\u00e1n de la tropa. Poco a poco ambos descubren que tienen algo en com\u00fan: el amor por la m\u00fasica.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 279,
+                "name": "Pobreza",
+                "slug": "pobreza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pobreza"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 834,
+                "name": "4\u00b0 FICM",
+                "slug": "40-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/40-ficm"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 985,
+                "name": "Recomendadas de Erick Estrada ",
+                "slug": "recomendadas-de-erick-estrada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-erick-estrada"
+            },
+            {
+                "id": 986,
+                "name": "Recomendadas de Ernesto Diezmartinez",
+                "slug": "recomendadas-de-ernesto-diezmartinez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ernesto-diezmartinez"
+            },
+            {
+                "id": 1068,
+                "name": "FIDECINE",
+                "slug": "fidecine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fidecine"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1183,
+                "name": "2005",
+                "slug": "2005",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2005"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1506,
+                "name": "Escribe Cine Recomienda",
+                "slug": "escribe-cine-recomienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escribe-cine-recomienda"
+            },
+            {
+                "id": 1587,
+                "name": "1\u00ba edici\u00f3n Shorts MX",
+                "slug": "1o-edicion-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1o-edicion-shorts-mx"
+            },
+            {
+                "id": 2010,
+                "name": "Retrospectiva \u00c1ngeles Cruz",
+                "slug": "retrospectiva-angeles-cruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-angeles-cruz"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1110499200,
+        "theater_release_date": 1110499200,
+        "theater_spectators_formatted": null,
+        "title": "El viol\u00edn",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-violin",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 900,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-violin.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-violin/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-violin/master.m3u8"
+                }
+            ]
+        },
+        "year": 2005
+    }
+}

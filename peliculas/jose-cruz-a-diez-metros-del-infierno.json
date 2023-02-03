@@ -1,0 +1,241 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Cruz Camargo",
+                "gender": "m",
+                "id": 575,
+                "slug": "jose-cruz-camargo",
+                "url": "https://www.filminlatino.mx/actor/jose-cruz-camargo"
+            },
+            {
+                "full_name": "Mar\u00eda Jos\u00e9  Camargo",
+                "gender": "f",
+                "id": 577,
+                "slug": "maria-jose-camargo",
+                "url": "https://www.filminlatino.mx/actriz/maria-jose-camargo"
+            },
+            {
+                "full_name": "Julia Camargo",
+                "gender": "f",
+                "id": 578,
+                "slug": "julia-camargo",
+                "url": "https://www.filminlatino.mx/actriz/julia-camargo"
+            },
+            {
+                "full_name": "Georgina Camargo",
+                "gender": "f",
+                "id": 579,
+                "slug": "georgina-camargo",
+                "url": "https://www.filminlatino.mx/actriz/georgina-camargo"
+            },
+            {
+                "full_name": "Sergio Arau",
+                "gender": "m",
+                "id": 597,
+                "slug": "sergio-arau",
+                "url": "https://www.filminlatino.mx/actor/sergio-arau"
+            }
+        ],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ozcar Ram\u00edrez",
+                "gender": "m",
+                "id": 186,
+                "slug": "ozcar-ramirez",
+                "url": "https://www.filminlatino.mx/director/ozcar-ramirez"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "El documental reconstruye, a partir de testimonios, una etapa de la m\u00fasica en el Distrito Federal de los a\u00f1os ochenta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 209,
+        "image_card": "https://static.filminlatino.mx/images/media/209/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/209/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/209/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/209/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/209/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Jos\u00e9 Cruz a diez metros del infierno",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "jose-cruz-a-diez-metros-del-infierno",
+        "synopsis": "La vida del m\u00fasico Jos\u00e9 Cruz Camargo Zurita, l\u00edder, compositor y cantante del grupo Real de Catorce, narrada a trav\u00e9s de una revisi\u00f3n sensible de sus canciones, nos permitir\u00e1 conocer un fragmento indispensable del blues nacional, pero al mismo tiempo nos ilustrar\u00e1 la forma en la que un hombre como \u00e9l intenta remontar la esclerosis m\u00faltiple a trav\u00e9s de la m\u00fasica.",
+        "tags": [
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 328406400,
+        "theater_release_date": 328406400,
+        "theater_spectators_formatted": null,
+        "title": "Jos\u00e9 Cruz a diez metros del infierno",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/jose-cruz-a-diez-metros-del-infierno",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 536,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

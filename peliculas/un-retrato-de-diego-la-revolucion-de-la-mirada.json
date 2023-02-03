@@ -1,0 +1,236 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Dolores del Rio",
+                "gender": "m",
+                "id": 1624,
+                "slug": "dolores-del-rio",
+                "url": "https://www.filminlatino.mx/actor/dolores-del-rio"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gabriel Figueroa Flores",
+                "gender": "m",
+                "id": 550,
+                "slug": "gabriel-figueroa-flores",
+                "url": "https://www.filminlatino.mx/director/gabriel-figueroa-flores"
+            },
+            {
+                "full_name": "Diego Y. L\u00f3pez",
+                "gender": "m",
+                "id": 104,
+                "slug": "diego-y-lopez",
+                "url": "https://www.filminlatino.mx/director/diego-y-lopez"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Un documental que junta la forma art\u00edstica de plasmar la inspiraci\u00f3n: Diego Rivera, Manuel \u00c1lvarez Bravo y Gabriel Fiegueroa",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3143,
+        "image_card": "https://static.filminlatino.mx/images/media/3143/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3143/10/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3143/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3143/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3143/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3143/7/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3143/11/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "Un retrato de Diego: La revoluci\u00f3n de la mirada",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-retrato-de-diego-la-revolucion-de-la-mirada",
+        "synopsis": "Los momentos de inspiraci\u00f3n del pintor Diego Rivera plasmados en un retrato en movimiento. Un material \u00fanico de la mano de dos grandes creadores de la \u00e9poca Manuel \u00c1lvarez Bravo y Gabriel Figueroa",
+        "tags": [
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 42,
+                "name": "Cr\u00edtica a la burgues\u00eda",
+                "slug": "critica-a-la-burguesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-burguesia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 31,
+                "name": "Cine de \u00e9poca",
+                "slug": "cine-de-epoca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-epoca"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 835,
+                "name": "5\u00b0 FICM",
+                "slug": "50-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-ficm"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1196380800,
+        "theater_release_date": 1196380800,
+        "theater_spectators_formatted": null,
+        "title": "Un retrato de Diego: La revoluci\u00f3n de la mirada",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-retrato-de-diego-la-revolucion-de-la-mirada",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2446,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2007
+    }
+}

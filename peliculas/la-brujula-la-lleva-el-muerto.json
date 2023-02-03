@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gael S\u00e1nchez Valle",
+                "gender": "m",
+                "id": 1015,
+                "slug": "gael-sanchez-valle",
+                "url": "https://www.filminlatino.mx/actor/gael-sanchez-valle"
+            },
+            {
+                "full_name": "Pedro G\u00e1mez",
+                "gender": "m",
+                "id": 1016,
+                "slug": "pedro-gamez",
+                "url": "https://www.filminlatino.mx/actor/pedro-gamez"
+            },
+            {
+                "full_name": "Ana Ofelia Murgu\u00eda",
+                "gender": "f",
+                "id": 264,
+                "slug": "ana-ofelia-murguia",
+                "url": "https://www.filminlatino.mx/actriz/ana-ofelia-murguia"
+            }
+        ],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Arturo Pons",
+                "gender": "m",
+                "id": 393,
+                "slug": "arturo-pons",
+                "url": "https://www.filminlatino.mx/director/arturo-pons"
+            }
+        ],
+        "duration_in_minutes": 111,
+        "excerpt": "Chencho emprende un viaje con una carreta surrealista rumbo al norte.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6780,
+        "image_card": "https://static.filminlatino.mx/images/media/6780/1/card_0_3.JPG",
+        "image_poster": "https://static.filminlatino.mx/images/media/6780/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6780/2/still_1_3.JPG",
+            "https://static.filminlatino.mx/images/media/6780/2/still_1_3.JPG",
+            "https://static.filminlatino.mx/images/media/6780/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6780/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6780/1/still_3_3.JPG",
+            "https://static.filminlatino.mx/images/media/6780/2/still_3_3.JPG"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "La br\u00fajula la lleva el muerto",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 172,
+                "name": "Arte Mec\u00e1nica Producciones",
+                "slug": "arte-mecanica-producciones",
+                "url": "https://www.filminlatino.mx/producer/arte-mecanica-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-brujula-la-lleva-el-muerto",
+        "synopsis": "A la muerte de su madre, Chencho, un ni\u00f1o de 13 a\u00f1os, parte rumbo a Chicago en busca de su hermano mayor. En el camino se encuentra con un anciano que muere poco despu\u00e9s de aceptarlo en su carreta. Intentando seguir el norte de la br\u00fajula atrapada en la mano del muerto, se agregan personajes a una carreta surrealista que lleva el norte perdido.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 746,
+                "name": "Infantil_MX",
+                "slug": "infantil-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infantil-mx"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La br\u00fajula la lleva el muerto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-brujula-la-lleva-el-muerto",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6710,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LA-BRUJULA-LA-LLEVA-EL-MUERTO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LA-BRUJULA-LA-LLEVA-EL-MUERTO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LA-BRUJULA-LA-LLEVA-EL-MUERTO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

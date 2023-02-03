@@ -1,0 +1,281 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Franziska Weisz",
+                "gender": "f",
+                "id": 32,
+                "slug": "franziska-weisz",
+                "url": "https://www.filminlatino.mx/actriz/franziska-weisz"
+            },
+            {
+                "full_name": "Andreas Lust ",
+                "gender": "m",
+                "id": 3982,
+                "slug": "andreas-lust",
+                "url": "https://www.filminlatino.mx/actor/andreas-lust"
+            },
+            {
+                "full_name": "Max Edelbacher",
+                "gender": "m",
+                "id": 3983,
+                "slug": "max-edelbacher",
+                "url": "https://www.filminlatino.mx/actor/max-edelbacher"
+            },
+            {
+                "full_name": "Walter Huber",
+                "gender": "m",
+                "id": 3984,
+                "slug": "walter-huber",
+                "url": "https://www.filminlatino.mx/actor/walter-huber"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-de-gijon",
+                "name": " Festival de Gij\u00f3n",
+                "slug": "festival-de-gijon",
+                "year": 2010
+            },
+            {
+                "category": "Secci\u00f3n oficial largometrajes a concurso",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Benjamin Heisenberg",
+                "gender": "m",
+                "id": 1377,
+                "slug": "benjamin-heisenberg",
+                "url": "https://www.filminlatino.mx/director/benjamin-heisenberg"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Narra la historia real de Johann Rettenberger, un atleta de marat\u00f3n que desarroll\u00f3 robar bancos como un hobby.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2656,
+        "image_card": "https://static.filminlatino.mx/images/media/2656/7/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2656/7/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2656/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2656/7/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Der r\u00e4uber",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 753,
+                "name": "Nikolaus Geyrhalter Filmproduktion",
+                "slug": "nikolaus-geyrhalter-filmproduktion",
+                "url": "https://www.filminlatino.mx/producer/nikolaus-geyrhalter-filmproduktion"
+            },
+            {
+                "acronym": "",
+                "id": 1570,
+                "name": "Peter Heilrath Filmproduktion",
+                "slug": "peter-heilrath-filmproduktion",
+                "url": "https://www.filminlatino.mx/producer/peter-heilrath-filmproduktion"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-ladron",
+        "synopsis": "Johannes Rettenberger es una persona introvertida que pasa sus \u00faltimas d\u00edas en la c\u00e1rcel prepar\u00e1ndose como un gran atleta. Cuando sale se presenta a los diferentes campeonatos nacionales en su pa\u00eds, Austria, donde aparece como la gran revelaci\u00f3n local. Una misteriosa fuerza, una gran capacidad de sacrificio parece que le empujan a ganar, pero de d\u00f3nde proviene esa superaci\u00f3n es un misterio. Mientras consigue pasar inadvertido en su reintregraci\u00f3n en la sociedad, aprovechar\u00e1 sus cualidades para seguir haciendo lo que anta\u00f1o, robar bancos.",
+        "tags": [
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 69,
+                "name": "Pel\u00edcula de robos",
+                "slug": "pelicula-de-robos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-de-robos"
+            },
+            {
+                "id": 364,
+                "name": "Thriller polic\u00edaco",
+                "slug": "thriller-policiaco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-policiaco"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 582,
+                "name": "Persecuciones",
+                "slug": "persecuciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/persecuciones"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 715,
+                "name": "Ladrones",
+                "slug": "ladrones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ladrones"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 798,
+                "name": "Acci\u00f3n en el cine",
+                "slug": "accion-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accion-en-el-cine"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El ladr\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-ladron",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2156,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-ladron.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-ladron/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-ladron/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

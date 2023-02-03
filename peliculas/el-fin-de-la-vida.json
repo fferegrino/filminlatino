@@ -1,0 +1,251 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": " Rosa Mar\u00eda  Antezama",
+                "gender": "f",
+                "id": 682,
+                "slug": "rosa-maria-antezama",
+                "url": "https://www.filminlatino.mx/character/rosa-maria-antezama"
+            },
+            {
+                "full_name": "Agusto  Valdivia",
+                "gender": "m",
+                "id": 683,
+                "slug": "agusto-valdivia",
+                "url": "https://www.filminlatino.mx/character/agusto-valdivia"
+            },
+            {
+                "full_name": "Marta  Delgado",
+                "gender": "f",
+                "id": 684,
+                "slug": "marta-delgado",
+                "url": "https://www.filminlatino.mx/character/marta-delgado"
+            },
+            {
+                "full_name": "Delia  Clavo",
+                "gender": "f",
+                "id": 685,
+                "slug": "delia-clavo",
+                "url": "https://www.filminlatino.mx/character/delia-clavo"
+            }
+        ],
+        "countries": [
+            {
+                "id": 173,
+                "name": "Per\u00fa",
+                "slug": "peru",
+                "url": "https://www.filminlatino.mx/catalogo/pais/peru"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sergio Garc\u00eda Locatelli",
+                "gender": "m",
+                "id": 2121,
+                "slug": "sergio-garcia-locatelli",
+                "url": "https://www.filminlatino.mx/director/sergio-garcia-locatelli"
+            }
+        ],
+        "duration_in_minutes": 40,
+        "excerpt": "\u00bfQui\u00e9n sabe que sucede al final de la vida?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6661,
+        "image_card": "https://static.filminlatino.mx/images/media/6661/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6661/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6661/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6661/5/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6661/6/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6661/6/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6661/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6661/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6661/5/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/6661/5/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "El fin de la vida",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2828,
+                "name": "Sergio Garc\u00eda Locatelli",
+                "slug": "sergio-garcia-locatelli",
+                "url": "https://www.filminlatino.mx/producer/sergio-garcia-locatelli"
+            },
+            {
+                "acronym": "",
+                "id": 2829,
+                "name": "Hugo Carmona",
+                "slug": "hugo-carmona",
+                "url": "https://www.filminlatino.mx/producer/hugo-carmona"
+            },
+            {
+                "acronym": "",
+                "id": 2830,
+                "name": "Cristhian Esquivel",
+                "slug": "cristhian-esquivel",
+                "url": "https://www.filminlatino.mx/producer/cristhian-esquivel"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-fin-de-la-vida",
+        "synopsis": "La muerte ha sido y es un misterio desde siempre, nadie sabe que sucede cuando dejamos de vivir, pero hay tantos puntos de vista diferentes sobre el tema, que dependen del lugar desde el que nos ubicamos y que tan cerca estamos de la muerte. Los pacientes terminales, los enfermos mentales, los ancianos y los ni\u00f1os; no tienen mucho en com\u00fan, pero nos ofrecen una mirada distinta al ciudadano cotidiano, con valoraciones y percepciones tan distintas, de acuerdo a sus experiencias de vida. Por otro lado, el hombre que tiene que dar la cara todos los d\u00edas a la muerte es el hombre distinto, el que se pone una coraza contra el dolor ajeno y el propio para poder continuar con su trabajo y su vida sin tener que llevar el trabajo a casa y completar la labor sin las penas ni los problemas que trae consigo cada jornada.",
+        "tags": [
+            {
+                "id": 1636,
+                "name": "Cortometraje documental",
+                "slug": "cortometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1330,
+                "name": "Perspectiva",
+                "slug": "perspectiva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perspectiva"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 227,
+                "name": "Onirismo y surrealismo",
+                "slug": "onirismo-y-surrealismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/onirismo-y-surrealismo"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            },
+            {
+                "id": 170,
+                "name": "Guionista que pasa a director",
+                "slug": "guionista-que-pasa-a-director",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guionista-que-pasa-a-director"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El fin de la vida",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-fin-de-la-vida",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6511,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

@@ -1,0 +1,422 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Pedro Armend\u00e1riz Jr.",
+                "gender": "m",
+                "id": 146,
+                "slug": "pedro-armendariz-jr",
+                "url": "https://www.filminlatino.mx/actor/pedro-armendariz-jr"
+            },
+            {
+                "full_name": "Martha Navarro",
+                "gender": "f",
+                "id": 314,
+                "slug": "martha-navarro",
+                "url": "https://www.filminlatino.mx/actriz/martha-navarro"
+            },
+            {
+                "full_name": "Blanca Torres",
+                "gender": "f",
+                "id": 315,
+                "slug": "blanca-torres",
+                "url": "https://www.filminlatino.mx/actriz/blanca-torres"
+            },
+            {
+                "full_name": "Emma Rold\u00e1n",
+                "gender": "f",
+                "id": 316,
+                "slug": "emma-roldan",
+                "url": "https://www.filminlatino.mx/actriz/emma-roldan"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1975
+            },
+            {
+                "category": "Mejor Actriz Secundaria",
+                "icon": "premios-ace",
+                "name": "Premios ACE ",
+                "slug": "premios-ace",
+                "year": 1975
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jaime Humberto Hermosillo",
+                "gender": "m",
+                "id": 73,
+                "slug": "jaime-humberto-hermosillo",
+                "url": "https://www.filminlatino.mx/director/jaime-humberto-hermosillo"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Bien dice el refr\u00e1n que las apariencias enga\u00f1an y que no todo es lo que parece. La realidad suele enmascararse en la m\u00e1s cruenta y disparatada de las ficciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 118,
+        "image_card": "https://static.filminlatino.mx/images/media/118/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/118/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/118/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/118/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/118/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 114,
+        "original_title": "La pasi\u00f3n seg\u00fan Berenice",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 14,
+                "name": "Dasa Films S.A.",
+                "slug": "dasa-films-sa",
+                "url": "https://www.filminlatino.mx/producer/dasa-films-sa"
+            },
+            {
+                "acronym": "CONACINE",
+                "id": 15,
+                "name": "CONACINE",
+                "slug": "conacine",
+                "url": "https://www.filminlatino.mx/producer/conacine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-pasion-segun-berenice",
+        "synopsis": "Berenice es una joven de costumbres tradicionales que vive con su madrina en una tranquila ciudad provinciana. La aparici\u00f3n de Rodrigo en su vida le provocar\u00e1 una profunda e ins\u00f3lita transformaci\u00f3n. El sosiego sin mayores sobresaltos en Aguascalientes resulta ser tan solo un disfraz, un encubrimiento ilusorio de lo que realmente suceder\u00e1.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 678,
+                "name": "Digitalizadas",
+                "slug": "digitalizadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/digitalizadas"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 875,
+                "name": "Restauradas",
+                "slug": "restauradas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/restauradas"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 935,
+                "name": "Actrices imprescindibles",
+                "slug": "actrices-imprescindibles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actrices-imprescindibles"
+            },
+            {
+                "id": 1063,
+                "name": "Estab/IM100",
+                "slug": "estabim100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estabim100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1157,
+                "name": "Curadur\u00eda Del Toro",
+                "slug": "curaduria-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/curaduria-del-toro"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1188,
+                "name": "1976",
+                "slug": "1976",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1976"
+            },
+            {
+                "id": 1189,
+                "name": "Aguascalientes",
+                "slug": "aguascalientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aguascalientes"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 824,
+                "name": "Las favoritas de Guillermo Del Toro",
+                "slug": "las-favoritas-de-guillermo-del-toro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-guillermo-del-toro"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1588,
+                "name": "Cineteca Mexiquense",
+                "slug": "cineteca-mexiquense",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cineteca-mexiquense"
+            },
+            {
+                "id": 1692,
+                "name": "Jaime Humberto Hermosillo en Tamat\u00e1n | Festival de Cine Mexicano Tamat\u00e1n",
+                "slug": "jaime-humberto-hermosillo-en-tamatan-festival-de-cine-mexicano-tamatan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-humberto-hermosillo-en-tamatan-festival-de-cine-mexicano-tamatan"
+            },
+            {
+                "id": 1859,
+                "name": "FICG 35",
+                "slug": "ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficg-35"
+            },
+            {
+                "id": 1863,
+                "name": "Jaime Humberto Hermosillo | FICG 35",
+                "slug": "jaime-humberto-hermosillo-ficg-35",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-humberto-hermosillo-ficg-35"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2013,
+                "name": "Muestra El cine transformado por nosotras",
+                "slug": "muestra-el-cine-transformado-por-nosotras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-el-cine-transformado-por-nosotras"
+            },
+            {
+                "id": 2035,
+                "name": "Recordando a Jaime Humberto Hermosillo",
+                "slug": "recordando-a-jaime-humberto-hermosillo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recordando-a-jaime-humberto-hermosillo"
+            },
+            {
+                "id": 2658,
+                "name": "Pasi\u00f3n",
+                "slug": "pasion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 217123200,
+        "theater_release_date": 217123200,
+        "theater_spectators_formatted": null,
+        "title": "La pasi\u00f3n seg\u00fan Berenice",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-pasion-segun-berenice",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12656,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-pasion-segun-berenice.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-pasion-segun-berenice/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-pasion-segun-berenice/master.m3u8"
+                }
+            ]
+        },
+        "year": 1975
+    }
+}

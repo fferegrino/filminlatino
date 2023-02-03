@@ -1,0 +1,268 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mart\u00edn Zapata",
+                "gender": "m",
+                "id": 517,
+                "slug": "martin-zapata",
+                "url": "https://www.filminlatino.mx/actor/martin-zapata"
+            },
+            {
+                "full_name": "Zamia Fandi\u00f1o",
+                "gender": "f",
+                "id": 518,
+                "slug": "zamia-fandino",
+                "url": "https://www.filminlatino.mx/actriz/zamia-fandino"
+            },
+            {
+                "full_name": "Eugenia Lenero",
+                "gender": "f",
+                "id": 519,
+                "slug": "eugenia-lenero",
+                "url": "https://www.filminlatino.mx/actriz/eugenia-lenero"
+            },
+            {
+                "full_name": "Arturo Meseguer",
+                "gender": "m",
+                "id": 520,
+                "slug": "arturo-meseguer",
+                "url": "https://www.filminlatino.mx/actor/arturo-meseguer"
+            }
+        ],
+        "avg_votes": 7.1,
+        "avg_votes_formatted": "7,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marcel Sisniega Campbell",
+                "gender": "m",
+                "id": 99,
+                "slug": "marcel-sisniega-campbell",
+                "url": "https://www.filminlatino.mx/director/marcel-sisniega-campbell"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Bartolom\u00e9 Espina busca recobrar el amor de su exmujer. Un paseo por las Fiestas de la Candelaria lo ayuda a profundizar sobre su drama espiritual.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 183,
+        "image_card": "https://static.filminlatino.mx/images/media/183/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/183/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/183/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/183/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/183/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/183/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Fandango",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 101,
+                "name": "Resonancia S.A.",
+                "slug": "resonancia-sa",
+                "url": "https://www.filminlatino.mx/producer/resonancia-sa"
+            },
+            {
+                "acronym": "",
+                "id": 102,
+                "name": "Astrolabio",
+                "slug": "astrolabio",
+                "url": "https://www.filminlatino.mx/producer/astrolabio"
+            },
+            {
+                "acronym": "",
+                "id": 948,
+                "name": "Ayuntamiento de Tlacotalpan",
+                "slug": "ayuntamiento-de-tlacotalpan",
+                "url": "https://www.filminlatino.mx/producer/ayuntamiento-de-tlacotalpan"
+            },
+            {
+                "acronym": "",
+                "id": 949,
+                "name": "Banco de Ideas",
+                "slug": "banco-de-ideas",
+                "url": "https://www.filminlatino.mx/producer/banco-de-ideas"
+            },
+            {
+                "acronym": "",
+                "id": 950,
+                "name": "Comisi\u00f3n de Filmaciones de Veracruz",
+                "slug": "comision-de-filmaciones-de-veracruz",
+                "url": "https://www.filminlatino.mx/producer/comision-de-filmaciones-de-veracruz"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "fandango",
+        "synopsis": "Despu\u00e9s de llegar a un acuerdo con un fot\u00f3grafo de video, el escritor Bartolom\u00e9 Espina se dirige a las Fiestas de la Candelaria en Tlacotalpan, Veracruz. Ah\u00ed, Espina intenta recobrar el amor de L\u00eda, su exmujer. Al no conseguirlo, el escritor deambula por la fiesta en compa\u00f1\u00eda de su hijastra, Rosal\u00eda, y profundiza en un drama espiritual incurable.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 343,
+                "name": "Folklore",
+                "slug": "folklore",
+                "url": "https://www.filminlatino.mx/catalogo/tema/folklore"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1182,
+                "name": "2003",
+                "slug": "2003",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2003"
+            },
+            {
+                "id": 1169,
+                "name": "Veracruz",
+                "slug": "veracruz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veracruz"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1048550400,
+        "theater_release_date": 1048550400,
+        "theater_spectators_formatted": null,
+        "title": "Fandango",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/fandango",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 147,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2003
+    }
+}

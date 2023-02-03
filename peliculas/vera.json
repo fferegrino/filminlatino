@@ -1,0 +1,352 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Marco Antonio Arzate",
+                "gender": "m",
+                "id": 989,
+                "slug": "marco-antonio-arzate",
+                "url": "https://www.filminlatino.mx/actor/marco-antonio-arzate"
+            },
+            {
+                "full_name": "Urara Kusanagi",
+                "gender": "f",
+                "id": 990,
+                "slug": "urara-kusanagi",
+                "url": "https://www.filminlatino.mx/actriz/urara-kusanagi"
+            }
+        ],
+        "avg_votes": 6.6,
+        "avg_votes_formatted": "6,6",
+        "awards": [
+            {
+                "category": "Mejor Banda Sonora",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejores Efectos Especiales",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francisco Athi\u00e9",
+                "gender": "m",
+                "id": 185,
+                "slug": "francisco-athie",
+                "url": "https://www.filminlatino.mx/director/francisco-athie"
+            }
+        ],
+        "duration_in_minutes": 83,
+        "excerpt": "Juan comienza a agonizar despu\u00e9s de un derrumbe en la mina en la que trabaja,\u00a0se ve a s\u00ed mismo entrando a un mundo azul: es el comienzo de su viaje por el inframundo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 16,
+                "name": "Ciencia Ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ciencia-ficcion"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3177,
+        "image_card": "https://static.filminlatino.mx/images/media/3177/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3177/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3177/18/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3177/19/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3177/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3177/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/3177/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3177/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/3177/7/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3177/6/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/3177/11/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3177/10/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/3177/8/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3177/9/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/3177/12/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3177/13/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/3177/16/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/3177/17/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/3177/14/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/3177/15/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Vera",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 297,
+                "name": "Arroba Films, S.A. de C.V.  ",
+                "slug": "arroba-films-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/arroba-films-sa-de-cv"
+            },
+            {
+                "acronym": "",
+                "id": 336,
+                "name": "BB & R ",
+                "slug": "bb-r",
+                "url": "https://www.filminlatino.mx/producer/bb-r"
+            },
+            {
+                "acronym": "",
+                "id": 335,
+                "name": "Chadwick Films",
+                "slug": "chadwick-films",
+                "url": "https://www.filminlatino.mx/producer/chadwick-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "vera",
+        "synopsis": "Esta es la historia de Juan, un viejo minero maya para quien los conceptos del tiempo y el espacio considerados por sus ancestros, se encuentran entrelazados. Trabajando en una mina, golpea una piedra y se produce un estremecimiento de tierra que desencadena un derrumbe que lo aplasta. Juan comienza a agonizar y se ve a s\u00ed mismo entrando a un mundo azul: es el comienzo de su viaje por el inframundo.\u00a0",
+        "tags": [
+            {
+                "id": 593,
+                "name": "Extraterrestre",
+                "slug": "extraterrestre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/extraterrestre"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 111,
+                "name": "Naves espaciales",
+                "slug": "naves-espaciales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/naves-espaciales"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 756,
+                "name": "Ciencia Ficci\u00f3n_MX",
+                "slug": "ciencia-ficcion-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia-ficcion-mx"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 846,
+                "name": "Sci - Fi",
+                "slug": "sci-fi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sci-fi"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 892,
+                "name": "Drama en corto",
+                "slug": "drama-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-en-corto"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1384,
+                "name": "En el espacio",
+                "slug": "en-el-espacio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-espacio"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2718,
+                "name": "M\u00e9xico y el mundo",
+                "slug": "mexico-y-el-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-y-el-mundo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1053043200,
+        "theater_release_date": 1053043200,
+        "theater_spectators_formatted": null,
+        "title": "Vera",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vera",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2556,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/vera.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/vera/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/vera/master.m3u8"
+                }
+            ]
+        },
+        "year": 2003
+    }
+}

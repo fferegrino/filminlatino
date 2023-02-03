@@ -1,0 +1,287 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Mejor Documental para Cine",
+                "icon": "imagen-awards",
+                "name": "Imagen Awards",
+                "slug": "imagen-awards",
+                "year": 2002
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "festival-de-cine-pobre-de-gibara-cuba",
+                "name": "Festival de Cine Pobre de Gibara, Cuba",
+                "slug": "festival-de-cine-pobre-de-gibara-cuba",
+                "year": 2002
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-de-cine-chicano-de-los-angeles",
+                "name": "Festival de Cine Chicano de los \u00c1ngeles ",
+                "slug": "festival-de-cine-chicano-de-los-angeles",
+                "year": 2002
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-de-cine-chicano-de-los-angeles",
+                "name": "Festival de Cine Chicano de los \u00c1ngeles ",
+                "slug": "festival-de-cine-chicano-de-los-angeles",
+                "year": 2002
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "san-antonio-cinefest-latino",
+                "name": "San Antonio Cinefest Latino",
+                "slug": "san-antonio-cinefest-latino",
+                "year": 2002
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francesco Taboada Tabone",
+                "gender": "m",
+                "id": 485,
+                "slug": "francesco-taboada-tabone",
+                "url": "https://www.filminlatino.mx/director/francesco-taboada-tabone"
+            }
+        ],
+        "duration_in_minutes": 68,
+        "excerpt": "Un momento de la historia que no encontrar\u00e1s en los libros.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 503,
+        "image_card": "https://static.filminlatino.mx/images/media/503/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/503/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/503/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/503/2/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 58,
+        "original_title": "Los \u00faltimos zapatistas, h\u00e9roes olvidados",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 563,
+                "name": "Fondo Estatal Para la Cultura y las Artes de Morelos",
+                "slug": "fondo-estatal-para-la-cultura-y-las-artes-de-morelos",
+                "url": "https://www.filminlatino.mx/producer/fondo-estatal-para-la-cultura-y-las-artes-de-morelos"
+            },
+            {
+                "acronym": "UAEM",
+                "id": 564,
+                "name": "Universidad Aut\u00f3noma del Estado de Morelos",
+                "slug": "universidad-autonoma-del-estado-de-morelos",
+                "url": "https://www.filminlatino.mx/producer/universidad-autonoma-del-estado-de-morelos"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "los-ultimos-zapatistas",
+        "synopsis": "A cien a\u00f1os de la Revoluci\u00f3n Mexicana, los sobrevivientes del legendario Ej\u00e9rcito Libertador del Sur, hablan de una verdad que no aparece en los libros. Hombres y mujeres levantan por \u00faltima vez su voz al dejar un testamento invaluable para M\u00e9xico y el mundo.",
+        "tags": [
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 465,
+                "name": "H\u00e9roes",
+                "slug": "heroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/heroes"
+            },
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 1071,
+                "name": "Francesco Taboada",
+                "slug": "francesco-taboada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/francesco-taboada"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1249,
+                "name": "2002",
+                "slug": "2002",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2002"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 1274,
+                "name": "Emiliano Zapata",
+                "slug": "emiliano-zapata",
+                "url": "https://www.filminlatino.mx/catalogo/tema/emiliano-zapata"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            },
+            {
+                "id": 1858,
+                "name": "La revoluci\u00f3n mexicana a trav\u00e9s del cine",
+                "slug": "la-revolucion-mexicana-a-traves-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-revolucion-mexicana-a-traves-del-cine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1019001600,
+        "theater_release_date": 1019001600,
+        "theater_spectators_formatted": null,
+        "title": "Los \u00faltimos zapatistas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-ultimos-zapatistas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 380,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-ultimos-zapatistas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-ultimos-zapatistas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-ultimos-zapatistas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2000
+    }
+}

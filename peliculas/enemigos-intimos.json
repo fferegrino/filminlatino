@@ -1,0 +1,225 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ximena Sari\u00f1ana",
+                "gender": "f",
+                "id": 1860,
+                "slug": "ximena-sarinana",
+                "url": "https://www.filminlatino.mx/actriz/ximena-sarinana"
+            },
+            {
+                "full_name": "Demi\u00e1n Bichir",
+                "gender": "m",
+                "id": 118,
+                "slug": "demian-bichir",
+                "url": "https://www.filminlatino.mx/actor/demian-bichir"
+            },
+            {
+                "full_name": "Ver\u00f3nica Merchant",
+                "gender": "f",
+                "id": 918,
+                "slug": "veronica-merchant",
+                "url": "https://www.filminlatino.mx/actriz/veronica-merchant"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [
+            {
+                "category": "Mayahuel a Mejor actriz ",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernando Sari\u00f1ana",
+                "gender": "m",
+                "id": 548,
+                "slug": "fernando-sarinana",
+                "url": "https://www.filminlatino.mx/director/fernando-sarinana"
+            }
+        ],
+        "duration_in_minutes": 95,
+        "excerpt": "La inminencia de la muerte es el detonador de las crisis existenciales de un grupo de individuos cuyas vidas se cruzan en un hospital.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2563,
+        "image_card": "https://static.filminlatino.mx/images/media/2563/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2563/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2563/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/2563/3/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "Enemigos \u00edntimos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1380,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/producer/corazon-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "enemigos-intimos",
+        "synopsis": "La inminencia de la muerte es el detonador de las crisis existenciales de un grupo de individuos cuyas vidas se cruzan en un hospital. Las historias de siete personajes que enfrentan diferentes crisis \u2014una mujer que no acepta su envejecimiento, una enfermera muda y su madre diab\u00e9tica, un escritor fracasado, un ni\u00f1o autista, una joven mujer embarazada y una adolescente en estado de coma\u2014 se entrelazan a partir de que a \u00c1lvaro le descubren un tumor canceroso en un ri\u00f1\u00f3n.<br>",
+        "tags": [
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 590,
+                "name": "C\u00e1ncer",
+                "slug": "cancer",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cancer"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 48,
+                "name": "Enfermedad terminal",
+                "slug": "enfermedad-terminal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedad-terminal"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 564,
+                "name": "Vidas pasadas",
+                "slug": "vidas-pasadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-pasadas"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Enemigos \u00edntimos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/enemigos-intimos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 3260,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

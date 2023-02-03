@@ -1,0 +1,228 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Bruno Bichir",
+                "gender": "m",
+                "id": 803,
+                "slug": "bruno-bichir",
+                "url": "https://www.filminlatino.mx/actor/bruno-bichir"
+            },
+            {
+                "full_name": "Silvia Carusillo",
+                "gender": "f",
+                "id": 1032,
+                "slug": "silvia-carusillo",
+                "url": "https://www.filminlatino.mx/actriz/silvia-carusillo"
+            },
+            {
+                "full_name": "Gabriel Casanova",
+                "gender": "m",
+                "id": 1033,
+                "slug": "gabriel-casanova",
+                "url": "https://www.filminlatino.mx/actor/gabriel-casanova"
+            },
+            {
+                "full_name": "Miguel Conde",
+                "gender": "m",
+                "id": 1034,
+                "slug": "miguel-conde",
+                "url": "https://www.filminlatino.mx/actor/miguel-conde"
+            }
+        ],
+        "avg_votes": 7.2,
+        "avg_votes_formatted": "7,2",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gibr\u00e1n Baz\u00e1n",
+                "gender": "m",
+                "id": 410,
+                "slug": "gibran-bazan",
+                "url": "https://www.filminlatino.mx/director/gibran-bazan"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "La p\u00e9rdida, la melancol\u00eda y la desilusi\u00f3n psicol\u00f3gica se condensan con la est\u00e9tica visual de la cinta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 433,
+        "image_card": "https://static.filminlatino.mx/images/media/433/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/433/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/433/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/433/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/433/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/433/6/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Generaci\u00f3n Spielberg",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 392,
+                "name": "Marsash Producciones",
+                "slug": "marsash-producciones",
+                "url": "https://www.filminlatino.mx/producer/marsash-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "generacion-spielberg",
+        "synopsis": "Cinco historias entrelazadas. Dos amantes bajo las s\u00e1banas. Una chica atrapada en un elevador. Un grupo de escritores se emborracha recordando \u00e9pocas pasadas. Una psicoanalista se encierra en el ba\u00f1o para suicidarse, mientras una ejecutiva, su amante, se esconde para curar su coraz\u00f3n roto con vino.",
+        "tags": [
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1408579200,
+        "theater_release_date": 1408579200,
+        "theater_spectators_formatted": null,
+        "title": "Generaci\u00f3n Spielberg",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/generacion-spielberg",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 751,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/generacion-spielberg.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/generacion-spielberg/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/generacion-spielberg/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

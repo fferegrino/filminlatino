@@ -1,0 +1,447 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Haluk Bilginer",
+                "gender": "m",
+                "id": 2888,
+                "slug": "haluk-bilginer",
+                "url": "https://www.filminlatino.mx/actor/haluk-bilginer"
+            },
+            {
+                "full_name": "Melisa S\u00f6zen",
+                "gender": "f",
+                "id": 2889,
+                "slug": "melisa-sozen",
+                "url": "https://www.filminlatino.mx/actriz/melisa-sozen"
+            },
+            {
+                "full_name": "Demet Akbag",
+                "gender": "f",
+                "id": 2890,
+                "slug": "demet-akbag",
+                "url": "https://www.filminlatino.mx/actriz/demet-akbag"
+            },
+            {
+                "full_name": "Ayberk Pekcan",
+                "gender": "m",
+                "id": 2891,
+                "slug": "ayberk-pekcan",
+                "url": "https://www.filminlatino.mx/actor/ayberk-pekcan"
+            },
+            {
+                "full_name": "Serhat Mustafa Kilic",
+                "gender": "m",
+                "id": 2892,
+                "slug": "serhat-mustafa-kilic",
+                "url": "https://www.filminlatino.mx/actor/serhat-mustafa-kilic"
+            },
+            {
+                "full_name": "Nejat Isler",
+                "gender": "m",
+                "id": 2893,
+                "slug": "nejat-isler",
+                "url": "https://www.filminlatino.mx/actor/nejat-isler"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2014
+            },
+            {
+                "category": "Palma de Oro",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2014
+            },
+            {
+                "category": "Perlas",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Mejor director",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actor Secundario",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "name": "SIYAD Premio de la Asociaci\u00f3n de Cr\u00edticos de Cine de Turco",
+                "slug": "siyad-premio-de-la-asociacion-de-criticos-de-cine-de-turco",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "asia-pacific-screen-awards",
+                "name": "Asia Pacific Screen Awards",
+                "slug": "asia-pacific-screen-awards",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Pel\u00edcula Extranjera",
+                "icon": "sindicato-de-criticos-de-cine-de-francia",
+                "name": "Sindicato de Cr\u00edticos de Cine de Francia",
+                "slug": "sindicato-de-criticos-de-cine-de-francia",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Historia Original ",
+                "icon": "sydney-film-festival",
+                "name": "Sydney Film Festival",
+                "slug": "sydney-film-festival",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-palm-springs",
+                "name": "Festival Internacional de Cine de Palm Springs",
+                "slug": "festival-internacional-de-cine-de-palm-springs",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "italian-online-movie-awards-ioma",
+                "name": "Italian Online Movie Awards (IOMA)",
+                "slug": "italian-online-movie-awards-ioma",
+                "year": 2014
+            },
+            {
+                "category": "Mejor Pel\u00edcula Extranjera",
+                "icon": "premios-turia",
+                "name": "Premios Turia",
+                "slug": "premios-turia",
+                "year": 2014
+            },
+            {
+                "category": "Premio Ancla de Oro",
+                "icon": "festival-internacional-de-cine-de-haifa",
+                "name": "Festival Internacional de Cine de Haifa",
+                "slug": "festival-internacional-de-cine-de-haifa",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 224,
+                "name": "Turqu\u00eda",
+                "slug": "turquia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/turquia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nuri Bilge Ceylan",
+                "gender": "m",
+                "id": 446,
+                "slug": "nuri-bilge-ceylan",
+                "url": "https://www.filminlatino.mx/director/nuri-bilge-ceylan"
+            }
+        ],
+        "duration_in_minutes": 196,
+        "excerpt": "Aydin tiene una tormentosa relaci\u00f3n con su esposa. En invierno ambos quedan atrapados en un hotel, es ah\u00ed donde Aydin tendr\u00e1 una introspecci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1516,
+        "image_card": "https://static.filminlatino.mx/images/media/1516/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1516/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1516/14/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1516/14/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1516/15/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1516/14/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/1516/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1516/15/still_5_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 31,
+        "original_title": "Kis Uykusu",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 480,
+                "name": "Zeynofilm",
+                "slug": "zeynofilm",
+                "url": "https://www.filminlatino.mx/producer/zeynofilm"
+            },
+            {
+                "acronym": "",
+                "id": 1160,
+                "name": "Bredok Filmproduction",
+                "slug": "bredok-filmproduction",
+                "url": "https://www.filminlatino.mx/producer/bredok-filmproduction"
+            },
+            {
+                "acronym": "",
+                "id": 1161,
+                "name": "Memento Films Production",
+                "slug": "memento-films-production",
+                "url": "https://www.filminlatino.mx/producer/memento-films-production"
+            },
+            {
+                "acronym": "",
+                "id": 484,
+                "name": "Imaj",
+                "slug": "imaj",
+                "url": "https://www.filminlatino.mx/producer/imaj"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sueno-de-invierno",
+        "synopsis": "Aydin, es un actor jubilado, dirige un peque\u00f1o hotel en Anatolia con la ayuda de su joven esposa, de la que est\u00e1 muy distanciado, y de su hermana, una mujer triste que se acaba de divorciar. En invierno, a medida que la nieve va cubriendo la estepa, el hotel se convierte en un refugio para ellos, del cual no pueden escapar.",
+        "tags": [
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 736,
+                "name": "Oto\u00f1o y vino",
+                "slug": "otono-y-vino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otono-y-vino"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1400198400,
+        "theater_release_date": 1400198400,
+        "theater_spectators_formatted": null,
+        "title": "Sue\u00f1o de invierno",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sueno-de-invierno",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1764,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SUENO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SUENO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SUENO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

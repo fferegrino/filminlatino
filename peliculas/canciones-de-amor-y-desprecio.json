@@ -1,0 +1,294 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.6,
+        "avg_votes_formatted": "9,6",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Docs Without Borders ",
+                "slug": "docs-without-borders",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "1er Festival Internacional de Cine de Am\u00e9rica ",
+                "slug": "1er-festival-internacional-de-cine-de-america",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Guadalupe Salazar V\u00e1zquez ",
+                "gender": "f",
+                "id": 820,
+                "slug": "guadalupe-salazar-vazquez",
+                "url": "https://www.filminlatino.mx/character/guadalupe-salazar-vazquez"
+            },
+            {
+                "full_name": "Fidel  Elizalde Garc\u00eda",
+                "gender": "m",
+                "id": 821,
+                "slug": "fidel-elizalde-garcia",
+                "url": "https://www.filminlatino.mx/character/fidel-elizalde-garcia"
+            },
+            {
+                "full_name": "Antonio Valles Luna",
+                "gender": "m",
+                "id": 822,
+                "slug": "antonio-valles-luna",
+                "url": "https://www.filminlatino.mx/character/antonio-valles-luna"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ana Claudia  B\u00e1rcenas Torres ",
+                "gender": "f",
+                "id": 3598,
+                "slug": "ana-claudia-barcenas-torres",
+                "url": "https://www.filminlatino.mx/directora/ana-claudia-barcenas-torres"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Cuenta la historia amorosa de los cantantes de cardenche en Sapioriz, Durango, M\u00e9xico; gente de campo que comparte su experiencia de pareja desde una visi\u00f3n gozosa y tr\u00e1gica del amor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6928,
+        "image_card": "https://static.filminlatino.mx/images/media/6928/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6928/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6928/3/still_1_3.JPG",
+            "https://static.filminlatino.mx/images/media/6928/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6928/1/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Canciones de amor y desprecio ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3124,
+                "name": "Ixchel Couti\u00f1o Ang\u00falo ",
+                "slug": "ixchel-coutino-angulo",
+                "url": "https://www.filminlatino.mx/producer/ixchel-coutino-angulo"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "canciones-de-amor-y-desprecio",
+        "synopsis": "La historia amorosa de los cantantes de cardenche en Sapioriz, Durango,\u00a0gente de campo que comparte su experiencia de pareja desde una visi\u00f3n gozosa y tr\u00e1gica del amor, donde paralelamente se narra el asesinato de Mar\u00eda Cristina Salazar Olvera, hija del cardenchero don Guadalupe de Salazar, a manos de su ex marido.\u00a0",
+        "tags": [
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 192,
+                "name": "Asesinato perfecto",
+                "slug": "asesinato-perfecto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinato-perfecto"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1783,
+                "name": "Derechos universales | Muestra de Mujeres en el Cine y la TV",
+                "slug": "derechos-universales-muestra-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-universales-muestra-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1775,
+                "name": "Largometraje documental | Muestra de Mujeres en el Cine y la TV",
+                "slug": "largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1796,
+                "name": "Muestra Internacional de Mujeres en el Cine y la TV",
+                "slug": "muestra-internacional-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-internacional-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 2079,
+                "name": "III Muestra Internacional de Obras Audiovisuales sobre PCI",
+                "slug": "iii-muestra-internacional-de-obras-audiovisuales-sobre-pci",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iii-muestra-internacional-de-obras-audiovisuales-sobre-pci"
+            },
+            {
+                "id": 2152,
+                "name": "6 a\u00f1os de FilminLatino",
+                "slug": "6-anos-de-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/6-anos-de-filminlatino"
+            },
+            {
+                "id": 2155,
+                "name": "C\u00e1tedra UNESCO de Investigaci\u00f3n Sobre Patrimonio Cultural Inmaterial | 6 a\u00f1os de FilminLatino",
+                "slug": "catedra-unesco-de-investigacion-sobre-patrimonio-cultural-inmaterial-6-anos-de-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/catedra-unesco-de-investigacion-sobre-patrimonio-cultural-inmaterial-6-anos-de-filminlatino"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1750,
+                "name": "\u00c1lvaro Obreg\u00f3n | Promotores Culturales Comunitarios",
+                "slug": "alvaro-obregon-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alvaro-obregon-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Canciones de amor y desprecio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/canciones-de-amor-y-desprecio",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7053,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/CANCIONES-DE-AMOR-Y-DESPRECIO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/CANCIONES-DE-AMOR-Y-DESPRECIO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/CANCIONES-DE-AMOR-Y-DESPRECIO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

@@ -1,0 +1,535 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Andr\u00e9 Wilms",
+                "gender": "m",
+                "id": 1124,
+                "slug": "andre-wilms",
+                "url": "https://www.filminlatino.mx/actor/andre-wilms"
+            },
+            {
+                "full_name": "Kati Outinen",
+                "gender": "f",
+                "id": 1125,
+                "slug": "kati-outinen",
+                "url": "https://www.filminlatino.mx/actriz/kati-outinen"
+            },
+            {
+                "full_name": "Jean-Pierre Darroussin",
+                "gender": "m",
+                "id": 1126,
+                "slug": "jean-pierre-darroussin",
+                "url": "https://www.filminlatino.mx/actor/jean-pierre-darroussin"
+            },
+            {
+                "full_name": "Blondin Miguel",
+                "gender": "m",
+                "id": 1127,
+                "slug": "blondin-miguel",
+                "url": "https://www.filminlatino.mx/actor/blondin-miguel"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2011
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2011
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2011
+            },
+            {
+                "category": "Perlas",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Mejor Pel\u00edcula en Lengua Extranjera ",
+                "icon": "la-sociedad-nacional-de-criticos-de-cine-de-estados-unidos",
+                "name": "La Sociedad Nacional de Cr\u00edticos de Cine de Estados Unidos",
+                "slug": "la-sociedad-nacional-de-criticos-de-cine-de-estados-unidos",
+                "year": 2011
+            },
+            {
+                "category": "Premio Bridging the Borders ",
+                "icon": "festival-internacional-de-cine-de-palm-springs",
+                "name": "Festival Internacional de Cine de Palm Springs",
+                "slug": "festival-internacional-de-cine-de-palm-springs",
+                "year": 2011
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "louis-delluc-prize",
+                "name": "Louis Delluc Prize",
+                "slug": "louis-delluc-prize",
+                "year": 2011
+            },
+            {
+                "category": "Gold Hugo",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-de-cine-de-munich-alemania",
+                "name": "Festival de Cine de Munich, Alemania",
+                "slug": "festival-de-cine-de-munich-alemania",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "festival-internacional-de-cine-de-locarno",
+                "name": "Festival Internacional de Cine de Locarno",
+                "slug": "festival-internacional-de-cine-de-locarno",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor actriz de reparto",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-jussi",
+                "name": "Premios Jussi",
+                "slug": "premios-jussi",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-locarno",
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "year": null
+            },
+            {
+                "category": "Premio de la Audiencia RIFF",
+                "icon": "reykjavik-international-film-festival",
+                "name": "Reykjavik International Film Festival",
+                "slug": "reykjavik-international-film-festival",
+                "year": 2011
+            },
+            {
+                "category": "Premio NBR",
+                "icon": "national-board-of-review-usa",
+                "name": "National Board of Review, USA",
+                "slug": "national-board-of-review-usa",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 70,
+                "name": "Finlandia",
+                "slug": "finlandia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/finlandia"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Aki Kaurism\u00e4ki",
+                "gender": "m",
+                "id": 433,
+                "slug": "aki-kaurismaki",
+                "url": "https://www.filminlatino.mx/director/aki-kaurismaki"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Una magnifica pel\u00edcula que retrata la solidaridad con un toque de humor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 465,
+        "image_card": "https://static.filminlatino.mx/images/media/465/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/465/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/465/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/465/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/465/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/465/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/465/3/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 45,
+        "original_title": "Le Havre",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 467,
+                "name": "Finnish Film Foundation",
+                "slug": "finnish-film-foundation",
+                "url": "https://www.filminlatino.mx/producer/finnish-film-foundation"
+            },
+            {
+                "acronym": "",
+                "id": 468,
+                "name": "Nordisk Film- & TV-Fond",
+                "slug": "nordisk-film-tv-fond",
+                "url": "https://www.filminlatino.mx/producer/nordisk-film-tv-fond"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            },
+            {
+                "acronym": "YLE",
+                "id": 470,
+                "name": "Yleisradio",
+                "slug": "yleisradio",
+                "url": "https://www.filminlatino.mx/producer/yleisradio"
+            },
+            {
+                "acronym": "",
+                "id": 471,
+                "name": "Cin\u00e9Cin\u00e9ma",
+                "slug": "cinecinema",
+                "url": "https://www.filminlatino.mx/producer/cinecinema"
+            },
+            {
+                "acronym": "",
+                "id": 472,
+                "name": "Arte France",
+                "slug": "arte-france",
+                "url": "https://www.filminlatino.mx/producer/arte-france"
+            },
+            {
+                "acronym": "",
+                "id": 473,
+                "name": "R\u00e9gion Haute-Normandie",
+                "slug": "region-haute-normandie",
+                "url": "https://www.filminlatino.mx/producer/region-haute-normandie"
+            },
+            {
+                "acronym": "",
+                "id": 474,
+                "name": "P\u00f4le Image Haute-Normandie",
+                "slug": "pole-image-haute-normandie",
+                "url": "https://www.filminlatino.mx/producer/pole-image-haute-normandie"
+            },
+            {
+                "acronym": "",
+                "id": 35,
+                "name": "Arte France Cin\u00e9ma",
+                "slug": "arte-france-cinema",
+                "url": "https://www.filminlatino.mx/producer/arte-france-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 37,
+                "name": "ZDF/Arte",
+                "slug": "zdfarte",
+                "url": "https://www.filminlatino.mx/producer/zdfarte"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 464,
+                "name": "Sputnik ",
+                "slug": "sputnik",
+                "url": "https://www.filminlatino.mx/producer/sputnik"
+            },
+            {
+                "acronym": "",
+                "id": 465,
+                "name": "Pyramide Productions",
+                "slug": "pyramide-productions",
+                "url": "https://www.filminlatino.mx/producer/pyramide-productions"
+            },
+            {
+                "acronym": "",
+                "id": 466,
+                "name": "Pandora Filmproduktion",
+                "slug": "pandora-filmproduktion",
+                "url": "https://www.filminlatino.mx/producer/pandora-filmproduktion"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "el-havre-el-puerto-de-la-esperanza",
+        "synopsis": "Marcel Marx, escritor y conocido bohemio, se ha autoexiliado en la ciudad de El Havre, donde siente que est\u00e1 m\u00e1s cerca de la gente despu\u00e9s de adoptar el honrado, aunque no muy provechoso, oficio de limpiabotas. Vive felizmente dentro de un tri\u00e1ngulo compuesto por su bar preferido, su trabajo y su esposa Arletty. Pero el destino hace que se cruce con un inmigrante menor de edad llegado del \u00c1frica negra.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 480,
+                "name": "Inmigraci\u00f3n",
+                "slug": "inmigracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inmigracion"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 554,
+                "name": "Semana Alem\u00e1n",
+                "slug": "semana-aleman",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-aleman"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 498,
+                "name": "Vecindad",
+                "slug": "vecindad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecindad"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 869,
+                "name": "Vecinos",
+                "slug": "vecinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vecinos"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1306195200,
+        "theater_release_date": 1306195200,
+        "theater_spectators_formatted": null,
+        "title": "El Havre: El puerto de la esperanza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-havre-el-puerto-de-la-esperanza",
+        "versions": [
+            {
+                "codes": [],
+                "id": 261,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-havre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-havre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-havre/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

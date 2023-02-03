@@ -1,0 +1,525 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alejandro Parodi",
+                "gender": "m",
+                "id": 140,
+                "slug": "alejandro-parodi",
+                "url": "https://www.filminlatino.mx/actor/alejandro-parodi"
+            },
+            {
+                "full_name": "Ana Ofelia Murgu\u00eda",
+                "gender": "f",
+                "id": 264,
+                "slug": "ana-ofelia-murguia",
+                "url": "https://www.filminlatino.mx/actriz/ana-ofelia-murguia"
+            },
+            {
+                "full_name": "Patricia Reyes Sp\u00edndola",
+                "gender": "f",
+                "id": 282,
+                "slug": "patricia-reyes-spindola",
+                "url": "https://www.filminlatino.mx/actriz/patricia-reyes-spindola"
+            },
+            {
+                "full_name": "Jos\u00e9 Carlos Ruiz",
+                "gender": "m",
+                "id": 325,
+                "slug": "jose-carlos-ruiz",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-ruiz"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Cartagena de Indias",
+                "slug": "festival-internacional-de-cine-de-cartagena-de-indias",
+                "year": 1988
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor Argumento Original escrito para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1988
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1988
+            },
+            {
+                "category": "Mejor M\u00fasica",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 1988
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Y. L\u00f3pez",
+                "gender": "m",
+                "id": 104,
+                "slug": "diego-y-lopez",
+                "url": "https://www.filminlatino.mx/director/diego-y-lopez"
+            }
+        ],
+        "duration_in_minutes": 115,
+        "excerpt": "La cercan\u00eda de su muerte y un \u00faltimo impulso por pintar un cuadro m\u00e1s, llevan al pintor mexicano Francisco Goitia a recordar su vida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 25,
+                "name": "GratisMX",
+                "slug": "gratismx",
+                "url": "https://www.filminlatino.mx/catalogo/genero/gratismx"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 185,
+        "image_card": "https://static.filminlatino.mx/images/media/185/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/185/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/185/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/185/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/185/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/185/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/185/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/185/3/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 30,
+        "original_title": "Goitia, un dios para si mismo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "FFCC",
+                "id": 2,
+                "name": "Fondo de Fomento a la Calidad Cinematogr\u00e1fica",
+                "slug": "fondo-de-fomento-a-la-calidad-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/fondo-de-fomento-a-la-calidad-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 97,
+                "name": "Gobierno del Estado de Zacatecas",
+                "slug": "gobierno-del-estado-de-zacatecas",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-zacatecas"
+            },
+            {
+                "acronym": "",
+                "id": 104,
+                "name": "Imaginaria S. A.",
+                "slug": "imaginaria-s-a",
+                "url": "https://www.filminlatino.mx/producer/imaginaria-s-a"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "goitia-un-dios-para-si-mismo",
+        "synopsis": "Esta cinta tiene su g\u00e9nesis en la figura casi m\u00edtica del pintor zacatecano Francisco Goitia. Comienza en los \u00faltimos d\u00edas del pintor y hace un viaje al pasado que es tambi\u00e9n su propio viaje introspectivo. Al sentir la proximidad de la muerte, Goitia pide a Dios que le permita pintar un \u00faltimo cuadro. Esto lo lleva a hacer un recuento de su vida: el reencuentro con su pa\u00eds y su pueblo; su ardua lucha contra los demonios del cuerpo y su posterior conversi\u00f3n religiosa. Su permanente b\u00fasqueda de identidad como hombre y como artista.",
+        "tags": [
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 261,
+                "name": "Gratis MX",
+                "slug": "gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gratis-mx"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 418,
+                "name": "Artistas MX",
+                "slug": "artistas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artistas-mx"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 143,
+                "name": "Crisis creativa",
+                "slug": "crisis-creativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-creativa"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 1073,
+                "name": "IM100",
+                "slug": "im100",
+                "url": "https://www.filminlatino.mx/catalogo/tema/im100"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1213,
+                "name": "1989",
+                "slug": "1989",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1989"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 1207,
+                "name": "Zacatecas",
+                "slug": "zacatecas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/zacatecas"
+            },
+            {
+                "id": 1212,
+                "name": "Tlaxcala",
+                "slug": "tlaxcala",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tlaxcala"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1381,
+                "name": "Largometrajes Gratis MX",
+                "slug": "largometrajes-gratis-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-gratis-mx"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1457,
+                "name": "Las favoritas de Juli\u00e1n Hern\u00e1ndez",
+                "slug": "las-favoritas-de-julian-hernandez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-julian-hernandez"
+            },
+            {
+                "id": 2100,
+                "name": "Ikal bej, arte y cultura comunitaria",
+                "slug": "ikal-bej-arte-y-cultura-comunitaria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ikal-bej-arte-y-cultura-comunitaria"
+            },
+            {
+                "id": 1761,
+                "name": "Miguel Hidalgo | Promotores Culturales Comunitarios",
+                "slug": "miguel-hidalgo-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miguel-hidalgo-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 1765,
+                "name": "Venustiano Carranza | Promotores Culturales Comunitarios",
+                "slug": "venustiano-carranza-promotores-culturales-comunitarios",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venustiano-carranza-promotores-culturales-comunitarios"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2499,
+                "name": "Cl\u00e1sicos MX FVOD",
+                "slug": "clasicos-mx-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mx-fvod"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 600307200,
+        "theater_release_date": 600307200,
+        "theater_spectators_formatted": null,
+        "title": "Goitia, un dios para si mismo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/goitia-un-dios-para-si-mismo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 145,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/gotita-un-dios-para-si-mismo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/gotita-un-dios-para-si-mismo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/gotita-un-dios-para-si-mismo/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/gotita-un-dios-para-si-mismo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/gotita-un-dios-para-si-mismo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/gotita-un-dios-para-si-mismo/master.m3u8"
+                }
+            ]
+        },
+        "year": 1988
+    }
+}

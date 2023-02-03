@@ -1,0 +1,353 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Mejor Documental para Cine",
+                "icon": "festival-internacional-de-documentales-de-madrid",
+                "name": "Festival Internacional de Documentales de Madrid",
+                "slug": "festival-internacional-de-documentales-de-madrid",
+                "year": 2007
+            },
+            {
+                "category": "Mejor Documental para Cine",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2007
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2007
+            },
+            {
+                "category": "Premio Derechos Humanos",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2007
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luc\u00eda Gaj\u00e1",
+                "gender": "f",
+                "id": 705,
+                "slug": "lucia-gaja",
+                "url": "https://www.filminlatino.mx/directora/lucia-gaja"
+            }
+        ],
+        "duration_in_minutes": 123,
+        "excerpt": "Este documental relata la realidad de los migrantes mexicanos en Estados Unidos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1395,
+        "image_card": "https://static.filminlatino.mx/images/media/1395/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1395/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1395/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1395/4/still_2_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 36,
+        "original_title": "Mi vida dentro",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 974,
+                "name": "UF Casa Productora",
+                "slug": "uf-casa-productora",
+                "url": "https://www.filminlatino.mx/producer/uf-casa-productora"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 294,
+                "name": "EFD",
+                "slug": "efd",
+                "url": "https://www.filminlatino.mx/producer/efd"
+            },
+            {
+                "acronym": "",
+                "id": 558,
+                "name": "Bias Postproducci\u00f3n",
+                "slug": "bias-postproduccion",
+                "url": "https://www.filminlatino.mx/producer/bias-postproduccion"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "mi-vida-dentro",
+        "synopsis": "Rosa es una mexicana que en 1999, a los 17 a\u00f1os, migr\u00f3 ilegalmente a Austin, Texas. En enero de 2003 es apresada por sospecha de homicidio y enjuiciada en agosto de 2005. El proceso judicial, el veredicto, la separaci\u00f3n de su familia, la impotencia y ser encarcelada en un pa\u00eds extra\u00f1o hacen de este documental una realidad dentro de la vida de los migrantes mexicanos en Estados Unidos.",
+        "tags": [
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 473,
+                "name": "Libertad",
+                "slug": "libertad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 835,
+                "name": "5\u00b0 FICM",
+                "slug": "50-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-ficm"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 1247,
+                "name": "2007",
+                "slug": "2007",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2007"
+            },
+            {
+                "id": 1184,
+                "name": "2000",
+                "slug": "2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2000"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1243,
+                "name": "Estado de M\u00e9xico",
+                "slug": "estado-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estado-de-mexico"
+            },
+            {
+                "id": 1369,
+                "name": "Nerio Barberis",
+                "slug": "nerio-barberis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nerio-barberis"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1934,
+                "name": "Ciclo: En busca de un futuro",
+                "slug": "ciclo-en-busca-de-un-futuro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-en-busca-de-un-futuro"
+            },
+            {
+                "id": 2013,
+                "name": "Muestra El cine transformado por nosotras",
+                "slug": "muestra-el-cine-transformado-por-nosotras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-el-cine-transformado-por-nosotras"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2453,
+                "name": "Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/compendio-de-cineastas-contemporaneas"
+            },
+            {
+                "id": 2461,
+                "name": "Luc\u00eda Gaj\u00e1 | Compendio de Cineastas Contempor\u00e1neas",
+                "slug": "lucia-gaja-compendio-de-cineastas-contemporaneas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucia-gaja-compendio-de-cineastas-contemporaneas"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mi vida dentro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mi-vida-dentro",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2040,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2007
+    }
+}

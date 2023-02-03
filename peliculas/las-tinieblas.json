@@ -1,0 +1,325 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Brontis Jodorowsky",
+                "gender": "m",
+                "id": 3271,
+                "slug": "brontis-jodorowsky",
+                "url": "https://www.filminlatino.mx/actor/brontis-jodorowsky"
+            },
+            {
+                "full_name": "Aliocha  Sotnikoff",
+                "gender": "m",
+                "id": 12739,
+                "slug": "aliocha-sotnikoff",
+                "url": "https://www.filminlatino.mx/actor/aliocha-sotnikoff"
+            },
+            {
+                "full_name": "Meraqui   Pradis",
+                "gender": "f",
+                "id": 8727,
+                "slug": "meraqui-pradis",
+                "url": "https://www.filminlatino.mx/actriz/meraqui-pradis"
+            },
+            {
+                "full_name": "Fernando  \u00c1lvarez Rebeil",
+                "gender": "m",
+                "id": 5621,
+                "slug": "fernando-alvarez-rebeil",
+                "url": "https://www.filminlatino.mx/actor/fernando-alvarez-rebeil"
+            },
+            {
+                "full_name": "Alejandro Villeli",
+                "gender": "m",
+                "id": 12740,
+                "slug": "alejandro-villeli",
+                "url": "https://www.filminlatino.mx/actor/alejandro-villeli"
+            },
+            {
+                "full_name": "Camila Robertson Glennie",
+                "gender": "m",
+                "id": 5551,
+                "slug": "camila-robertson-glennie",
+                "url": "https://www.filminlatino.mx/actor/camila-robertson-glennie"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "",
+                "name": "Premios de la Academia Mexicana de las Artes y las Ciencias Cinematogr\u00e1ficas",
+                "slug": "premios-de-la-academia-mexicana-de-las-artes-y-las-ciencias-cinematograficas",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Internacional de Cine Fant\u00e1stico de Sitges ",
+                "slug": "festival-internacional-de-cine-fantastico-de-sitges",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Warsaw International Film Festival",
+                "slug": "warsaw-international-film-festival",
+                "year": null
+            },
+            {
+                "category": "Premio de la audiencia",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "feratum-film-festival",
+                "name": "Feratum Film Festival",
+                "slug": "feratum-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Daniel Castro Zimbr\u00f3n",
+                "gender": "m",
+                "id": 6794,
+                "slug": "daniel-castro-zimbron",
+                "url": "https://www.filminlatino.mx/director/daniel-castro-zimbron"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Y su padre los encerr\u00f3 para protegerlos de la bestia en el bosque... Pero la bestia estaba dentro.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 11725,
+        "image_card": "https://static.filminlatino.mx/images/media/11725/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/11725/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/11725/1/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/11725/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/11725/5/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/11725/7/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/11725/9/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/11725/11/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/11725/13/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/11725/15/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/11725/17/still_8_3.png",
+            "https://static.filminlatino.mx/images/media/11725/19/still_9_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Las tinieblas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 3577,
+                "name": "Producciones Varios Lobos, FOPROCINE",
+                "slug": "producciones-varios-lobos-foprocine",
+                "url": "https://www.filminlatino.mx/producer/producciones-varios-lobos-foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "las-tinieblas",
+        "synopsis": "La tierra se ha detenido y los d\u00edas han dejado de existir. Una t\u00f3xica y densa neblina cubre el bosque manteniendo un eterno ocaso. Argel y sus dos hermanos han pasado su vida encerrados en el s\u00f3tano de una vieja caba\u00f1a. Cuando su hermano mayor desaparece misteriosamente, Argel comienza la b\u00fasqueda que lo llevar\u00e1 a descubrir los secretos y misterios m\u00e1s oscuros que tanto su padre, como este bosque, esconden.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 757,
+                "name": "Thriller_MX",
+                "slug": "thriller-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-mx"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 751,
+                "name": "Suspense_MX",
+                "slug": "suspense-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspense-mx"
+            },
+            {
+                "id": 461,
+                "name": "Suspenso",
+                "slug": "suspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suspenso"
+            },
+            {
+                "id": 103,
+                "name": "Apocalipsis",
+                "slug": "apocalipsis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apocalipsis"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 759,
+                "name": "Horror_MX",
+                "slug": "horror-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror-mx"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Las tinieblas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-tinieblas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 13572,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LAS-TINIEBLAS-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LAS-TINIEBLAS-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LAS-TINIEBLAS-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LAS-TINIEBLAS-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LAS-TINIEBLAS-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LAS-TINIEBLAS-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial del jurado",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2008
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2008
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2008
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2008
+            },
+            {
+                "category": "Mejor Postproducci\u00f3n ",
+                "icon": "festival-pantalla-de-cristal-de-mexico",
+                "name": "Festival Pantalla de Cristal de M\u00e9xico",
+                "slug": "festival-pantalla-de-cristal-de-mexico",
+                "year": 2008
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Juan Farr\u00e9",
+                "gender": "m",
+                "id": 174,
+                "slug": "juan-farre",
+                "url": "https://www.filminlatino.mx/director/juan-farre"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Rechazado por la jerarqu\u00eda cat\u00f3lica mexicana, venerado por las masas, comparado con la Virgen de Guadalupe.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 193,
+        "image_card": "https://static.filminlatino.mx/images/media/193/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/193/3/poster_0_3.jpeg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/193/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/193/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/193/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 3,
+        "original_title": "Ni\u00f1o Fidencio: de Roma a Espinazo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 71,
+                "name": "CONARTE",
+                "slug": "conarte",
+                "url": "https://www.filminlatino.mx/producer/conarte"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "nino-fidencio-de-roma-a-espinazo",
+        "synopsis": "Fue rechazado por la jerarqu\u00eda cat\u00f3lica mexicana, venerado por las masas, comparado con la Virgen de Guadalupe. El Ni\u00f1o Fidencio (1898-1938) vivi\u00f3 como un curandero, senador espiritual y espiritista. Sus acciones fueron capturadas en im\u00e1genes hist\u00f3ricas, parte de las cuales a\u00fan se conservan. Este documental refleja la crisis actual de la fe personal y de las instituciones religiosas mediante la historia del Ni\u00f1o Fidencio, un hombre que cal\u00f3 profundamente en el inconsciente colectivo y cuya muerte s\u00f3lo provoc\u00f3 m\u00e1s preguntas que respuestas.",
+        "tags": [
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 353,
+                "name": "Medicina alternativa",
+                "slug": "medicina-alternativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medicina-alternativa"
+            },
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 836,
+                "name": "6\u00b0 FICM",
+                "slug": "60-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/60-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1196,
+                "name": "Coahuila",
+                "slug": "coahuila",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coahuila"
+            },
+            {
+                "id": 1198,
+                "name": "Nuevo Le\u00f3n",
+                "slug": "nuevo-leon",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-leon"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1236729600,
+        "theater_release_date": 1236729600,
+        "theater_spectators_formatted": null,
+        "title": "Ni\u00f1o Fidencio: de Roma a Espinazo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/nino-fidencio-de-roma-a-espinazo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 206,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/nino-findencio.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/nino-findencio/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/nino-findencio/master.m3u8"
+                }
+            ]
+        },
+        "year": 2008
+    }
+}

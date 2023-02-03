@@ -1,0 +1,224 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jorge Bartolucci",
+                "gender": "m",
+                "id": 5172,
+                "slug": "jorge-bartolucci",
+                "url": "https://www.filminlatino.mx/actor/jorge-bartolucci"
+            },
+            {
+                "full_name": "Juli\u00e1n Gonz\u00e1lez De Le\u00f3n",
+                "gender": "m",
+                "id": 5173,
+                "slug": "julian-gonzalez-de-leon",
+                "url": "https://www.filminlatino.mx/actor/julian-gonzalez-de-leon"
+            },
+            {
+                "full_name": "Carmen L\u00f3pez Vicarte",
+                "gender": "f",
+                "id": 5174,
+                "slug": "carmen-lopez-vicarte",
+                "url": "https://www.filminlatino.mx/actriz/carmen-lopez-vicarte"
+            },
+            {
+                "full_name": "Tania Marquina",
+                "gender": "f",
+                "id": 5175,
+                "slug": "tania-marquina",
+                "url": "https://www.filminlatino.mx/actriz/tania-marquina"
+            }
+        ],
+        "avg_votes": 6.6,
+        "avg_votes_formatted": "6,6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Daniela Schneider",
+                "gender": "f",
+                "id": 1787,
+                "slug": "daniela-schneider",
+                "url": "https://www.filminlatino.mx/directora/daniela-schneider"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Tras el infarto cerebral que sufre Juan, un padre de familia en declive,\u00a0el intercambio afectivo con su esposa y\u00a0la comunicaci\u00f3n entre ambos se transforman violentamente.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            },
+            {
+                "id": 7,
+                "name": "Experimental",
+                "slug": "experimental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/experimental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3346,
+        "image_card": "https://static.filminlatino.mx/images/media/3346/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3346/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3346/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3346/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3346/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3346/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3346/10/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Cesado",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cesado",
+        "synopsis": "Ha pasado mucho tiempo desde que Juan, padre de una familia en declive, sufri\u00f3 un ataque cerebral,\u00a0pero\u00a0todav\u00eda tiene dificultades para convivir. Los d\u00edas del protagonista transcurren entre recuerdos de los d\u00edas de gloria, juegos y la lucha por encontrar un lugar en medio de esta pausa permanente. Primer largometraje de Daniela Schneider, directora de arte de 'Batalla en el cielo', 'Sangre' y 'Los bastardos'. Su\u00a0\u00f3pera prima\u00a0deja ver desde los primeros minutos la influencia de directores como Carlos\u00a0Reygadas y Amat Escalante.",
+        "tags": [
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 567,
+                "name": "Amnesia",
+                "slug": "amnesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amnesia"
+            },
+            {
+                "id": 331,
+                "name": "Arrepentimiento",
+                "slug": "arrepentimiento",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arrepentimiento"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1118,
+                "name": "Una comuni\u00f3n",
+                "slug": "una-comunion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/una-comunion"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Cesado",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cesado",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2694,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2012
+    }
+}

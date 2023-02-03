@@ -1,0 +1,306 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Menci\u00f3n de Honor",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Tashkent, U.R.S.S.",
+                "slug": "festival-internacional-de-cine-de-tashkent-urss",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "\u00d3scar Men\u00e9ndez",
+                "gender": "m",
+                "id": 6116,
+                "slug": "oscar-menendez",
+                "url": "https://www.filminlatino.mx/director/oscar-menendez"
+            }
+        ],
+        "duration_in_minutes": 70,
+        "excerpt": "Un paseo por la regi\u00f3n tarahumara para conocer su cultura y sus tradiciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10207,
+        "image_card": "https://static.filminlatino.mx/images/media/10207/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10207/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10207/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10207/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10207/2/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/10207/2/still_0_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Rar\u00e1muri ra itsaara: hablan los tarahumaras",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "raramuri-ra-itsaara-hablan-los-tarahumaras",
+        "synopsis": "Este documental aborda temas de mucha importancia para la regi\u00f3n rar\u00e1muri en el estado de Chihuahua, como es el caso de la deforestaci\u00f3n ocasionada por la tala inmoderada de \u00e1rboles, llevada a cabo por los grandes aserraderos de la regi\u00f3n, y los problemas ejidales que se generan por esta raz\u00f3n dentro de la zona.\u00a0Tambi\u00e9n se describe la carrera de bola o raraj\u00edpari que forma parte importante de la cultura de este pueblo ind\u00edgena, pues se cree que en la carrera se reproduce el movimiento de los astros, del universo y de la vida misma. Este documental recibi\u00f3 en 1984 menci\u00f3n de honor en el Festival Internacional de Cine de Tashkent, URSS, y el nombramiento en la terna para el Ariel como mejor largometraje documental.",
+        "tags": [
+            {
+                "id": 2433,
+                "name": "Rar\u00e1muri",
+                "slug": "raramuri",
+                "url": "https://www.filminlatino.mx/catalogo/tema/raramuri"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 309,
+                "name": "Norte de M\u00e9xico",
+                "slug": "norte-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/norte-de-mexico"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 2356,
+                "name": "Cosmovisiones",
+                "slug": "cosmovisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cosmovisiones"
+            },
+            {
+                "id": 2121,
+                "name": "Deforestaci\u00f3n",
+                "slug": "deforestacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deforestacion"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 1311,
+                "name": "Comunidad",
+                "slug": "comunidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comunidad"
+            },
+            {
+                "id": 437,
+                "name": "Universo",
+                "slug": "universo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universo"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 499,
+                "name": "Pueblo",
+                "slug": "pueblo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblo"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 2355,
+                "name": "Fiestas y tradiciones",
+                "slug": "fiestas-y-tradiciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-tradiciones"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 2358,
+                "name": "Fiestas y costumbres | INPI ",
+                "slug": "fiestas-y-costumbres-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-costumbres-inpi"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2501,
+                "name": "Lengua Materna | INPI",
+                "slug": "lengua-materna-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna-inpi"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2711,
+                "name": "Orgullosamente mexicanxs",
+                "slug": "orgullosamente-mexicanxs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullosamente-mexicanxs"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Rar\u00e1muri ra itsaara: hablan los tarahumaras",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/raramuri-ra-itsaara-hablan-los-tarahumaras",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 11988,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1983
+    }
+}

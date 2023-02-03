@@ -1,0 +1,357 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.5,
+        "avg_votes_formatted": "9,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 51,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/pais/cuba"
+            },
+            {
+                "id": 56,
+                "name": "Rep\u00fablica Checa",
+                "slug": "republica-checa",
+                "url": "https://www.filminlatino.mx/catalogo/pais/republica-checa"
+            },
+            {
+                "id": 201,
+                "name": "Eslovaquia",
+                "slug": "eslovaquia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/eslovaquia"
+            },
+            {
+                "id": 178,
+                "name": "Polonia",
+                "slug": "polonia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/polonia"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 133,
+                "name": "Lituania",
+                "slug": "lituania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/lituania"
+            },
+            {
+                "id": 43,
+                "name": "Suiza",
+                "slug": "suiza",
+                "url": "https://www.filminlatino.mx/catalogo/pais/suiza"
+            },
+            {
+                "id": 91,
+                "name": "Guatemala",
+                "slug": "guatemala",
+                "url": "https://www.filminlatino.mx/catalogo/pais/guatemala"
+            },
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            },
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            },
+            {
+                "id": 190,
+                "name": "Rusia",
+                "slug": "rusia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/rusia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Hanna  Kim",
+                "gender": "f",
+                "id": 3845,
+                "slug": "hanna-kim",
+                "url": "https://www.filminlatino.mx/directora/hanna-kim"
+            },
+            {
+                "full_name": "Julia  Ocker",
+                "gender": "f",
+                "id": 3846,
+                "slug": "julia-ocker",
+                "url": "https://www.filminlatino.mx/directora/julia-ocker"
+            },
+            {
+                "full_name": "Nicolas  Bianco Levrin",
+                "gender": "m",
+                "id": 3847,
+                "slug": "nicolas-bianco-levrin",
+                "url": "https://www.filminlatino.mx/director/nicolas-bianco-levrin"
+            },
+            {
+                "full_name": "Julie  Rembauville",
+                "gender": "f",
+                "id": 3848,
+                "slug": "julie-rembauville",
+                "url": "https://www.filminlatino.mx/directora/julie-rembauville"
+            },
+            {
+                "full_name": "Ignas  Meil\u016bnas",
+                "gender": "m",
+                "id": 3849,
+                "slug": "ignas-meilunas",
+                "url": "https://www.filminlatino.mx/director/ignas-meilunas"
+            },
+            {
+                "full_name": "Oana  Lacroix",
+                "gender": "f",
+                "id": 3850,
+                "slug": "oana-lacroix",
+                "url": "https://www.filminlatino.mx/directora/oana-lacroix"
+            },
+            {
+                "full_name": "Sandra  Eber",
+                "gender": "f",
+                "id": 3851,
+                "slug": "sandra-eber",
+                "url": "https://www.filminlatino.mx/directora/sandra-eber"
+            },
+            {
+                "full_name": "Nils  Hedinger",
+                "gender": "m",
+                "id": 3852,
+                "slug": "nils-hedinger",
+                "url": "https://www.filminlatino.mx/director/nils-hedinger"
+            },
+            {
+                "full_name": "Max  M\u00f6rtl",
+                "gender": "m",
+                "id": 3853,
+                "slug": "max-mortl",
+                "url": "https://www.filminlatino.mx/director/max-mortl"
+            },
+            {
+                "full_name": "Robert  L\u00f6bel",
+                "gender": "m",
+                "id": 3854,
+                "slug": "robert-lobel",
+                "url": "https://www.filminlatino.mx/director/robert-lobel"
+            },
+            {
+                "full_name": "Dana  Sink",
+                "gender": "f",
+                "id": 3856,
+                "slug": "dana-sink",
+                "url": "https://www.filminlatino.mx/directora/dana-sink"
+            },
+            {
+                "full_name": "Ra\u00fal Robin Morales",
+                "gender": "m",
+                "id": 249,
+                "slug": "raul-robin-morales",
+                "url": "https://www.filminlatino.mx/director/raul-robin-morales"
+            }
+        ],
+        "duration_in_minutes": 63,
+        "excerpt": "Ambulantito rompe con el adultocentrismo para experimentar el cine como ni\u00f1os.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7115,
+        "image_card": "https://static.filminlatino.mx/images/media/7115/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7115/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7115/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7115/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7115/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7115/3/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 15,
+        "original_title": "Programa 1. Misterios de luz",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "programa-1-misterios-de-luz",
+        "synopsis": "Misterios de luz. La luz interrumpe a la oscuridad para revelar nuevas formas, colores, ideas o emociones. Su temperatura define los ciclos de la naturaleza; es energ\u00eda y poder. En este programa transitamos espacios e historias a trav\u00e9s de los misterios de la iluminaci\u00f3n.<br>Ambulantito rompe con el adultocentrismo para experimentar el cine como ni\u00f1os. Creamos un viaje est\u00e9tico y emocional con pel\u00edculas de m\u00faltiples pa\u00edses, \u00e9pocas y formatos para descubrir en el cine un lugar de nuevas complicidades.",
+        "tags": [
+            {
+                "id": 361,
+                "name": "P\u00fablico infantil",
+                "slug": "publico-infantil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/publico-infantil"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 771,
+                "name": "Corto animado",
+                "slug": "corto-animado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corto-animado"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 205,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion"
+            },
+            {
+                "id": 1398,
+                "name": "Animaci\u00f3n 2D",
+                "slug": "animacion-2d",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion-2d"
+            },
+            {
+                "id": 1399,
+                "name": "Animaci\u00f3n 3D",
+                "slug": "animacion-3d",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion-3d"
+            },
+            {
+                "id": 1492,
+                "name": "Realizadores animaci\u00f3n",
+                "slug": "realizadores-animacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-animacion"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 1330,
+                "name": "Perspectiva",
+                "slug": "perspectiva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perspectiva"
+            },
+            {
+                "id": 210,
+                "name": "FilminLatino Ni\u00f1os",
+                "slug": "filminlatino-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-ninos"
+            },
+            {
+                "id": 1807,
+                "name": "Ambulantito",
+                "slug": "ambulantito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulantito"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Programa 1. Misterios de luz",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/programa-1-misterios-de-luz",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7311,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2019
+    }
+}

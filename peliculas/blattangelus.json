@@ -1,0 +1,217 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-venezolano-de-cine-de-la-diversidad-festdivq",
+                "name": "Festival Venezolano de Cine de la diversidad (FESTDIVQ)",
+                "slug": "festival-venezolano-de-cine-de-la-diversidad-festdivq",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Araceli Santana",
+                "gender": "f",
+                "id": 409,
+                "slug": "araceli-santana",
+                "url": "https://www.filminlatino.mx/directora/araceli-santana"
+            }
+        ],
+        "duration_in_minutes": 64,
+        "excerpt": "Documental que muestra la reconciliaci\u00f3n entre la espiritualidad cristiana y la homosexualidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 432,
+        "image_card": "https://static.filminlatino.mx/images/media/432/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/432/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/432/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/432/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 13,
+        "original_title": "Blattangelus",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "879",
+                "id": 391,
+                "name": "Rofilms, S.A. de C.V.",
+                "slug": "rofilms-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/rofilms-sa-de-cv"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "blattangelus",
+        "synopsis": "Como miembro de una familia cat\u00f3lica tradicional, Jorge Sosa se vio inmerso desde su ni\u00f1ez en colegios, actividades y gremios en los que su orientaci\u00f3n homosexual le generaba un conflicto ideol\u00f3gico insostenible, el cual termin\u00f3 cuando decidi\u00f3 alejarse por completo de los preceptos y pr\u00e1cticas de su religi\u00f3n. Sin embargo, a\u00f1os m\u00e1s tarde recibe el consejo de un sacerdote que consigue reconciliarlo con su fe, misma que m\u00e1s tarde lo lleva a posicionarse al frente de una iglesia cuya misi\u00f3n es la reconciliaci\u00f3n de los individuos con un Dios ajeno a los preceptos dictados por la Iglesia cat\u00f3lica, pero sobre todo con un Dios que fomenta en sus fieles la responsabilidad y la conciencia plena de sus libertades.",
+        "tags": [
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 355,
+                "name": "Iglesia",
+                "slug": "iglesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iglesia"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1274745600,
+        "theater_release_date": 1274745600,
+        "theater_spectators_formatted": null,
+        "title": "Blattangelus",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/blattangelus",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 740,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

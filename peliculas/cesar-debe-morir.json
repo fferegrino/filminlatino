@@ -1,0 +1,449 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Fabio Cavalli",
+                "gender": "m",
+                "id": 2827,
+                "slug": "fabio-cavalli",
+                "url": "https://www.filminlatino.mx/actor/fabio-cavalli"
+            },
+            {
+                "full_name": "Salvatore Striano",
+                "gender": "m",
+                "id": 2828,
+                "slug": "salvatore-striano",
+                "url": "https://www.filminlatino.mx/actor/salvatore-striano"
+            },
+            {
+                "full_name": "Giovanni Arcuri",
+                "gender": "m",
+                "id": 2829,
+                "slug": "giovanni-arcuri",
+                "url": "https://www.filminlatino.mx/actor/giovanni-arcuri"
+            },
+            {
+                "full_name": "Antonio Frasca",
+                "gender": "m",
+                "id": 2830,
+                "slug": "antonio-frasca",
+                "url": "https://www.filminlatino.mx/actor/antonio-frasca"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Oso de Oro de Berl\u00edn",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": 2012
+            },
+            {
+                "category": "Premio del Jurado Ecum\u00e9nico",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": 2012
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Concha de Oro",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n al Premio de la Audiencia del Politiken",
+                "icon": "cphdox",
+                "name": "CPH:DOX",
+                "slug": "cphdox",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Premio CPH:DOX",
+                "icon": "cphdox",
+                "name": "CPH:DOX",
+                "slug": "cphdox",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Globo de Oro a Mejor pel\u00edcula",
+                "icon": "globos-de-oro-italia",
+                "name": "Globos de Oro, Italia",
+                "slug": "globos-de-oro-italia",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Globo de Oro a Mejor Director",
+                "icon": "globos-de-oro-italia",
+                "name": "Globos de Oro, Italia",
+                "slug": "globos-de-oro-italia",
+                "year": 2012
+            },
+            {
+                "category": "David a Mejor Montaje",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "David a Mejor Sonido",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al David a Mejor Fotograf\u00eda",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al David a Mejor Gui\u00f3n",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al David a Mejor M\u00fasica",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "David a Mejor Pel\u00edcula",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "David a Mejor Director",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "David a Mejor Productor",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2012
+            },
+            {
+                "category": "Premio FICE a Mejor Director",
+                "icon": "federazione-italiana-cinema-dessai",
+                "name": "Federazione Italiana Cinema d'Essai",
+                "slug": "federazione-italiana-cinema-dessai",
+                "year": 2012
+            },
+            {
+                "category": "Premio FICE a Mejor Director",
+                "icon": "federazione-italiana-cinema-dessai",
+                "name": "Federazione Italiana Cinema d'Essai",
+                "slug": "federazione-italiana-cinema-dessai",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Premio Heterodoxo",
+                "icon": "cinema-eye-honors-awards-usa",
+                "name": "Cinema Eye Honors Awards, USA",
+                "slug": "cinema-eye-honors-awards-usa",
+                "year": 2012
+            },
+            {
+                "category": "Nominaci\u00f3n al Premio de la Audiencia",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Paolo Taviani",
+                "gender": "m",
+                "id": 1019,
+                "slug": "paolo-taviani",
+                "url": "https://www.filminlatino.mx/director/paolo-taviani"
+            },
+            {
+                "full_name": "Vittorio Taviani",
+                "gender": "m",
+                "id": 1020,
+                "slug": "vittorio-taviani",
+                "url": "https://www.filminlatino.mx/director/vittorio-taviani"
+            }
+        ],
+        "duration_in_minutes": 74,
+        "excerpt": "Los reclusos en una prisi\u00f3n de alta seguridad en Roma se preparan para una ejecuci\u00f3n p\u00fablica de Shakespeare \"Julio C\u00e9sar\".",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1503,
+        "image_card": "https://static.filminlatino.mx/images/media/1503/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1503/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1503/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1503/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Cesare deve morire",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1110,
+                "name": "Kaos Cinematografica",
+                "slug": "kaos-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/kaos-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 1111,
+                "name": "Stemal Entertainment ",
+                "slug": "stemal-entertainment",
+                "url": "https://www.filminlatino.mx/producer/stemal-entertainment"
+            },
+            {
+                "acronym": "",
+                "id": 1112,
+                "name": "Le Talee ",
+                "slug": "le-talee",
+                "url": "https://www.filminlatino.mx/producer/le-talee"
+            },
+            {
+                "acronym": "",
+                "id": 1113,
+                "name": "La Ribalta-Centro Studi Enrico Maria Salerno ",
+                "slug": "la-ribalta-centro-studi-enrico-maria-salerno",
+                "url": "https://www.filminlatino.mx/producer/la-ribalta-centro-studi-enrico-maria-salerno"
+            },
+            {
+                "acronym": "",
+                "id": 1114,
+                "name": "Rai Cinema ",
+                "slug": "rai-cinema",
+                "url": "https://www.filminlatino.mx/producer/rai-cinema"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cesar-debe-morir",
+        "synopsis": "El teatro de la c\u00e1rcel Rebibbia de Roma. Acaba de terminar la representaci\u00f3n de Julio C\u00e9sar, de Shakespeare; el p\u00fablico aplaude entusiasmado. Las luces se apagan y los actores vuelven a su condici\u00f3n de presos camino de las celdas. Seis meses antes el director de la c\u00e1rcel y un director de teatro se dirigen a los presos para hablarles de un nuevo proyecto, la escenificaci\u00f3n de Julio C\u00e9sar en la c\u00e1rcel. El primer paso es el reparto. El segundo, el estudio del texto. El idioma universal de Shakespeare ayuda a los presos a identificarse con los personajes. Es un camino largo, dif\u00edcil, plagado de ansiedad y de esperanza. Estos suelen ser los sentimientos que invaden a los presos en sus celdas despu\u00e9s de los ensayos. \u00bfQui\u00e9n es Giovanni, el hombre que encarna a C\u00e9sar? \u00bfY qui\u00e9n es Salvatore, convertido en Bruto? \u00bfQu\u00e9 han hecho para estar condenados a prisi\u00f3n?",
+        "tags": [
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 67,
+                "name": "Basada en obra teatral",
+                "slug": "basada-en-obra-teatral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-obra-teatral"
+            },
+            {
+                "id": 72,
+                "name": "Cine de prisiones",
+                "slug": "cine-de-prisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-prisiones"
+            },
+            {
+                "id": 312,
+                "name": "William Shakespeare",
+                "slug": "william-shakespeare",
+                "url": "https://www.filminlatino.mx/catalogo/tema/william-shakespeare"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 490,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/italia"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 988,
+                "name": "Recomendadas de Nalleli Z\u00e1rate",
+                "slug": "recomendadas-de-nalleli-zarate",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-nalleli-zarate"
+            },
+            {
+                "id": 1085,
+                "name": "Conchas de Oro ",
+                "slug": "conchas-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conchas-de-oro"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "C\u00e9sar debe morir",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cesar-debe-morir",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1023,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cesar-debe-morir.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cesar-debe-morir/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cesar-debe-morir/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

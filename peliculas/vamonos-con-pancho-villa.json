@@ -1,0 +1,326 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Antonio R. Frausto",
+                "gender": "m",
+                "id": 3646,
+                "slug": "antonio-r-frausto",
+                "url": "https://www.filminlatino.mx/actor/antonio-r-frausto"
+            },
+            {
+                "full_name": "Domingo Soler",
+                "gender": "m",
+                "id": 800,
+                "slug": "domingo-soler",
+                "url": "https://www.filminlatino.mx/actor/domingo-soler"
+            },
+            {
+                "full_name": "Manuel Tam\u00e9s",
+                "gender": "m",
+                "id": 3647,
+                "slug": "manuel-tames",
+                "url": "https://www.filminlatino.mx/actor/manuel-tames"
+            },
+            {
+                "full_name": "Ram\u00f3n Vallarino",
+                "gender": "m",
+                "id": 3648,
+                "slug": "ramon-vallarino",
+                "url": "https://www.filminlatino.mx/actor/ramon-vallarino"
+            },
+            {
+                "full_name": "Ra\u00fal de Anda",
+                "gender": "m",
+                "id": 3649,
+                "slug": "raul-de-anda",
+                "url": "https://www.filminlatino.mx/actor/raul-de-anda"
+            },
+            {
+                "full_name": "Rafael F. Mu\u00f1oz",
+                "gender": "m",
+                "id": 3650,
+                "slug": "rafael-f-munoz",
+                "url": "https://www.filminlatino.mx/actor/rafael-f-munoz"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernando de Fuentes",
+                "gender": "m",
+                "id": 1250,
+                "slug": "fernando-de-fuentes",
+                "url": "https://www.filminlatino.mx/director/fernando-de-fuentes"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "A pesar de estar catalogada como una de las grandes joyas del cine mexicano y del cine de la Revoluci\u00f3n, pocos han visto la pel\u00edcula y poco se pod\u00eda ver, hasta ahora.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 12,
+                "name": "B\u00e9lico",
+                "slug": "belico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/belico"
+            },
+            {
+                "id": 26,
+                "name": "Cine cl\u00e1sico",
+                "slug": "cine-clasico",
+                "url": "https://www.filminlatino.mx/catalogo/genero/cine-clasico"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2511,
+        "image_card": "https://static.filminlatino.mx/images/media/2511/10/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2511/10/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2511/10/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 117,
+        "original_title": "\u00a1V\u00e1monos con Pancho Villa!",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 253,
+                "name": "Cinematografica Latino Americana S.A",
+                "slug": "cinematografica-latino-americana-sa",
+                "url": "https://www.filminlatino.mx/producer/cinematografica-latino-americana-sa"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "vamonos-con-pancho-villa",
+        "synopsis": "Esta pel\u00edcula fue filmada en 1935, se estren\u00f3 en diciembre de 1936, dur\u00f3 una semana en taquilla y luego durmi\u00f3, en una lata, hasta los sesenta, cuando se proyect\u00f3 en algunos cineclubes; volvi\u00f3 a quedar en el olvido veinte a\u00f1os. Un grupo de valientes campesinos, conocidos como los \"Leones de San Pablo\" se unen al ej\u00e9rcito de Pancho Villa, durante la Revoluci\u00f3n Mexicana. Despu\u00e9s de algunas batallas, con m\u00e1s derrotas que victorias, el grupo original es reducido, y una serie de problemas les lleva a replantearse su posici\u00f3n.",
+        "tags": [
+            {
+                "id": 287,
+                "name": "Revoluci\u00f3n Mexicana",
+                "slug": "revolucion-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-mexicana"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 647,
+                "name": "Vida en el campo",
+                "slug": "vida-en-el-campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-campo"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 80,
+                "name": "Pel\u00edculas sobre revoluciones",
+                "slug": "peliculas-sobre-revoluciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-sobre-revoluciones"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1069,
+                "name": "Filmoteca UNAM",
+                "slug": "filmoteca-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmoteca-unam"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1162,
+                "name": "Cl\u00e1sicos en blanco y negro",
+                "slug": "clasicos-en-blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-en-blanco-y-negro"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1410,
+                "name": "Aniversario UNAM",
+                "slug": "aniversario-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aniversario-unam"
+            },
+            {
+                "id": 1411,
+                "name": "Especial UNAM",
+                "slug": "especial-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-unam"
+            },
+            {
+                "id": 1415,
+                "name": "Arcadia UNAM",
+                "slug": "arcadia-unam",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arcadia-unam"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1451,
+                "name": "Cine B\u00e9lico",
+                "slug": "cine-belico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-belico"
+            },
+            {
+                "id": 1450,
+                "name": "Maestros del cine mexicano ",
+                "slug": "maestros-del-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maestros-del-cine-mexicano"
+            },
+            {
+                "id": 1801,
+                "name": "Guendabiaani' (Memoria) | MIC Istmo",
+                "slug": "guendabiaani-memoria-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guendabiaani-memoria-mic-istmo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": -946857600,
+        "theater_release_date": -946857600,
+        "theater_spectators_formatted": null,
+        "title": "\u00a1V\u00e1monos con Pancho Villa!",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/vamonos-con-pancho-villa",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2154,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1936
+    }
+}

@@ -1,0 +1,773 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mario Zaragoza",
+                "gender": "m",
+                "id": 289,
+                "slug": "mario-zaragoza",
+                "url": "https://www.filminlatino.mx/actor/mario-zaragoza"
+            },
+            {
+                "full_name": "Blanca Guerra",
+                "gender": "f",
+                "id": 484,
+                "slug": "blanca-guerra",
+                "url": "https://www.filminlatino.mx/actriz/blanca-guerra"
+            },
+            {
+                "full_name": "Daniel Acu\u00f1a",
+                "gender": "m",
+                "id": 644,
+                "slug": "daniel-acuna",
+                "url": "https://www.filminlatino.mx/actor/daniel-acuna"
+            },
+            {
+                "full_name": "Vanessa Bauche",
+                "gender": "f",
+                "id": 291,
+                "slug": "vanessa-bauche",
+                "url": "https://www.filminlatino.mx/actriz/vanessa-bauche"
+            },
+            {
+                "full_name": "Luis Fernando Pe\u00f1a",
+                "gender": "m",
+                "id": 290,
+                "slug": "luis-fernando-pena",
+                "url": "https://www.filminlatino.mx/actor/luis-fernando-pena"
+            },
+            {
+                "full_name": "Luisa Huertas",
+                "gender": "f",
+                "id": 284,
+                "slug": "luisa-huertas",
+                "url": "https://www.filminlatino.mx/actriz/luisa-huertas"
+            },
+            {
+                "full_name": "Guillermo Gil",
+                "gender": "m",
+                "id": 2304,
+                "slug": "guillermo-gil",
+                "url": "https://www.filminlatino.mx/actor/guillermo-gil"
+            },
+            {
+                "full_name": "Elpidia Carrillo",
+                "gender": "f",
+                "id": 3866,
+                "slug": "elpidia-carrillo",
+                "url": "https://www.filminlatino.mx/actriz/elpidia-carrillo"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Menci\u00f3n especial del jurado al elenco infantil ",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Menci\u00f3n especial del jurado al elenco infantil ",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Premio Tat\u00fa-Tumpa a la Mejor fotograf\u00eda",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Premio Tat\u00fa-Tumpa a la Mejor fotograf\u00eda",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Premio Coral a la Mejor direcci\u00f3n art\u00edstica ",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1998
+            },
+            {
+                "category": "Premio Coral a la Mejor direcci\u00f3n art\u00edstica ",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 1998
+            },
+            {
+                "category": "Premio Tat\u00fa-Tumpa a la Mejor actriz ",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Premio Tat\u00fa-Tumpa a la Mejor actriz ",
+                "icon": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "name": "Festival de Cine Iberoamericano en Santa Cruz",
+                "slug": "festival-de-cine-iberoamericano-en-santa-cruz",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Actriz de Cuadro",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Gui\u00f3n Adaptado",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Arte",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Ambientaci\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Mejor Escenograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1998
+            },
+            {
+                "category": "Revelaci\u00f3n",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1998
+            },
+            {
+                "category": "Revelaci\u00f3n",
+                "icon": "heraldo",
+                "name": "Heraldo",
+                "slug": "heraldo",
+                "year": 1998
+            },
+            {
+                "category": "Concha de Plata a la Mejor fotograf\u00eda ",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 1998
+            },
+            {
+                "category": "Concha de Plata a la Mejor fotograf\u00eda ",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 1998
+            },
+            {
+                "category": "Concha de Plata a la Mejor fotograf\u00eda ",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 1998
+            },
+            {
+                "category": "Concha de Plata a la Mejor fotograf\u00eda ",
+                "icon": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "name": "Festival Internacional de Cine de Donostia \u0096 San Sebasti\u00e1n, Espa\u00f1a",
+                "slug": "festival-internacional-de-cine-de-donostia-san-sebastian-espana",
+                "year": 1998
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Carrera",
+                "gender": "m",
+                "id": 46,
+                "slug": "carlos-carrera",
+                "url": "https://www.filminlatino.mx/director/carlos-carrera"
+            }
+        ],
+        "duration_in_minutes": 126,
+        "excerpt": "Eliseo lleva una vida rutinaria con su mujer. Pero todo cambia cuando su antigua profesora de colegio, qui\u00e9n lo inici\u00f3 en el arte del amor a los 13 a\u00f1os, regresa al pueblo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 229,
+        "image_card": "https://static.filminlatino.mx/images/media/229/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/229/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/229/14/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/229/14/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/229/14/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/229/14/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/229/13/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/229/13/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 75,
+        "original_title": "Un embrujo",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 152,
+                "name": "Tabasco Films",
+                "slug": "tabasco-films",
+                "url": "https://www.filminlatino.mx/producer/tabasco-films"
+            },
+            {
+                "acronym": "",
+                "id": 160,
+                "name": "Tequila Gang",
+                "slug": "tequila-gang",
+                "url": "https://www.filminlatino.mx/producer/tequila-gang"
+            },
+            {
+                "acronym": "",
+                "id": 161,
+                "name": "Salamadra Producciones",
+                "slug": "salamadra-producciones",
+                "url": "https://www.filminlatino.mx/producer/salamadra-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 162,
+                "name": "Pueblo Viejo Producciones",
+                "slug": "pueblo-viejo-producciones",
+                "url": "https://www.filminlatino.mx/producer/pueblo-viejo-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 163,
+                "name": "The Mc Arthur & Rockefeller Foundations",
+                "slug": "the-mc-arthur-rockefeller-foundations",
+                "url": "https://www.filminlatino.mx/producer/the-mc-arthur-rockefeller-foundations"
+            },
+            {
+                "acronym": "",
+                "id": 164,
+                "name": "Fondazione Montecinemaverit\u00e0",
+                "slug": "fondazione-montecinemaverita",
+                "url": "https://www.filminlatino.mx/producer/fondazione-montecinemaverita"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "un-embrujo",
+        "synopsis": "Eliseo, un joven de 13 a\u00f1os, es iniciado en el amor por Felipa, su maestra de escuela. Tras descubrirse la relaci\u00f3n, ella se va del pueblo, dej\u00e1ndolo sumido en la nostalgia. Obligado a casarse con otra mujer y llevar una vida rutinaria, Eliseo pasa los a\u00f1os recordando el romance con Felipa hasta que, diez a\u00f1os despu\u00e9s, la mujer regresa, removiendo sus heridas y cambiando para siempre la vida de \u00e9l, la de su familia y la del pueblo entero.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 769,
+                "name": "Rodrigo Prieto",
+                "slug": "rodrigo-prieto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodrigo-prieto"
+            },
+            {
+                "id": 307,
+                "name": "Campo",
+                "slug": "campo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campo"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 44,
+                "name": "Ambientada en colegio o universidad",
+                "slug": "ambientada-en-colegio-o-universidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-colegio-o-universidad"
+            },
+            {
+                "id": 560,
+                "name": "Regreso a clases",
+                "slug": "regreso-a-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regreso-a-clases"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 256,
+                "name": "Infidelidad",
+                "slug": "infidelidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infidelidad"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 804,
+                "name": "En el aula",
+                "slug": "en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-aula"
+            },
+            {
+                "id": 914,
+                "name": "M\u00e9xico cerca del Oscar",
+                "slug": "mexico-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-cerca-del-oscar"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 941,
+                "name": "Directores en MICA",
+                "slug": "directores-en-mica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-en-mica"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1013,
+                "name": "Bertha Navarro",
+                "slug": "bertha-navarro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bertha-navarro"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 1204,
+                "name": "1998",
+                "slug": "1998",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1998"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1193,
+                "name": "Campeche",
+                "slug": "campeche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/campeche"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 1362,
+                "name": "Mejor Dise\u00f1o de Arte Ariel",
+                "slug": "mejor-diseno-de-arte-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-diseno-de-arte-ariel"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2027,
+                "name": "Ciclo El ni\u00f1o actor, la ni\u00f1a actriz",
+                "slug": "ciclo-el-nino-actor-la-nina-actriz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-el-nino-actor-la-nina-actriz"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 903139200,
+        "theater_release_date": 903139200,
+        "theater_spectators_formatted": null,
+        "title": "Un embrujo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-embrujo",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 195,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1998
+    }
+}

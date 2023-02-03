@@ -1,0 +1,286 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Largometraje Documental",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 2010
+            },
+            {
+                "category": "Mejor debut de un autor brit\u00e1nico",
+                "icon": "premios-bafta",
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "year": 2010
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": 2010
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "critics-choice-awards",
+                "name": "Critics' Choice Awards",
+                "slug": "critics-choice-awards",
+                "year": 2010
+            },
+            {
+                "category": "Mejor Largometraje Documental ",
+                "icon": "independent-spirit-awards",
+                "name": "Independent Spirit Awards",
+                "slug": "independent-spirit-awards",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Banksy .",
+                "gender": "m",
+                "id": 1363,
+                "slug": "banksy",
+                "url": "https://www.filminlatino.mx/director/banksy"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "Documental del artista urbano m\u00e1s famoso de la historia que oculta su identidad ante el mundo entero \"Banksy\".",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 23,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/genero/biopic"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2644,
+        "image_card": "https://static.filminlatino.mx/images/media/2644/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2644/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2644/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2644/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2644/1/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 33,
+        "original_title": "Exit Through the Gift Shop",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 671,
+                "name": "Coproducci\u00f3n GB-USA",
+                "slug": "coproduccion-gb-usa",
+                "url": "https://www.filminlatino.mx/producer/coproduccion-gb-usa"
+            },
+            {
+                "acronym": "",
+                "id": 1553,
+                "name": "Paranoid Pictures",
+                "slug": "paranoid-pictures",
+                "url": "https://www.filminlatino.mx/producer/paranoid-pictures"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "exit-through-the-gift-shop",
+        "synopsis": "Documental del artista urbano m\u00e1s famoso de la historia, quien ha escondido su radical identidad ante el mundo entero. Thierry Guetta es un franc\u00e9s que vive en Los \u00c1ngeles cuya \u00fanica obsesi\u00f3n es grabarlo todo con su c\u00e1mara de v\u00eddeo. Poco a poco se va introduciendo en las calles hasta llegar a Banksy, cuya reputaci\u00f3n pol\u00edtica ha sido cuestionada a nivel mundial.",
+        "tags": [
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 116,
+                "name": "Danza",
+                "slug": "danza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/danza"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 292,
+                "name": "Obsesiones",
+                "slug": "obsesiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/obsesiones"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 884,
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-bafta"
+            },
+            {
+                "id": 903,
+                "name": "Cr\u00edtica social",
+                "slug": "critica-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-social"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 913,
+                "name": "Tan cerca del Oscar",
+                "slug": "tan-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tan-cerca-del-oscar"
+            },
+            {
+                "id": 929,
+                "name": "Cine punk",
+                "slug": "cine-punk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-punk"
+            },
+            {
+                "id": 979,
+                "name": "Recomendadas de Luis Pablo Bauregard",
+                "slug": "recomendadas-de-luis-pablo-bauregard",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-luis-pablo-bauregard"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Exit through the gift shop",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/exit-through-the-gift-shop",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2104,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2010
+    }
+}

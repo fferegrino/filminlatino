@@ -1,0 +1,390 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Beno\u00eet Poelvoorde",
+                "gender": "m",
+                "id": 1662,
+                "slug": "benoit-poelvoorde",
+                "url": "https://www.filminlatino.mx/actor/benoit-poelvoorde"
+            },
+            {
+                "full_name": "Charlotte Gainsbourg",
+                "gender": "f",
+                "id": 1100,
+                "slug": "charlotte-gainsbourg",
+                "url": "https://www.filminlatino.mx/actriz/charlotte-gainsbourg"
+            },
+            {
+                "full_name": "Chiara Mastroianni",
+                "gender": "f",
+                "id": 1181,
+                "slug": "chiara-mastroianni",
+                "url": "https://www.filminlatino.mx/actriz/chiara-mastroianni"
+            },
+            {
+                "full_name": "Catherine Deneuve",
+                "gender": "f",
+                "id": 2818,
+                "slug": "catherine-deneuve",
+                "url": "https://www.filminlatino.mx/actriz/catherine-deneuve"
+            },
+            {
+                "full_name": "Andr\u00e9 Marcon",
+                "gender": "m",
+                "id": 2744,
+                "slug": "andre-marcon",
+                "url": "https://www.filminlatino.mx/actor/andre-marcon"
+            },
+            {
+                "full_name": "Patrick Mille",
+                "gender": "m",
+                "id": 4980,
+                "slug": "patrick-mille",
+                "url": "https://www.filminlatino.mx/actor/patrick-mille"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Nominada al Le\u00f3n de Oro",
+                "icon": "venice-film-festival",
+                "name": "Venice Film Festival ",
+                "slug": "venice-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Actriz",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Actor",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor direcci\u00f3n",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "premios-lumiere-francia",
+                "name": "Premios Lumiere, Francia",
+                "slug": "premios-lumiere-francia",
+                "year": null
+            },
+            {
+                "category": "Nominada a Composici\u00f3n Cinematogr\u00e1fica del a\u00f1o",
+                "icon": "",
+                "name": "World Soundtrack Awards",
+                "slug": "world-soundtrack-awards",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Beno\u00eet Jacquot",
+                "gender": "m",
+                "id": 1702,
+                "slug": "benoit-jacquot",
+                "url": "https://www.filminlatino.mx/director/benoit-jacquot"
+            }
+        ],
+        "duration_in_minutes": 106,
+        "excerpt": "Marc conoce a una Sylvie tras perder su tren, despu\u00e9s se enamora de Sophie sin saber que ella le llevar\u00e1 a encontrarse de nuevo con Sylvie.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3268,
+        "image_card": "https://static.filminlatino.mx/images/media/3268/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3268/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3268/15/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3268/17/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/1/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/9/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/14/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3268/11/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 28,
+        "original_title": "3 coeurs",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 466,
+                "name": "Pandora Filmproduktion",
+                "slug": "pandora-filmproduktion",
+                "url": "https://www.filminlatino.mx/producer/pandora-filmproduktion"
+            },
+            {
+                "acronym": "",
+                "id": 1099,
+                "name": "Rectangle Productions",
+                "slug": "rectangle-productions",
+                "url": "https://www.filminlatino.mx/producer/rectangle-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "3-corazones",
+        "synopsis": "Tras perder su tren para volver a Par\u00eds, Marc conoce a Sylvie y pasar\u00e1 la \u00a0noche caminando con ella hasta la ma\u00f1ana siguiente. Ambos hablar\u00e1n de todo menos de s\u00ed mismos. El aclamado director Beno\u00eet Jacquot, conocido por el filme \u201cNueva vida en Nueva York\u201d, dirige esta cinta controversial nominada a cuatro Premios Lumiere.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 379,
+                "name": "Decisiones",
+                "slug": "decisiones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decisiones"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 906,
+                "name": "Directores Oso de Oro 2018",
+                "slug": "directores-oso-de-oro-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-oso-de-oro-2018"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 993,
+                "name": "Selecci\u00f3n oficial Venecia",
+                "slug": "seleccion-oficial-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-venecia"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "3 corazones",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/3-corazones",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2601,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/3-CORAZONES.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/3-CORAZONES/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/3-CORAZONES/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Daniel Gim\u00e9nez Cacho",
+                "gender": "m",
+                "id": 104,
+                "slug": "daniel-gimenez-cacho",
+                "url": "https://www.filminlatino.mx/actor/daniel-gimenez-cacho"
+            },
+            {
+                "full_name": "Adriana Barraza",
+                "gender": "f",
+                "id": 545,
+                "slug": "adriana-barraza",
+                "url": "https://www.filminlatino.mx/actriz/adriana-barraza"
+            },
+            {
+                "full_name": "Paola Nu\u00f1ez",
+                "gender": "f",
+                "id": 546,
+                "slug": "paola-nunez",
+                "url": "https://www.filminlatino.mx/actriz/paola-nunez"
+            },
+            {
+                "full_name": "Luis Ernesto Franco",
+                "gender": "m",
+                "id": 547,
+                "slug": "luis-ernesto-franco",
+                "url": "https://www.filminlatino.mx/actor/luis-ernesto-franco"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Menci\u00f3n honorifica de la Academia Jalisciense de Cinematograf\u00eda",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Salvador Aguirre",
+                "gender": "m",
+                "id": 182,
+                "slug": "salvador-aguirre",
+                "url": "https://www.filminlatino.mx/director/salvador-aguirre"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Durante tres d\u00edas, varios personajes se enfrentar\u00e1n a decisiones que podri\u00e1n cambiar sus vidas radicalmente. Amor, infidelidad y dinero ser\u00e1n los temas de este viaje.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 204,
+        "image_card": "https://static.filminlatino.mx/images/media/204/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/204/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/204/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/204/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/204/6/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "Amor en fin",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 132,
+                "name": "Habanero Films",
+                "slug": "habanero-films",
+                "url": "https://www.filminlatino.mx/producer/habanero-films"
+            },
+            {
+                "acronym": "",
+                "id": 133,
+                "name": "Sincron\u00eda Films",
+                "slug": "sincronia-films",
+                "url": "https://www.filminlatino.mx/producer/sincronia-films"
+            },
+            {
+                "acronym": "",
+                "id": 134,
+                "name": "De Cuernos al Abismo Films",
+                "slug": "de-cuernos-al-abismo-films",
+                "url": "https://www.filminlatino.mx/producer/de-cuernos-al-abismo-films"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "amor-en-fin",
+        "synopsis": "Una ciudad. Tres d\u00edas, tres clases sociales, tres piezas de amor, seres humanos que conviven sin tocarse, ligados por espejismos y esperanzas. Las luchas por la supervivencia y el poder son individuales y secretas; no hay vencedores ni vencidos. El orden aparente se sostiene y un fin de semana empieza a correr.",
+        "tags": [
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 360,
+                "name": "Doble moral",
+                "slug": "doble-moral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/doble-moral"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 945,
+                "name": "Miembros del Jurado Oscar",
+                "slug": "miembros-del-jurado-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miembros-del-jurado-oscar"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1208,
+                "name": "2009",
+                "slug": "2009",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2009"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2614,
+                "name": "Homenaje Daniel Gim\u00e9nez Cacho",
+                "slug": "homenaje-daniel-gimenez-cacho",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homenaje-daniel-gimenez-cacho"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1264118400,
+        "theater_release_date": 1264118400,
+        "theater_spectators_formatted": null,
+        "title": "Amor en fin",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/amor-en-fin",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 104,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/amor-en-fin.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/amor-en-fin/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/amor-en-fin/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": " Premio Documental Al Jazeera",
+                "icon": "vancouver-latin-american-film-festival",
+                "name": " Vancouver Latin American Film Festival",
+                "slug": "vancouver-latin-american-film-festival",
+                "year": 2012
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "name": "Festival Internacional de Cine de Derechos Humanos de M\u00e9xico",
+                "slug": "festival-internacional-de-cine-de-derechos-humanos-de-mexico",
+                "year": 2012
+            },
+            {
+                "category": "Premio Derechos Humanos",
+                "icon": "festival-de-cine-latinoamericano-de-flandes",
+                "name": "Festival de Cine Latinoamericano de Flandes",
+                "slug": "festival-de-cine-latinoamericano-de-flandes",
+                "year": 2012
+            },
+            {
+                "category": "Menci\u00f3n Especial Largometraje Mexicano Documental",
+                "icon": "festival-internacional-de-cine-de-monterrey",
+                "name": "Festival Internacional de Cine de Monterrey",
+                "slug": "festival-internacional-de-cine-de-monterrey",
+                "year": 2012
+            },
+            {
+                "category": "Menci\u00f3n honor\u00edfica ",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2012
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "muestra-nacional-de-cine-en-fresnillo",
+                "name": "Muestra Nacional de Cine en Fresnillo",
+                "slug": "muestra-nacional-de-cine-en-fresnillo",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Documental Mexicano",
+                "icon": "baja-festival-internacional-de-cine-en-los-cabos",
+                "name": "Baja Festival Internacional de Cine en los Cabos",
+                "slug": "baja-festival-internacional-de-cine-en-los-cabos",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Luciana Kaplan ",
+                "gender": "f",
+                "id": 345,
+                "slug": "luciana-kaplan",
+                "url": "https://www.filminlatino.mx/directora/luciana-kaplan"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "El largometraje cuestiona los usos y costumbres que van en contra de las mujeres ind\u00edgenas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 366,
+        "image_card": "https://static.filminlatino.mx/images/media/366/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/366/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/366/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/366/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/366/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/366/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/366/8/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 74,
+        "original_title": "La revoluci\u00f3n de los alcatraces",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "FONCA",
+                "id": 25,
+                "name": "Fondo Nacional para la Cultura y las Artes ",
+                "slug": "fondo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/fondo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "CCC",
+                "id": 106,
+                "name": "Centro de Capacitaci\u00f3n Cinematogr\u00e1fica ",
+                "slug": "centro-de-capacitacion-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/centro-de-capacitacion-cinematografica"
+            },
+            {
+                "acronym": "",
+                "id": 260,
+                "name": "Totora Films ",
+                "slug": "totora-films",
+                "url": "https://www.filminlatino.mx/producer/totora-films"
+            },
+            {
+                "acronym": "",
+                "id": 261,
+                "name": "Planet Audio ",
+                "slug": "planet-audio",
+                "url": "https://www.filminlatino.mx/producer/planet-audio"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-revolucion-de-los-alcatraces",
+        "synopsis": "Eufrosina Cruz Mendoza es nativa de Santa Mar\u00eda Quiegolani, comunidad ind\u00edgena situada en la Sierra Sur de Oaxaca. Despu\u00e9s de que le fue negado el derecho de ser presidenta municipal de su comunidad, solo por el hecho de ser mujer, Eufrosina comienza una lucha personal para conseguir la igualdad de g\u00e9nero en las comunidades ind\u00edgenas, cuestionando los usos y costumbres; convirti\u00e9ndose en referente de las mujeres en el estado de Oaxaca.",
+        "tags": [
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 297,
+                "name": "Lengua materna",
+                "slug": "lengua-materna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lengua-materna"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 275,
+                "name": "Democracia ",
+                "slug": "democracia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/democracia"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 602,
+                "name": "\u00d3pera Prima CCC",
+                "slug": "opera-prima-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima-ccc"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 453,
+                "name": "D\u00eda de la mujer",
+                "slug": "dia-de-la-mujer",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-de-la-mujer"
+            },
+            {
+                "id": 454,
+                "name": "Feminismo",
+                "slug": "feminismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feminismo"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 897,
+                "name": "Especial CCC",
+                "slug": "especial-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-ccc"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 1045,
+                "name": "CCC",
+                "slug": "ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ccc"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1267,
+                "name": "Formados en el aula",
+                "slug": "formados-en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formados-en-el-aula"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 1426,
+                "name": "Especial Equitativa",
+                "slug": "especial-equitativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-equitativa"
+            },
+            {
+                "id": 1460,
+                "name": "Historias de mujeres ind\u00edgenas",
+                "slug": "historias-de-mujeres-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-de-mujeres-indigenas"
+            },
+            {
+                "id": 1453,
+                "name": "Producciones CCC y CUEC",
+                "slug": "producciones-ccc-y-cuec",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-ccc-y-cuec"
+            },
+            {
+                "id": 1476,
+                "name": "Encerr\u00f3n Doqumental",
+                "slug": "encerron-doqumental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encerron-doqumental"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1478,
+                "name": "Mujeres del CCC",
+                "slug": "mujeres-del-ccc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-del-ccc"
+            },
+            {
+                "id": 1970,
+                "name": "Miradas a grandes historias | 2\u00b0 Muestra de Cine en Lenguas Ind\u00edgenas",
+                "slug": "miradas-a-grandes-historias-20-muestra-de-cine-en-lenguas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miradas-a-grandes-historias-20-muestra-de-cine-en-lenguas-indigenas"
+            },
+            {
+                "id": 1969,
+                "name": "2\u00b0 Muestra de Cine en Lenguas Ind\u00edgenas",
+                "slug": "20-muestra-de-cine-en-lenguas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/20-muestra-de-cine-en-lenguas-indigenas"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2097,
+                "name": "Creando en nubes",
+                "slug": "creando-en-nubes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/creando-en-nubes"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2262,
+                "name": "FILAH32",
+                "slug": "filah32",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filah32"
+            },
+            {
+                "id": 2518,
+                "name": "Ciclo mujeres: revoluciones y revelaciones",
+                "slug": "ciclo-mujeres-revoluciones-y-revelaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-mujeres-revoluciones-y-revelaciones"
+            },
+            {
+                "id": 2530,
+                "name": "Dadoras de vida",
+                "slug": "dadoras-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dadoras-de-vida"
+            },
+            {
+                "id": 2527,
+                "name": "Mi resistencia es femenina",
+                "slug": "mi-resistencia-es-femenina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mi-resistencia-es-femenina"
+            },
+            {
+                "id": 2778,
+                "name": "16 d\u00edas de activismo INMUJERES 2022",
+                "slug": "16-dias-de-activismo-inmujeres-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/16-dias-de-activismo-inmujeres-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1377302400,
+        "theater_release_date": 1377302400,
+        "theater_spectators_formatted": null,
+        "title": "La revoluci\u00f3n de los alcatraces",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-revolucion-de-los-alcatraces",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 372,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-revolucion-de-los-alcatrasces.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-revolucion-de-los-alcatrasces/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-revolucion-de-los-alcatrasces/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Isabelle Huppert",
+                "gender": "f",
+                "id": 22,
+                "slug": "isabelle-huppert",
+                "url": "https://www.filminlatino.mx/actriz/isabelle-huppert"
+            },
+            {
+                "full_name": "Yu  Jun-sang",
+                "gender": "m",
+                "id": 5814,
+                "slug": "yu-jun-sang",
+                "url": "https://www.filminlatino.mx/actor/yu-jun-sang"
+            },
+            {
+                "full_name": "Jeong  Yu-mi",
+                "gender": "f",
+                "id": 5815,
+                "slug": "jeong-yu-mi",
+                "url": "https://www.filminlatino.mx/actriz/jeong-yu-mi"
+            },
+            {
+                "full_name": "Moon  So-ri",
+                "gender": "f",
+                "id": 5816,
+                "slug": "moon-so-ri",
+                "url": "https://www.filminlatino.mx/actriz/moon-so-ri"
+            }
+        ],
+        "avg_votes": 7.6,
+        "avg_votes_formatted": "7,6",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 122,
+                "name": "Corea del Sur",
+                "slug": "corea-del-sur",
+                "url": "https://www.filminlatino.mx/catalogo/pais/corea-del-sur"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Hong Sang-soo",
+                "gender": "m",
+                "id": 564,
+                "slug": "hong-sang-soo",
+                "url": "https://www.filminlatino.mx/director/hong-sang-soo"
+            }
+        ],
+        "duration_in_minutes": 89,
+        "excerpt": "En un pa\u00eds que no es el suyo, Anne no es ella misma del todo. Vivir\u00e1 tres historias completamente diferentes con los nativos del pa\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5052,
+        "image_card": "https://static.filminlatino.mx/images/media/5052/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5052/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5052/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5052/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5052/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/5052/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/5052/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5052/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5052/2/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/5052/2/still_8_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Da-reun na-ra-e-suh ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2060,
+                "name": "Jeonwonsa Film",
+                "slug": "jeonwonsa-film",
+                "url": "https://www.filminlatino.mx/producer/jeonwonsa-film"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "en-otro-pais",
+        "synopsis": "En una playa nublada de la costa surcoreana, una estudiante de cine escribe tres historias diferentes, pero todas ellas vividas Anne, una mujer francesa que llega a la zona y se involucra de diferentes maneras con nativos del lugar. El largometraje form\u00f3 parte de la selecci\u00f3n oficial del Festival de Cannes.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 860,
+                "name": "Amor de fronteras",
+                "slug": "amor-de-fronteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-de-fronteras"
+            },
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 429,
+                "name": "Multiculturalidad",
+                "slug": "multiculturalidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/multiculturalidad"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 489,
+                "name": "Playa",
+                "slug": "playa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/playa"
+            },
+            {
+                "id": 38,
+                "name": "Cine oriental",
+                "slug": "cine-oriental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-oriental"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2724,
+                "name": "50 Festival Internacional Cervantino",
+                "slug": "50-festival-internacional-cervantino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-festival-internacional-cervantino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "En otro pa\u00eds",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/en-otro-pais",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4349,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2013
+    }
+}

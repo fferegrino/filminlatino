@@ -1,0 +1,443 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor documental",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n al Gran Premio del Jurado - World Cinema",
+                "icon": "festival-de-cine-de-sundance",
+                "name": "Festival de Cine de Sundance",
+                "slug": "festival-de-cine-de-sundance",
+                "year": null
+            },
+            {
+                "category": "Premio especial del jurado",
+                "icon": "",
+                "name": "Havana Film Festival",
+                "slug": "havana-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "festival-de-cinema-tropical",
+                "name": "Festival de Cinema Tropical",
+                "slug": "festival-de-cinema-tropical",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Maya Goded",
+                "gender": "f",
+                "id": 1832,
+                "slug": "maya-goded",
+                "url": "https://www.filminlatino.mx/directora/maya-goded"
+            }
+        ],
+        "duration_in_minutes": 85,
+        "excerpt": "La mirada de la fot\u00f3grafa\u00a0Maya Goded se asoma a\u00a0la vida de mujeres que trabajan en el oficio m\u00e1s antiguo del mundo.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3406,
+        "image_card": "https://static.filminlatino.mx/images/media/3406/3/card_0_3.jpeg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3406/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3406/3/still_1_3.jpeg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3406/3/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 255,
+        "original_title": "Plaza de la Soledad",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "plaza-de-la-soledad",
+        "synopsis": "Tras 20 a\u00f1os invertidos en esta propuesta f\u00edlmica, la \u00f3pera prima de Maya Goded, 'Plaza de la Soledad', muestra la vida de mujeres que trabajan en el oficio m\u00e1s antiguo del mundo.\u00a0Carmen, Lety, Esther, \u00c1ngeles\u00a0y\u00a0Raquel\u00a0son las voces principales del largometraje documental, quienes a trav\u00e9s de sus historias cuentan c\u00f3mo fueron relegadas de la sociedad. La mirada de la fot\u00f3grafa\u00a0Maya Goded contempla y desentra\u00f1a la vida de sus personajes, mujeres solitarias llenas de aplomo y sabidur\u00eda.",
+        "tags": [
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 79,
+                "name": "Prostituci\u00f3n",
+                "slug": "prostitucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prostitucion"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 162,
+                "name": "Infancia en conflicto",
+                "slug": "infancia-en-conflicto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-en-conflicto"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 938,
+                "name": "Nominadas Ariel 60",
+                "slug": "nominadas-ariel-60",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-60"
+            },
+            {
+                "id": 955,
+                "name": "Las m\u00e1s vistas en suscripci\u00f3n",
+                "slug": "las-mas-vistas-en-suscripcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-suscripcion"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 981,
+                "name": "Recomendadas de Alonso D\u00edaz de la Vega ",
+                "slug": "recomendadas-de-alonso-diaz-de-la-vega",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-alonso-diaz-de-la-vega"
+            },
+            {
+                "id": 969,
+                "name": "Recomendadas de Ana Laura P\u00e9rez",
+                "slug": "recomendadas-de-ana-laura-perez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ana-laura-perez"
+            },
+            {
+                "id": 1126,
+                "name": "Mostro Films",
+                "slug": "mostro-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mostro-films"
+            },
+            {
+                "id": 1129,
+                "name": "Reality",
+                "slug": "reality",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reality"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 1139,
+                "name": "Estrenos nacionales FICM",
+                "slug": "estrenos-nacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-nacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1377,
+                "name": "Las m\u00e1s vistas SVOD cuarto aniversario",
+                "slug": "las-mas-vistas-svod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-svod-cuarto-aniversario"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1262,
+                "name": "2016",
+                "slug": "2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2016"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1404,
+                "name": "M\u00f3nica Lozano",
+                "slug": "monica-lozano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monica-lozano"
+            },
+            {
+                "id": 829,
+                "name": "14\u00b0 FICM",
+                "slug": "140-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-ficm"
+            },
+            {
+                "id": 1416,
+                "name": "Especial Mujeres en el cine y la TV",
+                "slug": "especial-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 1806,
+                "name": "Retrospectiva Los Cabos Film Festival",
+                "slug": "retrospectiva-los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retrospectiva-los-cabos-film-festival"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2013,
+                "name": "Muestra El cine transformado por nosotras",
+                "slug": "muestra-el-cine-transformado-por-nosotras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-el-cine-transformado-por-nosotras"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2529,
+                "name": "Con la mirada sobre ellas",
+                "slug": "con-la-mirada-sobre-ellas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-la-mirada-sobre-ellas"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Plaza de la Soledad",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/plaza-de-la-soledad",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2756,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

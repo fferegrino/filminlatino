@@ -1,0 +1,300 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Luciana Gonz\u00e1lez de Le\u00f3n",
+                "gender": "m",
+                "id": 5926,
+                "slug": "luciana-gonzalez-de-leon",
+                "url": "https://www.filminlatino.mx/actor/luciana-gonzalez-de-leon"
+            },
+            {
+                "full_name": "Mara Bueno",
+                "gender": "f",
+                "id": 5927,
+                "slug": "mara-bueno",
+                "url": "https://www.filminlatino.mx/actriz/mara-bueno"
+            },
+            {
+                "full_name": "Enrique Cano",
+                "gender": "m",
+                "id": 5928,
+                "slug": "enrique-cano",
+                "url": "https://www.filminlatino.mx/actor/enrique-cano"
+            },
+            {
+                "full_name": "Roberto Mares",
+                "gender": "m",
+                "id": 988,
+                "slug": "roberto-mares",
+                "url": "https://www.filminlatino.mx/actor/roberto-mares"
+            },
+            {
+                "full_name": "Amauri Cobos",
+                "gender": "m",
+                "id": 5929,
+                "slug": "amauri-cobos",
+                "url": "https://www.filminlatino.mx/actor/amauri-cobos"
+            }
+        ],
+        "avg_votes": 7.4,
+        "avg_votes_formatted": "7,4",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Cine Fest Los \u00c1ngeles, California",
+                "slug": "cine-fest-los-angeles-california",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Barcelona Planet Film Festival ",
+                "slug": "barcelona-planet-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo Ortega Ortu\u00f1o",
+                "gender": "m",
+                "id": 2313,
+                "slug": "rodrigo-ortega-ortuno",
+                "url": "https://www.filminlatino.mx/director/rodrigo-ortega-ortuno"
+            }
+        ],
+        "duration_in_minutes": 86,
+        "excerpt": "Martina explora dos caminos despu\u00e9s de probar el LSD: el surrealista,\u00a0donde viaja a lo m\u00e1s profundo de su mente y el terrenal dejando la tristeza de haber perdido a sus padres.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5149,
+        "image_card": "https://static.filminlatino.mx/images/media/5149/5/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/5149/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5149/4/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/5149/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/5149/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 61,
+        "original_title": "Sinestesia ",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 68,
+                "name": "Arte 7",
+                "slug": "arte-7",
+                "url": "https://www.filminlatino.mx/producer/arte-7"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "sinestesia",
+        "synopsis": "Despu\u00e9s de consumir su primer dosis de LSD la vida de Martina explota en dos caminos; el surrealista donde emprende viajes lis\u00e9rgicos a lo m\u00e1s profundo de su mente, buscando una peque\u00f1a luz que la libere de la tristeza de haber perdido a sus padres, y el terrenal donde se integra al mundo del narcomenudeo, encontrando seres tan extra\u00f1os como ella. Sola, oportunista, ingenua y a veces simplemente inconsciente, Martina es un h\u00e9roe de nuestros tiempos.",
+        "tags": [
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 1332,
+                "name": "Producciones independientes ",
+                "slug": "producciones-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/producciones-independientes"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1400,
+                "name": "Arterias de la ciudad",
+                "slug": "arterias-de-la-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arterias-de-la-ciudad"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 599,
+                "name": "Drama a la Mexicana MX",
+                "slug": "drama-a-la-mexicana-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-a-la-mexicana-mx"
+            },
+            {
+                "id": 744,
+                "name": "Dramas_MX",
+                "slug": "dramas-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-mx"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 646,
+                "name": "Escapar de la realidad",
+                "slug": "escapar-de-la-realidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escapar-de-la-realidad"
+            },
+            {
+                "id": 215,
+                "name": "Urbanismo",
+                "slug": "urbanismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/urbanismo"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 2498,
+                "name": "Dramas FVOD",
+                "slug": "dramas-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Sinestesia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/sinestesia",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4424,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2017
+    }
+}

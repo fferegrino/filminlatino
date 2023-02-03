@@ -1,0 +1,277 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gabriela Roel",
+                "gender": "f",
+                "id": 506,
+                "slug": "gabriela-roel",
+                "url": "https://www.filminlatino.mx/actriz/gabriela-roel"
+            },
+            {
+                "full_name": "Carmen Salinas",
+                "gender": "f",
+                "id": 645,
+                "slug": "carmen-salinas",
+                "url": "https://www.filminlatino.mx/actriz/carmen-salinas"
+            },
+            {
+                "full_name": "Juan Ibarra",
+                "gender": "m",
+                "id": 901,
+                "slug": "juan-ibarra",
+                "url": "https://www.filminlatino.mx/actor/juan-ibarra"
+            },
+            {
+                "full_name": "Silvia Mariscal",
+                "gender": "f",
+                "id": 902,
+                "slug": "silvia-mariscal",
+                "url": "https://www.filminlatino.mx/actriz/silvia-mariscal"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Tema Musical o Canci\u00f3n especialmente escrita para cine",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 1989
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alberto Cort\u00e9s Calder\u00f3n",
+                "gender": "m",
+                "id": 350,
+                "slug": "alberto-cortes-calderon",
+                "url": "https://www.filminlatino.mx/director/alberto-cortes-calderon"
+            }
+        ],
+        "duration_in_minutes": 89,
+        "excerpt": "Un intento ambicioso de se\u00f1alar los cambios sociales, sexuales, pol\u00edticos y econ\u00f3micos de un pa\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 371,
+        "image_card": "https://static.filminlatino.mx/images/media/371/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/371/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/371/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/371/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/371/5/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 35,
+        "original_title": "Ciudad de ciegos",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 152,
+                "name": "Tabasco Films",
+                "slug": "tabasco-films",
+                "url": "https://www.filminlatino.mx/producer/tabasco-films"
+            },
+            {
+                "acronym": "",
+                "id": 268,
+                "name": "FFCC",
+                "slug": "ffcc",
+                "url": "https://www.filminlatino.mx/producer/ffcc"
+            },
+            {
+                "acronym": "",
+                "id": 269,
+                "name": "Batacl\u00e1n Cinematogr\u00e1fica ",
+                "slug": "bataclan-cinematografica",
+                "url": "https://www.filminlatino.mx/producer/bataclan-cinematografica"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "ciudad-de-ciegos",
+        "synopsis": "Tras los muros de un departamento, diez historias se mezclan para formar una sola. Entre ellas la \u00fanica constante es la ruptura. Los protagonistas son sombras que cruzan por los pasillos, entran y salen: adquieren vida. Solo tienen en com\u00fan el espacio. El mundo exterior se adivina en los objetos que acompa\u00f1an a los personajes: la televisi\u00f3n, las flores marchitas en el basurero, el radio, el tel\u00e9fono, ciertos detalles de ambientaci\u00f3n y vestuario.",
+        "tags": [
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 929,
+                "name": "Cine punk",
+                "slug": "cine-punk",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-punk"
+            },
+            {
+                "id": 960,
+                "name": "Paz Alicia Garciadiego",
+                "slug": "paz-alicia-garciadiego",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz-alicia-garciadiego"
+            },
+            {
+                "id": 1075,
+                "name": "IMCINE",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/imcine"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1170,
+                "name": "A\u00f1os 90",
+                "slug": "anos-90",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-90"
+            },
+            {
+                "id": 1245,
+                "name": "1990",
+                "slug": "1990",
+                "url": "https://www.filminlatino.mx/catalogo/tema/1990"
+            },
+            {
+                "id": 1370,
+                "name": "Ariel de Oro",
+                "slug": "ariel-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ariel-de-oro"
+            },
+            {
+                "id": 1268,
+                "name": "Largometrajes IMCINE",
+                "slug": "largometrajes-imcine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometrajes-imcine"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ciudad de ciegos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/ciudad-de-ciegos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 339,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1990
+    }
+}

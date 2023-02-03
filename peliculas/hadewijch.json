@@ -1,0 +1,247 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Julie Sokolowski",
+                "gender": "f",
+                "id": 1036,
+                "slug": "julie-sokolowski",
+                "url": "https://www.filminlatino.mx/actriz/julie-sokolowski"
+            },
+            {
+                "full_name": "David  Dewaele",
+                "gender": "m",
+                "id": 1037,
+                "slug": "david-dewaele",
+                "url": "https://www.filminlatino.mx/actor/david-dewaele"
+            },
+            {
+                "full_name": "Yasinne Salime",
+                "gender": "m",
+                "id": 1038,
+                "slug": "yasinne-salime",
+                "url": "https://www.filminlatino.mx/actor/yasinne-salime"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Nominada a la Concha de Oro",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2009
+            },
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-toronto",
+                "name": "Festival de Toronto",
+                "slug": "festival-de-toronto",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Bruno Dumont",
+                "gender": "m",
+                "id": 53,
+                "slug": "bruno-dumont",
+                "url": "https://www.filminlatino.mx/director/bruno-dumont"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Un relato profundamente religioso y conmovedor que busca retratar el sufrimiento humano y la fe trastocada en un arma de dos filos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 437,
+        "image_card": "https://static.filminlatino.mx/images/media/437/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/437/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/437/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/437/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/437/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/437/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/437/9/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 15,
+        "original_title": "Hadewijch",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 514,
+                "name": "3B Productions",
+                "slug": "3b-productions",
+                "url": "https://www.filminlatino.mx/producer/3b-productions"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "hadewijch",
+        "synopsis": "Aturdida por la fe ciega y extasiada de la joven novicia Hadewijch, la madre superiora la expulsa del convento. Hadewijch vuelve a ser C\u00e9line, la joven parisina de 20 a\u00f1os, hija de un Ministro franc\u00e9s. Su apasionado amor a Dios, su rabia interior y su encuentro con Yassine y Nassir la conducen, entre el estado de gracia y la locura, por caminos peligrosos.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 328,
+                "name": "Ciegos",
+                "slug": "ciegos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciegos"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Hadewijch",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/hadewijch",
+        "versions": [
+            {
+                "codes": [],
+                "id": 365,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/hadewijch.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/hadewijch/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/hadewijch/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

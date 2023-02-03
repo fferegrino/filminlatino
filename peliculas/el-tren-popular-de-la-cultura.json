@@ -1,0 +1,224 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Salvador Allende",
+                "gender": "m",
+                "id": 61,
+                "slug": "salvador-allende",
+                "url": "https://www.filminlatino.mx/character/salvador-allende"
+            }
+        ],
+        "countries": [
+            {
+                "id": 46,
+                "name": "Chile",
+                "slug": "chile",
+                "url": "https://www.filminlatino.mx/catalogo/pais/chile"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carolina  Espinoza Cartes",
+                "gender": "f",
+                "id": 2130,
+                "slug": "carolina-espinoza-cartes",
+                "url": "https://www.filminlatino.mx/directora/carolina-espinoza-cartes"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "Una iniciativa de Salvador Allende, un viaje en tren por 40 d\u00edas para acercar la cultura a los chilenos que no pod\u00edan acceder a ella y crear el\u00a0Instituto Nacional de las Artes y la Cultura.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 4501,
+        "image_card": "https://static.filminlatino.mx/images/media/4501/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/4501/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/4501/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4501/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4501/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/4501/3/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_5_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_6_3.png",
+            "https://static.filminlatino.mx/images/media/4501/4/still_6_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "El tren popular de la cultura",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1963,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/producer/quechua-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-tren-popular-de-la-cultura",
+        "synopsis": "Documental que retrata la iniciativa implementada durante el gobierno del presidente chileno Salvador Allende, que ten\u00eda como objetivo acercar la cultura a personas que no ten\u00edan acceso a ella. Como parte de la medida n\u00famero 40 de su programa de gobierno, en febrero de 1971, Allende organiz\u00f3 un tren rumbo al sur de Chile donde viajaban 60 artistas durante 40 d\u00edas, para hacer presentaciones art\u00edsticas en pueblos y lugares apartados. El fin \u00faltimo era la creaci\u00f3n del Instituto Nacional de las Artes y la Cultura y de escuelas de arte en todas las provincias de Chile.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 1298,
+                "name": "Sociedad",
+                "slug": "sociedad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 383,
+                "name": "A\u00f1os 70",
+                "slug": "anos-70",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-70"
+            },
+            {
+                "id": 1288,
+                "name": "Viaje",
+                "slug": "viaje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje"
+            },
+            {
+                "id": 1327,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 160,
+                "name": "Trenes",
+                "slug": "trenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trenes"
+            },
+            {
+                "id": 658,
+                "name": "Formas de expresi\u00f3n",
+                "slug": "formas-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/formas-de-expresion"
+            },
+            {
+                "id": 711,
+                "name": "Material de archivo",
+                "slug": "material-de-archivo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/material-de-archivo"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1344,
+                "name": "Quechua Films",
+                "slug": "quechua-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quechua-films"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1433462400,
+        "theater_release_date": 1433462400,
+        "theater_spectators_formatted": null,
+        "title": "El tren popular de la cultura",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-tren-popular-de-la-cultura",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3804,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

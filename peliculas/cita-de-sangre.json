@@ -1,0 +1,363 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Xavier Samuel",
+                "gender": "m",
+                "id": 3932,
+                "slug": "xavier-samuel",
+                "url": "https://www.filminlatino.mx/actor/xavier-samuel"
+            },
+            {
+                "full_name": "Robin McLeavy",
+                "gender": "f",
+                "id": 3933,
+                "slug": "robin-mcleavy",
+                "url": "https://www.filminlatino.mx/actriz/robin-mcleavy"
+            },
+            {
+                "full_name": "John Brumpton",
+                "gender": "m",
+                "id": 4170,
+                "slug": "john-brumpton",
+                "url": "https://www.filminlatino.mx/actor/john-brumpton"
+            },
+            {
+                "full_name": "Victoria Thaine",
+                "gender": "f",
+                "id": 3934,
+                "slug": "victoria-thaine",
+                "url": "https://www.filminlatino.mx/actriz/victoria-thaine"
+            },
+            {
+                "full_name": "Richar  Wilson",
+                "gender": "m",
+                "id": 4737,
+                "slug": "richar-wilson",
+                "url": "https://www.filminlatino.mx/actor/richar-wilson"
+            },
+            {
+                "full_name": "Jessica McNamee",
+                "gender": "m",
+                "id": 3935,
+                "slug": "jessica-mcnamee",
+                "url": "https://www.filminlatino.mx/actor/jessica-mcnamee"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Premio del p\u00fablico",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "gerardmer-film-festival",
+                "name": "G\u00e9rardmer Film Festival",
+                "slug": "gerardmer-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 13,
+                "name": "Australia",
+                "slug": "australia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/australia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sean Byrne",
+                "gender": "m",
+                "id": 1361,
+                "slug": "sean-byrne",
+                "url": "https://www.filminlatino.mx/director/sean-byrne"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Brent rechaza la invitaci\u00f3n de Lola, su compa\u00f1era de clase para ir al baile de graduaci\u00f3n. Pero ella le tiene preparado una especial pero macabra celebraci\u00f3n.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2642,
+        "image_card": "https://static.filminlatino.mx/images/media/2642/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2642/6/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2642/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2642/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2642/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2642/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2642/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 25,
+        "original_title": "The Loved Ones",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1551,
+                "name": "Ambience Entertainment",
+                "slug": "ambience-entertainment",
+                "url": "https://www.filminlatino.mx/producer/ambience-entertainment"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cita-de-sangre",
+        "synopsis": "Brent, un joven de diecisiete a\u00f1os, rechaza la invitaci\u00f3n de Lola para ir al baile de graduaci\u00f3n. Lo que no puede ni siquiera imaginar es que ella y su padre har\u00e1n que ocurra una tragedia y tendr\u00e1 que luchar desesperadamente para sobrevivir a la macabra celebraci\u00f3n que le han preparado.",
+        "tags": [
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 845,
+                "name": "Sangre",
+                "slug": "sangre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sangre"
+            },
+            {
+                "id": 856,
+                "name": "Crimen y castigo",
+                "slug": "crimen-y-castigo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-castigo"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1041,
+                "name": "CANANA",
+                "slug": "canana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canana"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Cita de sangre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cita-de-sangre",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2072,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cita-de-sangre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cita-de-sangre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cita-de-sangre/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

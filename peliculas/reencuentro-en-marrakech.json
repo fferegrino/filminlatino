@@ -1,0 +1,256 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Samuel Schneider",
+                "gender": "m",
+                "id": 4248,
+                "slug": "samuel-schneider",
+                "url": "https://www.filminlatino.mx/actor/samuel-schneider"
+            },
+            {
+                "full_name": "Hafsia Herzi",
+                "gender": "f",
+                "id": 4249,
+                "slug": "hafsia-herzi",
+                "url": "https://www.filminlatino.mx/actriz/hafsia-herzi"
+            },
+            {
+                "full_name": "Ulrich Tukur",
+                "gender": "m",
+                "id": 3988,
+                "slug": "ulrich-tukur",
+                "url": "https://www.filminlatino.mx/actor/ulrich-tukur"
+            },
+            {
+                "full_name": "Marie-Lou Sellem",
+                "gender": "f",
+                "id": 4733,
+                "slug": "marie-lou-sellem",
+                "url": "https://www.filminlatino.mx/actriz/marie-lou-sellem"
+            },
+            {
+                "full_name": "Josef  Bierbichler",
+                "gender": "m",
+                "id": 4734,
+                "slug": "josef-bierbichler",
+                "url": "https://www.filminlatino.mx/actor/josef-bierbichler"
+            }
+        ],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Caroline Link",
+                "gender": "f",
+                "id": 1486,
+                "slug": "caroline-link",
+                "url": "https://www.filminlatino.mx/directora/caroline-link"
+            }
+        ],
+        "duration_in_minutes": 123,
+        "excerpt": "Ben encontrar\u00e1 en el amor la fortaleza necesaria para enfrentar a su padre, un hombre que no atendi\u00f3 sus responsabilidades familiares en el pasado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2810,
+        "image_card": "https://static.filminlatino.mx/images/media/2810/13/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2810/13/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2810/13/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2810/13/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2810/13/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 26,
+        "original_title": "Exit Marrakech",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 310,
+                "name": "Arte",
+                "slug": "arte",
+                "url": "https://www.filminlatino.mx/producer/arte"
+            },
+            {
+                "acronym": "BR",
+                "id": 532,
+                "name": " Bayerischer Rundfunk",
+                "slug": "bayerischer-rundfunk",
+                "url": "https://www.filminlatino.mx/producer/bayerischer-rundfunk"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "reencuentro-en-marrakech",
+        "synopsis": "Ben, un atribulado adolescente, se enfrenta involuntariamente a su padre, un afamado director alem\u00e1n de teatro, que se encuentra escenificando una obra en Marrakech, y que carga con un pasado de responsabilidades familiares no atendidas.<br>Despu\u00e9s de una pelea con su padre, Ben se pierde en la sombr\u00eda Medina y en las s\u00f3rdidas discotecas de Marrakech, donde conoce a Karima. Le sigue a su pueblo natal, a trav\u00e9s de tierras desconocidas y est\u00e9riles. Ella le ayuda a obtener el coraje para confrontar a su padre.",
+        "tags": [
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 549,
+                "name": "Paternidad",
+                "slug": "paternidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paternidad"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1024,
+                "name": "Amarok Films",
+                "slug": "amarok-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amarok-films"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1372377600,
+        "theater_release_date": 1372377600,
+        "theater_spectators_formatted": null,
+        "title": "Reencuentro en Marrakech",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/reencuentro-en-marrakech",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2216,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "en",
+                        "name": "English"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/rencuentro-de.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/rencuentro-de/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/rencuentro-de/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

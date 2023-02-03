@@ -1,0 +1,272 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Segundo lugar",
+                "icon": "",
+                "name": "Festival Nacional de Cine y Video",
+                "slug": "festival-nacional-de-cine-y-video",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-margaret-mead-usa",
+                "name": "Festival Margaret Mead, USA",
+                "slug": "festival-margaret-mead-usa",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eduardo  Maldonado",
+                "gender": "m",
+                "id": 1436,
+                "slug": "eduardo-maldonado",
+                "url": "https://www.filminlatino.mx/director/eduardo-maldonado"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "Tan cercana a una de las ciudades m\u00e1s grandes del mundo, Xochimilco se defiende con u\u00f1as y dientes de los desastres de la modernidad constante, se refugia en sus costumbres y tradiciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10255,
+        "image_card": "https://static.filminlatino.mx/images/media/10255/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10255/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10255/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10255/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10255/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/10255/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/10255/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Xochimilco",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "xochimilco",
+        "synopsis": "Como parte de la poca vida rural que le queda a la ciudad de M\u00e9xico, Xochimilco muestra sus tradiciones, c\u00f3mo la cercan\u00eda con la ciudad ha cambiado lo ideol\u00f3gico hacia lo econ\u00f3mico como influencia inevitable. Sin embargo, como oasis en la ciudad se ha ganado un reconocimiento por la caracterizaci\u00f3n de su calendario festivo, donde destacan las fiestas al Ni\u00f1opan o Ni\u00f1o-pa, el D\u00eda de Muertos y el concurso La Flor m\u00e1s Bella del Ejido. Xochimilco se muestra en este documental en su lucha por no perder sus ancestrales formas de vida, su cultura y su identidad.",
+        "tags": [
+            {
+                "id": 2355,
+                "name": "Fiestas y tradiciones",
+                "slug": "fiestas-y-tradiciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-tradiciones"
+            },
+            {
+                "id": 344,
+                "name": "M\u00fasica tradicional",
+                "slug": "musica-tradicional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-tradicional"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 550,
+                "name": "Festividades",
+                "slug": "festividades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festividades"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 1637,
+                "name": "Vida urbana",
+                "slug": "vida-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-urbana"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 649,
+                "name": "Vida en la Tierra",
+                "slug": "vida-en-la-tierra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-la-tierra"
+            },
+            {
+                "id": 1652,
+                "name": "Vida nocturna",
+                "slug": "vida-nocturna",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-nocturna"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 1889,
+                "name": "FilminLatino",
+                "slug": "filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 1733,
+                "name": "Largometraje-Documental",
+                "slug": "largometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            },
+            {
+                "id": 2077,
+                "name": "INPI",
+                "slug": "inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/inpi"
+            },
+            {
+                "id": 2358,
+                "name": "Fiestas y costumbres | INPI ",
+                "slug": "fiestas-y-costumbres-inpi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiestas-y-costumbres-inpi"
+            },
+            {
+                "id": 2467,
+                "name": "Nahua",
+                "slug": "nahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahua"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Xochimilco",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/xochimilco",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12166,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 1987
+    }
+}
