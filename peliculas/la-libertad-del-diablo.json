@@ -1,0 +1,554 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Premio Amnist\u00eda Internacional",
+                "icon": "festival-internacional-de-cine-de-berlin",
+                "name": "Festival Internacional de Cine de Berl\u00edn",
+                "slug": "festival-internacional-de-cine-de-berlin",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Banda Sonora",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominado a Mejor Fotograf\u00eda ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Premio especial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            },
+            {
+                "category": "Mejor documental",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-seattle",
+                "name": "Festival Internacional de Cine de Seattle",
+                "slug": "festival-internacional-de-cine-de-seattle",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Everardo Gonz\u00e1lez",
+                "gender": "m",
+                "id": 128,
+                "slug": "everardo-gonzalez",
+                "url": "https://www.filminlatino.mx/director/everardo-gonzalez"
+            }
+        ],
+        "duration_in_minutes": 75,
+        "excerpt": "V\u00edctimas y asesinos participan en una obra brutal que explora el fen\u00f3meno desatado de la violencia en M\u00e9xico. Uno de los filmes mexicanos m\u00e1s impactantes de los \u00faltimos a\u00f1os.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3988,
+        "image_card": "https://static.filminlatino.mx/images/media/3988/4/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3988/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3988/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3988/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3988/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3988/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3988/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3988/4/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 138,
+        "original_title": "La libertad del diablo",
+        "producers": [
+            {
+                "acronym": "444",
+                "id": 93,
+                "name": "Artegios S.A. de C.V.",
+                "slug": "artegios-sa-de-cv",
+                "url": "https://www.filminlatino.mx/producer/artegios-sa-de-cv"
+            },
+            {
+                "acronym": "",
+                "id": 768,
+                "name": "Animal de Luz Films",
+                "slug": "animal-de-luz-films",
+                "url": "https://www.filminlatino.mx/producer/animal-de-luz-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-libertad-del-diablo",
+        "synopsis": "A partir de un cuerpo violentado entramos al mundo t\u00e9trico de la muerte violenta\u00a0a manos de otro ser humano, por medio de los testimonios de quienes han\u00a0participado en ella, tanto v\u00edctimas como victimarios. Sus experiencias dibujan\u00a0algunas de las causas que provocan la violencia, y nos adentran\u00a0al inconsciente\u00a0nacional, no nada m\u00e1s partiendo del hecho violeto, sino sobre todo de lo que \u00e9ste ha provocado en la mente de sus protagonistas.Historias de\u00a0ni\u00f1ez, la\u00a0aparici\u00f3n de los primeros miedos nocturnos, la trama del desenvolvimiento social\u00a0hasta llegar a las pesadillas que tantos cuerpos han dejado en\u00a0quienes de\u00a0alguna manera conviven con esas ausencias, o en quienes las\u00a0han causado.\u00a0Familiares de desaparecidos, un sicario o un ex militar que torturaba son\u00a0algunos de los personajes entrevistados.Este proyecto no hace una apolog\u00eda de lo sanguinario ni de lo violento, al\u00a0contrario, pretende acercarse al ser humano desde su pensamiento, desde su\u00a0reflexi\u00f3n y sus miedos.\u00a0De esta manera, la empat\u00eda que la pel\u00edcula genera en el\u00a0espectador es mayor, ya que se tratar\u00e1 de un retrato de c\u00f3mo la violencia se\u00a0insert\u00f3 en el inconsciente y c\u00f3mo tambi\u00e9n se insertaron los\u00a0temores y la\u00a0incertidumbre en la sociedad mexicana, y que aplica para\u00a0formas de violencia en\u00a0cualquier parte del mundo. A partir de historias concretas se forma un tejido con\u00a0ecos universales, que apelan a los rasgos m\u00e1s oscuros de la mente humana.",
+        "tags": [
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 402,
+                "name": "Asesinatos",
+                "slug": "asesinatos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinatos"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 633,
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-berlin"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 828,
+                "name": "Festival de Morelia",
+                "slug": "festival-de-morelia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-morelia"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 1145,
+                "name": "Ganadoras Premios F\u00e9nix",
+                "slug": "ganadoras-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-premios-fenix"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1260,
+                "name": "20017",
+                "slug": "20017",
+                "url": "https://www.filminlatino.mx/catalogo/tema/20017"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 1027,
+                "name": "Artegios Distribuci\u00f3n",
+                "slug": "artegios-distribucion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artegios-distribucion"
+            },
+            {
+                "id": 938,
+                "name": "Nominadas Ariel 60",
+                "slug": "nominadas-ariel-60",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-60"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1378,
+                "name": "Las m\u00e1s vistas TVOD cuarto aniversario",
+                "slug": "las-mas-vistas-tvod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-tvod-cuarto-aniversario"
+            },
+            {
+                "id": 1201,
+                "name": "Puebla",
+                "slug": "puebla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/puebla"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1221,
+                "name": "Hidalgo",
+                "slug": "hidalgo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hidalgo"
+            },
+            {
+                "id": 1192,
+                "name": "Chihuahua",
+                "slug": "chihuahua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chihuahua"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1137,
+                "name": "15\u00b0 FICM",
+                "slug": "150-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/150-ficm"
+            },
+            {
+                "id": 1441,
+                "name": "Las m\u00e1s vistas 2019",
+                "slug": "las-mas-vistas-2019",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2019"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 907,
+                "name": "Otras ganadoras Berlin",
+                "slug": "otras-ganadoras-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-ganadoras-berlin"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2493,
+                "name": "Grandes del documental",
+                "slug": "grandes-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-del-documental"
+            },
+            {
+                "id": 2569,
+                "name": "Con ojos de mam\u00e1",
+                "slug": "con-ojos-de-mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/con-ojos-de-mama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La libertad del diablo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-libertad-del-diablo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 3318,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/DIABLO.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/DIABLO/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/DIABLO/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

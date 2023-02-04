@@ -1,0 +1,257 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Shailene  Woodley",
+                "gender": "m",
+                "id": 4907,
+                "slug": "shailene-woodley",
+                "url": "https://www.filminlatino.mx/actor/shailene-woodley"
+            },
+            {
+                "full_name": "Eva Green",
+                "gender": "f",
+                "id": 2065,
+                "slug": "eva-green",
+                "url": "https://www.filminlatino.mx/actriz/eva-green"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gregg  Araki",
+                "gender": "m",
+                "id": 1657,
+                "slug": "gregg-araki",
+                "url": "https://www.filminlatino.mx/director/gregg-araki"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Nunca estas suficientemente preparado para perder a tu madre, eres capaz de adaptarte a perderla...",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3223,
+        "image_card": "https://static.filminlatino.mx/images/media/3223/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3223/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3223/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3223/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3223/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3223/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3223/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3223/4/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "White bird in a blizzard",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1752,
+                "name": "Coproducci\u00f3n Estados Unidos-Francia",
+                "slug": "coproduccion-estados-unidos-francia",
+                "url": "https://www.filminlatino.mx/producer/coproduccion-estados-unidos-francia"
+            },
+            {
+                "acronym": "",
+                "id": 1023,
+                "name": "Why Not Productions",
+                "slug": "why-not-productions",
+                "url": "https://www.filminlatino.mx/producer/why-not-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1753,
+                "name": "Desperate productions",
+                "slug": "desperate-productions",
+                "url": "https://www.filminlatino.mx/producer/desperate-productions"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "una-senal-en-la-tormenta",
+        "synopsis": "Drama y suspenso se conjugan en la vida de Kat Connor, una joven cuya vida cambiar\u00e1 de forma inesperada: su madre ha desaparecido sin dejar rastro. Aunque sea complicado intentar\u00e1 adecuarse a las nuevas circunstancias para seguir adelante. Poco a poco los d\u00edas le llevar\u00e1n a interrogarse sobre ella misma y las verdaderas razones de la desaparici\u00f3n de su madre.",
+        "tags": [
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 877,
+                "name": "Esquimales",
+                "slug": "esquimales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/esquimales"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Una se\u00f1al en la tormenta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/una-senal-en-la-tormenta",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2582,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/una-senal-en-la-tormenta.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/una-senal-en-la-tormenta/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/una-senal-en-la-tormenta/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

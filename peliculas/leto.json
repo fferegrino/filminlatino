@@ -1,0 +1,298 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Roma  Zver",
+                "gender": "m",
+                "id": 7599,
+                "slug": "roma-zver",
+                "url": "https://www.filminlatino.mx/actor/roma-zver"
+            },
+            {
+                "full_name": "Irina  Starshenbaum",
+                "gender": "f",
+                "id": 7600,
+                "slug": "irina-starshenbaum",
+                "url": "https://www.filminlatino.mx/actriz/irina-starshenbaum"
+            },
+            {
+                "full_name": "Teo  Yoo",
+                "gender": "m",
+                "id": 7601,
+                "slug": "teo-yoo",
+                "url": "https://www.filminlatino.mx/actor/teo-yoo"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 190,
+                "name": "Rusia",
+                "slug": "rusia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/rusia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Kirill Serebrennikov",
+                "gender": "m",
+                "id": 2187,
+                "slug": "kirill-serebrennikov",
+                "url": "https://www.filminlatino.mx/director/kirill-serebrennikov"
+            }
+        ],
+        "duration_in_minutes": 126,
+        "excerpt": "Una historia sobre la escena del rock narrada en blanco y negro.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6756,
+        "image_card": "https://static.filminlatino.mx/images/media/6756/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6756/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6756/1/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6756/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6756/2/still_3_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 96,
+        "original_title": "Leto",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2010,
+                "name": "Hype Film",
+                "slug": "hype-film",
+                "url": "https://www.filminlatino.mx/producer/hype-film"
+            },
+            {
+                "acronym": "",
+                "id": 2981,
+                "name": "KinoVista",
+                "slug": "kinovista",
+                "url": "https://www.filminlatino.mx/producer/kinovista"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "leto",
+        "synopsis": "Leningrado, verano a principios de los 80. Traficando LPs de Lou Reed y David Bowie, la escena subterr\u00e1nea de rock brota en la antesala de la Perestro\u00efka. Un d\u00eda, Mike, un m\u00fasico con cierta reputaci\u00f3n, y su esposa Natasha conocen al joven y enigm\u00e1tico Viktor Tso\u00ef. Juntos cambiar\u00e1n el destino del rock and roll en la Uni\u00f3n Sovi\u00e9tica.",
+        "tags": [
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 100,
+                "name": "Melodrama",
+                "slug": "melodrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodrama"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 626,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 1390,
+                "name": "A\u00f1os 80",
+                "slug": "anos-80",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-80"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 170,
+                "name": "Guionista que pasa a director",
+                "slug": "guionista-que-pasa-a-director",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guionista-que-pasa-a-director"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 2074,
+                "name": "Desaf\u00edos de pioneros",
+                "slug": "desafios-de-pioneros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desafios-de-pioneros"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Leto",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/leto",
+        "versions": [
+            {
+                "codes": [],
+                "id": 6717,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LETO-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LETO-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LETO-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

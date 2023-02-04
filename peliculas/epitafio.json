@@ -1,0 +1,402 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Xabier Coronado",
+                "gender": "m",
+                "id": 4211,
+                "slug": "xabier-coronado",
+                "url": "https://www.filminlatino.mx/actor/xabier-coronado"
+            },
+            {
+                "full_name": "Mart\u00edn  Rom\u00e1n",
+                "gender": "m",
+                "id": 4212,
+                "slug": "martin-roman",
+                "url": "https://www.filminlatino.mx/actor/martin-roman"
+            },
+            {
+                "full_name": "Carlos Trivi\u00f1o",
+                "gender": "m",
+                "id": 4213,
+                "slug": "carlos-trivino",
+                "url": "https://www.filminlatino.mx/actor/carlos-trivino"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rub\u00e9n \u00cdmaz Castro",
+                "gender": "m",
+                "id": 470,
+                "slug": "ruben-imaz-castro",
+                "url": "https://www.filminlatino.mx/director/ruben-imaz-castro"
+            },
+            {
+                "full_name": "Yulene Olaizola",
+                "gender": "f",
+                "id": 1063,
+                "slug": "yulene-olaizola",
+                "url": "https://www.filminlatino.mx/directora/yulene-olaizola"
+            }
+        ],
+        "duration_in_minutes": 82,
+        "excerpt": "Una mirada desde el cine de arte a un cap\u00edtulo fundamental de la historia de M\u00e9xico: La Conquista.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2791,
+        "image_card": "https://static.filminlatino.mx/images/media/2791/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2791/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2791/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2791/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2791/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2791/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2791/4/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 58,
+        "original_title": "Epitafio",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 346,
+                "name": "Pimienta Films",
+                "slug": "pimienta-films",
+                "url": "https://www.filminlatino.mx/producer/pimienta-films"
+            },
+            {
+                "acronym": "",
+                "id": 941,
+                "name": "Una Comuni\u00f3n",
+                "slug": "una-comunion",
+                "url": "https://www.filminlatino.mx/producer/una-comunion"
+            },
+            {
+                "acronym": "",
+                "id": 706,
+                "name": "Zamora Films",
+                "slug": "zamora-films",
+                "url": "https://www.filminlatino.mx/producer/zamora-films"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "epitafio",
+        "synopsis": "En 1519, antes de llegar a la capital azteca M\u00e9xico-Tenochtitl\u00e1n, tres conquistadores espa\u00f1oles marchan hacia la cima del volc\u00e1n Popocat\u00e9petl, de m\u00e1s de 5400 metros de altura. El ascenso es complicado, deben enfrentar la fuerza de la naturaleza y el temor a lo desconocido, pero su misi\u00f3n es de gran importancia para los intereses del ej\u00e9rcito de Hern\u00e1n Cort\u00e9s.",
+        "tags": [
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 144,
+                "name": "Pocos personajes y localizaciones",
+                "slug": "pocos-personajes-y-localizaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pocos-personajes-y-localizaciones"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 877,
+                "name": "Esquimales",
+                "slug": "esquimales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/esquimales"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 954,
+                "name": "Las m\u00e1s vistas en renta",
+                "slug": "las-mas-vistas-en-renta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-renta"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 991,
+                "name": "Especial Black Canvas",
+                "slug": "especial-black-canvas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-black-canvas"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 1372,
+                "name": "N\u00e1huatl",
+                "slug": "nahuatl",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nahuatl"
+            },
+            {
+                "id": 1378,
+                "name": "Las m\u00e1s vistas TVOD cuarto aniversario",
+                "slug": "las-mas-vistas-tvod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-tvod-cuarto-aniversario"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 337,
+                "name": "Prehisp\u00e1nico",
+                "slug": "prehispanico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/prehispanico"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2074,
+                "name": "Desaf\u00edos de pioneros",
+                "slug": "desafios-de-pioneros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desafios-de-pioneros"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2448,
+                "name": "FICMY 2021",
+                "slug": "ficmy-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficmy-2021"
+            },
+            {
+                "id": 2450,
+                "name": "Largo mexicano | FICMY 2021",
+                "slug": "largo-mexicano-ficmy-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-mexicano-ficmy-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1466985600,
+        "theater_release_date": 1466985600,
+        "theater_spectators_formatted": null,
+        "title": "Epitafio",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/epitafio",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2159,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/epitafio.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/epitafio/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/epitafio/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

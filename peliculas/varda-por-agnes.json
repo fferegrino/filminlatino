@@ -1,0 +1,291 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": null
+            }
+        ],
+        "characters": [
+            {
+                "full_name": "Agn\u00e8s  Varda",
+                "gender": "f",
+                "id": 767,
+                "slug": "agnes-varda",
+                "url": "https://www.filminlatino.mx/character/agnes-varda"
+            }
+        ],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Agn\u00e8s  Varda",
+                "gender": "f",
+                "id": 1513,
+                "slug": "agnes-varda",
+                "url": "https://www.filminlatino.mx/directora/agnes-varda"
+            }
+        ],
+        "duration_in_minutes": 115,
+        "excerpt": "Un documental \u00fanico e impredecible de una narradora fascinante: Agn\u00e8s Varda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6757,
+        "image_card": "https://static.filminlatino.mx/images/media/6757/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6757/2/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6757/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6757/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6757/1/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6757/5/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/6757/7/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 65,
+        "original_title": "Varda por Agn\u00e8s",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 2982,
+                "name": "Cin\u00e9 Tamaris",
+                "slug": "cine-tamaris",
+                "url": "https://www.filminlatino.mx/producer/cine-tamaris"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "varda-por-agnes",
+        "synopsis": "El nuevo y \u00faltimo largometraje de Agn\u00e8s Varda arroja luz sobre su experiencia como directora, aportando una visi\u00f3n personal de lo que ella llamaba \"escritura de cine\". ",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 541,
+                "name": "Documental Seguimiento en a\u00f1os",
+                "slug": "documental-seguimiento-en-anos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-seguimiento-en-anos"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1302,
+                "name": "Mujeres",
+                "slug": "mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 917,
+                "name": "Nuestras guionistas",
+                "slug": "nuestras-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-guionistas"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2074,
+                "name": "Desaf\u00edos de pioneros",
+                "slug": "desafios-de-pioneros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desafios-de-pioneros"
+            },
+            {
+                "id": 2527,
+                "name": "Mi resistencia es femenina",
+                "slug": "mi-resistencia-es-femenina",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mi-resistencia-es-femenina"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            },
+            {
+                "id": 2742,
+                "name": "Ciclo De camino al Mictl\u00e1n",
+                "slug": "ciclo-de-camino-al-mictlan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciclo-de-camino-al-mictlan"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Varda por Agn\u00e8s",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/varda-por-agnes",
+        "versions": [
+            {
+                "codes": [],
+                "id": 6837,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/VARDA-POR-AGNES-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/VARDA-POR-AGNES-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/VARDA-POR-AGNES-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/VARDA-POR-AGNES-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/VARDA-POR-AGNES-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/VARDA-POR-AGNES-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

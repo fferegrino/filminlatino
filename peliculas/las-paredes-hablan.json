@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Kuno Becker",
+                "gender": "m",
+                "id": 1838,
+                "slug": "kuno-becker",
+                "url": "https://www.filminlatino.mx/actor/kuno-becker"
+            },
+            {
+                "full_name": "Mar\u00eda Aura",
+                "gender": "f",
+                "id": 2086,
+                "slug": "maria-aura",
+                "url": "https://www.filminlatino.mx/actriz/maria-aura"
+            },
+            {
+                "full_name": "Paulina Gait\u00e1n",
+                "gender": "f",
+                "id": 2088,
+                "slug": "paulina-gaitan",
+                "url": "https://www.filminlatino.mx/actriz/paulina-gaitan"
+            },
+            {
+                "full_name": "Gerardo Taracena",
+                "gender": "m",
+                "id": 171,
+                "slug": "gerardo-taracena",
+                "url": "https://www.filminlatino.mx/actor/gerardo-taracena"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Antonio Zavala",
+                "gender": "m",
+                "id": 743,
+                "slug": "antonio-zavala",
+                "url": "https://www.filminlatino.mx/director/antonio-zavala"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "La eternidad no es suficiente para el amor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1159,
+        "image_card": "https://static.filminlatino.mx/images/media/1159/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1159/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1159/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1159/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1159/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1159/5/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 14,
+        "original_title": "Las paredes hablan",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 755,
+                "name": "Tet\u00e9 Films",
+                "slug": "tete-films",
+                "url": "https://www.filminlatino.mx/producer/tete-films"
+            },
+            {
+                "acronym": "IMCINE",
+                "id": 141,
+                "name": "Instituto Mexicano de Cinematograf\u00eda ",
+                "slug": "instituto-mexicano-de-cinematografia",
+                "url": "https://www.filminlatino.mx/producer/instituto-mexicano-de-cinematografia"
+            },
+            {
+                "acronym": "",
+                "id": 174,
+                "name": "EFICINE 226",
+                "slug": "eficine-226",
+                "url": "https://www.filminlatino.mx/producer/eficine-226"
+            },
+            {
+                "acronym": "",
+                "id": 756,
+                "name": "Studio Fierberg",
+                "slug": "studio-fierberg",
+                "url": "https://www.filminlatino.mx/producer/studio-fierberg"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "las-paredes-hablan",
+        "synopsis": "Mar\u00eda y Javier son una pareja que se reencuentra cada 100 a\u00f1os, quienes viven un amor imposible debido a las diferencias sociales marcadas por los movimientos pol\u00edticos y sociales del presente y pasado.",
+        "tags": [
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 438,
+                "name": "Viaje en el tiempo",
+                "slug": "viaje-en-el-tiempo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viaje-en-el-tiempo"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 1042,
+                "name": "Cine Canibal",
+                "slug": "cine-canibal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-canibal"
+            },
+            {
+                "id": 1178,
+                "name": "2012",
+                "slug": "2012",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2012"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 758,
+                "name": "Romance_MX",
+                "slug": "romance-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance-mx"
+            },
+            {
+                "id": 1281,
+                "name": "Crisis de amor",
+                "slug": "crisis-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-amor"
+            },
+            {
+                "id": 636,
+                "name": "Morir de amor",
+                "slug": "morir-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morir-de-amor"
+            },
+            {
+                "id": 1531,
+                "name": "Encuentros",
+                "slug": "encuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/encuentros"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1354838400,
+        "theater_release_date": 1354838400,
+        "theater_spectators_formatted": null,
+        "title": "Las paredes hablan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/las-paredes-hablan",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 894,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/las-paredes-hablan.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/las-paredes-hablan/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/las-paredes-hablan/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Michael Caine",
+                "gender": "m",
+                "id": 1880,
+                "slug": "michael-caine",
+                "url": "https://www.filminlatino.mx/actor/michael-caine"
+            },
+            {
+                "full_name": "Gillian Anderson",
+                "gender": "f",
+                "id": 2866,
+                "slug": "gillian-anderson",
+                "url": "https://www.filminlatino.mx/actriz/gillian-anderson"
+            },
+            {
+                "full_name": "Cl\u00e9mence Po\u00e9sy",
+                "gender": "f",
+                "id": 2867,
+                "slug": "clemence-poesy",
+                "url": "https://www.filminlatino.mx/actriz/clemence-poesy"
+            },
+            {
+                "full_name": "Justin Kirk",
+                "gender": "m",
+                "id": 2868,
+                "slug": "justin-kirk",
+                "url": "https://www.filminlatino.mx/actor/justin-kirk"
+            }
+        ],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "shangai-international-film-festival",
+                "name": "Shangai International Film Festival ",
+                "slug": "shangai-international-film-festival",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Sandra Nettelbeck",
+                "gender": "f",
+                "id": 1029,
+                "slug": "sandra-nettelbeck",
+                "url": "https://www.filminlatino.mx/directora/sandra-nettelbeck"
+            }
+        ],
+        "duration_in_minutes": 116,
+        "excerpt": "La amistad y el amor no entiende idiomas ni mucho menos, edades.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1511,
+        "image_card": "https://static.filminlatino.mx/images/media/1511/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1511/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1511/7/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/10/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/12/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1511/6/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Mr. Morgan's Last Love",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 763,
+                "name": "Scope Pictures",
+                "slug": "scope-pictures",
+                "url": "https://www.filminlatino.mx/producer/scope-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 1019,
+                "name": "Elz\u00e9vir Films",
+                "slug": "elzevir-films",
+                "url": "https://www.filminlatino.mx/producer/elzevir-films"
+            },
+            {
+                "acronym": "",
+                "id": 1140,
+                "name": "Kaminski.Stiehm.Film GmbH",
+                "slug": "kaminskistiehmfilm-gmbh",
+                "url": "https://www.filminlatino.mx/producer/kaminskistiehmfilm-gmbh"
+            },
+            {
+                "acronym": "",
+                "id": 1141,
+                "name": "Bavaria Pictures",
+                "slug": "bavaria-pictures",
+                "url": "https://www.filminlatino.mx/producer/bavaria-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 1142,
+                "name": "Senator Film",
+                "slug": "senator-film",
+                "url": "https://www.filminlatino.mx/producer/senator-film"
+            },
+            {
+                "acronym": "",
+                "id": 1143,
+                "name": "Sidney Kimmel Entertainment",
+                "slug": "sidney-kimmel-entertainment",
+                "url": "https://www.filminlatino.mx/producer/sidney-kimmel-entertainment"
+            },
+            {
+                "acronym": "",
+                "id": 1144,
+                "name": "SCOPE Invest",
+                "slug": "scope-invest",
+                "url": "https://www.filminlatino.mx/producer/scope-invest"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-ultimo-amor-del-sr-morgan",
+        "synopsis": "\u00c9l es un viudo en Par\u00eds que no habla franc\u00e9s; ella es una instructora de baile de menos de la mitad de su edad. \u00bfPueden llegar a ser una familia, o los hijos adultos de \u00e9l van a detener la amistad?",
+        "tags": [
+            {
+                "id": 267,
+                "name": "Par\u00eds",
+                "slug": "paris",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paris"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1132,
+                "name": "Food porn",
+                "slug": "food-porn",
+                "url": "https://www.filminlatino.mx/catalogo/tema/food-porn"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1407369600,
+        "theater_release_date": 1407369600,
+        "theater_spectators_formatted": null,
+        "title": "El \u00faltimo amor del Sr. Morgan",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-ultimo-amor-del-sr-morgan",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1847,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-ultimo-amor-del-sr.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-ultimo-amor-del-sr/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-ultimo-amor-del-sr/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

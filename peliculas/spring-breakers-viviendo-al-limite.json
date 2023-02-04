@@ -1,0 +1,433 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "James  Franco",
+                "gender": "m",
+                "id": 5295,
+                "slug": "james-franco",
+                "url": "https://www.filminlatino.mx/actor/james-franco"
+            },
+            {
+                "full_name": "Selena Gomez",
+                "gender": "f",
+                "id": 4054,
+                "slug": "selena-gomez",
+                "url": "https://www.filminlatino.mx/actriz/selena-gomez"
+            },
+            {
+                "full_name": "Vanessa Hudgens",
+                "gender": "f",
+                "id": 4055,
+                "slug": "vanessa-hudgens",
+                "url": "https://www.filminlatino.mx/actriz/vanessa-hudgens"
+            },
+            {
+                "full_name": "Rachel Korine",
+                "gender": "f",
+                "id": 4056,
+                "slug": "rachel-korine",
+                "url": "https://www.filminlatino.mx/actriz/rachel-korine"
+            },
+            {
+                "full_name": "Ashley Benson",
+                "gender": "f",
+                "id": 4057,
+                "slug": "ashley-benson",
+                "url": "https://www.filminlatino.mx/actriz/ashley-benson"
+            }
+        ],
+        "avg_votes": 7.3,
+        "avg_votes_formatted": "7,3",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": 2012
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-toronto",
+                "name": "Festival de Toronto",
+                "slug": "festival-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-sxsw",
+                "name": "Festival SXSW",
+                "slug": "festival-sxsw",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "independent-spirit-awards",
+                "name": "Independent Spirit Awards",
+                "slug": "independent-spirit-awards",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Harmony Korine",
+                "gender": "m",
+                "id": 1399,
+                "slug": "harmony-korine",
+                "url": "https://www.filminlatino.mx/director/harmony-korine"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Entre el drama y el thriller, sin moralismos ni mensajes, esta pel\u00edcula\u00a0form\u00f3 parte de\u00a0la secci\u00f3n oficial del Festival de Venecia y cuenta con actuaciones de\u00a0Selena G\u00f3mez y James Franco.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2680,
+        "image_card": "https://static.filminlatino.mx/images/media/2680/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2680/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2680/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2680/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Spring Breakers",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1598,
+                "name": "A24",
+                "slug": "a24",
+                "url": "https://www.filminlatino.mx/producer/a24"
+            },
+            {
+                "acronym": "",
+                "id": 1599,
+                "name": "Hero",
+                "slug": "hero",
+                "url": "https://www.filminlatino.mx/producer/hero"
+            },
+            {
+                "acronym": "",
+                "id": 1600,
+                "name": "MJZ",
+                "slug": "mjz",
+                "url": "https://www.filminlatino.mx/producer/mjz"
+            },
+            {
+                "acronym": "",
+                "id": 1601,
+                "name": "Muse Productions",
+                "slug": "muse-productions",
+                "url": "https://www.filminlatino.mx/producer/muse-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1602,
+                "name": "O'Salvation ",
+                "slug": "osalvation",
+                "url": "https://www.filminlatino.mx/producer/osalvation"
+            },
+            {
+                "acronym": "",
+                "id": 1414,
+                "name": "Annapurna Pictures",
+                "slug": "annapurna-pictures",
+                "url": "https://www.filminlatino.mx/producer/annapurna-pictures"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "spring-breakers-viviendo-al-limite",
+        "synopsis": "Cuatro estudiantes planean atracar un puesto de comida r\u00e1pida y\u00a0reunir dinero para su viaje de vacaciones. Pero eso es solo el principio. Durante una noche de fiesta, las chicas son arrestadas por portar\u00a0drogas; con resaca y en bikini comparecen ante un juez y son liberadas inesperadamente por Alien, un infame mat\u00f3n local que las toma bajo su ala y las lleva a la vacaciones de primavera m\u00e1s salvajes de la historia. Entre el drama y el thriller, sin moralismos ni mensajes, esta pel\u00edcula form\u00f3 parte de\u00a0la secci\u00f3n oficial del Festival de Venecia y cuenta con actuaciones de\u00a0Selena G\u00f3mez y James Franco.",
+        "tags": [
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 612,
+                "name": "vacaciones",
+                "slug": "vacaciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vacaciones"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 646,
+                "name": "Escapar de la realidad",
+                "slug": "escapar-de-la-realidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escapar-de-la-realidad"
+            },
+            {
+                "id": 314,
+                "name": "Locura",
+                "slug": "locura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/locura"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 652,
+                "name": "Adi\u00f3s a la infancia",
+                "slug": "adios-a-la-infancia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/adios-a-la-infancia"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 624,
+                "name": "Friend Zone",
+                "slug": "friend-zone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/friend-zone"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 471,
+                "name": "Mundo urbano",
+                "slug": "mundo-urbano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-urbano"
+            },
+            {
+                "id": 272,
+                "name": "Decadencia",
+                "slug": "decadencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/decadencia"
+            },
+            {
+                "id": 370,
+                "name": "Rebeld\u00eda",
+                "slug": "rebeldia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rebeldia"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 1396,
+                "name": "Las favoritas de Tarantino",
+                "slug": "las-favoritas-de-tarantino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-tarantino"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 993,
+                "name": "Selecci\u00f3n oficial Venecia",
+                "slug": "seleccion-oficial-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-venecia"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Spring Breakers: viviendo al l\u00edmite",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/spring-breakers-viviendo-al-limite",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2891,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SPRING.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SPRING/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SPRING/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

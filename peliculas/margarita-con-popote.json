@@ -1,0 +1,317 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Kalki Koechlin",
+                "gender": "f",
+                "id": 3862,
+                "slug": "kalki-koechlin",
+                "url": "https://www.filminlatino.mx/actriz/kalki-koechlin"
+            },
+            {
+                "full_name": "Revathy .",
+                "gender": "f",
+                "id": 3863,
+                "slug": "revathy",
+                "url": "https://www.filminlatino.mx/actriz/revathy"
+            },
+            {
+                "full_name": "William Moseley",
+                "gender": "m",
+                "id": 3864,
+                "slug": "william-moseley",
+                "url": "https://www.filminlatino.mx/actor/william-moseley"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Festival Internacional de Cine en Guadalajara",
+                "slug": "festival-internacional-de-cine-en-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Premio Netpac",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 105,
+                "name": "India",
+                "slug": "india",
+                "url": "https://www.filminlatino.mx/catalogo/pais/india"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Shonali Bose",
+                "gender": "f",
+                "id": 1325,
+                "slug": "shonali-bose",
+                "url": "https://www.filminlatino.mx/directora/shonali-bose"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Estupendas interpretaciones y un toque ligero del director hacen de esta una historia dulce y muy accesible sobre la discapacidad y la salida del armario.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2600,
+        "image_card": "https://static.filminlatino.mx/images/media/2600/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2600/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2600/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2600/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2600/4/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Margarita con popote",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1518,
+                "name": "ADAPT",
+                "slug": "adapt",
+                "url": "https://www.filminlatino.mx/producer/adapt"
+            },
+            {
+                "acronym": "",
+                "id": 1519,
+                "name": "Jakhotia Group",
+                "slug": "jakhotia-group",
+                "url": "https://www.filminlatino.mx/producer/jakhotia-group"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "margarita-con-popote",
+        "synopsis": "Laila Kapoor es una talentosa joven de 19 a\u00f1os de edad proveniente de una familia de clase media en Delhi. Nacida con par\u00e1lisis cerebral, su habla es ininteligible y va en silla de ruedas. Est\u00e1 muy unida a su madre, Shubhangini Damle, quien se esfuerza en que pueda ir a la prestigiosa Universidad de Delhi. Y cuando el coraz\u00f3n de la joven se rompe, su madre la env\u00eda a continuar su educaci\u00f3n en la Universidad de Nueva York.",
+        "tags": [
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 49,
+                "name": "Discapacidades",
+                "slug": "discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/discapacidades"
+            },
+            {
+                "id": 329,
+                "name": "Enfermedades y discapacidades",
+                "slug": "enfermedades-y-discapacidades",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enfermedades-y-discapacidades"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 737,
+                "name": "Sororidad",
+                "slug": "sororidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sororidad"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 825,
+                "name": "En terapia",
+                "slug": "en-terapia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-terapia"
+            },
+            {
+                "id": 871,
+                "name": "Todos cuentan",
+                "slug": "todos-cuentan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/todos-cuentan"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 1052,
+                "name": "Cinenauta",
+                "slug": "cinenauta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinenauta"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 923,
+                "name": "Seleccionados FICG",
+                "slug": "seleccionados-ficg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-ficg"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 2247,
+                "name": "Semana Cultural de la Diversidad Sexual 2021",
+                "slug": "semana-cultural-de-la-diversidad-sexual-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-cultural-de-la-diversidad-sexual-2021"
+            },
+            {
+                "id": 2168,
+                "name": "Especial Semana Cultural de la Diversidad Sexual",
+                "slug": "especial-semana-cultural-de-la-diversidad-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-semana-cultural-de-la-diversidad-sexual"
+            },
+            {
+                "id": 2610,
+                "name": "Desde la otra banqueta | Muestra de cine sobre diversidad sexual",
+                "slug": "desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1450396800,
+        "theater_release_date": 1450396800,
+        "theater_spectators_formatted": null,
+        "title": "Margarita con popote",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/margarita-con-popote",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2017,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/margarita-con-popote.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/margarita-con-popote/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/margarita-con-popote/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

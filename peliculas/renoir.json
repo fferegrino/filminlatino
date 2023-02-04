@@ -1,0 +1,326 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Michel Bouquet",
+                "gender": "m",
+                "id": 2471,
+                "slug": "michel-bouquet",
+                "url": "https://www.filminlatino.mx/actor/michel-bouquet"
+            },
+            {
+                "full_name": "Romane Bohringer",
+                "gender": "f",
+                "id": 2820,
+                "slug": "romane-bohringer",
+                "url": "https://www.filminlatino.mx/actriz/romane-bohringer"
+            },
+            {
+                "full_name": "Thomas Doret",
+                "gender": "m",
+                "id": 2804,
+                "slug": "thomas-doret",
+                "url": "https://www.filminlatino.mx/actor/thomas-doret"
+            },
+            {
+                "full_name": "Michelle Gleizer",
+                "gender": "f",
+                "id": 2821,
+                "slug": "michelle-gleizer",
+                "url": "https://www.filminlatino.mx/actriz/michelle-gleizer"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Pel\u00edcula Extranjera",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2012
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Gilles Bourdos",
+                "gender": "m",
+                "id": 1016,
+                "slug": "gilles-bourdos",
+                "url": "https://www.filminlatino.mx/director/gilles-bourdos"
+            }
+        ],
+        "duration_in_minutes": 107,
+        "excerpt": "\"Renoir\" es una reflexi\u00f3n serena sobre la vejez y el enaltecimiento del poder\u00edo art\u00edstico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1501,
+        "image_card": "https://static.filminlatino.mx/images/media/1501/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1501/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1501/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1501/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1501/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1501/2/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Renoir",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 1086,
+                "name": "Mars Distribution",
+                "slug": "mars-distribution",
+                "url": "https://www.filminlatino.mx/producer/mars-distribution"
+            },
+            {
+                "acronym": "",
+                "id": 1083,
+                "name": "Fid\u00e9lit\u00e9 Films",
+                "slug": "fidelite-films",
+                "url": "https://www.filminlatino.mx/producer/fidelite-films"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1087,
+                "name": "Orange Cin\u00e9ma S\u00e9ries",
+                "slug": "orange-cinema-series",
+                "url": "https://www.filminlatino.mx/producer/orange-cinema-series"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            },
+            {
+                "acronym": "",
+                "id": 509,
+                "name": "R\u00e9gion Provence-Alpes-C\u00f4te d'Azur",
+                "slug": "region-provence-alpes-cote-dazur",
+                "url": "https://www.filminlatino.mx/producer/region-provence-alpes-cote-dazur"
+            },
+            {
+                "acronym": "CNC",
+                "id": 469,
+                "name": "Centre National de la Cin\u00e9matographie",
+                "slug": "centre-national-de-la-cinematographie",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "renoir",
+        "synopsis": "La Costa Azul, 1915. Auguste Renoir, en el ocaso de su vida, est\u00e1 atormentado por la p\u00e9rdida de su esposa, los dolores artr\u00edticos y la noticia de que su hijo ha sido herido en la guerra. Sin embargo, cuando una joven entra en su mundo, el pintor se siente due\u00f1o de una nueva energ\u00eda. Radiante de vida, bell\u00edsima, Andr\u00e9e se convertir\u00e1 en su \u00faltima modelo. Jean regresa a casa para reponerse y tambi\u00e9n cae bajo el encanto de la estrella pelirroja que brilla en el firmamento de Renoir. A pesar de la oposici\u00f3n de su padre, se enamora de la joven indomable y empieza a desarrollarse el gran cineasta.",
+        "tags": [
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 928,
+                "name": "En el bosque",
+                "slug": "en-el-bosque",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-bosque"
+            },
+            {
+                "id": 1007,
+                "name": "17\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "170-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/170-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2653,
+                "name": "Artes visuales",
+                "slug": "artes-visuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-visuales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Renoir",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/renoir",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1022,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/renoir.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/renoir/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/renoir/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

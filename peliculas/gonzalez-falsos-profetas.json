@@ -1,0 +1,370 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Harold Torres",
+                "gender": "m",
+                "id": 686,
+                "slug": "harold-torres",
+                "url": "https://www.filminlatino.mx/actor/harold-torres"
+            },
+            {
+                "full_name": "Carlos Bardem",
+                "gender": "m",
+                "id": 3448,
+                "slug": "carlos-bardem",
+                "url": "https://www.filminlatino.mx/actor/carlos-bardem"
+            },
+            {
+                "full_name": "Gaston Peterson",
+                "gender": "m",
+                "id": 3449,
+                "slug": "gaston-peterson",
+                "url": "https://www.filminlatino.mx/actor/gaston-peterson"
+            },
+            {
+                "full_name": "Olga Segura",
+                "gender": "f",
+                "id": 3450,
+                "slug": "olga-segura",
+                "url": "https://www.filminlatino.mx/actriz/olga-segura"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "diosas-de-plata",
+                "name": "Diosas de Plata",
+                "slug": "diosas-de-plata",
+                "year": 2013
+            },
+            {
+                "category": "Gran Premio ",
+                "icon": "festival-internacional-de-cine-de-fribourg-suiza",
+                "name": "Festival Internacional de Cine de Fribourg, Suiza ",
+                "slug": "festival-internacional-de-cine-de-fribourg-suiza",
+                "year": 2013
+            },
+            {
+                "category": "Z\u00e9nith de Oro a la Mejor \u00d3pera Prima",
+                "icon": "festival-del-cine-del-mundo-de-montreal-canada",
+                "name": "Festival del Cine del Mundo de Montr\u00e9al, Canad\u00e1",
+                "slug": "festival-del-cine-del-mundo-de-montreal-canada",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Christian D\u00edaz Pardo",
+                "gender": "m",
+                "id": 1185,
+                "slug": "christian-diaz-pardo",
+                "url": "https://www.filminlatino.mx/director/christian-diaz-pardo"
+            }
+        ],
+        "duration_in_minutes": 102,
+        "excerpt": "Gonz\u00e1lez, quien est\u00e1 desesperado por salir a flote y liquidar sus deudas, vive en la ciudad m\u00e1s grande del mundo, \u00bfEncontrar\u00e1 un camino que lo saque de sus problemas?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 9,
+                "name": "Familiar",
+                "slug": "familiar",
+                "url": "https://www.filminlatino.mx/catalogo/genero/familiar"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2427,
+        "image_card": "https://static.filminlatino.mx/images/media/2427/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2427/5/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2427/9/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2427/12/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 18,
+        "original_title": "Gonz\u00e1lez: Falsos profetas",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "",
+                "id": 181,
+                "name": "ECHASA",
+                "slug": "echasa",
+                "url": "https://www.filminlatino.mx/producer/echasa"
+            },
+            {
+                "acronym": "",
+                "id": 1366,
+                "name": "Chacal Filmes",
+                "slug": "chacal-filmes",
+                "url": "https://www.filminlatino.mx/producer/chacal-filmes"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "gonzalez-falsos-profetas",
+        "synopsis": "Gonz\u00e1lez, quien est\u00e1 desesperado por salir a flote y liquidar sus deudas, vive en la ciudad m\u00e1s grande del mundo. Encontrar\u00e1 un camino que lo saque de sus problemas y se enfrentar\u00e1 a la disyuntiva de tomarlo o no.",
+        "tags": [
+            {
+                "id": 128,
+                "name": "Cr\u00edtica a la religi\u00f3n ",
+                "slug": "critica-a-la-religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-religion"
+            },
+            {
+                "id": 129,
+                "name": "Thriller pol\u00edtico",
+                "slug": "thriller-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-politico"
+            },
+            {
+                "id": 250,
+                "name": "Religi\u00f3n",
+                "slug": "religion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/religion"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 157,
+                "name": "Crisis econ\u00f3mica",
+                "slug": "crisis-economica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-economica"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 1042,
+                "name": "Cine Canibal",
+                "slug": "cine-canibal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-canibal"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1412,
+                "name": "Axel Mu\u00f1oz Barba",
+                "slug": "axel-munoz-barba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/axel-munoz-barba"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1424995200,
+        "theater_release_date": 1424995200,
+        "theater_spectators_formatted": null,
+        "title": "Gonz\u00e1lez: Falsos profetas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/gonzalez-falsos-profetas",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 1853,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/gonzalez-falsos-profetas.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/gonzalez-falsos-profetas/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/gonzalez-falsos-profetas/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Guillaume Gallienne",
+                "gender": "m",
+                "id": 2999,
+                "slug": "guillaume-gallienne",
+                "url": "https://www.filminlatino.mx/actor/guillaume-gallienne"
+            },
+            {
+                "full_name": "Fran\u00e7oise Fabian",
+                "gender": "f",
+                "id": 3000,
+                "slug": "francoise-fabian",
+                "url": "https://www.filminlatino.mx/actriz/francoise-fabian"
+            },
+            {
+                "full_name": "Yves Jacques",
+                "gender": "m",
+                "id": 3001,
+                "slug": "yves-jacques",
+                "url": "https://www.filminlatino.mx/actor/yves-jacques"
+            },
+            {
+                "full_name": "Andr\u00e9 Marcon",
+                "gender": "m",
+                "id": 2744,
+                "slug": "andre-marcon",
+                "url": "https://www.filminlatino.mx/actor/andre-marcon"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Premio SACD",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Premio Art Cinema",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Adaptaci\u00f3n ",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2013
+            },
+            {
+                "category": "\u00c1guila a Mejor pel\u00edcula Europea",
+                "icon": "festival-de-cine-de-deauville",
+                "name": "Festival de Cine de Deauville ",
+                "slug": "festival-de-cine-de-deauville",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Guillaume Gallienne",
+                "gender": "m",
+                "id": 1068,
+                "slug": "guillaume-gallienne",
+                "url": "https://www.filminlatino.mx/director/guillaume-gallienne"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "Ins\u00f3lita e hilarante propuesta, la comedia francesa del 2013 pero tambi\u00e9n un psicodrama orientado a resolver un Edipo complicado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1814,
+        "image_card": "https://static.filminlatino.mx/images/media/1814/2/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/1814/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1814/5/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/7/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1814/4/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 19,
+        "original_title": "Les gar\u00e7ons et Guillaume, \u00e0 table!",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 530,
+                "name": "France 3 Cin\u00e9ma",
+                "slug": "france-3-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-3-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1099,
+                "name": "Rectangle Productions",
+                "slug": "rectangle-productions",
+                "url": "https://www.filminlatino.mx/producer/rectangle-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1183,
+                "name": "Gaumont ",
+                "slug": "gaumont",
+                "url": "https://www.filminlatino.mx/producer/gaumont"
+            },
+            {
+                "acronym": "",
+                "id": 1224,
+                "name": "LGM Productions",
+                "slug": "lgm-productions",
+                "url": "https://www.filminlatino.mx/producer/lgm-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1225,
+                "name": "Don't Be Shy Productions",
+                "slug": "dont-be-shy-productions",
+                "url": "https://www.filminlatino.mx/producer/dont-be-shy-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1226,
+                "name": "Nexus Factory",
+                "slug": "nexus-factory",
+                "url": "https://www.filminlatino.mx/producer/nexus-factory"
+            },
+            {
+                "acronym": "",
+                "id": 1227,
+                "name": "uFilm",
+                "slug": "ufilm",
+                "url": "https://www.filminlatino.mx/producer/ufilm"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "chicos-y-guillermo-a-comer",
+        "synopsis": "Pel\u00edcula biogr\u00e1fica con toques de comedia sobre el cineasta y artista Guillaume Gallienne. Se centra sobre todo en la estrecha relaci\u00f3n que ten\u00eda con su madre. Un recorrido por las emociones, los recuerdos y la familia.",
+        "tags": [
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 804,
+                "name": "En el aula",
+                "slug": "en-el-aula",
+                "url": "https://www.filminlatino.mx/catalogo/tema/en-el-aula"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 90,
+                "name": "Gastronom\u00eda",
+                "slug": "gastronomia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gastronomia"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 944,
+                "name": "Cine Trans",
+                "slug": "cine-trans",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-trans"
+            },
+            {
+                "id": 1006,
+                "name": "18\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "180-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/180-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1931,
+                "name": "Internacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "internacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/internacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1369008000,
+        "theater_release_date": 1369008000,
+        "theater_spectators_formatted": null,
+        "title": "Chicos y Guillermo, \u00a1a comer!",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/chicos-y-guillermo-a-comer",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1259,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/chicos-y-gillermo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/chicos-y-gillermo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/chicos-y-gillermo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Steve Evets",
+                "gender": "m",
+                "id": 2707,
+                "slug": "steve-evets",
+                "url": "https://www.filminlatino.mx/actor/steve-evets"
+            },
+            {
+                "full_name": "Stephanie Bishop",
+                "gender": "f",
+                "id": 2709,
+                "slug": "stephanie-bishop",
+                "url": "https://www.filminlatino.mx/actriz/stephanie-bishop"
+            },
+            {
+                "full_name": "Gerard Kearns",
+                "gender": "m",
+                "id": 2710,
+                "slug": "gerard-kearns",
+                "url": "https://www.filminlatino.mx/actor/gerard-kearns"
+            },
+            {
+                "full_name": "Lucy-Jo Hudson",
+                "gender": "f",
+                "id": 2712,
+                "slug": "lucy-jo-hudson",
+                "url": "https://www.filminlatino.mx/actriz/lucy-jo-hudson"
+            },
+            {
+                "full_name": "Eric Cantona",
+                "gender": "m",
+                "id": 2708,
+                "slug": "eric-cantona",
+                "url": "https://www.filminlatino.mx/actor/eric-cantona"
+            },
+            {
+                "full_name": "Laura Ainsworth",
+                "gender": "f",
+                "id": 4751,
+                "slug": "laura-ainsworth",
+                "url": "https://www.filminlatino.mx/actriz/laura-ainsworth"
+            },
+            {
+                "full_name": "Stefan Gumbs",
+                "gender": "m",
+                "id": 2711,
+                "slug": "stefan-gumbs",
+                "url": "https://www.filminlatino.mx/actor/stefan-gumbs"
+            }
+        ],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Mejor Actor Secundario",
+                "icon": "premios-del-cine-independiente-britanico",
+                "name": "Premios del Cine Independiente Brit\u00e1nico",
+                "slug": "premios-del-cine-independiente-britanico",
+                "year": 2009
+            },
+            {
+                "category": "Premio del Jurado Ecum\u00e9nico / Menci\u00f3n especial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Coproducci\u00f3n",
+                "icon": "premios-magritte-belgica",
+                "name": "Premios Magritte, B\u00e9lgica",
+                "slug": "premios-magritte-belgica",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 77,
+                "name": "Reino Unido",
+                "slug": "reino-unido",
+                "url": "https://www.filminlatino.mx/catalogo/pais/reino-unido"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ken Loach",
+                "gender": "m",
+                "id": 968,
+                "slug": "ken-loach",
+                "url": "https://www.filminlatino.mx/director/ken-loach"
+            }
+        ],
+        "duration_in_minutes": 112,
+        "excerpt": "Un cartero con una crisis de vida brutal recibe la visita inesperada de un legendario jugador del Manchester United.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1452,
+        "image_card": "https://static.filminlatino.mx/images/media/1452/10/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1452/8/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1452/9/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1452/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1452/13/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1452/15/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Looking for Eric",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1020,
+                "name": "Sixteen Films",
+                "slug": "sixteen-films",
+                "url": "https://www.filminlatino.mx/producer/sixteen-films"
+            },
+            {
+                "acronym": "",
+                "id": 1021,
+                "name": "Film Four",
+                "slug": "film-four",
+                "url": "https://www.filminlatino.mx/producer/film-four"
+            },
+            {
+                "acronym": "",
+                "id": 1022,
+                "name": "Canto Bros.",
+                "slug": "canto-bros",
+                "url": "https://www.filminlatino.mx/producer/canto-bros"
+            },
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1023,
+                "name": "Why Not Productions",
+                "slug": "why-not-productions",
+                "url": "https://www.filminlatino.mx/producer/why-not-productions"
+            },
+            {
+                "acronym": "",
+                "id": 1024,
+                "name": "BIM Distribuzione",
+                "slug": "bim-distribuzione",
+                "url": "https://www.filminlatino.mx/producer/bim-distribuzione"
+            },
+            {
+                "acronym": "",
+                "id": 630,
+                "name": "Tornasol Films",
+                "slug": "tornasol-films",
+                "url": "https://www.filminlatino.mx/producer/tornasol-films"
+            },
+            {
+                "acronym": "",
+                "id": 1025,
+                "name": "Les Films du Fleuve",
+                "slug": "les-films-du-fleuve",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-fleuve"
+            },
+            {
+                "acronym": "RTBF",
+                "id": 1026,
+                "name": "Radio T\u00e9l\u00e9vision Belge Francophone",
+                "slug": "radio-television-belge-francophone",
+                "url": "https://www.filminlatino.mx/producer/radio-television-belge-francophone"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "buscando-a-eric",
+        "synopsis": "Eric Bishop, un cartero de Manchester, fan\u00e1tico del f\u00fatbol, atraviesa una dura crisis vital: sus dos hijos hacen berrinches de todo tipo, su hija le reprocha que no sepa estar a la altura de las circunstancias y, adem\u00e1s, su vida sentimental es un desastre. Ni siquiera el buen ambiente que reina en el trabajo consigue levantarle el \u00e1nimo. Inesperadamente, una tarde se presenta en su casa Eric Cantona, su \u00eddolo, la estrella de su equipo, el Manchester United. El ex-futbolista intentar\u00e1 ayudarlo a retomar las riendas de su vida",
+        "tags": [
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 131,
+                "name": "F\u00fatbol",
+                "slug": "futbol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/futbol"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 837,
+                "name": "7\u00b0 FICM",
+                "slug": "70-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/70-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Buscando a Eric",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/buscando-a-eric",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1007,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/buscando-a-eric.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/buscando-a-eric/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/buscando-a-eric/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

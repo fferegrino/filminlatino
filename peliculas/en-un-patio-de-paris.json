@@ -1,0 +1,385 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Catherine Deneuve",
+                "gender": "f",
+                "id": 2818,
+                "slug": "catherine-deneuve",
+                "url": "https://www.filminlatino.mx/actriz/catherine-deneuve"
+            },
+            {
+                "full_name": "Gustave Kervern",
+                "gender": "m",
+                "id": 2857,
+                "slug": "gustave-kervern",
+                "url": "https://www.filminlatino.mx/actor/gustave-kervern"
+            },
+            {
+                "full_name": "F\u00e9odor Atkine",
+                "gender": "m",
+                "id": 1480,
+                "slug": "feodor-atkine",
+                "url": "https://www.filminlatino.mx/actor/feodor-atkine"
+            },
+            {
+                "full_name": "Pio Marma\u00ef",
+                "gender": "m",
+                "id": 2833,
+                "slug": "pio-marmai",
+                "url": "https://www.filminlatino.mx/actor/pio-marmai"
+            },
+            {
+                "full_name": "Mich\u00e8le Moretti",
+                "gender": "f",
+                "id": 2858,
+                "slug": "michele-moretti",
+                "url": "https://www.filminlatino.mx/actriz/michele-moretti"
+            },
+            {
+                "full_name": "Nicolas Bouchaud",
+                "gender": "m",
+                "id": 2859,
+                "slug": "nicolas-bouchaud",
+                "url": "https://www.filminlatino.mx/actor/nicolas-bouchaud"
+            },
+            {
+                "full_name": "Oleg Kupchik",
+                "gender": "m",
+                "id": 2860,
+                "slug": "oleg-kupchik",
+                "url": "https://www.filminlatino.mx/actor/oleg-kupchik"
+            },
+            {
+                "full_name": "Garance Clavel",
+                "gender": "f",
+                "id": 2861,
+                "slug": "garance-clavel",
+                "url": "https://www.filminlatino.mx/actriz/garance-clavel"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-berlin",
+                "name": "Festival de Berl\u00edn",
+                "slug": "festival-de-berlin",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pierre Salvadori",
+                "gender": "m",
+                "id": 1027,
+                "slug": "pierre-salvadori",
+                "url": "https://www.filminlatino.mx/director/pierre-salvadori"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Un filme conmovedor que une a dos almas viejas y solitarias en un patio de Par\u00eds.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1509,
+        "image_card": "https://static.filminlatino.mx/images/media/1509/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1509/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1509/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/11/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/5/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/13/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/6/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/14/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/1509/7/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Dans la Cour",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1133,
+                "name": "Tovo Films",
+                "slug": "tovo-films",
+                "url": "https://www.filminlatino.mx/producer/tovo-films"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            },
+            {
+                "acronym": "",
+                "id": 508,
+                "name": "Soficin\u00e9ma 9",
+                "slug": "soficinema-9",
+                "url": "https://www.filminlatino.mx/producer/soficinema-9"
+            },
+            {
+                "acronym": "",
+                "id": 507,
+                "name": "Cin\u00e9mage 7",
+                "slug": "cinemage-7",
+                "url": "https://www.filminlatino.mx/producer/cinemage-7"
+            },
+            {
+                "acronym": "",
+                "id": 1134,
+                "name": "La Banque Postale Image 6",
+                "slug": "la-banque-postale-image-6",
+                "url": "https://www.filminlatino.mx/producer/la-banque-postale-image-6"
+            },
+            {
+                "acronym": "",
+                "id": 1135,
+                "name": "Cin\u00e9mage 5 D\u00e9veloppment",
+                "slug": "cinemage-5-developpment",
+                "url": "https://www.filminlatino.mx/producer/cinemage-5-developpment"
+            },
+            {
+                "acronym": "",
+                "id": 991,
+                "name": "Procirep",
+                "slug": "procirep",
+                "url": "https://www.filminlatino.mx/producer/procirep"
+            },
+            {
+                "acronym": "",
+                "id": 992,
+                "name": "Angoa-Agicoa",
+                "slug": "angoa-agicoa",
+                "url": "https://www.filminlatino.mx/producer/angoa-agicoa"
+            },
+            {
+                "acronym": "",
+                "id": 1136,
+                "name": "Media Programme of the European Union",
+                "slug": "media-programme-of-the-european-union",
+                "url": "https://www.filminlatino.mx/producer/media-programme-of-the-european-union"
+            },
+            {
+                "acronym": "",
+                "id": 1131,
+                "name": "Les Films Pell\u00e9as",
+                "slug": "les-films-pelleas",
+                "url": "https://www.filminlatino.mx/producer/les-films-pelleas"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1132,
+                "name": "Delta Cin\u00e9ma",
+                "slug": "delta-cinema",
+                "url": "https://www.filminlatino.mx/producer/delta-cinema"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "en-un-patio-de-paris",
+        "synopsis": "Antoine es un m\u00fasico de 40 a\u00f1os que de pronto decide abandonar su carrera. Tras deambular sin rumbo durante varios d\u00edas, lo contratan para que se encargue del mantenimiento de un edificio de pisos. Mathilde, una jubilada que acaba de mudarse descubre una grieta en la pared del sal\u00f3n y es v\u00edctima del p\u00e1nico. Poco a poco nace una amistad torpe, aunque s\u00f3lida, entre Antoine y Mathilde.",
+        "tags": [
+            {
+                "id": 154,
+                "name": "Reuni\u00f3n de amigos",
+                "slug": "reunion-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reunion-de-amigos"
+            },
+            {
+                "id": 204,
+                "name": "Existencialismo",
+                "slug": "existencialismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/existencialismo"
+            },
+            {
+                "id": 267,
+                "name": "Par\u00eds",
+                "slug": "paris",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paris"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 905,
+                "name": "Berlinale participantes",
+                "slug": "berlinale-participantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/berlinale-participantes"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 904,
+                "name": "Especial Berlin",
+                "slug": "especial-berlin",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-berlin"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "En un patio de Par\u00eds",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/en-un-patio-de-paris",
+        "versions": [
+            {
+                "codes": [],
+                "id": 9886,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "fr",
+                        "name": "Franc\u00e9s"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "standard"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/en-un-patio-de-paris.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/en-un-patio-de-paris/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/en-un-patio-de-paris/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

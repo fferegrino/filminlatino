@@ -1,0 +1,261 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pierre Thoretton",
+                "gender": "m",
+                "id": 1684,
+                "slug": "pierre-thoretton",
+                "url": "https://www.filminlatino.mx/director/pierre-thoretton"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "Una maravillosa mezcla de entrevistas con Pierre Berg\u00e9, ex pareja del dise\u00f1ador franc\u00e9s,\u00a0que m\u00e1s que contar una biograf\u00eda narran un cuento\u00a0de amor\u00a0loco\u00a0al arte y\u00a0a la moda.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 29,
+                "name": "Ficci\u00f3n",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ficcion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3250,
+        "image_card": "https://static.filminlatino.mx/images/media/3250/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3250/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3250/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3250/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3250/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3250/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3250/7/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Yves Saint Laurent - Pierre Berg\u00e9, L'amour fou",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1778,
+                "name": "Les Films du Lendemain",
+                "slug": "les-films-du-lendemain",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-lendemain"
+            },
+            {
+                "acronym": "",
+                "id": 530,
+                "name": "France 3 Cin\u00e9ma",
+                "slug": "france-3-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-3-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-amor-loco",
+        "synopsis": "Yves-Saint Laurent dej\u00f3 una herencia al mundo de la moda. Su compa\u00f1ero de vida y de negocios Pierre Berg\u00e9 vendi\u00f3 su colecci\u00f3n de arte despu\u00e9s de la muerte de Saint Laurent en 2008 en la\u00a0que fue considerada \u201dla subasta del siglo\u201d. Su acervo art\u00edstico representa mucho m\u00e1s que a dos simples coleccionistas; ambos\u00a0son piezas de rompecabezas de una historia\u00a0\u00fanica de 50 a\u00f1os ardientes y tormentosos, de \u00e9xitos y de dolores \u00edntimos. Pierre Thoretton plantea\u00a0un adorable y bien merecido tributo, una maravillosa mezcla de entrevistas con Berg\u00e9 e im\u00e1genes de archivo,\u00a0que m\u00e1s que contar una biograf\u00eda narran un cuento\u00a0de amor\u00a0loco\u00a0al arte y\u00a0a la moda sobre\u00a0dos hombres que se amaron intensamente.",
+        "tags": [
+            {
+                "id": 178,
+                "name": "Mundo de la moda",
+                "slug": "mundo-de-la-moda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-de-la-moda"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 342,
+                "name": "Declaraci\u00f3n de amor",
+                "slug": "declaracion-de-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/declaracion-de-amor"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 861,
+                "name": "Cl\u00e1sicos franceses",
+                "slug": "clasicos-franceses",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-franceses"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1009,
+                "name": "15\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "150-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/150-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Un amor loco",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-amor-loco",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2565,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-amor-loco.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-amor-loco/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-amor-loco/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

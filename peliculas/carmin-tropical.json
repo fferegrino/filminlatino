@@ -1,0 +1,624 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jos\u00e9 Pescina",
+                "gender": "m",
+                "id": 3402,
+                "slug": "jose-pescina",
+                "url": "https://www.filminlatino.mx/actor/jose-pescina"
+            },
+            {
+                "full_name": "Luis Alberti",
+                "gender": "m",
+                "id": 3403,
+                "slug": "luis-alberti",
+                "url": "https://www.filminlatino.mx/actor/luis-alberti"
+            },
+            {
+                "full_name": "Marco P\u00e9triz",
+                "gender": "m",
+                "id": 3404,
+                "slug": "marco-petriz",
+                "url": "https://www.filminlatino.mx/actor/marco-petriz"
+            },
+            {
+                "full_name": "Juan Carlos Medell\u00edn",
+                "gender": "m",
+                "id": 3478,
+                "slug": "juan-carlos-medellin",
+                "url": "https://www.filminlatino.mx/actor/juan-carlos-medellin"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Vestuario",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Sonido",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor M\u00fasica de fondo",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Director",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Coactuaci\u00f3n Masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Maquillaje",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rigoberto Perezcano",
+                "gender": "m",
+                "id": 210,
+                "slug": "rigoberto-perezcano",
+                "url": "https://www.filminlatino.mx/director/rigoberto-perezcano"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Una pel\u00edcula sui g\u00e9neris que nos lleva de la mano por rincones lejanos y poco explorados de la identidad mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2416,
+        "image_card": "https://static.filminlatino.mx/images/media/2416/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2416/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2416/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2416/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2416/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2416/3/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 258,
+        "original_title": "Carm\u00edn tropical",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 567,
+                "name": "CinePantera",
+                "slug": "cinepantera",
+                "url": "https://www.filminlatino.mx/producer/cinepantera"
+            },
+            {
+                "acronym": "",
+                "id": 189,
+                "name": "Tibur\u00f3n Filmes",
+                "slug": "tiburon-filmes",
+                "url": "https://www.filminlatino.mx/producer/tiburon-filmes"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "carmin-tropical",
+        "synopsis": "Es la historia de un regreso, el de Mabel a su pueblo de origen para hallar al asesino de su amiga Daniela. Un viaje por la nostalgia, el amor y la traici\u00f3n en un lugar donde el travestismo cobr\u00f3 en una inusual dimensi\u00f3n.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 761,
+                "name": "Seleccionados F\u00e9nix",
+                "slug": "seleccionados-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-fenix"
+            },
+            {
+                "id": 710,
+                "name": "Transexual",
+                "slug": "transexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transexual"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 192,
+                "name": "Asesinato perfecto",
+                "slug": "asesinato-perfecto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/asesinato-perfecto"
+            },
+            {
+                "id": 196,
+                "name": "Crimen de odio",
+                "slug": "crimen-de-odio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-de-odio"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 671,
+                "name": "Qui\u00e9n es el asesino",
+                "slug": "quien-es-el-asesino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/quien-es-el-asesino"
+            },
+            {
+                "id": 462,
+                "name": "Travestismo",
+                "slug": "travestismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/travestismo"
+            },
+            {
+                "id": 385,
+                "name": "Cantantes",
+                "slug": "cantantes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cantantes"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 815,
+                "name": "Cuerpos disidentes",
+                "slug": "cuerpos-disidentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuerpos-disidentes"
+            },
+            {
+                "id": 822,
+                "name": "Canto",
+                "slug": "canto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/canto"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 871,
+                "name": "Todos cuentan",
+                "slug": "todos-cuentan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/todos-cuentan"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 898,
+                "name": "Derechos sexuales",
+                "slug": "derechos-sexuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-sexuales"
+            },
+            {
+                "id": 944,
+                "name": "Cine Trans",
+                "slug": "cine-trans",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-trans"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 941,
+                "name": "Directores en MICA",
+                "slug": "directores-en-mica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directores-en-mica"
+            },
+            {
+                "id": 954,
+                "name": "Las m\u00e1s vistas en renta",
+                "slug": "las-mas-vistas-en-renta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-renta"
+            },
+            {
+                "id": 980,
+                "name": "Recomendadas de Rebeca Jim\u00e9nez Calero",
+                "slug": "recomendadas-de-rebeca-jimenez-calero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-rebeca-jimenez-calero"
+            },
+            {
+                "id": 968,
+                "name": "Recomendadas de Alberto Acu\u00f1a Navarijo",
+                "slug": "recomendadas-de-alberto-acuna-navarijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-alberto-acuna-navarijo"
+            },
+            {
+                "id": 978,
+                "name": "Recomendadas de Leticia Arredondo",
+                "slug": "recomendadas-de-leticia-arredondo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-leticia-arredondo"
+            },
+            {
+                "id": 985,
+                "name": "Recomendadas de Erick Estrada ",
+                "slug": "recomendadas-de-erick-estrada",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-erick-estrada"
+            },
+            {
+                "id": 986,
+                "name": "Recomendadas de Ernesto Diezmartinez",
+                "slug": "recomendadas-de-ernesto-diezmartinez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-ernesto-diezmartinez"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 1146,
+                "name": "Mejor Vestuario Premios F\u00e9nix",
+                "slug": "mejor-vestuario-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuario-premios-fenix"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 1378,
+                "name": "Las m\u00e1s vistas TVOD cuarto aniversario",
+                "slug": "las-mas-vistas-tvod-cuarto-aniversario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-tvod-cuarto-aniversario"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1502,
+                "name": "Mari Paz Robles",
+                "slug": "mari-paz-robles",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mari-paz-robles"
+            },
+            {
+                "id": 1506,
+                "name": "Escribe Cine Recomienda",
+                "slug": "escribe-cine-recomienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escribe-cine-recomienda"
+            },
+            {
+                "id": 1533,
+                "name": "Las m\u00e1s vistas 2020",
+                "slug": "las-mas-vistas-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2659,
+                "name": "identidad de g\u00e9nero",
+                "slug": "identidad-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad-de-genero"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1444348800,
+        "theater_release_date": 1444348800,
+        "theater_spectators_formatted": null,
+        "title": "Carm\u00edn tropical",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/carmin-tropical",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1900,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/carmin-tropical.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/carmin-tropical/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/carmin-tropical/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

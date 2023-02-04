@@ -1,0 +1,383 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.6,
+        "avg_votes_formatted": "8,6",
+        "awards": [
+            {
+                "category": "Premiere mundial",
+                "icon": "muestra-de-cine-mexicano-de-guadalajara",
+                "name": " Muestra de Cine Mexicano de Guadalajara",
+                "slug": "muestra-de-cine-mexicano-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Proyecci\u00f3n Especial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Premio Ambulante",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n a mejor largometraje mexicano",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Fondo Gabriel Figueroa",
+                "icon": "",
+                "name": "Festival Internacional de Cine de Los Cabos",
+                "slug": "festival-internacional-de-cine-de-los-cabos",
+                "year": null
+            },
+            {
+                "category": "Premiere internacional ",
+                "icon": "festival-visions-du-reel",
+                "name": "Festival Visions du R\u00e9el",
+                "slug": "festival-visions-du-reel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jose \u00c1lvarez",
+                "gender": "m",
+                "id": 437,
+                "slug": "jose-alvarez",
+                "url": "https://www.filminlatino.mx/director/jose-alvarez"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Una reflexi\u00f3n sobre el sentido de la vida a trav\u00e9s de la p\u00e9rdida y los recuerdos del pasado.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5137,
+        "image_card": "https://static.filminlatino.mx/images/media/5137/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5137/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5137/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5137/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/3/still_2_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_4_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_5_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_6_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/2/still_6_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/3/still_7_3.jpeg",
+            "https://static.filminlatino.mx/images/media/5137/3/still_7_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Los ojos del mar",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1454,
+                "name": "Piano Producciones ",
+                "slug": "piano-producciones",
+                "url": "https://www.filminlatino.mx/producer/piano-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 2139,
+                "name": "Alacr\u00e1n con alas",
+                "slug": "alacran-con-alas",
+                "url": "https://www.filminlatino.mx/producer/alacran-con-alas"
+            },
+            {
+                "acronym": "",
+                "id": 2140,
+                "name": "Sutor Kolonko",
+                "slug": "sutor-kolonko",
+                "url": "https://www.filminlatino.mx/producer/sutor-kolonko"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-ojos-del-mar",
+        "synopsis": "Documental que muestra a una mujer de la comunidad de Veracruz, quien ha tenido un pasado dif\u00edcil. Un d\u00eda decide viajar por mar y tierra para realizar una ofrenda a la tripulaci\u00f3n que naufrag\u00f3 cinco a\u00f1os atr\u00e1s. A trav\u00e9s de mitos, anhelos, objetos y recuerdos, su viaje se convertir\u00e1 en una reflexi\u00f3n sobre la vida y en la oportunidad para dejar ir a los fantasmas de su pasado. Este documental particip\u00f3 en el Festival Internacional de Cine de Morelia, en el Festival Internacional de Cine de Los Cabos, en el Festival Internacional de Cine de Guadalajara y en Ambulante, entre otros eventos cinematogr\u00e1ficos relevantes.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 403,
+                "name": "Desapariciones",
+                "slug": "desapariciones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 442,
+                "name": "Desastres naturales",
+                "slug": "desastres-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desastres-naturales"
+            },
+            {
+                "id": 445,
+                "name": "Naufragio",
+                "slug": "naufragio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/naufragio"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 281,
+                "name": "Tradiciones y costumbres",
+                "slug": "tradiciones-y-costumbres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tradiciones-y-costumbres"
+            },
+            {
+                "id": 452,
+                "name": "Rituales",
+                "slug": "rituales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rituales"
+            },
+            {
+                "id": 654,
+                "name": "Fe y espiritualidad",
+                "slug": "fe-y-espiritualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fe-y-espiritualidad"
+            },
+            {
+                "id": 290,
+                "name": "Espiritualidad y fe",
+                "slug": "espiritualidad-y-fe",
+                "url": "https://www.filminlatino.mx/catalogo/tema/espiritualidad-y-fe"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 923,
+                "name": "Seleccionados FICG",
+                "slug": "seleccionados-ficg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-ficg"
+            },
+            {
+                "id": 605,
+                "name": "Festival Los Cabos",
+                "slug": "festival-los-cabos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-los-cabos"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 1740,
+                "name": "Desde el m\u00e1s all\u00e1",
+                "slug": "desde-el-mas-alla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-el-mas-alla"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2546,
+                "name": "Amor y muerte",
+                "slug": "amor-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-y-muerte"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Los ojos del mar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-ojos-del-mar",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4771,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/LOSOJOSDELMARTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/LOSOJOSDELMARTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/LOSOJOSDELMARTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

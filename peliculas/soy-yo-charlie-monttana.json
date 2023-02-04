@@ -1,0 +1,270 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Charlie Monttana",
+                "gender": "f",
+                "id": 3336,
+                "slug": "charlie-monttana",
+                "url": "https://www.filminlatino.mx/character/charlie-monttana"
+            },
+            {
+                "full_name": "Cherrie Monttana",
+                "gender": "f",
+                "id": 3337,
+                "slug": "cherrie-monttana",
+                "url": "https://www.filminlatino.mx/character/cherrie-monttana"
+            },
+            {
+                "full_name": "Mateo Monttana",
+                "gender": "m",
+                "id": 3338,
+                "slug": "mateo-monttana",
+                "url": "https://www.filminlatino.mx/character/mateo-monttana"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ernesto M\u00e9ndez",
+                "gender": "m",
+                "id": 4144,
+                "slug": "ernesto-mendez",
+                "url": "https://www.filminlatino.mx/director/ernesto-mendez"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "Documental sobre la vida cotidiana del rockero mexicano Charlie Monttana pocos a\u00f1os antes de su muerte.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7332,
+        "image_card": "https://static.filminlatino.mx/images/media/7332/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/7332/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7332/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/7332/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 37,
+        "original_title": "Soy yo Charlie Monttana",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "soy-yo-charlie-monttana",
+        "synopsis": "Documental sobre la vida cotidiana del rockero mexicano Charlie Monttana entre los a\u00f1os 2015 y 2017 que muestra una disyunci\u00f3n entre la envergadura del superstar vaquero del rock y la personalidad misma contradictoria y entra\u00f1able.<br>https://www.facebook.com/docum...https://www.instagram.com/foto...",
+        "tags": [
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1487,
+                "name": "Cine y m\u00fasica",
+                "slug": "cine-y-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-y-musica"
+            },
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 626,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 1636,
+                "name": "Cortometraje documental",
+                "slug": "cortometraje-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 1914,
+                "name": "Clausura | FECIBA 2020",
+                "slug": "clausura-feciba-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clausura-feciba-2020"
+            },
+            {
+                "id": 1904,
+                "name": "FECIBA 2020",
+                "slug": "feciba-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/feciba-2020"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 2491,
+                "name": "Largos FVOD",
+                "slug": "largos-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largos-fvod"
+            },
+            {
+                "id": 1385,
+                "name": "Documentales FVOD",
+                "slug": "documentales-fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-fvod"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 781,
+                "name": "Documentales \u00edntimos",
+                "slug": "documentales-intimos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-intimos"
+            },
+            {
+                "id": 749,
+                "name": "Musical_MX",
+                "slug": "musical-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musical-mx"
+            },
+            {
+                "id": 118,
+                "name": "Rock",
+                "slug": "rock",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rock"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Soy yo Charlie Monttana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/soy-yo-charlie-monttana",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 7804,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SOY-YO-CHARLIE-MONTTANA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SOY-YO-CHARLIE-MONTTANA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SOY-YO-CHARLIE-MONTTANA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/SOY-YO-CHARLIE-MONTTANA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/SOY-YO-CHARLIE-MONTTANA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/SOY-YO-CHARLIE-MONTTANA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2020
+    }
+}

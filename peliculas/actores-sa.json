@@ -1,0 +1,240 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ra\u00fal M\u00e9ndez",
+                "gender": "m",
+                "id": 1420,
+                "slug": "raul-mendez",
+                "url": "https://www.filminlatino.mx/actor/raul-mendez"
+            },
+            {
+                "full_name": "Iliana Fox",
+                "gender": "f",
+                "id": 2289,
+                "slug": "iliana-fox",
+                "url": "https://www.filminlatino.mx/actriz/iliana-fox"
+            },
+            {
+                "full_name": "Eugenio Bartilotti",
+                "gender": "m",
+                "id": 3150,
+                "slug": "eugenio-bartilotti",
+                "url": "https://www.filminlatino.mx/actor/eugenio-bartilotti"
+            },
+            {
+                "full_name": "Fernando Becerril",
+                "gender": "m",
+                "id": 353,
+                "slug": "fernando-becerril",
+                "url": "https://www.filminlatino.mx/actor/fernando-becerril"
+            },
+            {
+                "full_name": "Sophie Alexander-Katz",
+                "gender": "f",
+                "id": 1977,
+                "slug": "sophie-alexander-katz",
+                "url": "https://www.filminlatino.mx/actriz/sophie-alexander-katz"
+            },
+            {
+                "full_name": "Alejandro Calva",
+                "gender": "m",
+                "id": 2187,
+                "slug": "alejandro-calva",
+                "url": "https://www.filminlatino.mx/actor/alejandro-calva"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Gonz\u00e1lez Sari\u00f1ana ",
+                "gender": "m",
+                "id": 1195,
+                "slug": "carlos-gonzalez-sarinana",
+                "url": "https://www.filminlatino.mx/director/carlos-gonzalez-sarinana"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Una compa\u00f1\u00eda teatral en crisis ofrece sus servicios actorales a cualquiera que los necesite fuera del escenario.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2772,
+        "image_card": "https://static.filminlatino.mx/images/media/2772/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2772/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2772/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2772/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2772/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Actores S.A.",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1645,
+                "name": "Producciones Coraz\u00f3n",
+                "slug": "producciones-corazon",
+                "url": "https://www.filminlatino.mx/producer/producciones-corazon"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "actores-sa",
+        "synopsis": "Tom\u00e1s es un joven actor, hijo adoptivo de Don Antonio, director y fundador de la compa\u00f1\u00eda teatral a la que pertenece y del ruinoso teatro donde presentan sus obras. Al morir Don Antonio, Tom\u00e1s recurre a sus dotes art\u00edsticas y de La Compa\u00f1\u00eda para salvar el teatro de las ambiciosas garras de Mauro, sobrino de Don Antonio. Montan una p\u00e1gina web donde ofrecen sus servicios actorales a cualquiera que los necesite fuera del escenario. La Compa\u00f1\u00eda es contratada para evitar la boda de Rebeca.",
+        "tags": [
+            {
+                "id": 719,
+                "name": "Personajes actores",
+                "slug": "personajes-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-actores"
+            },
+            {
+                "id": 133,
+                "name": "Cine sobre bodas",
+                "slug": "cine-sobre-bodas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-sobre-bodas"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 571,
+                "name": "Herencia",
+                "slug": "herencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/herencia"
+            },
+            {
+                "id": 565,
+                "name": "Mentiras",
+                "slug": "mentiras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mentiras"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 375,
+                "name": "Teatro",
+                "slug": "teatro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/teatro"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1258,
+                "name": "A\u00f1os 2000",
+                "slug": "anos-2000",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2000"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Actores S.A.",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/actores-sa",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2145,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2008
+    }
+}

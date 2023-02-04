@@ -1,0 +1,836 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Brandon L\u00f3pez",
+                "gender": "m",
+                "id": 2120,
+                "slug": "brandon-lopez",
+                "url": "https://www.filminlatino.mx/actor/brandon-lopez"
+            },
+            {
+                "full_name": "Rodolfo Dom\u00ednguez",
+                "gender": "m",
+                "id": 2122,
+                "slug": "rodolfo-dominguez",
+                "url": "https://www.filminlatino.mx/actor/rodolfo-dominguez"
+            },
+            {
+                "full_name": "Karen Mart\u00ednez",
+                "gender": "m",
+                "id": 2123,
+                "slug": "karen-martinez",
+                "url": "https://www.filminlatino.mx/actor/karen-martinez"
+            },
+            {
+                "full_name": "Carlos Chaj\u00f3n",
+                "gender": "m",
+                "id": 2124,
+                "slug": "carlos-chajon",
+                "url": "https://www.filminlatino.mx/actor/carlos-chajon"
+            },
+            {
+                "full_name": "Luis Alberti",
+                "gender": "m",
+                "id": 3403,
+                "slug": "luis-alberti",
+                "url": "https://www.filminlatino.mx/actor/luis-alberti"
+            }
+        ],
+        "avg_votes": 9.3,
+        "avg_votes_formatted": "9,3",
+        "awards": [
+            {
+                "category": "Gold Hugo",
+                "icon": "festival-internacional-de-cine-de-chicago",
+                "name": "Festival Internacional de Cine de Chicago",
+                "slug": "festival-internacional-de-cine-de-chicago",
+                "year": 2013
+            },
+            {
+                "category": "Gold Hugo",
+                "icon": "festival-internacional-de-cine-de-chicago",
+                "name": "Festival Internacional de Cine de Chicago",
+                "slug": "festival-internacional-de-cine-de-chicago",
+                "year": 2013
+            },
+            {
+                "category": "Mejor actuaci\u00f3n masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Gui\u00f3n Cinematogr\u00e1fico ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor M\u00fasica de Fondo",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor \u00d3pera Prima",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor M\u00fasica Original ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Coactuaci\u00f3n Masculina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Sonido",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Premio Talento Emergente ",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Premio Talento Emergente ",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Premio Horizontes Latinos",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Primer Trabajo",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Primer Trabajo",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-la-habana-cuba",
+                "name": "Festival de Cine de La Habana, Cuba",
+                "slug": "festival-de-cine-de-la-habana-cuba",
+                "year": 2013
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "festival-de-cine-de-la-habana-cuba",
+                "name": "Festival de Cine de La Habana, Cuba",
+                "slug": "festival-de-cine-de-la-habana-cuba",
+                "year": 2013
+            },
+            {
+                "category": "Golden Gateway",
+                "icon": "festival-internacional-de-bombay",
+                "name": "Festival Internacional de Bombay",
+                "slug": "festival-internacional-de-bombay",
+                "year": 2013
+            },
+            {
+                "category": "Golden Gateway",
+                "icon": "festival-internacional-de-bombay",
+                "name": "Festival Internacional de Bombay",
+                "slug": "festival-internacional-de-bombay",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-de-mar-de-plata",
+                "name": "Festival de Cine de Mar de Plata",
+                "slug": "festival-de-cine-de-mar-de-plata",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Largometraje",
+                "icon": "festival-de-cine-internacional-de-sao-paulo",
+                "name": "Festival de Cine Internacional de Sao Paulo",
+                "slug": "festival-de-cine-internacional-de-sao-paulo",
+                "year": 2013
+            },
+            {
+                "category": "Premio de la Cr\u00edtica",
+                "icon": "festival-de-cine-internacional-de-sao-paulo",
+                "name": "Festival de Cine Internacional de Sao Paulo",
+                "slug": "festival-de-cine-internacional-de-sao-paulo",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-ace",
+                "name": "Premios ACE ",
+                "slug": "premios-ace",
+                "year": 2013
+            },
+            {
+                "category": "Crystal Gryphon",
+                "icon": "festival-internacional-de-cine-de-giffoni",
+                "name": "Festival Internacional de Cine de Giffoni",
+                "slug": "festival-internacional-de-cine-de-giffoni",
+                "year": 2013
+            },
+            {
+                "category": "Aluminium Gryphon",
+                "icon": "festival-internacional-de-cine-de-giffoni",
+                "name": "Festival Internacional de Cine de Giffoni",
+                "slug": "festival-internacional-de-cine-de-giffoni",
+                "year": 2013
+            },
+            {
+                "category": "Golden Gryphon",
+                "icon": "festival-internacional-de-cine-de-giffoni",
+                "name": "Festival Internacional de Cine de Giffoni",
+                "slug": "festival-internacional-de-cine-de-giffoni",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-de-zurich",
+                "name": "Festival de Zurich",
+                "slug": "festival-de-zurich",
+                "year": 2013
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor pel\u00edcula hispanoamericana",
+                "icon": "premios-goya",
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Diego Quemada-D\u00edez",
+                "gender": "m",
+                "id": 754,
+                "slug": "diego-quemada-diez",
+                "url": "https://www.filminlatino.mx/director/diego-quemada-diez"
+            }
+        ],
+        "duration_in_minutes": 109,
+        "excerpt": "En un viaje hay historias de amistad, de lucha, de libertad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1171,
+        "image_card": "https://static.filminlatino.mx/images/media/1171/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1171/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1171/2/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1171/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1171/2/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 68,
+        "original_title": "La jaula de oro",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 768,
+                "name": "Animal de Luz Films",
+                "slug": "animal-de-luz-films",
+                "url": "https://www.filminlatino.mx/producer/animal-de-luz-films"
+            },
+            {
+                "acronym": "",
+                "id": 769,
+                "name": "Kinemascope Films",
+                "slug": "kinemascope-films",
+                "url": "https://www.filminlatino.mx/producer/kinemascope-films"
+            },
+            {
+                "acronym": "",
+                "id": 589,
+                "name": "Machete Producciones",
+                "slug": "machete-producciones",
+                "url": "https://www.filminlatino.mx/producer/machete-producciones"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-jaula-de-oro",
+        "synopsis": "Cada d\u00eda miles de personas cruzan fronteras en busca de una mejor vida que sue\u00f1an encontrar en Estados Unidos. Diego Quemada-Diez presenta una profunda reflexi\u00f3n sobre la realidad que comparten pa\u00edses en desarrollo en Am\u00e9rica Latina. Esta pel\u00edcula cuenta la historia de Juan y Sara, dos j\u00f3venes menores de edad que emprenden un viaje desde Guatemala hacia Los Angeles, California.",
+        "tags": [
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 347,
+                "name": "Injusticia",
+                "slug": "injusticia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/injusticia"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 43,
+                "name": "Migraci\u00f3n",
+                "slug": "migracion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/migracion"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 88,
+                "name": "Viajes en el extranjero",
+                "slug": "viajes-en-el-extranjero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-en-el-extranjero"
+            },
+            {
+                "id": 160,
+                "name": "Trenes",
+                "slug": "trenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trenes"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 316,
+                "name": "Frontera",
+                "slug": "frontera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/frontera"
+            },
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 805,
+                "name": "Refugiados",
+                "slug": "refugiados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/refugiados"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 934,
+                "name": "Ganadores Ariel",
+                "slug": "ganadores-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadores-ariel"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 920,
+                "name": "Maria Secco",
+                "slug": "maria-secco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maria-secco"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 954,
+                "name": "Las m\u00e1s vistas en renta",
+                "slug": "las-mas-vistas-en-renta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-renta"
+            },
+            {
+                "id": 973,
+                "name": "Recomendadas de Arturo Maga\u00f1a",
+                "slug": "recomendadas-de-arturo-magana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-arturo-magana"
+            },
+            {
+                "id": 977,
+                "name": "Recomendadas de Leonardo Garc\u00eda Tsao",
+                "slug": "recomendadas-de-leonardo-garcia-tsao",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-leonardo-garcia-tsao"
+            },
+            {
+                "id": 1042,
+                "name": "Cine Canibal",
+                "slug": "cine-canibal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-canibal"
+            },
+            {
+                "id": 1145,
+                "name": "Ganadoras Premios F\u00e9nix",
+                "slug": "ganadoras-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-premios-fenix"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1359,
+                "name": "Mejor Banda Sonora Ariel",
+                "slug": "mejor-banda-sonora-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-banda-sonora-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 1362,
+                "name": "Mejor Dise\u00f1o de Arte Ariel",
+                "slug": "mejor-diseno-de-arte-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-diseno-de-arte-ariel"
+            },
+            {
+                "id": 1363,
+                "name": "Efectos Especiales y visuales Ariel",
+                "slug": "efectos-especiales-y-visuales-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/efectos-especiales-y-visuales-ariel"
+            },
+            {
+                "id": 1388,
+                "name": "Especial D\u00eda Nacional MX",
+                "slug": "especial-dia-nacional-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-dia-nacional-mx"
+            },
+            {
+                "id": 1226,
+                "name": "Baja California",
+                "slug": "baja-california",
+                "url": "https://www.filminlatino.mx/catalogo/tema/baja-california"
+            },
+            {
+                "id": 1225,
+                "name": "Tijuana",
+                "slug": "tijuana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tijuana"
+            },
+            {
+                "id": 1241,
+                "name": "Chiapas",
+                "slug": "chiapas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/chiapas"
+            },
+            {
+                "id": 1395,
+                "name": "Realizadores de otras latitudes",
+                "slug": "realizadores-de-otras-latitudes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizadores-de-otras-latitudes"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1506,
+                "name": "Escribe Cine Recomienda",
+                "slug": "escribe-cine-recomienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escribe-cine-recomienda"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2224,
+                "name": "Desapariciones forzadas",
+                "slug": "desapariciones-forzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desapariciones-forzadas"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2492,
+                "name": "Viajes transformadores",
+                "slug": "viajes-transformadores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-transformadores"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1399593600,
+        "theater_release_date": 1399593600,
+        "theater_spectators_formatted": null,
+        "title": "La jaula de oro",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-jaula-de-oro",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 901,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-jaula-de-oro.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-jaula-de-oro/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-jaula-de-oro/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9,
+        "avg_votes_formatted": "9",
+        "awards": [
+            {
+                "category": "Nominado a mejor cortometraje",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Premio del Jurado",
+                "icon": "docsdf",
+                "name": "DOCSDF",
+                "slug": "docsdf",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Francisca D'Acosta",
+                "gender": "f",
+                "id": 1344,
+                "slug": "francisca-dacosta",
+                "url": "https://www.filminlatino.mx/directora/francisca-dacosta"
+            },
+            {
+                "full_name": "Ramiro Pedraza",
+                "gender": "m",
+                "id": 1345,
+                "slug": "ramiro-pedraza",
+                "url": "https://www.filminlatino.mx/director/ramiro-pedraza"
+            }
+        ],
+        "duration_in_minutes": 44,
+        "excerpt": "Tob\u00edas es un ni\u00f1o descalzo de las monta\u00f1as de M\u00e9xico que sue\u00f1a con convertirse en un basquetbolista profesional.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6614,
+        "image_card": "https://static.filminlatino.mx/images/media/6614/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/6614/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6614/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/6614/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/6614/1/still_4_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 46,
+        "original_title": "Tob\u00edas",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1530,
+                "name": "Ramiro E. Pedraza",
+                "slug": "ramiro-e-pedraza",
+                "url": "https://www.filminlatino.mx/producer/ramiro-e-pedraza"
+            },
+            {
+                "acronym": "",
+                "id": 1531,
+                "name": "Francisca D' Acosta",
+                "slug": "francisca-d-acosta",
+                "url": "https://www.filminlatino.mx/producer/francisca-d-acosta"
+            },
+            {
+                "acronym": "",
+                "id": 1526,
+                "name": "Arca",
+                "slug": "arca",
+                "url": "https://www.filminlatino.mx/producer/arca"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tobias",
+        "synopsis": "Tob\u00edas es un ni\u00f1o descalzo de las monta\u00f1as de M\u00e9xico que sue\u00f1a con convertirse en un basquetbolista profesional. Como Tob\u00edas, todos debemos hacer un viaje a lo desconocido, debemos aprender, como \u00e9l lo hace, a seguir caminando con el \u00fanico equipaje que realmente tenemos, nuestros ombligos enterrados en la tierra donde nacimos. El basquetbol es la excusa que lo lleva a descubrir nuevos horizontes que antes parec\u00edan inalcanzables. Ver el mundo con ojos de Tob\u00edas es caminar descalzo en la selva junto a \u00e9l y comer una tortilla del fuego de su mam\u00e1, n\u00facleo de su universo. Tob\u00edas es una pel\u00edcula sobre los sue\u00f1os, sobre el camino, no el destino. Nuestro objetivo es compartir la belleza escondida en los peque\u00f1os detalles. No hay pobreza cuando se es rico por dentro. Tob\u00edas nos ense\u00f1ar\u00e1 a ver la vida desde una perspectiva diferente.",
+        "tags": [
+            {
+                "id": 639,
+                "name": "Ni\u00f1ez",
+                "slug": "ninez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninez"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 783,
+                "name": "Documentales en corto",
+                "slug": "documentales-en-corto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-en-corto"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 210,
+                "name": "FilminLatino Ni\u00f1os",
+                "slug": "filminlatino-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filminlatino-ninos"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1106,
+                "name": "Ramiro Pedraza",
+                "slug": "ramiro-pedraza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ramiro-pedraza"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 81,
+                "name": "Deportes",
+                "slug": "deportes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deportes"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 401,
+                "name": "Cortometraje",
+                "slug": "cortometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cortometraje"
+            },
+            {
+                "id": 591,
+                "name": "DocsMX",
+                "slug": "docsmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docsmx"
+            },
+            {
+                "id": 703,
+                "name": "B\u00e1squetbol",
+                "slug": "basquetbol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basquetbol"
+            },
+            {
+                "id": 787,
+                "name": "Documentales biogr\u00e1ficos",
+                "slug": "documentales-biograficos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-biograficos"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1352,
+                "name": "Mejor Cortometrajes Ariel",
+                "slug": "mejor-cortometrajes-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-cortometrajes-ariel"
+            },
+            {
+                "id": 1577,
+                "name": "11\u00ba edici\u00f3n Shorts MX",
+                "slug": "11o-edicion-shorts-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/11o-edicion-shorts-mx"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tob\u00edas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tobias",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 6509,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2015
+    }
+}

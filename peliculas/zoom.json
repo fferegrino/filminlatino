@@ -1,0 +1,356 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alison Pill",
+                "gender": "f",
+                "id": 4921,
+                "slug": "alison-pill",
+                "url": "https://www.filminlatino.mx/actriz/alison-pill"
+            },
+            {
+                "full_name": "Gael  Garc\u00eda Bernal",
+                "gender": "m",
+                "id": 4017,
+                "slug": "gael-garcia-bernal",
+                "url": "https://www.filminlatino.mx/actor/gael-garcia-bernal"
+            },
+            {
+                "full_name": "Tyler Labine",
+                "gender": "m",
+                "id": 4922,
+                "slug": "tyler-labine",
+                "url": "https://www.filminlatino.mx/actor/tyler-labine"
+            },
+            {
+                "full_name": "Mariana Ximenes",
+                "gender": "f",
+                "id": 4923,
+                "slug": "mariana-ximenes",
+                "url": "https://www.filminlatino.mx/actriz/mariana-ximenes"
+            },
+            {
+                "full_name": "Jason Priestley",
+                "gender": "m",
+                "id": 4925,
+                "slug": "jason-priestley",
+                "url": "https://www.filminlatino.mx/actor/jason-priestley"
+            },
+            {
+                "full_name": "Claudia Ohana",
+                "gender": "f",
+                "id": 4926,
+                "slug": "claudia-ohana",
+                "url": "https://www.filminlatino.mx/actriz/claudia-ohana"
+            },
+            {
+                "full_name": "Don McKellar",
+                "gender": "m",
+                "id": 4927,
+                "slug": "don-mckellar",
+                "url": "https://www.filminlatino.mx/actor/don-mckellar"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Premio del Jurado",
+                "icon": "",
+                "name": "Ithaca International Fantastic Film Festival",
+                "slug": "ithaca-international-fantastic-film-festival",
+                "year": null
+            },
+            {
+                "category": "Mejor Gui\u00f3n Original",
+                "icon": "canadian-screen-awards-ca",
+                "name": "Canadian Screen Awards, CA",
+                "slug": "canadian-screen-awards-ca",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            },
+            {
+                "id": 38,
+                "name": "Canad\u00e1",
+                "slug": "canada",
+                "url": "https://www.filminlatino.mx/catalogo/pais/canada"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Pedro Morelli",
+                "gender": "m",
+                "id": 1680,
+                "slug": "pedro-morelli",
+                "url": "https://www.filminlatino.mx/director/pedro-morelli"
+            }
+        ],
+        "duration_in_minutes": 97,
+        "excerpt": "Una dibujante, un cineasta y un escritor con sus crisis creativas y personales convergen gracias a\u00a0la mezcla de texturas y formatos de la animaci\u00f3n y la imagen real.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 11,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/animacion"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3239,
+        "image_card": "https://static.filminlatino.mx/images/media/3239/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3239/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3239/24/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3239/26/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/3239/14/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/18/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/20/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/22/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/8/still_8_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/2/still_9_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/4/still_10_3.jpg",
+            "https://static.filminlatino.mx/images/media/3239/16/still_11_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Zoom",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1775,
+                "name": "Rhombus Media",
+                "slug": "rhombus-media",
+                "url": "https://www.filminlatino.mx/producer/rhombus-media"
+            },
+            {
+                "acronym": "",
+                "id": 1776,
+                "name": "O2 Filmes",
+                "slug": "o2-filmes",
+                "url": "https://www.filminlatino.mx/producer/o2-filmes"
+            },
+            {
+                "acronym": "",
+                "id": 1779,
+                "name": "Coproducci\u00f3n Brasil-Canad\u00e1",
+                "slug": "coproduccion-brasil-canada",
+                "url": "https://www.filminlatino.mx/producer/coproduccion-brasil-canada"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "zoom",
+        "synopsis": "Cinta que abre paso al debut en solitario del cineasta brasile\u00f1o Pedro Morelli, donde la animaci\u00f3n y la imagen real cooperan para presentar la crisis personal y creativa de una dibujante de c\u00f3mic. Dicha historieta habla a su vez de un cineasta que en rodaje de su pel\u00edcula narra la vida de un escritor, quien escribe sobre otro dibujante. Todas las historias fluyen gracias a la mezcla de texturas y formatos para una estimulante reflexi\u00f3n sobre los debates entorno a una creaci\u00f3n art\u00edstica.",
+        "tags": [
+            {
+                "id": 205,
+                "name": "Animaci\u00f3n",
+                "slug": "animacion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/animacion"
+            },
+            {
+                "id": 600,
+                "name": "Drama MX",
+                "slug": "drama-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-mx"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 700,
+                "name": "Personaje escritor",
+                "slug": "personaje-escritor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personaje-escritor"
+            },
+            {
+                "id": 320,
+                "name": "Artes Pl\u00e1sticas",
+                "slug": "artes-plasticas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/artes-plasticas"
+            },
+            {
+                "id": 63,
+                "name": "Pintura y escultura",
+                "slug": "pintura-y-escultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pintura-y-escultura"
+            },
+            {
+                "id": 819,
+                "name": "Mundo digital",
+                "slug": "mundo-digital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-digital"
+            },
+            {
+                "id": 820,
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sitges"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 872,
+                "name": "Gael Garcia",
+                "slug": "gael-garcia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gael-garcia"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 889,
+                "name": "Personajes peculiares",
+                "slug": "personajes-peculiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-peculiares"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Zoom",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/zoom",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2568,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/zoom.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/zoom/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/zoom/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

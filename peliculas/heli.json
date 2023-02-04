@@ -1,0 +1,612 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Armando Espitia",
+                "gender": "m",
+                "id": 910,
+                "slug": "armando-espitia",
+                "url": "https://www.filminlatino.mx/actor/armando-espitia"
+            },
+            {
+                "full_name": "Andrea Vergara",
+                "gender": "f",
+                "id": 911,
+                "slug": "andrea-vergara",
+                "url": "https://www.filminlatino.mx/actriz/andrea-vergara"
+            },
+            {
+                "full_name": "Linda Gonz\u00e1lez",
+                "gender": "f",
+                "id": 912,
+                "slug": "linda-gonzalez",
+                "url": "https://www.filminlatino.mx/actriz/linda-gonzalez"
+            },
+            {
+                "full_name": "Juan Eduardo Palacios",
+                "gender": "m",
+                "id": 913,
+                "slug": "juan-eduardo-palacios",
+                "url": "https://www.filminlatino.mx/actor/juan-eduardo-palacios"
+            }
+        ],
+        "avg_votes": 8.4,
+        "avg_votes_formatted": "8,4",
+        "awards": [
+            {
+                "category": "Premio Casa de Am\u00e9rica ",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2013
+            },
+            {
+                "category": "Premio de la cr\u00edtica cubana",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2013
+            },
+            {
+                "category": "Premio Coral",
+                "icon": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "name": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+                "slug": "festival-internacional-del-nuevo-cine-latinoamericano-de-la-habana",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Direcci\u00f3n ",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "encuentro-latinoamericano-de-cine-de-lima",
+                "name": "Encuentro latinoamericano de Cine de Lima",
+                "slug": "encuentro-latinoamericano-de-cine-de-lima",
+                "year": 2013
+            },
+            {
+                "category": "Loba de oro",
+                "icon": "festival-du-nouveau-cinema-montreal",
+                "name": "Festival du nouveau cin\u00e9ma Montr\u00e9al",
+                "slug": "festival-du-nouveau-cinema-montreal",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "camerimage-film-festival",
+                "name": "Camerimage Film Festival",
+                "slug": "camerimage-film-festival",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Pel\u00edcula Internacional ",
+                "icon": "festival-de-cine-de-munich-alemania",
+                "name": "Festival de Cine de Munich, Alemania",
+                "slug": "festival-de-cine-de-munich-alemania",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "festival-de-cine-de-estocolomo",
+                "name": "Festival de Cine de Estocolomo",
+                "slug": "festival-de-cine-de-estocolomo",
+                "year": 2013
+            },
+            {
+                "category": "Premio Cine Latino",
+                "icon": "festival-internacional-de-palm-springs",
+                "name": "Festival Internacional de Palm Springs",
+                "slug": "festival-internacional-de-palm-springs",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-platino-del-cine-iberoamericano",
+                "name": "Premios Platino del Cine Iberoamericano",
+                "slug": "premios-platino-del-cine-iberoamericano",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 57,
+                "name": "Alemania",
+                "slug": "alemania",
+                "url": "https://www.filminlatino.mx/catalogo/pais/alemania"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Amat Escalante",
+                "gender": "m",
+                "id": 353,
+                "slug": "amat-escalante",
+                "url": "https://www.filminlatino.mx/director/amat-escalante"
+            }
+        ],
+        "duration_in_minutes": 105,
+        "excerpt": "Un crudo y sombr\u00edo drama mexicano sobre la guerra contra las drogas.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 374,
+        "image_card": "https://static.filminlatino.mx/images/media/374/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/374/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/374/8/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/6/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/10/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/14/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/374/12/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 135,
+        "original_title": "Heli",
+        "producers": [
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            },
+            {
+                "acronym": "",
+                "id": 273,
+                "name": "Tres tunas",
+                "slug": "tres-tunas",
+                "url": "https://www.filminlatino.mx/producer/tres-tunas"
+            },
+            {
+                "acronym": "",
+                "id": 274,
+                "name": "Nodream Cinema",
+                "slug": "nodream-cinema",
+                "url": "https://www.filminlatino.mx/producer/nodream-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 275,
+                "name": "Le Pacte",
+                "slug": "le-pacte",
+                "url": "https://www.filminlatino.mx/producer/le-pacte"
+            },
+            {
+                "acronym": "",
+                "id": 276,
+                "name": "unafilm",
+                "slug": "unafilm",
+                "url": "https://www.filminlatino.mx/producer/unafilm"
+            },
+            {
+                "acronym": "",
+                "id": 277,
+                "name": "Lemming Film",
+                "slug": "lemming-film",
+                "url": "https://www.filminlatino.mx/producer/lemming-film"
+            },
+            {
+                "acronym": "",
+                "id": 278,
+                "name": "Ticoman",
+                "slug": "ticoman",
+                "url": "https://www.filminlatino.mx/producer/ticoman"
+            },
+            {
+                "acronym": "",
+                "id": 279,
+                "name": " IKE Asistencia",
+                "slug": "ike-asistencia",
+                "url": "https://www.filminlatino.mx/producer/ike-asistencia"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "heli",
+        "synopsis": "Estela, una ni\u00f1a de 12 a\u00f1os, se acaba de enamorar perdidamente de un joven cadete que se quiere escapar con ella y casarse. Al intentar cumplir este sue\u00f1o, su familia tendr\u00e1 que vivir la violencia que azota la regi\u00f3n.",
+        "tags": [
+            {
+                "id": 741,
+                "name": "ESCINE",
+                "slug": "escine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escine"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 509,
+                "name": "Premios internacionales MX",
+                "slug": "premios-internacionales-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-internacionales-mx"
+            },
+            {
+                "id": 554,
+                "name": "Semana Alem\u00e1n",
+                "slug": "semana-aleman",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-aleman"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 82,
+                "name": "Corrupci\u00f3n",
+                "slug": "corrupcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corrupcion"
+            },
+            {
+                "id": 125,
+                "name": "Narcotr\u00e1fico",
+                "slug": "narcotrafico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/narcotrafico"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 848,
+                "name": "Peligro/Suspenso",
+                "slug": "peligrosuspenso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peligrosuspenso"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 887,
+                "name": "Festival de Sundance",
+                "slug": "festival-de-sundance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sundance"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 914,
+                "name": "M\u00e9xico cerca del Oscar",
+                "slug": "mexico-cerca-del-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico-cerca-del-oscar"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 977,
+                "name": "Recomendadas de Leonardo Garc\u00eda Tsao",
+                "slug": "recomendadas-de-leonardo-garcia-tsao",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-leonardo-garcia-tsao"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1145,
+                "name": "Ganadoras Premios F\u00e9nix",
+                "slug": "ganadoras-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-premios-fenix"
+            },
+            {
+                "id": 1191,
+                "name": "Guanajuato",
+                "slug": "guanajuato",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guanajuato"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 1354,
+                "name": "Mejor Actor Ariel",
+                "slug": "mejor-actor-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actor-ariel"
+            },
+            {
+                "id": 1356,
+                "name": "Coactuaci\u00f3n Masculina Ariel",
+                "slug": "coactuacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-masculina-ariel"
+            },
+            {
+                "id": 1357,
+                "name": "Mejor Guion Ariel",
+                "slug": "mejor-guion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-guion-ariel"
+            },
+            {
+                "id": 780,
+                "name": "Mejor Fotograf\u00eda Ariel",
+                "slug": "mejor-fotografia-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-fotografia-ariel"
+            },
+            {
+                "id": 1358,
+                "name": "Mejor Edici\u00f3n Ariel",
+                "slug": "mejor-edicion-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-edicion-ariel"
+            },
+            {
+                "id": 1360,
+                "name": "Mejor Sonido Ariel",
+                "slug": "mejor-sonido-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-sonido-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 1362,
+                "name": "Mejor Dise\u00f1o de Arte Ariel",
+                "slug": "mejor-diseno-de-arte-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-diseno-de-arte-ariel"
+            },
+            {
+                "id": 1363,
+                "name": "Efectos Especiales y visuales Ariel",
+                "slug": "efectos-especiales-y-visuales-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/efectos-especiales-y-visuales-ariel"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1427,
+                "name": "Cl\u00e1sicos mexicanos",
+                "slug": "clasicos-mexicanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clasicos-mexicanos"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 2218,
+                "name": "M\u00e1s de los nominados al Ariel 63",
+                "slug": "mas-de-los-nominados-al-ariel-63",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-los-nominados-al-ariel-63"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Heli",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/heli",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 287,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/Heli.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/Heli/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/Heli/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

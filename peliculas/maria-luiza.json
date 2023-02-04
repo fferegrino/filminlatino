@@ -1,0 +1,242 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8,
+        "avg_votes_formatted": "8",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 31,
+                "name": "Brasil",
+                "slug": "brasil",
+                "url": "https://www.filminlatino.mx/catalogo/pais/brasil"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Marcelo D\u00edaz",
+                "gender": "m",
+                "id": 3217,
+                "slug": "marcelo-diaz",
+                "url": "https://www.filminlatino.mx/director/marcelo-diaz"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "Maria Luiza es la primera transg\u00e9nero de las Fuerzas Armadas brasile\u00f1as. Despu\u00e9s de 22 a\u00f1os de trabajo, fue jubilada por discapacidad.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 6434,
+        "image_card": "https://static.filminlatino.mx/images/media/6434/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/6434/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/6434/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/6434/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/6434/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/6434/2/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 1,
+        "original_title": "Maria Luiza",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "maria-luiza",
+        "synopsis": "Maria Luiza naci\u00f3 el 20 de julio de 1960, d\u00eda de Santos Dummont, patr\u00f3n de la Aviaci\u00f3n Brasile\u00f1a. Durante la pubertad, pas\u00f3 por un raspado de las cuerdas vocales y un tratamiento hormonal para volverse m\u00e1s varonil. A los 18 se alist\u00f3 en la Fuerza A\u00e9rea, ya que amaba los aviones. Marc\u00f3 el comienzo de 22 a\u00f1os como mec\u00e1nico de aviones militares. Es modesta, conservadora, cat\u00f3lica, que cuida su auto como un avi\u00f3n de la Fuerza A\u00e9rea Brasile\u00f1a. El proceso legal confidencial, con acceso autorizado, tambi\u00e9n es parte de la narrativa. Una c\u00e1mara fotogr\u00e1fica muestra pausas y silencios, como una reflexi\u00f3n sobre la identidad y el tiempo.La pel\u00edcula expone un caso de violaci\u00f3n de los Derechos Humanos y reflexiona sobre la libertad de ser lo que queremos. El documental ha impactado positivamente la visibilidad de Maria Luiza, especialmente en la Corte Suprema de Brasil, que recientemente decidi\u00f3 que tiene derecho a una jubilaci\u00f3n de un puesto superior.",
+        "tags": [
+            {
+                "id": 944,
+                "name": "Cine Trans",
+                "slug": "cine-trans",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-trans"
+            },
+            {
+                "id": 709,
+                "name": "Transg\u00e9nero",
+                "slug": "transgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/transgenero"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 1498,
+                "name": "Orgullo LGBT+",
+                "slug": "orgullo-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/orgullo-lgbt"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 14,
+                "name": "Mundo laboral",
+                "slug": "mundo-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-laboral"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 373,
+                "name": "Gente de la vida real",
+                "slug": "gente-de-la-vida-real",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gente-de-la-vida-real"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 300,
+                "name": "Vida en el ej\u00e9rcito",
+                "slug": "vida-en-el-ejercito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-en-el-ejercito"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1144,
+                "name": "Vidas cruzadas",
+                "slug": "vidas-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vidas-cruzadas"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 786,
+                "name": "Documentales pol\u00edticos",
+                "slug": "documentales-politicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-politicos"
+            },
+            {
+                "id": 1644,
+                "name": "Humano Film Festival 2020",
+                "slug": "humano-film-festival-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humano-film-festival-2020"
+            },
+            {
+                "id": 1651,
+                "name": "Humano documental | Humano Film Festival 2020",
+                "slug": "humano-documental-humano-film-festival-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/humano-documental-humano-film-festival-2020"
+            },
+            {
+                "id": 2489,
+                "name": "P\u00e9rdidas y duelos",
+                "slug": "perdidas-y-duelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdidas-y-duelos"
+            },
+            {
+                "id": 2655,
+                "name": "Identidad",
+                "slug": "identidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/identidad"
+            },
+            {
+                "id": 2610,
+                "name": "Desde la otra banqueta | Muestra de cine sobre diversidad sexual",
+                "slug": "desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desde-la-otra-banqueta-muestra-de-cine-sobre-diversidad-sexual"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Maria Luiza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/maria-luiza",
+        "versions": [
+            {
+                "codes": [],
+                "id": 6314,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/MARIA-LUIZA-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/MARIA-LUIZA-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/MARIA-LUIZA-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2019
+    }
+}

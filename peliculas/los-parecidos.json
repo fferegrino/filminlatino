@@ -1,0 +1,406 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Gustavo S\u00e1nchez Parra",
+                "gender": "m",
+                "id": 1403,
+                "slug": "gustavo-sanchez-parra",
+                "url": "https://www.filminlatino.mx/actor/gustavo-sanchez-parra"
+            },
+            {
+                "full_name": "Cassandra Ciangherotti",
+                "gender": "f",
+                "id": 925,
+                "slug": "cassandra-ciangherotti",
+                "url": "https://www.filminlatino.mx/actriz/cassandra-ciangherotti"
+            },
+            {
+                "full_name": "Humberto Busto",
+                "gender": "m",
+                "id": 1415,
+                "slug": "humberto-busto",
+                "url": "https://www.filminlatino.mx/actor/humberto-busto"
+            },
+            {
+                "full_name": "Fernando Becerril",
+                "gender": "m",
+                "id": 353,
+                "slug": "fernando-becerril",
+                "url": "https://www.filminlatino.mx/actor/fernando-becerril"
+            },
+            {
+                "full_name": "Carmen Beato",
+                "gender": "f",
+                "id": 609,
+                "slug": "carmen-beato",
+                "url": "https://www.filminlatino.mx/actriz/carmen-beato"
+            },
+            {
+                "full_name": "Santiago Torres",
+                "gender": "m",
+                "id": 3857,
+                "slug": "santiago-torres",
+                "url": "https://www.filminlatino.mx/actor/santiago-torres"
+            },
+            {
+                "full_name": "Mar\u00eda Elena Olivares",
+                "gender": "m",
+                "id": 2587,
+                "slug": "maria-elena-olivares",
+                "url": "https://www.filminlatino.mx/actor/maria-elena-olivares"
+            },
+            {
+                "full_name": "Alberto Estrella",
+                "gender": "m",
+                "id": 559,
+                "slug": "alberto-estrella",
+                "url": "https://www.filminlatino.mx/actor/alberto-estrella"
+            },
+            {
+                "full_name": "Luis Alberti",
+                "gender": "m",
+                "id": 3403,
+                "slug": "luis-alberti",
+                "url": "https://www.filminlatino.mx/actor/luis-alberti"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Secci\u00f3n Panorama Fant\u00e1stico",
+                "icon": "festival-de-cine-de-sitges-espana",
+                "name": "Festival de Cine de Sitges, Espa\u00f1a ",
+                "slug": "festival-de-cine-de-sitges-espana",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Maquillaje",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor Coactuaci\u00f3n Femenina",
+                "icon": "ariel",
+                "name": "Ariel",
+                "slug": "ariel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Isaac Ezban",
+                "gender": "m",
+                "id": 1252,
+                "slug": "isaac-ezban",
+                "url": "https://www.filminlatino.mx/director/isaac-ezban"
+            }
+        ],
+        "duration_in_minutes": 90,
+        "excerpt": "\"Una carta de amor al cine de ficci\u00f3n de los a\u00f1os sesenta\", es como describe a\u00a0Los parecidos, su segundo largometraje, el director, Isaac Ezban.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 16,
+                "name": "Ciencia Ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ciencia-ficcion"
+            },
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3166,
+        "image_card": "https://static.filminlatino.mx/images/media/3166/12/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3166/10/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3166/19/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/20/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/18/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/17/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/16/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/15/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/12/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/11/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/14/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3166/13/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 23,
+        "original_title": "Los parecidos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1712,
+                "name": "Red Elephant ",
+                "slug": "red-elephant",
+                "url": "https://www.filminlatino.mx/producer/red-elephant"
+            },
+            {
+                "acronym": "",
+                "id": 1439,
+                "name": "Yellow Films",
+                "slug": "yellow-films",
+                "url": "https://www.filminlatino.mx/producer/yellow-films"
+            },
+            {
+                "acronym": "",
+                "id": 171,
+                "name": "Zensky Cine",
+                "slug": "zensky-cine",
+                "url": "https://www.filminlatino.mx/producer/zensky-cine"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-parecidos",
+        "synopsis": "En la lluviosa madrugada del 2 de octubre de 1968, ocho personajes que esperan un cami\u00f3n en una remota estaci\u00f3n en el medio de la nada, comienzan a ser v\u00edctimas de un extra\u00f1o fen\u00f3meno. Una pel\u00edcula de Isaac Ezban, director de \"El Incidente\".",
+        "tags": [
+            {
+                "id": 756,
+                "name": "Ciencia Ficci\u00f3n_MX",
+                "slug": "ciencia-ficcion-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia-ficcion-mx"
+            },
+            {
+                "id": 308,
+                "name": "Ciencia ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia-ficcion"
+            },
+            {
+                "id": 757,
+                "name": "Thriller_MX",
+                "slug": "thriller-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-mx"
+            },
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 555,
+                "name": "Fen\u00f3menos paranormales",
+                "slug": "fenomenos-paranormales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fenomenos-paranormales"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 820,
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sitges"
+            },
+            {
+                "id": 827,
+                "name": "Viernes 13",
+                "slug": "viernes-13",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viernes-13"
+            },
+            {
+                "id": 76,
+                "name": "Monstruos",
+                "slug": "monstruos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/monstruos"
+            },
+            {
+                "id": 844,
+                "name": "Terror hecho en M\u00e9xico",
+                "slug": "terror-hecho-en-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-hecho-en-mexico"
+            },
+            {
+                "id": 846,
+                "name": "Sci - Fi",
+                "slug": "sci-fi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sci-fi"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 876,
+                "name": "Para desvelados ",
+                "slug": "para-desvelados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-desvelados"
+            },
+            {
+                "id": 1107,
+                "name": "Red Elephant Films",
+                "slug": "red-elephant-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/red-elephant-films"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 327,
+                "name": "Distop\u00eda",
+                "slug": "distopia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/distopia"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1361,
+                "name": "Mejor Vestuario/Maquillaje Ariel",
+                "slug": "mejor-vestuariomaquillaje-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuariomaquillaje-ariel"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1465,
+                "name": "Atrapados",
+                "slug": "atrapados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/atrapados"
+            },
+            {
+                "id": 1468,
+                "name": "Para maratonear ",
+                "slug": "para-maratonear",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-maratonear"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2736,
+                "name": "10 d\u00edas de terror en FilminLatino ",
+                "slug": "10-dias-de-terror-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/10-dias-de-terror-en-filminlatino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1476403200,
+        "theater_release_date": 1476403200,
+        "theater_spectators_formatted": null,
+        "title": "Los parecidos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-parecidos",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2485,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-parecidos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-parecidos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-parecidos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

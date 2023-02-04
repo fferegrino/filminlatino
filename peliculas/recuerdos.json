@@ -1,0 +1,247 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Michel Blanc",
+                "gender": "m",
+                "id": 100,
+                "slug": "michel-blanc",
+                "url": "https://www.filminlatino.mx/actor/michel-blanc"
+            },
+            {
+                "full_name": "Annie Cordy",
+                "gender": "f",
+                "id": 2887,
+                "slug": "annie-cordy",
+                "url": "https://www.filminlatino.mx/actriz/annie-cordy"
+            },
+            {
+                "full_name": "Mathieu Spinosi",
+                "gender": "m",
+                "id": 4886,
+                "slug": "mathieu-spinosi",
+                "url": "https://www.filminlatino.mx/actor/mathieu-spinosi"
+            }
+        ],
+        "avg_votes": 9.2,
+        "avg_votes_formatted": "9,2",
+        "awards": [
+            {
+                "category": "Nominada al Premio Magritte",
+                "icon": "premios-magritte-belgica",
+                "name": "Premios Magritte, B\u00e9lgica",
+                "slug": "premios-magritte-belgica",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jean Paul Rouve",
+                "gender": "m",
+                "id": 1666,
+                "slug": "jean-paul-rouve",
+                "url": "https://www.filminlatino.mx/director/jean-paul-rouve"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Qu\u00e9 debes hacer para tener lo que quieres... Romain todav\u00eda no lo sabe, pero est\u00e1 a punto de convertirse en novelista.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 28,
+                "name": "Dramedy",
+                "slug": "dramedy",
+                "url": "https://www.filminlatino.mx/catalogo/genero/dramedy"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3238,
+        "image_card": "https://static.filminlatino.mx/images/media/3238/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3238/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3238/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3238/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3238/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3238/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3238/8/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3238/12/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Les Souvenirs",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1764,
+                "name": "Nolita Cinema",
+                "slug": "nolita-cinema",
+                "url": "https://www.filminlatino.mx/producer/nolita-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1765,
+                "name": "Union G\u00e9n\u00e9rale Cin\u00e9matographique ",
+                "slug": "union-generale-cinematographique",
+                "url": "https://www.filminlatino.mx/producer/union-generale-cinematographique"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "recuerdos",
+        "synopsis": "Romain tiene 23 a\u00f1os, quiere ser escritor, aunque de momento es vigilante nocturno en un hotel. Su padre tiene 62 a\u00f1os, est\u00e1 jubilado y todo parece importarle un bledo. Romain comparte apartamento con un chico de 24 a\u00f1os cuyo \u00fanico objetivo en la vida es seducir a las mujeres, sin importarle qui\u00e9n ni cu\u00e1nto le cueste. Su abuela, de 85 a\u00f1os, vive en una residencia y se pregunta qu\u00e9 diablos hace all\u00ed.\u00a0",
+        "tags": [
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2787,
+                "name": "Calendario de Adviento | 2022",
+                "slug": "calendario-de-adviento-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/calendario-de-adviento-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Recuerdos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/recuerdos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2642,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/recuerdos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/recuerdos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/recuerdos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

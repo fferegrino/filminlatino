@@ -1,0 +1,361 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Olga Segura",
+                "gender": "f",
+                "id": 3450,
+                "slug": "olga-segura",
+                "url": "https://www.filminlatino.mx/actriz/olga-segura"
+            },
+            {
+                "full_name": "Arcelia Ram\u00edrez",
+                "gender": "f",
+                "id": 117,
+                "slug": "arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/actriz/arcelia-ramirez"
+            },
+            {
+                "full_name": "Sof\u00eda Garza",
+                "gender": "f",
+                "id": 4965,
+                "slug": "sofia-garza",
+                "url": "https://www.filminlatino.mx/actriz/sofia-garza"
+            },
+            {
+                "full_name": "Horacio Castelo",
+                "gender": "m",
+                "id": 1930,
+                "slug": "horacio-castelo",
+                "url": "https://www.filminlatino.mx/actor/horacio-castelo"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominada al Premio Mezcal a Mejor pel\u00edcula mexicana",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor nuevo director",
+                "icon": "",
+                "name": "Festival de cine de Madrid-PNR",
+                "slug": "festival-de-cine-de-madrid-pnr",
+                "year": null
+            },
+            {
+                "category": "Nominada a Mejor pel\u00edcula",
+                "icon": "",
+                "name": "Brooklyn Horror Film Festival",
+                "slug": "brooklyn-horror-film-festival",
+                "year": null
+            },
+            {
+                "category": "Nominada a mejor pel\u00edcula iberoamericana",
+                "icon": "international-fantastic-film-festival-of-porto-alegre-fantaspoa-portugal",
+                "name": "International Fantastic Film Festival of Porto Alegre (Fantaspoa), Portugal ",
+                "slug": "international-fantastic-film-festival-of-porto-alegre-fantaspoa-portugal",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Carlos Algara",
+                "gender": "m",
+                "id": 1696,
+                "slug": "carlos-algara",
+                "url": "https://www.filminlatino.mx/director/carlos-algara"
+            },
+            {
+                "full_name": "Alejandro Mart\u00ednez Beltr\u00e1n",
+                "gender": "m",
+                "id": 1697,
+                "slug": "alejandro-martinez-beltran",
+                "url": "https://www.filminlatino.mx/director/alejandro-martinez-beltran"
+            }
+        ],
+        "duration_in_minutes": 81,
+        "excerpt": "Una terapeuta retirada decide atender el inusual caso de Ver\u00f3nica de la Serna, cuyo anterior terapeuta desapareci\u00f3 misteriosamente.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3263,
+        "image_card": "https://static.filminlatino.mx/images/media/3263/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3263/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3263/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/12/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/6/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3263/14/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "Ver\u00f3nica",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1794,
+                "name": "Producciones A Ciegas",
+                "slug": "producciones-a-ciegas",
+                "url": "https://www.filminlatino.mx/producer/producciones-a-ciegas"
+            },
+            {
+                "acronym": "",
+                "id": 1795,
+                "name": "Visualistas",
+                "slug": "visualistas",
+                "url": "https://www.filminlatino.mx/producer/visualistas"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "veronica",
+        "synopsis": "Una psic\u00f3loga alejada de su carrera como terapeuta decide tomar el caso especial de Ver\u00f3nica, una joven cuya cura fue misteriosamente interrumpida tras la desaparici\u00f3n de su anterior psicoanalista. Esta pel\u00edcula mantiene con tensi\u00f3n inusitada apuntes en torno al condici\u00f3n mental de su protagonista, tem\u00e1tica poco com\u00fan en el cine mexicano.\u00a0",
+        "tags": [
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 305,
+                "name": "Psicoan\u00e1lisis",
+                "slug": "psicoanalisis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/psicoanalisis"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 854,
+                "name": "Cintas de Arcelia Ram\u00edrez",
+                "slug": "cintas-de-arcelia-ramirez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cintas-de-arcelia-ramirez"
+            },
+            {
+                "id": 478,
+                "name": "Blanco y negro",
+                "slug": "blanco-y-negro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/blanco-y-negro"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 898,
+                "name": "Derechos sexuales",
+                "slug": "derechos-sexuales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-sexuales"
+            },
+            {
+                "id": 675,
+                "name": "Terror psicol\u00f3gico",
+                "slug": "terror-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-psicologico"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 692,
+                "name": "Rumbo al Ariel",
+                "slug": "rumbo-al-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rumbo-al-ariel"
+            },
+            {
+                "id": 938,
+                "name": "Nominadas Ariel 60",
+                "slug": "nominadas-ariel-60",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nominadas-ariel-60"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 989,
+                "name": "Especial Macabro",
+                "slug": "especial-macabro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-macabro"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 2012,
+                "name": "No soy tu chica",
+                "slug": "no-soy-tu-chica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-soy-tu-chica"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2526,
+                "name": "Melodramas diferentes",
+                "slug": "melodramas-diferentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/melodramas-diferentes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Ver\u00f3nica",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/veronica",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2595,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/veronica.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/veronica/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/veronica/master.m3u8"
+                }
+            ]
+        },
+        "year": 2017
+    }
+}

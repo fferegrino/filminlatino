@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Fran\u00e7ois Cluzet",
+                "gender": "m",
+                "id": 2693,
+                "slug": "francois-cluzet",
+                "url": "https://www.filminlatino.mx/actor/francois-cluzet"
+            },
+            {
+                "full_name": "Marianne Denicourt",
+                "gender": "f",
+                "id": 5081,
+                "slug": "marianne-denicourt",
+                "url": "https://www.filminlatino.mx/actriz/marianne-denicourt"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Actor de Cine",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-internacional-de-edimburgo",
+                "name": "Festival Internacional de Edimburgo",
+                "slug": "festival-internacional-de-edimburgo",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Thomas Lilti",
+                "gender": "m",
+                "id": 1726,
+                "slug": "thomas-lilti",
+                "url": "https://www.filminlatino.mx/director/thomas-lilti"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Una oda al oficio de ser m\u00e9dico que ha llegado al coraz\u00f3n de m\u00e1s de mill\u00f3n y medio de franceses por el humanismo de su discurso y la entrega de sus personajes.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 8,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/genero/aventuras"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3299,
+        "image_card": "https://static.filminlatino.mx/images/media/3299/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3299/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3299/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/8/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/11/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/12/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/12/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/3299/13/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "M\u00e9decin de campagne",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1847,
+                "name": "31 Juin Films",
+                "slug": "31-juin-films",
+                "url": "https://www.filminlatino.mx/producer/31-juin-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-amigo-irremplazable",
+        "synopsis": "Durante los \u00faltimos 30 a\u00f1os, Jean-Pierre ha fungido como m\u00e9dico abnegado al servicio de sus pacientes en una zona rural de Francia. Un d\u00eda cae enfermo y no tiene otra opci\u00f3n m\u00e1s que encontrar reemplazo. As\u00ed es como llega Nathalie, una joven m\u00e9dico del hospital de la ciudad, quien tendr\u00e1 en sus manos la posibilidad de reemplazar a una persona imprescindible.",
+        "tags": [
+            {
+                "id": 566,
+                "name": "Accidente",
+                "slug": "accidente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/accidente"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 730,
+                "name": "Comedia francesa",
+                "slug": "comedia-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-francesa"
+            },
+            {
+                "id": 126,
+                "name": "Ambientada en hospital",
+                "slug": "ambientada-en-hospital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-hospital"
+            },
+            {
+                "id": 693,
+                "name": "Tercera Edad",
+                "slug": "tercera-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tercera-edad"
+            },
+            {
+                "id": 276,
+                "name": "Vida rural",
+                "slug": "vida-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-rural"
+            },
+            {
+                "id": 33,
+                "name": "Cine rural",
+                "slug": "cine-rural",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-rural"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 659,
+                "name": "Trabajo",
+                "slug": "trabajo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo"
+            },
+            {
+                "id": 817,
+                "name": "Trabajo en equipo",
+                "slug": "trabajo-en-equipo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trabajo-en-equipo"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Un amigo irremplazable",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-amigo-irremplazable",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2638,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/UN-AMIGO-IRREMPLAZABLE.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/UN-AMIGO-IRREMPLAZABLE/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/UN-AMIGO-IRREMPLAZABLE/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

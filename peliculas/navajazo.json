@@ -1,0 +1,314 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Richard Lewis",
+                "gender": "m",
+                "id": 3461,
+                "slug": "richard-lewis",
+                "url": "https://www.filminlatino.mx/actor/richard-lewis"
+            },
+            {
+                "full_name": "Amador Granados",
+                "gender": "m",
+                "id": 3462,
+                "slug": "amador-granados",
+                "url": "https://www.filminlatino.mx/actor/amador-granados"
+            },
+            {
+                "full_name": "Yareni Garc\u00eda",
+                "gender": "m",
+                "id": 3463,
+                "slug": "yareni-garcia",
+                "url": "https://www.filminlatino.mx/actor/yareni-garcia"
+            },
+            {
+                "full_name": "Balthazar Hern\u00e1ndez",
+                "gender": "m",
+                "id": 3464,
+                "slug": "balthazar-hernandez",
+                "url": "https://www.filminlatino.mx/actor/balthazar-hernandez"
+            }
+        ],
+        "avg_votes": 7.7,
+        "avg_votes_formatted": "7,7",
+        "awards": [
+            {
+                "category": "Leopardo de Oro",
+                "icon": "festival-internacional-de-cine-de-locarno",
+                "name": "Festival Internacional de Cine de Locarno",
+                "slug": "festival-internacional-de-cine-de-locarno",
+                "year": 2014
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-cine-de-jeonju",
+                "name": "Festival de Cine de Jeonju",
+                "slug": "festival-de-cine-de-jeonju",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Ricardo Silva",
+                "gender": "m",
+                "id": 1189,
+                "slug": "ricardo-silva",
+                "url": "https://www.filminlatino.mx/director/ricardo-silva"
+            }
+        ],
+        "duration_in_minutes": 71,
+        "excerpt": "Un drama documental que retrata la supervivencia de dos personajes dentro de un ambiente host\u00edl.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2433,
+        "image_card": "https://static.filminlatino.mx/images/media/2433/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2433/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2433/6/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/2433/3/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/2433/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2433/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2433/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2433/5/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 19,
+        "original_title": "Navajazo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1373,
+                "name": "Sp\u00e9cola",
+                "slug": "specola",
+                "url": "https://www.filminlatino.mx/producer/specola"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "navajazo",
+        "synopsis": "El apocalipsis imaginado a trav\u00e9s de retratos de personajes tratando de sobrevivir en un ambiente hostil, en donde s\u00f3lo se tienen el uno al otro y lo \u00fanico en com\u00fan que poseen entre s\u00ed es la voluntad de seguir viviendo, cueste lo que cueste.",
+        "tags": [
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 176,
+                "name": "Mezcla de documental y ficci\u00f3n",
+                "slug": "mezcla-de-documental-y-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mezcla-de-documental-y-ficcion"
+            },
+            {
+                "id": 458,
+                "name": "Clases sociales",
+                "slug": "clases-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/clases-sociales"
+            },
+            {
+                "id": 583,
+                "name": "Cine Mexicano",
+                "slug": "cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 299,
+                "name": "Libertad de expresi\u00f3n",
+                "slug": "libertad-de-expresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/libertad-de-expresion"
+            },
+            {
+                "id": 954,
+                "name": "Las m\u00e1s vistas en renta",
+                "slug": "las-mas-vistas-en-renta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas-en-renta"
+            },
+            {
+                "id": 729,
+                "name": "Festival de Locarno",
+                "slug": "festival-de-locarno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-locarno"
+            },
+            {
+                "id": 991,
+                "name": "Especial Black Canvas",
+                "slug": "especial-black-canvas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-black-canvas"
+            },
+            {
+                "id": 1042,
+                "name": "Cine Canibal",
+                "slug": "cine-canibal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-canibal"
+            },
+            {
+                "id": 1160,
+                "name": "Las favoritas del 2018",
+                "slug": "las-favoritas-del-2018",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-del-2018"
+            },
+            {
+                "id": 1174,
+                "name": "2014",
+                "slug": "2014",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2014"
+            },
+            {
+                "id": 1195,
+                "name": "2010",
+                "slug": "2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 778,
+                "name": "Mejor Documental Ariel",
+                "slug": "mejor-documental-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-documental-ariel"
+            },
+            {
+                "id": 1437,
+                "name": "Festival del Puerto",
+                "slug": "festival-del-puerto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-del-puerto"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1392940800,
+        "theater_release_date": 1392940800,
+        "theater_spectators_formatted": null,
+        "title": "Navajazo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/navajazo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1850,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/navajazo.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/navajazo/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/navajazo/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

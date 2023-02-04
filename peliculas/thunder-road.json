@@ -1,0 +1,270 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jim Cummings",
+                "gender": "m",
+                "id": 8767,
+                "slug": "jim-cummings",
+                "url": "https://www.filminlatino.mx/actor/jim-cummings"
+            },
+            {
+                "full_name": "Kendal Farr",
+                "gender": "f",
+                "id": 8768,
+                "slug": "kendal-farr",
+                "url": "https://www.filminlatino.mx/actriz/kendal-farr"
+            },
+            {
+                "full_name": "Nican Robinson",
+                "gender": "m",
+                "id": 8769,
+                "slug": "nican-robinson",
+                "url": "https://www.filminlatino.mx/actor/nican-robinson"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Cannes ACID Trip",
+                "slug": "cannes-acid-trip",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "GIFF Guanajuato International Film Fest ",
+                "slug": "giff-guanajuato-international-film-fest",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "SXSW Film Festival ",
+                "slug": "sxsw-film-festival",
+                "year": null
+            },
+            {
+                "category": "Gran premio del jurado",
+                "icon": "festival-de-cine-de-deauville",
+                "name": "Festival de Cine de Deauville ",
+                "slug": "festival-de-cine-de-deauville",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jim Cummings",
+                "gender": "m",
+                "id": 4185,
+                "slug": "jim-cummings",
+                "url": "https://www.filminlatino.mx/director/jim-cummings"
+            }
+        ],
+        "duration_in_minutes": 92,
+        "excerpt": "En esta tragicomedia, un polic\u00eda de Texas\u00a0har\u00e1 todo lo posible por educar bien a su hija.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 7382,
+        "image_card": "https://static.filminlatino.mx/images/media/7382/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/7382/1/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/7382/3/still_1_3.png",
+            "https://static.filminlatino.mx/images/media/7382/4/still_2_3.png",
+            "https://static.filminlatino.mx/images/media/7382/4/still_3_3.png",
+            "https://static.filminlatino.mx/images/media/7382/2/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/7382/4/still_5_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 34,
+        "original_title": "Thunder Road",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "thunder-road",
+        "synopsis": "La historia de Jimmy Arnaud, un polic\u00eda de Texas que hace todo lo que puede por educar bien a su hija. Un retrato tragic\u00f3mico de los Estados Unidos a la deriva.",
+        "tags": [
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 1347,
+                "name": "Largo drama",
+                "slug": "largo-drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largo-drama"
+            },
+            {
+                "id": 821,
+                "name": "Comedia cl\u00e1sica",
+                "slug": "comedia-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-clasica"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 1346,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama"
+            },
+            {
+                "id": 1348,
+                "name": "Dramas ",
+                "slug": "dramas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dramas"
+            },
+            {
+                "id": 390,
+                "name": "Tragicomedia",
+                "slug": "tragicomedia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tragicomedia"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 504,
+                "name": "Cine Independiente Norteamericano",
+                "slug": "cine-independiente-norteamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-independiente-norteamericano"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 862,
+                "name": "Familias diversas",
+                "slug": "familias-diversas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-diversas"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 1303,
+                "name": "Ni\u00f1as y ni\u00f1os ",
+                "slug": "ninas-y-ninos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninas-y-ninos"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Thunder Road",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/thunder-road",
+        "versions": [
+            {
+                "codes": [],
+                "id": 7871,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "en",
+                        "name": "English"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/THUNDER-ROAD-TRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/THUNDER-ROAD-TRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/THUNDER-ROAD-TRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

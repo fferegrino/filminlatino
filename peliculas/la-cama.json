@@ -1,0 +1,307 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Rebecca Jones",
+                "gender": "f",
+                "id": 2277,
+                "slug": "rebecca-jones",
+                "url": "https://www.filminlatino.mx/actriz/rebecca-jones"
+            },
+            {
+                "full_name": "Daniel Mart\u00ednez",
+                "gender": "m",
+                "id": 658,
+                "slug": "daniel-martinez",
+                "url": "https://www.filminlatino.mx/actor/daniel-martinez"
+            },
+            {
+                "full_name": "Gabriela Canudas",
+                "gender": "f",
+                "id": 3088,
+                "slug": "gabriela-canudas",
+                "url": "https://www.filminlatino.mx/actriz/gabriela-canudas"
+            },
+            {
+                "full_name": "Jes\u00fas Ochoa",
+                "gender": "m",
+                "id": 126,
+                "slug": "jesus-ochoa",
+                "url": "https://www.filminlatino.mx/actor/jesus-ochoa"
+            },
+            {
+                "full_name": "Lilia Arag\u00f3n",
+                "gender": "f",
+                "id": 1268,
+                "slug": "lilia-aragon",
+                "url": "https://www.filminlatino.mx/actriz/lilia-aragon"
+            },
+            {
+                "full_name": "Liz Gallardo",
+                "gender": "f",
+                "id": 3080,
+                "slug": "liz-gallardo",
+                "url": "https://www.filminlatino.mx/actriz/liz-gallardo"
+            }
+        ],
+        "avg_votes": 6.1,
+        "avg_votes_formatted": "6,1",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rafael Montero",
+                "gender": "m",
+                "id": 42,
+                "slug": "rafael-montero",
+                "url": "https://www.filminlatino.mx/director/rafael-montero"
+            }
+        ],
+        "duration_in_minutes": 99,
+        "excerpt": "El regreso al cine de ficci\u00f3n de Rafael Montero, luego de concentrar su atenci\u00f3n en el documental. Una historia que le da voz a las camas, que devela sus secretos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2454,
+        "image_card": "https://static.filminlatino.mx/images/media/2454/1/card_0_3.JPG",
+        "image_poster": "https://static.filminlatino.mx/images/media/2454/1/poster_0_3.JPG",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2454/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2454/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2454/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 8,
+        "original_title": "La cama",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 590,
+                "name": "Balero Films",
+                "slug": "balero-films",
+                "url": "https://www.filminlatino.mx/producer/balero-films"
+            },
+            {
+                "acronym": "",
+                "id": 1647,
+                "name": "Mi Calaverita Films",
+                "slug": "mi-calaverita-films",
+                "url": "https://www.filminlatino.mx/producer/mi-calaverita-films"
+            },
+            {
+                "acronym": "",
+                "id": 1646,
+                "name": "Hilo Negro Films",
+                "slug": "hilo-negro-films",
+                "url": "https://www.filminlatino.mx/producer/hilo-negro-films"
+            },
+            {
+                "acronym": "",
+                "id": 786,
+                "name": "En Rodaje Films",
+                "slug": "en-rodaje-films",
+                "url": "https://www.filminlatino.mx/producer/en-rodaje-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-cama",
+        "synopsis": "Tu cama es testigo directo de lo que eres o de lo que quieres ser. En una cama pasamos m\u00e1s de una tercera parte de nuestra vida, son el espacio \u00edntimo por excelencia. Ah\u00ed quedan depositados nuestros secretos, quiz\u00e1 por eso nunca pensamos en ellas. Son testigo directo de lo que somos, o de lo que queremos ser. \u00bfQui\u00e9n le dar\u00eda voz a su cama? Seguramente nadie en su sano juicio. \u00bfQu\u00e9 secretos develar\u00eda la cama de un hotel de paso, la de una adolescente, la de un reci\u00e9n divorciado, la de tus vecinos?",
+        "tags": [
+            {
+                "id": 665,
+                "name": "Videodiario",
+                "slug": "videodiario",
+                "url": "https://www.filminlatino.mx/catalogo/tema/videodiario"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 587,
+                "name": "Fin del amor",
+                "slug": "fin-del-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-amor"
+            },
+            {
+                "id": 185,
+                "name": "Crisis de mediana edad",
+                "slug": "crisis-de-mediana-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-mediana-edad"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 706,
+                "name": "Guerra de sexos",
+                "slug": "guerra-de-sexos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra-de-sexos"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 16,
+                "name": "S\u00e1tiras y parodias",
+                "slug": "satiras-y-parodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/satiras-y-parodias"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            },
+            {
+                "id": 1461,
+                "name": "Mujeres guionistas",
+                "slug": "mujeres-guionistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-guionistas"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La cama",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-cama",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2143,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/la-cama.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/la-cama/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/la-cama/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Manuel Balbi",
+                "gender": "m",
+                "id": 351,
+                "slug": "manuel-balbi",
+                "url": "https://www.filminlatino.mx/actor/manuel-balbi"
+            },
+            {
+                "full_name": "Eiza Gonz\u00e1lez",
+                "gender": "f",
+                "id": 4150,
+                "slug": "eiza-gonzalez",
+                "url": "https://www.filminlatino.mx/actriz/eiza-gonzalez"
+            },
+            {
+                "full_name": "Sara Maldonado",
+                "gender": "m",
+                "id": 4160,
+                "slug": "sara-maldonado",
+                "url": "https://www.filminlatino.mx/actor/sara-maldonado"
+            },
+            {
+                "full_name": "Adan Canto",
+                "gender": "m",
+                "id": 2317,
+                "slug": "adan-canto",
+                "url": "https://www.filminlatino.mx/actor/adan-canto"
+            },
+            {
+                "full_name": "Gabriel Retes",
+                "gender": "m",
+                "id": 480,
+                "slug": "gabriel-retes",
+                "url": "https://www.filminlatino.mx/actor/gabriel-retes"
+            },
+            {
+                "full_name": "Julio Bekhor",
+                "gender": "m",
+                "id": 5018,
+                "slug": "julio-bekhor",
+                "url": "https://www.filminlatino.mx/actor/julio-bekhor"
+            }
+        ],
+        "avg_votes": 6,
+        "avg_votes_formatted": "6",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Alejandro Sugich",
+                "gender": "m",
+                "id": 1446,
+                "slug": "alejandro-sugich",
+                "url": "https://www.filminlatino.mx/director/alejandro-sugich"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Una \u00faltima oportunidad para que 8 personas cambien sus vidas antes de cumplir treinta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2748,
+        "image_card": "https://static.filminlatino.mx/images/media/2748/1/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/2748/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2748/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2748/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2748/1/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2748/1/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 2,
+        "original_title": "Casi treinta",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 638,
+                "name": "Sula Films",
+                "slug": "sula-films",
+                "url": "https://www.filminlatino.mx/producer/sula-films"
+            },
+            {
+                "acronym": "",
+                "id": 69,
+                "name": "EFICINE",
+                "slug": "eficine",
+                "url": "https://www.filminlatino.mx/producer/eficine"
+            },
+            {
+                "acronym": "",
+                "id": 142,
+                "name": "Gobierno del Estado de Sonora",
+                "slug": "gobierno-del-estado-de-sonora",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-sonora"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "casi-treinta",
+        "synopsis": "Ocho personajes a punto de cumplir 30 a\u00f1os que tienen una \u00faltima oportunidad para cambiar sus vidas y perseguir sus sue\u00f1os",
+        "tags": [
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 663,
+                "name": "Vida cotidiana",
+                "slug": "vida-cotidiana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-cotidiana"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 133,
+                "name": "Cine sobre bodas",
+                "slug": "cine-sobre-bodas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-sobre-bodas"
+            },
+            {
+                "id": 56,
+                "name": "Tri\u00e1ngulo amoroso",
+                "slug": "triangulo-amoroso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulo-amoroso"
+            },
+            {
+                "id": 852,
+                "name": "Tri\u00e1ngulos amorosos",
+                "slug": "triangulos-amorosos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/triangulos-amorosos"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 1098,
+                "name": "Neverlanding",
+                "slug": "neverlanding",
+                "url": "https://www.filminlatino.mx/catalogo/tema/neverlanding"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1380844800,
+        "theater_release_date": 1380844800,
+        "theater_spectators_formatted": null,
+        "title": "Casi treinta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/casi-treinta",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2110,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/casi-treinta.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/casi-treinta/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/casi-treinta/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

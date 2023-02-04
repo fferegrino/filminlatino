@@ -1,0 +1,334 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Josh Hutcherson",
+                "gender": "m",
+                "id": 2807,
+                "slug": "josh-hutcherson",
+                "url": "https://www.filminlatino.mx/actor/josh-hutcherson"
+            },
+            {
+                "full_name": "Emir Kusturica",
+                "gender": "m",
+                "id": 2808,
+                "slug": "emir-kusturica",
+                "url": "https://www.filminlatino.mx/actor/emir-kusturica"
+            },
+            {
+                "full_name": "Daniel Br\u00fchl",
+                "gender": "m",
+                "id": 2809,
+                "slug": "daniel-bruhl",
+                "url": "https://www.filminlatino.mx/actor/daniel-bruhl"
+            },
+            {
+                "full_name": "Jorge Perugorr\u00eda",
+                "gender": "m",
+                "id": 877,
+                "slug": "jorge-perugorria",
+                "url": "https://www.filminlatino.mx/actor/jorge-perugorria"
+            },
+            {
+                "full_name": "Mirtha Ibarra",
+                "gender": "f",
+                "id": 2810,
+                "slug": "mirtha-ibarra",
+                "url": "https://www.filminlatino.mx/actriz/mirtha-ibarra"
+            }
+        ],
+        "avg_votes": 8.1,
+        "avg_votes_formatted": "8,1",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial a concurso \"Un certain regard\"",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2012
+            },
+            {
+                "category": "Zabaltegi - Especiales",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-la-habana",
+                "name": " Festival de La Habana",
+                "slug": "festival-de-la-habana",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Laurent Cantet",
+                "gender": "m",
+                "id": 1009,
+                "slug": "laurent-cantet",
+                "url": "https://www.filminlatino.mx/director/laurent-cantet"
+            },
+            {
+                "full_name": "Benicio del Toro",
+                "gender": "m",
+                "id": 1010,
+                "slug": "benicio-del-toro",
+                "url": "https://www.filminlatino.mx/director/benicio-del-toro"
+            },
+            {
+                "full_name": "Julio Medem",
+                "gender": "m",
+                "id": 827,
+                "slug": "julio-medem",
+                "url": "https://www.filminlatino.mx/director/julio-medem"
+            },
+            {
+                "full_name": "Gaspar No\u00e9",
+                "gender": "m",
+                "id": 1011,
+                "slug": "gaspar-noe",
+                "url": "https://www.filminlatino.mx/director/gaspar-noe"
+            },
+            {
+                "full_name": "Elia Suleiman",
+                "gender": "m",
+                "id": 973,
+                "slug": "elia-suleiman",
+                "url": "https://www.filminlatino.mx/director/elia-suleiman"
+            },
+            {
+                "full_name": "Juan Carlos Tab\u00edo",
+                "gender": "m",
+                "id": 339,
+                "slug": "juan-carlos-tabio",
+                "url": "https://www.filminlatino.mx/director/juan-carlos-tabio"
+            },
+            {
+                "full_name": "Pablo Trapero",
+                "gender": "m",
+                "id": 1012,
+                "slug": "pablo-trapero",
+                "url": "https://www.filminlatino.mx/director/pablo-trapero"
+            }
+        ],
+        "duration_in_minutes": 130,
+        "excerpt": "7 directores, 7 d\u00edas de la semana y 7 episodios en la capital de Cuba.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1495,
+        "image_card": "https://static.filminlatino.mx/images/media/1495/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1495/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1495/6/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/7/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/9/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1495/5/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 35,
+        "original_title": "Seven days in Havana",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1097,
+                "name": "Chaocorp Distribution",
+                "slug": "chaocorp-distribution",
+                "url": "https://www.filminlatino.mx/producer/chaocorp-distribution"
+            },
+            {
+                "acronym": "",
+                "id": 1098,
+                "name": "Full House",
+                "slug": "full-house",
+                "url": "https://www.filminlatino.mx/producer/full-house"
+            },
+            {
+                "acronym": "",
+                "id": 1027,
+                "name": "Morena Films",
+                "slug": "morena-films",
+                "url": "https://www.filminlatino.mx/producer/morena-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "siete-dias-en-la-habana",
+        "synopsis": "Pel\u00edcula dividida en siete cortos. El objetivo de los directores es captar la energ\u00eda y vitalidad que hace de La Habana una ciudad \u00fanica. Cada cap\u00edtulo muestra la vida cotidiana de distintos personajes durante un d\u00eda de la semana. Alejada de los t\u00f3picos tur\u00edsticos, pretende reflejar el alma de esta ciudad a trav\u00e9s de los distintos barrios, ambientes, generaciones y culturas. Lugares representativos de La Habana, como el Hotel Nacional, el Malec\u00f3n, etc. son el escenario com\u00fan de algunos de los episodios.",
+        "tags": [
+            {
+                "id": 45,
+                "name": "Cine dentro del cine",
+                "slug": "cine-dentro-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-dentro-del-cine"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 156,
+                "name": "Cuba",
+                "slug": "cuba",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuba"
+            },
+            {
+                "id": 242,
+                "name": "Actores directores",
+                "slug": "actores-directores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/actores-directores"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 840,
+                "name": "10\u00b0 FICM",
+                "slug": "100-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/100-ficm"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1436,
+                "name": "Bellas artes",
+                "slug": "bellas-artes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bellas-artes"
+            },
+            {
+                "id": 2239,
+                "name": "Afrodescendencias",
+                "slug": "afrodescendencias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/afrodescendencias"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Siete d\u00edas en La Habana",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/siete-dias-en-la-habana",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1018,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/7-dias-en-la-habana.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/7-dias-en-la-habana/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/7-dias-en-la-habana/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

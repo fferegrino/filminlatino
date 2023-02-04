@@ -1,0 +1,284 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Christian Sinniger",
+                "gender": "m",
+                "id": 2763,
+                "slug": "christian-sinniger",
+                "url": "https://www.filminlatino.mx/actor/christian-sinniger"
+            },
+            {
+                "full_name": "Jean-Marc Stehl\u00e9",
+                "gender": "m",
+                "id": 2764,
+                "slug": "jean-marc-stehle",
+                "url": "https://www.filminlatino.mx/actor/jean-marc-stehle"
+            },
+            {
+                "full_name": "Marie-Christine Bergier",
+                "gender": "f",
+                "id": 2765,
+                "slug": "marie-christine-bergier",
+                "url": "https://www.filminlatino.mx/actriz/marie-christine-bergier"
+            },
+            {
+                "full_name": "Patti Smith",
+                "gender": "f",
+                "id": 2766,
+                "slug": "patti-smith",
+                "url": "https://www.filminlatino.mx/actriz/patti-smith"
+            }
+        ],
+        "avg_votes": 7.5,
+        "avg_votes_formatted": "7,5",
+        "awards": [
+            {
+                "category": "Premio ICS",
+                "icon": "international-cinephile-society-awards",
+                "name": "International Cinephile Society Awards",
+                "slug": "international-cinephile-society-awards",
+                "year": 2010
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 43,
+                "name": "Suiza",
+                "slug": "suiza",
+                "url": "https://www.filminlatino.mx/catalogo/pais/suiza"
+            },
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jean-Luc Godard",
+                "gender": "m",
+                "id": 21,
+                "slug": "jean-luc-godard",
+                "url": "https://www.filminlatino.mx/director/jean-luc-godard"
+            }
+        ],
+        "duration_in_minutes": 96,
+        "excerpt": "Una sinfon\u00eda en tres movimientos que denota el socialismo a tal nivel para enchinarte la piel.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1475,
+        "image_card": "https://static.filminlatino.mx/images/media/1475/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1475/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1475/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/9/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/13/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1475/8/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Film Socialisme",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 451,
+                "name": "Vega Film",
+                "slug": "vega-film",
+                "url": "https://www.filminlatino.mx/producer/vega-film"
+            },
+            {
+                "acronym": "",
+                "id": 1064,
+                "name": "Office F\u00e9d\u00e9ral de la Culture",
+                "slug": "office-federal-de-la-culture",
+                "url": "https://www.filminlatino.mx/producer/office-federal-de-la-culture"
+            },
+            {
+                "acronym": "",
+                "id": 1065,
+                "name": "La Ville de Gen\u00e9ve",
+                "slug": "la-ville-de-geneve",
+                "url": "https://www.filminlatino.mx/producer/la-ville-de-geneve"
+            },
+            {
+                "acronym": "",
+                "id": 1066,
+                "name": "T\u00e9l\u00e9vision Suisse-Romande",
+                "slug": "television-suisse-romande",
+                "url": "https://www.filminlatino.mx/producer/television-suisse-romande"
+            },
+            {
+                "acronym": "",
+                "id": 1067,
+                "name": "Suissimage",
+                "slug": "suissimage",
+                "url": "https://www.filminlatino.mx/producer/suissimage"
+            },
+            {
+                "acronym": "",
+                "id": 1068,
+                "name": "Fonds Regio Films",
+                "slug": "fonds-regio-films",
+                "url": "https://www.filminlatino.mx/producer/fonds-regio-films"
+            },
+            {
+                "acronym": "",
+                "id": 1069,
+                "name": "Fondation Vaudoise",
+                "slug": "fondation-vaudoise",
+                "url": "https://www.filminlatino.mx/producer/fondation-vaudoise"
+            },
+            {
+                "acronym": "",
+                "id": 1070,
+                "name": "George Foundation",
+                "slug": "george-foundation",
+                "url": "https://www.filminlatino.mx/producer/george-foundation"
+            },
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "un-filme-socialista",
+        "synopsis": "Una sinfon\u00eda en tres movimientos. \"Cosas as\u00ed\": en un crucero por el Mediterr\u00e1neo viajan personajes muy diversos entre los que tienen lugar numerosas conversaciones; un polic\u00eda de Mosc\u00fa, un criminal de guerra, un fil\u00f3sofo franc\u00e9s, una cantante norteamericana, un embajador palestino y un ex doble agente. \"Nuestra Europa\": una noche, una ni\u00f1a y su hermano peque\u00f1o convocan a sus padres ante el tribunal de su infancia y les piden explicaciones sobre la libertad, la igualdad y la fraternidad. \"Nuestras humanidades\": visita a seis lugares que son escenario de leyendas aut\u00e9nticas y falsas, Egipto, Palestina, Odessa, Hellas, N\u00e1poles y Barcelona.",
+        "tags": [
+            {
+                "id": 13,
+                "name": "Cine social",
+                "slug": "cine-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-social"
+            },
+            {
+                "id": 298,
+                "name": "Conflicto social",
+                "slug": "conflicto-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/conflicto-social"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 668,
+                "name": "Veteranos",
+                "slug": "veteranos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/veteranos"
+            },
+            {
+                "id": 961,
+                "name": "Las favoritas de Dolan",
+                "slug": "las-favoritas-de-dolan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-favoritas-de-dolan"
+            },
+            {
+                "id": 976,
+                "name": "Recomendadas de Julio C\u00e9sar Dur\u00e1n",
+                "slug": "recomendadas-de-julio-cesar-duran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-julio-cesar-duran"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 512,
+                "name": "Grandes Cl\u00e1sicos",
+                "slug": "grandes-clasicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grandes-clasicos"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Un filme socialista",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/un-filme-socialista",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1010,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/un-filme-socialista.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/un-filme-socialista/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/un-filme-socialista/master.m3u8"
+                }
+            ]
+        },
+        "year": 2010
+    }
+}

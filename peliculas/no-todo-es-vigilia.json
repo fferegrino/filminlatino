@@ -1,0 +1,264 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Felisa Lou",
+                "gender": "m",
+                "id": 4203,
+                "slug": "felisa-lou",
+                "url": "https://www.filminlatino.mx/actor/felisa-lou"
+            },
+            {
+                "full_name": "Antonio Paralluelo",
+                "gender": "m",
+                "id": 4204,
+                "slug": "antonio-paralluelo",
+                "url": "https://www.filminlatino.mx/actor/antonio-paralluelo"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 49,
+                "name": "Colombia",
+                "slug": "colombia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/colombia"
+            },
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Hermes Paralluelo",
+                "gender": "m",
+                "id": 1469,
+                "slug": "hermes-paralluelo",
+                "url": "https://www.filminlatino.mx/director/hermes-paralluelo"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "Estreno online en M\u00e9xico del retrato intimista y po\u00e9tico que hizo el director Hermes Paralluelo a sus abuelos. Una pel\u00edcula que no merece pasar desapercibida.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2788,
+        "image_card": "https://static.filminlatino.mx/images/media/2788/5/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2788/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2788/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2788/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2788/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2788/5/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2788/5/still_3_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2788/5/still_3_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "No todo es vigilia",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 876,
+                "name": "TVE",
+                "slug": "tve",
+                "url": "https://www.filminlatino.mx/producer/tve"
+            },
+            {
+                "acronym": "",
+                "id": 1217,
+                "name": "Arag\u00f3n Televisi\u00f3n",
+                "slug": "aragon-television",
+                "url": "https://www.filminlatino.mx/producer/aragon-television"
+            },
+            {
+                "acronym": "",
+                "id": 521,
+                "name": "Janus Films ",
+                "slug": "janus-films",
+                "url": "https://www.filminlatino.mx/producer/janus-films"
+            },
+            {
+                "acronym": "",
+                "id": 1648,
+                "name": "El dedo en el ojo",
+                "slug": "el-dedo-en-el-ojo",
+                "url": "https://www.filminlatino.mx/producer/el-dedo-en-el-ojo"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "no-todo-es-vigilia",
+        "synopsis": "Antonio y Felisa llevan m\u00e1s de 60 a\u00f1os juntos, su fr\u00e1gil estado de salud les impide cuidarse mutuamente. La posibilidad de tener que ir a vivir a una residencia de ancianos aparece en el horizonte como una amenaza. \"No todo es Vigilia\" retrata el amor en la vejez, las noches en duermevela por miedo a la soledad, a la muerte y a la separaci\u00f3n del amado. El temor a dejar la vida en manos ajenas y perder la independencia.",
+        "tags": [
+            {
+                "id": 761,
+                "name": "Seleccionados F\u00e9nix",
+                "slug": "seleccionados-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-fenix"
+            },
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 126,
+                "name": "Ambientada en hospital",
+                "slug": "ambientada-en-hospital",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-hospital"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 698,
+                "name": "Abuelos",
+                "slug": "abuelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/abuelos"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 1081,
+                "name": "La Ola",
+                "slug": "la-ola",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-ola"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2539,
+                "name": "Documental familiar",
+                "slug": "documental-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-familiar"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1412467200,
+        "theater_release_date": 1412467200,
+        "theater_spectators_formatted": null,
+        "title": "No todo es vigilia",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/no-todo-es-vigilia",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2161,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/no-todo-es.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/no-todo-es/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/no-todo-es/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

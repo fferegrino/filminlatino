@@ -1,0 +1,265 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Laurent Lafitte",
+                "gender": "m",
+                "id": 1478,
+                "slug": "laurent-lafitte",
+                "url": "https://www.filminlatino.mx/actor/laurent-lafitte"
+            },
+            {
+                "full_name": "M\u00e9lanie  Laurent",
+                "gender": "f",
+                "id": 4195,
+                "slug": "melanie-laurent",
+                "url": "https://www.filminlatino.mx/actriz/melanie-laurent"
+            },
+            {
+                "full_name": "Audrey Dana",
+                "gender": "f",
+                "id": 4918,
+                "slug": "audrey-dana",
+                "url": "https://www.filminlatino.mx/actriz/audrey-dana"
+            },
+            {
+                "full_name": "Wladimir Yordanoff",
+                "gender": "m",
+                "id": 4919,
+                "slug": "wladimir-yordanoff",
+                "url": "https://www.filminlatino.mx/actor/wladimir-yordanoff"
+            },
+            {
+                "full_name": "Bulle Ogier",
+                "gender": "f",
+                "id": 4920,
+                "slug": "bulle-ogier",
+                "url": "https://www.filminlatino.mx/actriz/bulle-ogier"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fran\u00e7ois Favrat",
+                "gender": "m",
+                "id": 1682,
+                "slug": "francois-favrat",
+                "url": "https://www.filminlatino.mx/director/francois-favrat"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Mentiras, secretos, un padre esquivo, una hermana que se niega a ver la realidad y una seductora desconocida que cambiar\u00e1n por completo la vida de Antoine.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3249,
+        "image_card": "https://static.filminlatino.mx/images/media/3249/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3249/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3249/8/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/12/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/14/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/4/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3249/10/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 6,
+        "original_title": "Boomerang",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1669,
+                "name": "Les Films du Kiosque",
+                "slug": "les-films-du-kiosque",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-kiosque"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "bumeran",
+        "synopsis": "El cineasta franc\u00e9s\u00a0Fran\u00e7ois Favrat apuesta por una narrativa lineal aunque aqu\u00ed abre con un retroceso en el tiempo poco com\u00fan. Con un drama familiar que se convierte en un atractivo thriller, \u201dB\u00fameran\u201d presenta a Antonie, quien buscando el regalo ideal para su hermana Agathe decide sorprenderla con un viaje a la isla de Noirmoutier, cuna de su infancia y escenario de la misteriosa muerte de su madre. Sin embargo \u00e9l nunca imagin\u00f3 hasta qu\u00e9 punto el pasado regresar\u00eda sacando a la superficie mentiras y secretos.",
+        "tags": [
+            {
+                "id": 475,
+                "name": "Depresi\u00f3n",
+                "slug": "depresion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/depresion"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 823,
+                "name": "Madres vs. hijos",
+                "slug": "madres-vs-hijos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-vs-hijos"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1004,
+                "name": "20\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "200-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/200-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "B\u00fameran",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/bumeran",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2567,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/bumeran.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/bumeran/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/bumeran/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

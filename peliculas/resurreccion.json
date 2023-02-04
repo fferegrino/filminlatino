@@ -1,0 +1,364 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-guanajuato",
+                "name": "Festival Internacional de Cine de Guanajuato",
+                "slug": "festival-internacional-de-cine-de-guanajuato",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "",
+                "name": "Cinema Planeta ",
+                "slug": "cinema-planeta",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Festival Ambulante",
+                "slug": "festival-ambulante",
+                "year": null
+            },
+            {
+                "category": "Premio especial Ambulante",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "festival-internacional-de-cine-de-guadalajara",
+                "name": "Festival Internacional de Cine de Guadalajara",
+                "slug": "festival-internacional-de-cine-de-guadalajara",
+                "year": null
+            },
+            {
+                "category": "Muestra",
+                "icon": "cinema-du-reel",
+                "name": "Cin\u00e9ma du R\u00e9el",
+                "slug": "cinema-du-reel",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eugenio Polgovsky",
+                "gender": "m",
+                "id": 1902,
+                "slug": "eugenio-polgovsky",
+                "url": "https://www.filminlatino.mx/director/eugenio-polgovsky"
+            }
+        ],
+        "duration_in_minutes": 94,
+        "excerpt": "Un documental de denuncia que muestra la historia de la desaparici\u00f3n de la cascada\u00a0\"El Salto de Juanacatla\u0301n\" en Guadalajara, M\u00e9xico.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5124,
+        "image_card": "https://static.filminlatino.mx/images/media/5124/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5124/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5124/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5124/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5124/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5124/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5124/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5124/1/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 45,
+        "original_title": "Resurrecci\u00f3n",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1454,
+                "name": "Piano Producciones ",
+                "slug": "piano-producciones",
+                "url": "https://www.filminlatino.mx/producer/piano-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 2125,
+                "name": "Tecolote Producciones",
+                "slug": "tecolote-producciones",
+                "url": "https://www.filminlatino.mx/producer/tecolote-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 63,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/producer/foprocine"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "resurreccion",
+        "synopsis": "Una vez conocida como \"El Ni\u00e1gara M\u00e9xicano\" las cataratas de El Salto de Juanacatl\u00e1n en Guadalajara, M\u00e9xico, era una legendaria fuente de felicidad y sustento para los antiguos pueblos de sus orillas. Sin embargo, todo cambi\u00f3 cuando las fabricas industriales se establecieron a las orillas del R\u00edo Santiago. Con el paso del tiempo el agua del r\u00edo se volvi\u00f3 venenosa y nociva para la vida ambiental de la zona. Es por eso que una familia decidi\u00f3 luchar por la supervivencia de este espacio natural.",
+        "tags": [
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 784,
+                "name": "Documentales de naturaleza",
+                "slug": "documentales-de-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-naturaleza"
+            },
+            {
+                "id": 754,
+                "name": "Documental_MX",
+                "slug": "documental-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-mx"
+            },
+            {
+                "id": 165,
+                "name": "Documental sobre la naturaleza",
+                "slug": "documental-sobre-la-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-sobre-la-naturaleza"
+            },
+            {
+                "id": 32,
+                "name": "Pel\u00edcula sobre naturaleza",
+                "slug": "pelicula-sobre-naturaleza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-sobre-naturaleza"
+            },
+            {
+                "id": 384,
+                "name": "Recursos naturales",
+                "slug": "recursos-naturales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recursos-naturales"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 397,
+                "name": "DocMx",
+                "slug": "docmx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/docmx"
+            },
+            {
+                "id": 1025,
+                "name": "Ambulante",
+                "slug": "ambulante",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambulante"
+            },
+            {
+                "id": 667,
+                "name": "Documental confesional",
+                "slug": "documental-confesional",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-confesional"
+            },
+            {
+                "id": 788,
+                "name": "Documentales hist\u00f3ricos",
+                "slug": "documentales-historicos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-historicos"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 1286,
+                "name": "Crisis de agua",
+                "slug": "crisis-de-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-agua"
+            },
+            {
+                "id": 200,
+                "name": "Medio ambiente",
+                "slug": "medio-ambiente",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medio-ambiente"
+            },
+            {
+                "id": 1200,
+                "name": "Guadalajara",
+                "slug": "guadalajara",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guadalajara"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 923,
+                "name": "Seleccionados FICG",
+                "slug": "seleccionados-ficg",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccionados-ficg"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1373,
+                "name": "FICM",
+                "slug": "ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm"
+            },
+            {
+                "id": 1468,
+                "name": "Para maratonear ",
+                "slug": "para-maratonear",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-maratonear"
+            },
+            {
+                "id": 1070,
+                "name": "FOPROCINE",
+                "slug": "foprocine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foprocine"
+            },
+            {
+                "id": 1797,
+                "name": "MIC Istmo",
+                "slug": "mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mic-istmo"
+            },
+            {
+                "id": 1803,
+                "name": "Rul\u00e1 (Salvar) | MIC Istmo",
+                "slug": "rula-salvar-mic-istmo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rula-salvar-mic-istmo"
+            },
+            {
+                "id": 2125,
+                "name": "2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2126,
+                "name": "Muestra | 2da. Muestra de Cine en Defensa del Territorio y el Agua",
+                "slug": "muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-2da-muestra-de-cine-en-defensa-del-territorio-y-el-agua"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2292,
+                "name": "FILO 2021",
+                "slug": "filo-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filo-2021"
+            },
+            {
+                "id": 2544,
+                "name": "No ficci\u00f3n y docudrama",
+                "slug": "no-ficcion-y-docudrama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-ficcion-y-docudrama"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Resurrecci\u00f3n",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/resurreccion",
+        "versions": [
+            {
+                "codes": [],
+                "id": 4524,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

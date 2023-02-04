@@ -1,0 +1,546 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Toni Servillo",
+                "gender": "m",
+                "id": 1167,
+                "slug": "toni-servillo",
+                "url": "https://www.filminlatino.mx/actor/toni-servillo"
+            },
+            {
+                "full_name": "Carlo Verdone",
+                "gender": "m",
+                "id": 1169,
+                "slug": "carlo-verdone",
+                "url": "https://www.filminlatino.mx/actor/carlo-verdone"
+            },
+            {
+                "full_name": "Sabrina Ferilli",
+                "gender": "f",
+                "id": 1170,
+                "slug": "sabrina-ferilli",
+                "url": "https://www.filminlatino.mx/actriz/sabrina-ferilli"
+            },
+            {
+                "full_name": "Carlo Buccirosso",
+                "gender": "m",
+                "id": 1171,
+                "slug": "carlo-buccirosso",
+                "url": "https://www.filminlatino.mx/actor/carlo-buccirosso"
+            }
+        ],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula de habla no inglesa",
+                "icon": "oscar",
+                "name": "Oscar",
+                "slug": "oscar",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula de habla no inglesa",
+                "icon": "globo-de-oro",
+                "name": "Globo de Oro",
+                "slug": "globo-de-oro",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula de habla no inglesa",
+                "icon": "premios-bafta",
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "festival-de-sevilla",
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Fotograf\u00eda",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Vestuario",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Peluquer\u00eda ",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejores Efectos Visuales",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Dise\u00f1o de Producci\u00f3n",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": " Mejor maquillaje",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Productor ",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-david-di-donatello",
+                "name": "Premios David di Donatello",
+                "slug": "premios-david-di-donatello",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Edici\u00f3n",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2013
+            },
+            {
+                "category": "Mejor director",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 110,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/italia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Paolo Sorrentino",
+                "gender": "m",
+                "id": 445,
+                "slug": "paolo-sorrentino",
+                "url": "https://www.filminlatino.mx/director/paolo-sorrentino"
+            }
+        ],
+        "duration_in_minutes": 141,
+        "excerpt": "Un escritor envejecido decide recolectar los recuerdos de su apasionada juventud.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 480,
+        "image_card": "https://static.filminlatino.mx/images/media/480/2/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/480/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/480/7/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/480/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/480/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/480/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/480/3/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 36,
+        "original_title": "La grande bellezza",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 455,
+                "name": "Fonds Eurimages du Conseil de l'Europe",
+                "slug": "fonds-eurimages-du-conseil-de-leurope",
+                "url": "https://www.filminlatino.mx/producer/fonds-eurimages-du-conseil-de-leurope"
+            },
+            {
+                "acronym": "",
+                "id": 489,
+                "name": "Medusa Film",
+                "slug": "medusa-film",
+                "url": "https://www.filminlatino.mx/producer/medusa-film"
+            },
+            {
+                "acronym": "",
+                "id": 488,
+                "name": "Indigo Film",
+                "slug": "indigo-film",
+                "url": "https://www.filminlatino.mx/producer/indigo-film"
+            },
+            {
+                "acronym": "",
+                "id": 490,
+                "name": "Babe Film ",
+                "slug": "babe-film",
+                "url": "https://www.filminlatino.mx/producer/babe-film"
+            },
+            {
+                "acronym": "",
+                "id": 491,
+                "name": "Path\u00e9",
+                "slug": "pathe",
+                "url": "https://www.filminlatino.mx/producer/pathe"
+            },
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 493,
+                "name": "Mediaset",
+                "slug": "mediaset",
+                "url": "https://www.filminlatino.mx/producer/mediaset"
+            },
+            {
+                "acronym": "",
+                "id": 495,
+                "name": "France T\u00e9l\u00e9vision",
+                "slug": "france-television",
+                "url": "https://www.filminlatino.mx/producer/france-television"
+            },
+            {
+                "acronym": "",
+                "id": 496,
+                "name": "Regione Lazio",
+                "slug": "regione-lazio",
+                "url": "https://www.filminlatino.mx/producer/regione-lazio"
+            },
+            {
+                "acronym": "MiBAC",
+                "id": 497,
+                "name": "Ministero per i Beni e le Attivit\u00e0 Culturali",
+                "slug": "ministero-per-i-beni-e-le-attivita-culturali",
+                "url": "https://www.filminlatino.mx/producer/ministero-per-i-beni-e-le-attivita-culturali"
+            },
+            {
+                "acronym": "",
+                "id": 498,
+                "name": "Banca Popolare di Vicenza",
+                "slug": "banca-popolare-di-vicenza",
+                "url": "https://www.filminlatino.mx/producer/banca-popolare-di-vicenza"
+            },
+            {
+                "acronym": "",
+                "id": 499,
+                "name": "Lazio Film Commission",
+                "slug": "lazio-film-commission",
+                "url": "https://www.filminlatino.mx/producer/lazio-film-commission"
+            },
+            {
+                "acronym": "",
+                "id": 500,
+                "name": "Media Programme of the European Community",
+                "slug": "media-programme-of-the-european-community",
+                "url": "https://www.filminlatino.mx/producer/media-programme-of-the-european-community"
+            },
+            {
+                "acronym": "",
+                "id": 501,
+                "name": "Biscottificio Verona",
+                "slug": "biscottificio-verona",
+                "url": "https://www.filminlatino.mx/producer/biscottificio-verona"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "la-gran-belleza",
+        "synopsis": "En Roma, durante el verano, nobles decadentes, arribistas, pol\u00edticos, criminales de altos vuelos, periodistas, actores, prelados, artistas e intelectuales tejen una trama de relaciones inconsistentes que se desarrollan en fastuosos palacios y villas. El centro de todas las reuniones es Jep Gambardella, un escritor de 65 a\u00f1os que escribi\u00f3 un solo libro y practica el periodismo. Dominado por la indolencia y el hast\u00edo, asiste a este desfile de personajes poderosos pero insustanciales, huecos y deprimentes.",
+        "tags": [
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 622,
+                "name": "Italia cl\u00e1sica",
+                "slug": "italia-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/italia-clasica"
+            },
+            {
+                "id": 625,
+                "name": "Forever Alone",
+                "slug": "forever-alone",
+                "url": "https://www.filminlatino.mx/catalogo/tema/forever-alone"
+            },
+            {
+                "id": 513,
+                "name": "Hit moderno",
+                "slug": "hit-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hit-moderno"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 185,
+                "name": "Crisis de mediana edad",
+                "slug": "crisis-de-mediana-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-mediana-edad"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 490,
+                "name": "Italia",
+                "slug": "italia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/italia"
+            },
+            {
+                "id": 491,
+                "name": "Noche",
+                "slug": "noche",
+                "url": "https://www.filminlatino.mx/catalogo/tema/noche"
+            },
+            {
+                "id": 507,
+                "name": "Favoritas",
+                "slug": "favoritas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas"
+            },
+            {
+                "id": 731,
+                "name": "BBC Top S. XXI",
+                "slug": "bbc-top-s-xxi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bbc-top-s-xxi"
+            },
+            {
+                "id": 673,
+                "name": "Realizaci\u00f3n fotogr\u00e1fica",
+                "slug": "realizacion-fotografica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realizacion-fotografica"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 849,
+                "name": "Festival de Sevilla",
+                "slug": "festival-de-sevilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sevilla"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 879,
+                "name": "Descanso infinito",
+                "slug": "descanso-infinito",
+                "url": "https://www.filminlatino.mx/catalogo/tema/descanso-infinito"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 883,
+                "name": "A\u00f1o nuevo, vida nueva",
+                "slug": "ano-nuevo-vida-nueva",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ano-nuevo-vida-nueva"
+            },
+            {
+                "id": 884,
+                "name": "Premios BAFTA",
+                "slug": "premios-bafta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-bafta"
+            },
+            {
+                "id": 448,
+                "name": "Especial Oscars",
+                "slug": "especial-oscars",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscars"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 911,
+                "name": "Especial Oscar/Habla no Inglesa",
+                "slug": "especial-oscarhabla-no-inglesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-oscarhabla-no-inglesa"
+            },
+            {
+                "id": 910,
+                "name": "Gandoras Oscar",
+                "slug": "gandoras-oscar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gandoras-oscar"
+            },
+            {
+                "id": 2248,
+                "name": "Un giro en la vejez",
+                "slug": "un-giro-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/un-giro-en-la-vejez"
+            },
+            {
+                "id": 2348,
+                "name": "Festival GUCE",
+                "slug": "festival-guce",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-guce"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La gran belleza",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-gran-belleza",
+        "versions": [
+            {
+                "codes": [],
+                "id": 298,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2013
+    }
+}

@@ -1,0 +1,356 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Jenjira Pongpas",
+                "gender": "f",
+                "id": 1078,
+                "slug": "jenjira-pongpas",
+                "url": "https://www.filminlatino.mx/actriz/jenjira-pongpas"
+            },
+            {
+                "full_name": "Banlop Lomnoi",
+                "gender": "m",
+                "id": 4845,
+                "slug": "banlop-lomnoi",
+                "url": "https://www.filminlatino.mx/actor/banlop-lomnoi"
+            },
+            {
+                "full_name": "Jarinpattra Rueangram",
+                "gender": "f",
+                "id": 4846,
+                "slug": "jarinpattra-rueangram",
+                "url": "https://www.filminlatino.mx/actriz/jarinpattra-rueangram"
+            },
+            {
+                "full_name": "Petcharat Chaiburi",
+                "gender": "f",
+                "id": 4847,
+                "slug": "petcharat-chaiburi",
+                "url": "https://www.filminlatino.mx/actriz/petcharat-chaiburi"
+            },
+            {
+                "full_name": "Tawatchai Buawat",
+                "gender": "m",
+                "id": 4848,
+                "slug": "tawatchai-buawat",
+                "url": "https://www.filminlatino.mx/actor/tawatchai-buawat"
+            },
+            {
+                "full_name": "Sakda Kaewbuadee",
+                "gender": "m",
+                "id": 1079,
+                "slug": "sakda-kaewbuadee",
+                "url": "https://www.filminlatino.mx/actor/sakda-kaewbuadee"
+            },
+            {
+                "full_name": "Sujittraporn Wongsrikeaw",
+                "gender": "f",
+                "id": 4850,
+                "slug": "sujittraporn-wongsrikeaw",
+                "url": "https://www.filminlatino.mx/actriz/sujittraporn-wongsrikeaw"
+            },
+            {
+                "full_name": "Bhattaratorn Senkraigul",
+                "gender": "f",
+                "id": 4852,
+                "slug": "bhattaratorn-senkraigul",
+                "url": "https://www.filminlatino.mx/actriz/bhattaratorn-senkraigul"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-sitges-espana",
+                "name": "Festival de Cine de Sitges, Espa\u00f1a ",
+                "slug": "festival-de-cine-de-sitges-espana",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Mejor director",
+                "icon": "",
+                "name": "Bildrausch Filmfest Basel",
+                "slug": "bildrausch-filmfest-basel",
+                "year": null
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "asia-pacific-screen-awards",
+                "name": "Asia Pacific Screen Awards",
+                "slug": "asia-pacific-screen-awards",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 217,
+                "name": "Tailandia",
+                "slug": "tailandia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/tailandia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Apichatpong Weerasethakul",
+                "gender": "m",
+                "id": 424,
+                "slug": "apichatpong-weerasethakul",
+                "url": "https://www.filminlatino.mx/director/apichatpong-weerasethakul"
+            }
+        ],
+        "duration_in_minutes": 121,
+        "excerpt": "La magia, la curaci\u00f3n, el romance y los sue\u00f1os son parte del viaje de Jen a un conocimiento m\u00e1s profundo de s\u00ed misma y del mundo a su alrededor.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3180,
+        "image_card": "https://static.filminlatino.mx/images/media/3180/6/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3180/12/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3180/16/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/22/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/24/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/18/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/26/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/18/still_7_3.jpg",
+            "https://static.filminlatino.mx/images/media/3180/20/still_8_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "Cemetery of splendour",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 655,
+                "name": "Detalle Films",
+                "slug": "detalle-films",
+                "url": "https://www.filminlatino.mx/producer/detalle-films"
+            },
+            {
+                "acronym": "",
+                "id": 422,
+                "name": "Kick the Machine",
+                "slug": "kick-the-machine",
+                "url": "https://www.filminlatino.mx/producer/kick-the-machine"
+            },
+            {
+                "acronym": "",
+                "id": 1720,
+                "name": "Coproducci\u00f3n Tailandia-M\u00e9xico-Gran Breta\u00f1a-Francia-Alemania-Malasia",
+                "slug": "coproduccion-tailandia-mexico-gran-bretana-francia-alemania-malasia",
+                "url": "https://www.filminlatino.mx/producer/coproduccion-tailandia-mexico-gran-bretana-francia-alemania-malasia"
+            },
+            {
+                "acronym": "",
+                "id": 424,
+                "name": "Anna Sanders Films",
+                "slug": "anna-sanders-films",
+                "url": "https://www.filminlatino.mx/producer/anna-sanders-films"
+            },
+            {
+                "acronym": "",
+                "id": 315,
+                "name": "The Match Factory",
+                "slug": "the-match-factory",
+                "url": "https://www.filminlatino.mx/producer/the-match-factory"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "cementerio-de-esplendor",
+        "synopsis": "Soldados con una misteriosa enfermedad del sue\u00f1o son transferidos a una cl\u00ednica temporal en una antigua escuela. Jenjira, una voluntaria y ama de casa cuida de ellos junto con un joven\u00a0medium, Keng. Jen descubre un cuaderno cr\u00edptico lleno de bocetos y extra\u00f1os escritos que le muestran que puede haber una conexi\u00f3n con el enigm\u00e1tico s\u00edndrome de los soldados y el antiguo sitio m\u00edtico que se encuentra debajo de la cl\u00ednica.\u00a0La magia, la curaci\u00f3n, el romance y los sue\u00f1os son parte del viaje de Jen a un conocimiento m\u00e1s profundo de s\u00ed misma y del mundo a su alrededor.",
+        "tags": [
+            {
+                "id": 38,
+                "name": "Cine oriental",
+                "slug": "cine-oriental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-oriental"
+            },
+            {
+                "id": 341,
+                "name": "Sue\u00f1os",
+                "slug": "suenos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suenos"
+            },
+            {
+                "id": 353,
+                "name": "Medicina alternativa",
+                "slug": "medicina-alternativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/medicina-alternativa"
+            },
+            {
+                "id": 83,
+                "name": "Guerra",
+                "slug": "guerra",
+                "url": "https://www.filminlatino.mx/catalogo/tema/guerra"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 86,
+                "name": "Magia",
+                "slug": "magia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/magia"
+            },
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 820,
+                "name": "Festival de Sitges",
+                "slug": "festival-de-sitges",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-sitges"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 851,
+                "name": "Relatos fant\u00e1sticos",
+                "slug": "relatos-fantasticos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relatos-fantasticos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 882,
+                "name": "Nuevo comienzo",
+                "slug": "nuevo-comienzo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuevo-comienzo"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 1155,
+                "name": "Realismo m\u00e1gico",
+                "slug": "realismo-magico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realismo-magico"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Cementerio de esplendor",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/cementerio-de-esplendor",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2516,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/cementerio-de-esplendor.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/cementerio-de-esplendor/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/cementerio-de-esplendor/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

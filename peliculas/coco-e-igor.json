@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Anna Mouglalis",
+                "gender": "f",
+                "id": 2740,
+                "slug": "anna-mouglalis",
+                "url": "https://www.filminlatino.mx/actriz/anna-mouglalis"
+            },
+            {
+                "full_name": "Mads Mikkelsen",
+                "gender": "m",
+                "id": 2741,
+                "slug": "mads-mikkelsen",
+                "url": "https://www.filminlatino.mx/actor/mads-mikkelsen"
+            },
+            {
+                "full_name": "Elena Morozava",
+                "gender": "f",
+                "id": 2742,
+                "slug": "elena-morozava",
+                "url": "https://www.filminlatino.mx/actriz/elena-morozava"
+            }
+        ],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jan Kounen",
+                "gender": "m",
+                "id": 987,
+                "slug": "jan-kounen",
+                "url": "https://www.filminlatino.mx/director/jan-kounen"
+            }
+        ],
+        "duration_in_minutes": 119,
+        "excerpt": "Retrato de las relaciones entre la modista Coco Chanel y el m\u00fasico Igor Stravinsky en Par\u00eds a principios del siglo XX.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1455,
+        "image_card": "https://static.filminlatino.mx/images/media/1455/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1455/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1455/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/11/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/12/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/13/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/14/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/15/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/8/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/16/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/9/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/10/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/1455/17/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 16,
+        "original_title": "Coco Chanel & Igor Stravinsky",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1034,
+                "name": "Eurowide Film Production",
+                "slug": "eurowide-film-production",
+                "url": "https://www.filminlatino.mx/producer/eurowide-film-production"
+            },
+            {
+                "acronym": "",
+                "id": 1035,
+                "name": "Hexagon Pictures",
+                "slug": "hexagon-pictures",
+                "url": "https://www.filminlatino.mx/producer/hexagon-pictures"
+            },
+            {
+                "acronym": "",
+                "id": 1036,
+                "name": "Filmazure",
+                "slug": "filmazure",
+                "url": "https://www.filminlatino.mx/producer/filmazure"
+            },
+            {
+                "acronym": "",
+                "id": 44,
+                "name": "Canal+",
+                "slug": "canal",
+                "url": "https://www.filminlatino.mx/producer/canal"
+            },
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 990,
+                "name": "R\u00e9gion Ile-de-France",
+                "slug": "region-ile-de-france",
+                "url": "https://www.filminlatino.mx/producer/region-ile-de-france"
+            },
+            {
+                "acronym": "",
+                "id": 984,
+                "name": "Centre National de la Cin\u00e9matographie (CNC)",
+                "slug": "centre-national-de-la-cinematographie-cnc",
+                "url": "https://www.filminlatino.mx/producer/centre-national-de-la-cinematographie-cnc"
+            },
+            {
+                "acronym": "",
+                "id": 1037,
+                "name": "Cin\u00e9mage 3",
+                "slug": "cinemage-3",
+                "url": "https://www.filminlatino.mx/producer/cinemage-3"
+            },
+            {
+                "acronym": "",
+                "id": 1038,
+                "name": "TPS Star",
+                "slug": "tps-star",
+                "url": "https://www.filminlatino.mx/producer/tps-star"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "coco-e-igor",
+        "synopsis": "Paris 1913. Coco Chanel estaba desquiciada por el apuesto y millonario Boy Capel, pero tambi\u00e9n lo estaba por su trabajo. Igor Stravinsky esta a punto de tocar \"The Rite of Spring\". Las revolucionarias disonancias de Igor trabajan paralelamente con las ideas radicales de Coco. Ella busca democratizar la moda femenina; el busca redefinir el gusto musical. La m\u00fasica y el ballet son criticados como muy moderno y extranjero. Coco sigue adelante pero Igor se vuelve inconsolable. La atracci\u00f3n entre ellos, es instant\u00e1nea y el\u00e9ctrica. Coco invita a Igor con toda su familia para pasarla a su nueva en Bell Respiro, Garches.",
+        "tags": [
+            {
+                "id": 721,
+                "name": "Tour de cine franc\u00e9s",
+                "slug": "tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tour-de-cine-frances"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 36,
+                "name": "Biopic",
+                "slug": "biopic",
+                "url": "https://www.filminlatino.mx/catalogo/tema/biopic"
+            },
+            {
+                "id": 178,
+                "name": "Mundo de la moda",
+                "slug": "mundo-de-la-moda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-de-la-moda"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 201,
+                "name": "M\u00fasica cl\u00e1sica",
+                "slug": "musica-clasica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-clasica"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 838,
+                "name": "8\u00b0 FICM",
+                "slug": "80-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/80-ficm"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 890,
+                "name": "Amor a la francesa",
+                "slug": "amor-a-la-francesa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-a-la-francesa"
+            },
+            {
+                "id": 962,
+                "name": "Drama franc\u00e9s",
+                "slug": "drama-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-frances"
+            },
+            {
+                "id": 1010,
+                "name": "14\u00b0 Tour de Cine Franc\u00e9s",
+                "slug": "140-tour-de-cine-frances",
+                "url": "https://www.filminlatino.mx/catalogo/tema/140-tour-de-cine-frances"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1138,
+                "name": "Estrenos internacionales FICM",
+                "slug": "estrenos-internacionales-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/estrenos-internacionales-ficm"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2652,
+                "name": "Arte textil",
+                "slug": "arte-textil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/arte-textil"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Coco e Igor",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/coco-e-igor",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1260,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2009
+    }
+}

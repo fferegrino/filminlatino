@@ -1,0 +1,280 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Michelle Jenner",
+                "gender": "f",
+                "id": 2814,
+                "slug": "michelle-jenner",
+                "url": "https://www.filminlatino.mx/actriz/michelle-jenner"
+            },
+            {
+                "full_name": "Carlos Areces",
+                "gender": "m",
+                "id": 2815,
+                "slug": "carlos-areces",
+                "url": "https://www.filminlatino.mx/actor/carlos-areces"
+            },
+            {
+                "full_name": "Ra\u00fal Cimas",
+                "gender": "m",
+                "id": 2816,
+                "slug": "raul-cimas",
+                "url": "https://www.filminlatino.mx/actor/raul-cimas"
+            },
+            {
+                "full_name": "Miguel Noguera",
+                "gender": "m",
+                "id": 2817,
+                "slug": "miguel-noguera",
+                "url": "https://www.filminlatino.mx/actor/miguel-noguera"
+            }
+        ],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [
+            {
+                "category": "Premio Cineuropa",
+                "icon": "festival-de-cine-europeo-les-arcs",
+                "name": "Festival de Cine Europeo Les Arcs",
+                "slug": "festival-de-cine-europeo-les-arcs",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n a la Flecha de Cristal",
+                "icon": "festival-de-cine-europeo-les-arcs",
+                "name": "Festival de Cine Europeo Les Arcs",
+                "slug": "festival-de-cine-europeo-les-arcs",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n al Golden Raven",
+                "icon": "festival-internacional-de-cine-fantastico-de-bruselas",
+                "name": "Festival Internacional de Cine Fant\u00e1stico de Bruselas",
+                "slug": "festival-internacional-de-cine-fantastico-de-bruselas",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "austin-fantastic-fest",
+                "name": "Austin Fantastic Fest",
+                "slug": "austin-fantastic-fest",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Nacho Vigalondo",
+                "gender": "m",
+                "id": 1015,
+                "slug": "nacho-vigalondo",
+                "url": "https://www.filminlatino.mx/director/nacho-vigalondo"
+            }
+        ],
+        "duration_in_minutes": 91,
+        "excerpt": "Cuando el cielo est\u00e9 lleno de OVNIs, \u00a1corre por tu vida!. Espera, est\u00e1s con la chica de tus sue\u00f1os, y \u00a1La acabas de conocer!",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 16,
+                "name": "Ciencia Ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/genero/ciencia-ficcion"
+            },
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1497,
+        "image_card": "https://static.filminlatino.mx/images/media/1497/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1497/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1497/3/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1497/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1497/4/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1497/2/still_1_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Extraterrestre",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1100,
+                "name": "Sayaka Producciones Audiovisuales ",
+                "slug": "sayaka-producciones-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/sayaka-producciones-audiovisuales"
+            },
+            {
+                "acronym": "",
+                "id": 1101,
+                "name": "Apaches Entertainment",
+                "slug": "apaches-entertainment",
+                "url": "https://www.filminlatino.mx/producer/apaches-entertainment"
+            },
+            {
+                "acronym": "",
+                "id": 832,
+                "name": "Antena 3 Films",
+                "slug": "antena-3-films",
+                "url": "https://www.filminlatino.mx/producer/antena-3-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "extraterrestre",
+        "synopsis": "Aunque Julia y Julio no se conocen, despiertan en la misma cama, despu\u00e9s de una borrachera de la que no recuerdan nada. \u00c9l se enamora al instante; ella, no. En esta inc\u00f3moda situaci\u00f3n, se enteran de que no pueden salir de casa porque un gigantesco OVNI flota sobre la ciudad.",
+        "tags": [
+            {
+                "id": 2,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/tema/romance"
+            },
+            {
+                "id": 70,
+                "name": "Comedia rom\u00e1ntica",
+                "slug": "comedia-romantica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-romantica"
+            },
+            {
+                "id": 308,
+                "name": "Ciencia ficci\u00f3n",
+                "slug": "ciencia-ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciencia-ficcion"
+            },
+            {
+                "id": 593,
+                "name": "Extraterrestre",
+                "slug": "extraterrestre",
+                "url": "https://www.filminlatino.mx/catalogo/tema/extraterrestre"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 803,
+                "name": "Para ver en el eclipse",
+                "slug": "para-ver-en-el-eclipse",
+                "url": "https://www.filminlatino.mx/catalogo/tema/para-ver-en-el-eclipse"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 846,
+                "name": "Sci - Fi",
+                "slug": "sci-fi",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sci-fi"
+            },
+            {
+                "id": 968,
+                "name": "Recomendadas de Alberto Acu\u00f1a Navarijo",
+                "slug": "recomendadas-de-alberto-acuna-navarijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas-de-alberto-acuna-navarijo"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Extraterrestre",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/extraterrestre",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1805,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/extraterrestre.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/extraterrestre/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/extraterrestre/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

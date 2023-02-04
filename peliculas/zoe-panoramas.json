@@ -1,0 +1,309 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.3,
+        "avg_votes_formatted": "8,3",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Le\u00f3n Larregui",
+                "gender": "m",
+                "id": 17,
+                "slug": "leon-larregui",
+                "url": "https://www.filminlatino.mx/character/leon-larregui"
+            },
+            {
+                "full_name": "\u00c1ngel Mosqueda",
+                "gender": "m",
+                "id": 18,
+                "slug": "angel-mosqueda",
+                "url": "https://www.filminlatino.mx/character/angel-mosqueda"
+            },
+            {
+                "full_name": "Sergio Acosta",
+                "gender": "m",
+                "id": 19,
+                "slug": "sergio-acosta",
+                "url": "https://www.filminlatino.mx/character/sergio-acosta"
+            },
+            {
+                "full_name": "Jes\u00fas B\u00e1ez",
+                "gender": "m",
+                "id": 20,
+                "slug": "jesus-baez",
+                "url": "https://www.filminlatino.mx/character/jesus-baez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Rodrigo Guardiola",
+                "gender": "m",
+                "id": 1827,
+                "slug": "rodrigo-guardiola",
+                "url": "https://www.filminlatino.mx/director/rodrigo-guardiola"
+            },
+            {
+                "full_name": "Gabriel Cruz Rivas",
+                "gender": "m",
+                "id": 1826,
+                "slug": "gabriel-cruz-rivas",
+                "url": "https://www.filminlatino.mx/director/gabriel-cruz-rivas"
+            }
+        ],
+        "duration_in_minutes": 89,
+        "excerpt": "Las dudas, silencios y contradicciones de la banda de rock quedan expuestas en este documental sin talking heads al estilo del cinema verit\u00e9.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 20,
+                "name": "Documental musical",
+                "slug": "documental-musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental-musical"
+            },
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            },
+            {
+                "id": 19,
+                "name": "Musical",
+                "slug": "musical",
+                "url": "https://www.filminlatino.mx/catalogo/genero/musical"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3400,
+        "image_card": "https://static.filminlatino.mx/images/media/3400/3/card_0_3.png",
+        "image_poster": "https://static.filminlatino.mx/images/media/3400/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3400/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3400/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3400/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3400/2/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3400/2/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 11,
+        "original_title": "Zo\u00e9: Panoramas",
+        "producers": [],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "zoe-panoramas",
+        "synopsis": "Documental desarrollado a lo largo de seis a\u00f1os que\u00a0acompa\u00f1a a la agrupaci\u00f3n mexicana Zo\u00e9, cuyo registro arroja una versi\u00f3n sui g\u00e9neris de la banda en su gira m\u00e1s extensa por Am\u00e9rica Latina, grabaciones de estudio, conciertos y vida cotidiana. Exenta de talking heads, la pel\u00edcula se asoma a las inquietudes, dudas, silencios y contradicciones con que los integrantes han lidiado para culminar dos d\u00e9cadas de trayectoria musical y hacer frente a su presente y futuro.\u00a0",
+        "tags": [
+            {
+                "id": 380,
+                "name": "M\u00fasica ",
+                "slug": "musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 443,
+                "name": "Concierto",
+                "slug": "concierto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/concierto"
+            },
+            {
+                "id": 346,
+                "name": "Amistad",
+                "slug": "amistad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amistad"
+            },
+            {
+                "id": 143,
+                "name": "Crisis creativa",
+                "slug": "crisis-creativa",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-creativa"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 7,
+                "name": "Pel\u00edcula con m\u00fasica",
+                "slug": "pelicula-con-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pelicula-con-musica"
+            },
+            {
+                "id": 150,
+                "name": "Grupos de amigos",
+                "slug": "grupos-de-amigos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/grupos-de-amigos"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 940,
+                "name": "Amantes de la m\u00fasica",
+                "slug": "amantes-de-la-musica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amantes-de-la-musica"
+            },
+            {
+                "id": 959,
+                "name": "Especial GIFF",
+                "slug": "especial-giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-giff"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1134,
+                "name": "Tracklist",
+                "slug": "tracklist",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tracklist"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1147,
+                "name": "Preselecccionados Premios F\u00e9nix",
+                "slug": "preselecccionados-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/preselecccionados-premios-fenix"
+            },
+            {
+                "id": 1163,
+                "name": "Segundas vueltas",
+                "slug": "segundas-vueltas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/segundas-vueltas"
+            },
+            {
+                "id": 533,
+                "name": "GIFF",
+                "slug": "giff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/giff"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1405,
+                "name": "Ritmos y melod\u00edas",
+                "slug": "ritmos-y-melodias",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ritmos-y-melodias"
+            },
+            {
+                "id": 1423,
+                "name": "M\u00fasica y ciudad",
+                "slug": "musica-y-ciudad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/musica-y-ciudad"
+            },
+            {
+                "id": 2030,
+                "name": "Escena musical",
+                "slug": "escena-musical",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escena-musical"
+            },
+            {
+                "id": 2094,
+                "name": "Universiada Cultural - Cine Club UG",
+                "slug": "universiada-cultural-cine-club-ug",
+                "url": "https://www.filminlatino.mx/catalogo/tema/universiada-cultural-cine-club-ug"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2543,
+                "name": "La m\u00fasica en el cine",
+                "slug": "la-musica-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/la-musica-en-el-cine"
+            },
+            {
+                "id": 2612,
+                "name": "Ediciones anteriores",
+                "slug": "ediciones-anteriores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ediciones-anteriores"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Zo\u00e9: Panoramas",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/zoe-panoramas",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2751,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/panorama.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/panorama/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/panorama/master.m3u8"
+                }
+            ]
+        },
+        "year": 2016
+    }
+}

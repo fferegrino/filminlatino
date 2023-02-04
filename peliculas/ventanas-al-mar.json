@@ -1,0 +1,278 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Ra\u00fal M\u00e9ndez",
+                "gender": "m",
+                "id": 1420,
+                "slug": "raul-mendez",
+                "url": "https://www.filminlatino.mx/actor/raul-mendez"
+            },
+            {
+                "full_name": "Fernando Guill\u00e9n",
+                "gender": "m",
+                "id": 1846,
+                "slug": "fernando-guillen",
+                "url": "https://www.filminlatino.mx/actor/fernando-guillen"
+            },
+            {
+                "full_name": "Natalia Cordova",
+                "gender": "m",
+                "id": 1847,
+                "slug": "natalia-cordova",
+                "url": "https://www.filminlatino.mx/actor/natalia-cordova"
+            },
+            {
+                "full_name": "Charo L\u00f3pez",
+                "gender": "m",
+                "id": 1848,
+                "slug": "charo-lopez",
+                "url": "https://www.filminlatino.mx/actor/charo-lopez"
+            }
+        ],
+        "avg_votes": 8.9,
+        "avg_votes_formatted": "8,9",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jes\u00fas-Mario Lozano",
+                "gender": "m",
+                "id": 666,
+                "slug": "jesus-mario-lozano",
+                "url": "https://www.filminlatino.mx/director/jesus-mario-lozano"
+            }
+        ],
+        "duration_in_minutes": 100,
+        "excerpt": "No importa la edad que se tenga, siempre habr\u00e1 dilemas en la relaci\u00f3n de pareja.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1024,
+        "image_card": null,
+        "image_poster": "https://static.filminlatino.mx/images/media/1024/6/poster_0_3.jpg",
+        "image_stills": [],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Ventanas al mar",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 652,
+                "name": "Filmadora Nacional",
+                "slug": "filmadora-nacional",
+                "url": "https://www.filminlatino.mx/producer/filmadora-nacional"
+            },
+            {
+                "acronym": "",
+                "id": 653,
+                "name": "Pancho Films",
+                "slug": "pancho-films",
+                "url": "https://www.filminlatino.mx/producer/pancho-films"
+            },
+            {
+                "acronym": "",
+                "id": 654,
+                "name": "Ventanas al Mar de Cozumel",
+                "slug": "ventanas-al-mar-de-cozumel",
+                "url": "https://www.filminlatino.mx/producer/ventanas-al-mar-de-cozumel"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "ventanas-al-mar",
+        "synopsis": "En un hotel frente al mar se conocen dos parejas: una formada por dos j\u00f3venes mexicanos y otra por dos jubilados extranjeros. Mientras esperan juntos la llegada de un cicl\u00f3n, viven una entra\u00f1able experiencia que los transformar\u00e1 para siempre.",
+        "tags": [
+            {
+                "id": 96,
+                "name": "Crisis de pareja",
+                "slug": "crisis-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crisis-de-pareja"
+            },
+            {
+                "id": 97,
+                "name": "Ambientada en el mar",
+                "slug": "ambientada-en-el-mar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ambientada-en-el-mar"
+            },
+            {
+                "id": 180,
+                "name": "Amor en la vejez",
+                "slug": "amor-en-la-vejez",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-en-la-vejez"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 356,
+                "name": "Problemas de pareja",
+                "slug": "problemas-de-pareja",
+                "url": "https://www.filminlatino.mx/catalogo/tema/problemas-de-pareja"
+            },
+            {
+                "id": 720,
+                "name": "Barco",
+                "slug": "barco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/barco"
+            },
+            {
+                "id": 782,
+                "name": "Parejas",
+                "slug": "parejas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/parejas"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 1023,
+                "name": "Alfhaville",
+                "slug": "alfhaville",
+                "url": "https://www.filminlatino.mx/catalogo/tema/alfhaville"
+            },
+            {
+                "id": 1131,
+                "name": "Sex and dating",
+                "slug": "sex-and-dating",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sex-and-dating"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1264,
+                "name": "Canc\u00fan",
+                "slug": "cancun",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cancun"
+            },
+            {
+                "id": 1190,
+                "name": "Morelos",
+                "slug": "morelos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/morelos"
+            },
+            {
+                "id": 1618,
+                "name": "FICM realizadores participantes 2020",
+                "slug": "ficm-realizadores-participantes-2020",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficm-realizadores-participantes-2020"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 1304,
+                "name": "Sociedad mexicana ",
+                "slug": "sociedad-mexicana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sociedad-mexicana"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1386288000,
+        "theater_release_date": 1386288000,
+        "theater_spectators_formatted": null,
+        "title": "Ventanas al mar",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/ventanas-al-mar",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 841,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/ventanas-de-mar.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/ventanas-de-mar/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/ventanas-de-mar/master.m3u8"
+                }
+            ]
+        },
+        "year": 2012
+    }
+}

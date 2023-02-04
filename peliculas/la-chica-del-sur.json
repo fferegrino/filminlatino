@@ -1,0 +1,279 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Lim Su-kyong",
+                "gender": "f",
+                "id": 1136,
+                "slug": "lim-su-kyong",
+                "url": "https://www.filminlatino.mx/actriz/lim-su-kyong"
+            },
+            {
+                "full_name": "Alejandro Kim",
+                "gender": "m",
+                "id": 1137,
+                "slug": "alejandro-kim",
+                "url": "https://www.filminlatino.mx/actor/alejandro-kim"
+            }
+        ],
+        "avg_votes": 9.1,
+        "avg_votes_formatted": "9,1",
+        "awards": [
+            {
+                "category": "Menci\u00f3n Especial",
+                "icon": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "name": "Festival de Cine Independiente de Buenos Aires (BAFICI)",
+                "slug": "festival-de-cine-independiente-de-buenos-aires-bafici",
+                "year": 2012
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jos\u00e9 Luis  Garc\u00eda",
+                "gender": "m",
+                "id": 438,
+                "slug": "jose-luis-garcia",
+                "url": "https://www.filminlatino.mx/director/jose-luis-garcia"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "La lucha de una joven por unificar a su pa\u00eds, con la idea de que no hab\u00eda dos Coreas, sino s\u00f3lo una.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 469,
+        "image_card": "https://static.filminlatino.mx/images/media/469/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/469/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/469/6/still_0_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "La chica del Sur",
+        "producers": [
+            {
+                "acronym": "INCAA",
+                "id": 477,
+                "name": "Instituto Nacional de Cine y Artes Audiovisuales",
+                "slug": "instituto-nacional-de-cine-y-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-nacional-de-cine-y-artes-audiovisuales"
+            },
+            {
+                "acronym": "",
+                "id": 478,
+                "name": "LAT-E",
+                "slug": "lat-e",
+                "url": "https://www.filminlatino.mx/producer/lat-e"
+            }
+        ],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "SD",
+        "seasons_count": null,
+        "slug": "la-chica-del-sur",
+        "synopsis": "La chica del sur est\u00e1 marcada por la singularidad de una vida en el hurac\u00e1n de la historia, pero tambi\u00e9n por el ojo \u2013y la voz, reflexionando sobre el propio proceso\u2013 de un cineasta que ve en un personaje la condensaci\u00f3n de lo que cree que vale la pena ser filmado.",
+        "tags": [
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 484,
+                "name": "Paz",
+                "slug": "paz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paz"
+            },
+            {
+                "id": 485,
+                "name": "Activismo",
+                "slug": "activismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/activismo"
+            },
+            {
+                "id": 486,
+                "name": "Entrevista",
+                "slug": "entrevista",
+                "url": "https://www.filminlatino.mx/catalogo/tema/entrevista"
+            },
+            {
+                "id": 217,
+                "name": "Revoluci\u00f3n y denuncia",
+                "slug": "revolucion-y-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revolucion-y-denuncia"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 785,
+                "name": "Documentales de denuncia",
+                "slug": "documentales-de-denuncia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-de-denuncia"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 38,
+                "name": "Cine oriental",
+                "slug": "cine-oriental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-oriental"
+            },
+            {
+                "id": 808,
+                "name": "Desaparecidos",
+                "slug": "desaparecidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desaparecidos"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 870,
+                "name": "Retratos",
+                "slug": "retratos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retratos"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 927,
+                "name": "Movimientos sociales",
+                "slug": "movimientos-sociales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/movimientos-sociales"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1393,
+                "name": "Documentales sobre Mujeres",
+                "slug": "documentales-sobre-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documentales-sobre-mujeres"
+            },
+            {
+                "id": 1407,
+                "name": "Pacifismo",
+                "slug": "pacifismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pacifismo"
+            },
+            {
+                "id": 166,
+                "name": "Violencia de g\u00e9nero",
+                "slug": "violencia-de-genero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia-de-genero"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2724,
+                "name": "50 Festival Internacional Cervantino",
+                "slug": "50-festival-internacional-cervantino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/50-festival-internacional-cervantino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "La chica del Sur",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/la-chica-del-sur",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 348,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/chica.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/chica/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/chica/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

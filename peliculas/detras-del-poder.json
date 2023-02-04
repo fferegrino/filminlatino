@@ -1,0 +1,218 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Paola Nu\u00f1ez",
+                "gender": "f",
+                "id": 546,
+                "slug": "paola-nunez",
+                "url": "https://www.filminlatino.mx/actriz/paola-nunez"
+            },
+            {
+                "full_name": "Luis Arrieta",
+                "gender": "m",
+                "id": 2044,
+                "slug": "luis-arrieta",
+                "url": "https://www.filminlatino.mx/actor/luis-arrieta"
+            },
+            {
+                "full_name": "Hector Kotsifakis",
+                "gender": "m",
+                "id": 3865,
+                "slug": "hector-kotsifakis",
+                "url": "https://www.filminlatino.mx/actor/hector-kotsifakis"
+            }
+        ],
+        "avg_votes": 6.4,
+        "avg_votes_formatted": "6,4",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Javier Colinas",
+                "gender": "m",
+                "id": 1327,
+                "slug": "javier-colinas",
+                "url": "https://www.filminlatino.mx/director/javier-colinas"
+            }
+        ],
+        "duration_in_minutes": 87,
+        "excerpt": "\u00bfQu\u00e9 har\u00edas si un d\u00eda abres la puerta de tu casa, un hombre que nunca has visto te golpea, te amarra a una silla, saca una botella de tequila y te empieza contar su vida?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 6,
+                "name": "Thriller",
+                "slug": "thriller",
+                "url": "https://www.filminlatino.mx/catalogo/genero/thriller"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2601,
+        "image_card": "https://static.filminlatino.mx/images/media/2601/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2601/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg",
+            "https://static.filminlatino.mx/images/media/2601/1/still_0_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 12,
+        "original_title": "Detr\u00e1s del poder",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "detras-del-poder",
+        "synopsis": "\u00bfQu\u00e9 har\u00edas si un d\u00eda abres la puerta de tu casa, un hombre que nunca has visto te golpea, te amarra a una silla, saca una botella de tequila y te empieza contar su vida? Adem\u00e1s poco a poco te vas dando cuenta que este hombre aparentemente extra\u00f1o sabe todo sobre ti y su principal intenci\u00f3n es darte un tiro en la cabeza. Basada en hechos reales, esto es lo que le sucede a Miguel, un abogado/diputado felizmente casado y con una vida privilegiada que en menos de una hora empieza a perder todo.",
+        "tags": [
+            {
+                "id": 648,
+                "name": "Vida y muerte",
+                "slug": "vida-y-muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/vida-y-muerte"
+            },
+            {
+                "id": 87,
+                "name": "Secuestro",
+                "slug": "secuestro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secuestro"
+            },
+            {
+                "id": 19,
+                "name": "Basada en hechos reales",
+                "slug": "basada-en-hechos-reales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/basada-en-hechos-reales"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 274,
+                "name": "Cine pol\u00edtico ",
+                "slug": "cine-politico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-politico"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 1052,
+                "name": "Cinenauta",
+                "slug": "cinenauta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cinenauta"
+            },
+            {
+                "id": 1159,
+                "name": "Exclusiva Mx",
+                "slug": "exclusiva-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/exclusiva-mx"
+            },
+            {
+                "id": 1175,
+                "name": "2013",
+                "slug": "2013",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2013"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 524,
+                "name": "Rodando Film Fest",
+                "slug": "rodando-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rodando-film-fest"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1389916800,
+        "theater_release_date": 1389916800,
+        "theater_spectators_formatted": null,
+        "title": "Detr\u00e1s del poder",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/detras-del-poder",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2014,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/detras-del-poder.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/detras-del-poder/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/detras-del-poder/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

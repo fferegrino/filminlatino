@@ -1,0 +1,369 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Viggo  Mortensen",
+                "gender": "m",
+                "id": 4205,
+                "slug": "viggo-mortensen",
+                "url": "https://www.filminlatino.mx/actor/viggo-mortensen"
+            },
+            {
+                "full_name": "Ghita N\u00f8rby",
+                "gender": "f",
+                "id": 4206,
+                "slug": "ghita-norby",
+                "url": "https://www.filminlatino.mx/actriz/ghita-norby"
+            },
+            {
+                "full_name": "Viilbj\u00f8rk Malling Agger",
+                "gender": "f",
+                "id": 4749,
+                "slug": "viilbjork-malling-agger",
+                "url": "https://www.filminlatino.mx/actriz/viilbjork-malling-agger"
+            }
+        ],
+        "avg_votes": 6.9,
+        "avg_votes_formatted": "6,9",
+        "awards": [
+            {
+                "category": "Premio FIPRESCI",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-mar-de-plata",
+                "name": "Festival de Cine de Mar de Plata",
+                "slug": "festival-de-cine-de-mar-de-plata",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-la-habana",
+                "name": " Festival de La Habana",
+                "slug": "festival-de-la-habana",
+                "year": null
+            },
+            {
+                "category": "Mejor Actor",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 10,
+                "name": "Argentina",
+                "slug": "argentina",
+                "url": "https://www.filminlatino.mx/catalogo/pais/argentina"
+            },
+            {
+                "id": 232,
+                "name": "Estados Unidos",
+                "slug": "estados-unidos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/estados-unidos"
+            },
+            {
+                "id": 250,
+                "name": "Pa\u00edses Bajos",
+                "slug": "paises-bajos",
+                "url": "https://www.filminlatino.mx/catalogo/pais/paises-bajos"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lisandro Alonso",
+                "gender": "m",
+                "id": 426,
+                "slug": "lisandro-alonso",
+                "url": "https://www.filminlatino.mx/director/lisandro-alonso"
+            }
+        ],
+        "duration_in_minutes": 110,
+        "excerpt": "Una pel\u00edcula con una est\u00e9tica que es perfecta para personas que suelen conmoverse contemplando la naturaleza.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 13,
+                "name": "Western",
+                "slug": "western",
+                "url": "https://www.filminlatino.mx/catalogo/genero/western"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2789,
+        "image_card": "https://static.filminlatino.mx/images/media/2789/9/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2789/3/poster_0_3.png",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2789/9/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2789/10/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2789/10/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/2789/10/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 7,
+        "original_title": "Jauja",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 31,
+                "name": "Mantarraya Producciones",
+                "slug": "mantarraya-producciones",
+                "url": "https://www.filminlatino.mx/producer/mantarraya-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 440,
+                "name": "Fortuna Films",
+                "slug": "fortuna-films",
+                "url": "https://www.filminlatino.mx/producer/fortuna-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "jauja",
+        "synopsis": "En la antig\u00fcedad, se cre\u00eda que Jauja era una tierra mitol\u00f3gica de abundancia y felicidad. Se emprendieron muchas expediciones para tratar de encontrar el lugar y comprobarlo. Con el tiempo, la leyenda creci\u00f3 desproporcionadamente. Un viaje de padre e hija de Dinamarca a un desierto desconocido que existe en un reino m\u00e1s all\u00e1 de los confines de la civilizaci\u00f3n.",
+        "tags": [
+            {
+                "id": 35,
+                "name": "Road movie",
+                "slug": "road-movie",
+                "url": "https://www.filminlatino.mx/catalogo/tema/road-movie"
+            },
+            {
+                "id": 577,
+                "name": "Relaci\u00f3n padre e hijo",
+                "slug": "relacion-padre-e-hijo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relacion-padre-e-hijo"
+            },
+            {
+                "id": 520,
+                "name": "Padres en el cine",
+                "slug": "padres-en-el-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/padres-en-el-cine"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 219,
+                "name": "Lecci\u00f3n de historia",
+                "slug": "leccion-de-historia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/leccion-de-historia"
+            },
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 98,
+                "name": "Viajes temporales",
+                "slug": "viajes-temporales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/viajes-temporales"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 859,
+                "name": "Retro",
+                "slug": "retro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/retro"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 873,
+                "name": "Destinos",
+                "slug": "destinos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/destinos"
+            },
+            {
+                "id": 881,
+                "name": "D\u00e9jalo ir",
+                "slug": "dejalo-ir",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dejalo-ir"
+            },
+            {
+                "id": 922,
+                "name": "Semana de cine mexicano",
+                "slug": "semana-de-cine-mexicano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/semana-de-cine-mexicano"
+            },
+            {
+                "id": 1086,
+                "name": "Secci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1088,
+                "name": "Selecci\u00f3n oficial San Sebasti\u00e1n",
+                "slug": "seleccion-oficial-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/seleccion-oficial-san-sebastian"
+            },
+            {
+                "id": 1097,
+                "name": "ND Mantarraya",
+                "slug": "nd-mantarraya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nd-mantarraya"
+            },
+            {
+                "id": 1146,
+                "name": "Mejor Vestuario Premios F\u00e9nix",
+                "slug": "mejor-vestuario-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-vestuario-premios-fenix"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 1145,
+                "name": "Ganadoras Premios F\u00e9nix",
+                "slug": "ganadoras-premios-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-premios-fenix"
+            },
+            {
+                "id": 679,
+                "name": "ARGEN-MEX",
+                "slug": "argen-mex",
+                "url": "https://www.filminlatino.mx/catalogo/tema/argen-mex"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1431648000,
+        "theater_release_date": 1431648000,
+        "theater_spectators_formatted": null,
+        "title": "Jauja",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/jauja",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2160,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/jauja.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/jauja/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/jauja/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

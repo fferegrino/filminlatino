@@ -1,0 +1,344 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Santiago Corcuera",
+                "gender": "m",
+                "id": 4050,
+                "slug": "santiago-corcuera",
+                "url": "https://www.filminlatino.mx/actor/santiago-corcuera"
+            },
+            {
+                "full_name": "Elena Larrea",
+                "gender": "f",
+                "id": 4051,
+                "slug": "elena-larrea",
+                "url": "https://www.filminlatino.mx/actriz/elena-larrea"
+            },
+            {
+                "full_name": "Ignacio Beteta",
+                "gender": "m",
+                "id": 4052,
+                "slug": "ignacio-beteta",
+                "url": "https://www.filminlatino.mx/actor/ignacio-beteta"
+            },
+            {
+                "full_name": "Florencia R\u00edos",
+                "gender": "f",
+                "id": 4053,
+                "slug": "florencia-rios",
+                "url": "https://www.filminlatino.mx/actriz/florencia-rios"
+            }
+        ],
+        "avg_votes": 6.2,
+        "avg_votes_formatted": "6,2",
+        "awards": [
+            {
+                "category": "Secci\u00f3n oficial ",
+                "icon": "festival-de-cine-de-mar-de-plata",
+                "name": "Festival de Cine de Mar de Plata",
+                "slug": "festival-de-cine-de-mar-de-plata",
+                "year": 2014
+            },
+            {
+                "category": "Premio Kukulk\u00e1n",
+                "icon": "riviera-maya-film-festival",
+                "name": "Riviera Maya Film Festival",
+                "slug": "riviera-maya-film-festival",
+                "year": 2014
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Santiago Mohar",
+                "gender": "m",
+                "id": 1398,
+                "slug": "santiago-mohar",
+                "url": "https://www.filminlatino.mx/director/santiago-mohar"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Un fin de semana en la vida de cinco j\u00f3venes adinerados, cuya caracter\u00edstica com\u00fan es la apat\u00eda y los excesos.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2679,
+        "image_card": "https://static.filminlatino.mx/images/media/2679/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2679/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2679/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2679/1/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/2679/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2679/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2679/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2679/3/still_2_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 57,
+        "original_title": "Los muertos",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1597,
+                "name": "Purgatorio Films",
+                "slug": "purgatorio-films",
+                "url": "https://www.filminlatino.mx/producer/purgatorio-films"
+            }
+        ],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "los-muertos",
+        "synopsis": "Narra un fin de semana en la vida de un grupo de j\u00f3venes privilegiados en el que se encuentran cara a cara con el crimen y la muerte, forz\u00e1ndolos a cuestionarse los diferentes significados que tienen estos eventos en el contexto de la realidad nacional. Partiendo de un mosaico de personajes, \"Los Muertos\" hace un trayecto hacia la redenci\u00f3n personal y la b\u00fasqueda por dar sentido a la muerte que nos rodea.",
+        "tags": [
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 427,
+                "name": "J\u00f3venes",
+                "slug": "jovenes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jovenes"
+            },
+            {
+                "id": 51,
+                "name": "Lucha de clases",
+                "slug": "lucha-de-clases",
+                "url": "https://www.filminlatino.mx/catalogo/tema/lucha-de-clases"
+            },
+            {
+                "id": 246,
+                "name": "Drogas y alcohol",
+                "slug": "drogas-y-alcohol",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drogas-y-alcohol"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 167,
+                "name": "Delincuencia juvenil",
+                "slug": "delincuencia-juvenil",
+                "url": "https://www.filminlatino.mx/catalogo/tema/delincuencia-juvenil"
+            },
+            {
+                "id": 255,
+                "name": "Crimen y delincuencia",
+                "slug": "crimen-y-delincuencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crimen-y-delincuencia"
+            },
+            {
+                "id": 42,
+                "name": "Cr\u00edtica a la burgues\u00eda",
+                "slug": "critica-a-la-burguesia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/critica-a-la-burguesia"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 695,
+                "name": "Festival de Durango",
+                "slug": "festival-de-durango",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-durango"
+            },
+            {
+                "id": 543,
+                "name": "Crowdfunding",
+                "slug": "crowdfunding",
+                "url": "https://www.filminlatino.mx/catalogo/tema/crowdfunding"
+            },
+            {
+                "id": 604,
+                "name": "Bajo presupuesto",
+                "slug": "bajo-presupuesto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bajo-presupuesto"
+            },
+            {
+                "id": 716,
+                "name": "Millennials",
+                "slug": "millennials",
+                "url": "https://www.filminlatino.mx/catalogo/tema/millennials"
+            },
+            {
+                "id": 770,
+                "name": "13 razones",
+                "slug": "13-razones",
+                "url": "https://www.filminlatino.mx/catalogo/tema/13-razones"
+            },
+            {
+                "id": 806,
+                "name": "Perdedores",
+                "slug": "perdedores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/perdedores"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 818,
+                "name": "Otras chicas pesadas",
+                "slug": "otras-chicas-pesadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/otras-chicas-pesadas"
+            },
+            {
+                "id": 842,
+                "name": "12\u00b0 FICM",
+                "slug": "120-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/120-ficm"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 866,
+                "name": "Post capitalismo",
+                "slug": "post-capitalismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/post-capitalismo"
+            },
+            {
+                "id": 880,
+                "name": "Las m\u00e1s vistas",
+                "slug": "las-mas-vistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/las-mas-vistas"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 1128,
+                "name": "Amor millennial",
+                "slug": "amor-millennial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-millennial"
+            },
+            {
+                "id": 926,
+                "name": "No actores",
+                "slug": "no-actores",
+                "url": "https://www.filminlatino.mx/catalogo/tema/no-actores"
+            },
+            {
+                "id": 953,
+                "name": "Antih\u00e9roes",
+                "slug": "antiheroes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/antiheroes"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1413,
+                "name": "Oaxaca Film Fest",
+                "slug": "oaxaca-film-fest",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca-film-fest"
+            },
+            {
+                "id": 1465,
+                "name": "Atrapados",
+                "slug": "atrapados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/atrapados"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1463702400,
+        "theater_release_date": 1463702400,
+        "theater_spectators_formatted": null,
+        "title": "Los muertos",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/los-muertos",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2027,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/los-muertos.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/los-muertos/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/los-muertos/master.m3u8"
+                }
+            ]
+        },
+        "year": 2014
+    }
+}

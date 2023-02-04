@@ -1,0 +1,336 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Elena Anaya",
+                "gender": "f",
+                "id": 2264,
+                "slug": "elena-anaya",
+                "url": "https://www.filminlatino.mx/actriz/elena-anaya"
+            },
+            {
+                "full_name": "Natasha Yarovenko",
+                "gender": "f",
+                "id": 2713,
+                "slug": "natasha-yarovenko",
+                "url": "https://www.filminlatino.mx/actriz/natasha-yarovenko"
+            },
+            {
+                "full_name": "Enrico Lo Verso",
+                "gender": "m",
+                "id": 1699,
+                "slug": "enrico-lo-verso",
+                "url": "https://www.filminlatino.mx/actor/enrico-lo-verso"
+            },
+            {
+                "full_name": "Najwa Nimri",
+                "gender": "f",
+                "id": 1872,
+                "slug": "najwa-nimri",
+                "url": "https://www.filminlatino.mx/actriz/najwa-nimri"
+            }
+        ],
+        "avg_votes": 7.9,
+        "avg_votes_formatted": "7,9",
+        "awards": [
+            {
+                "category": "Mejor Actriz",
+                "icon": "fotogramas-de-plata",
+                "name": "Fotogramas de Plata",
+                "slug": "fotogramas-de-plata",
+                "year": 2009
+            },
+            {
+                "category": "Mejor Actriz Revelaci\u00f3n",
+                "icon": "premios-turia",
+                "name": "Premios Turia",
+                "slug": "premios-turia",
+                "year": 2009
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 68,
+                "name": "Espa\u00f1a",
+                "slug": "espana",
+                "url": "https://www.filminlatino.mx/catalogo/pais/espana"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Julio Medem",
+                "gender": "m",
+                "id": 827,
+                "slug": "julio-medem",
+                "url": "https://www.filminlatino.mx/director/julio-medem"
+            }
+        ],
+        "duration_in_minutes": 103,
+        "excerpt": "Un filme cargado de erotismo y sensualidad en el que dos mujeres se conocen estando distantes del pa\u00eds en donde nacieron.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1453,
+        "image_card": "https://static.filminlatino.mx/images/media/1453/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1453/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1453/9/still_0_3.png",
+            "https://static.filminlatino.mx/images/media/1453/4/still_0_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/10/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/6/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/11/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/12/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1453/8/still_4_3.png",
+            "https://static.filminlatino.mx/images/media/1453/13/still_4_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 21,
+        "original_title": "Habitaci\u00f3n en Roma",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 503,
+                "name": "Wild Bunch",
+                "slug": "wild-bunch",
+                "url": "https://www.filminlatino.mx/producer/wild-bunch"
+            },
+            {
+                "acronym": "",
+                "id": 667,
+                "name": "Canal+ Espa\u00f1a",
+                "slug": "canal-espana",
+                "url": "https://www.filminlatino.mx/producer/canal-espana"
+            },
+            {
+                "acronym": "",
+                "id": 885,
+                "name": "Alicia Produce",
+                "slug": "alicia-produce",
+                "url": "https://www.filminlatino.mx/producer/alicia-produce"
+            },
+            {
+                "acronym": "",
+                "id": 1027,
+                "name": "Morena Films",
+                "slug": "morena-films",
+                "url": "https://www.filminlatino.mx/producer/morena-films"
+            },
+            {
+                "acronym": "ICAA",
+                "id": 1029,
+                "name": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales",
+                "slug": "instituto-de-la-cinematografia-y-de-las-artes-audiovisuales",
+                "url": "https://www.filminlatino.mx/producer/instituto-de-la-cinematografia-y-de-las-artes-audiovisuales"
+            },
+            {
+                "acronym": "TVE",
+                "id": 4,
+                "name": "Televisi\u00f3n Espa\u00f1ola",
+                "slug": "television-espanola",
+                "url": "https://www.filminlatino.mx/producer/television-espanola"
+            },
+            {
+                "acronym": "",
+                "id": 1030,
+                "name": "Intervenciones Novo Film 2006 Aie",
+                "slug": "intervenciones-novo-film-2006-aie",
+                "url": "https://www.filminlatino.mx/producer/intervenciones-novo-film-2006-aie"
+            }
+        ],
+        "qualification": {
+            "code": "18+",
+            "description": "Mayores de 18 a\u00f1os",
+            "id": 4,
+            "name": "C"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "habitacion-en-roma",
+        "synopsis": "En un hotel del centro de Roma se conocen una rusa y una espa\u00f1ola. Al d\u00eda siguiente, Alba volver\u00e1 a Espa\u00f1a y Natasha a Rusia. En la habitaci\u00f3n del hotel se respira una atm\u00f3sfera cargada de erotismo y sensualidad. Entre ellas nace un sentimiento nuevo que ambas aceptan. Durante doce horas, las dos mujeres se conf\u00edan sus vidas, hablan de sus compromisos y del amor sincero por sus respectivas parejas.",
+        "tags": [
+            {
+                "id": 209,
+                "name": "Aventuras",
+                "slug": "aventuras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/aventuras"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 241,
+                "name": "Cine l\u00e9sbico",
+                "slug": "cine-lesbico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lesbico"
+            },
+            {
+                "id": 61,
+                "name": "Remake",
+                "slug": "remake",
+                "url": "https://www.filminlatino.mx/catalogo/tema/remake"
+            },
+            {
+                "id": 238,
+                "name": "Hotel",
+                "slug": "hotel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hotel"
+            },
+            {
+                "id": 193,
+                "name": "Erotismo",
+                "slug": "erotismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/erotismo"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 705,
+                "name": "RMFF",
+                "slug": "rmff",
+                "url": "https://www.filminlatino.mx/catalogo/tema/rmff"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 802,
+                "name": "Soundtracks inolvidables ",
+                "slug": "soundtracks-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soundtracks-inolvidables"
+            },
+            {
+                "id": 815,
+                "name": "Cuerpos disidentes",
+                "slug": "cuerpos-disidentes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cuerpos-disidentes"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 871,
+                "name": "Todos cuentan",
+                "slug": "todos-cuentan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/todos-cuentan"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1131,
+                "name": "Sex and dating",
+                "slug": "sex-and-dating",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sex-and-dating"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 447,
+                "name": "Homosexualidad",
+                "slug": "homosexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/homosexualidad"
+            },
+            {
+                "id": 1452,
+                "name": "Personajes que inspiran",
+                "slug": "personajes-que-inspiran",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-que-inspiran"
+            },
+            {
+                "id": 2658,
+                "name": "Pasi\u00f3n",
+                "slug": "pasion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasion"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1272067200,
+        "theater_release_date": 1272067200,
+        "theater_spectators_formatted": null,
+        "title": "Habitaci\u00f3n en Roma",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/habitacion-en-roma",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1008,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/habitacion-de-roma.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/habitacion-de-roma/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/habitacion-de-roma/master.m3u8"
+                }
+            ]
+        },
+        "year": 2009
+    }
+}

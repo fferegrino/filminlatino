@@ -7,7 +7,7 @@ from copy import deepcopy
 driver = get_driver()
 
 def get_cookies():
-    driver.get("https://www.filminlatino.mx/catalogo/peliculas")
+    driver.get("https://www.filminlatino.mx/catalogo/peliculas?rights=all")
     time.sleep(INITIAL_WAIT_TIME)
     cookies_dict = {}
     for cookie in driver.get_cookies():
@@ -23,7 +23,7 @@ def get_headers():
     headers = deepcopy(BASE_HEADERS)
     cookies_dict = get_cookies()
     headers["cookie"] = merge_cookies(cookies_dict)
-    headers["referer"] = "https://www.filminlatino.mx/catalogo/peliculas"
+    headers["referer"] = "https://www.filminlatino.mx/catalogo/peliculas?rights=all"
     headers["x-csrf-token"] = cookies_dict["XSRF-TOKEN"]
     headers["x-xsrf-token"] = cookies_dict["XSRF-TOKEN"]
 

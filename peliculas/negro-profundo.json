@@ -1,0 +1,356 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Felice Jankell",
+                "gender": "f",
+                "id": 11948,
+                "slug": "felice-jankell",
+                "url": "https://www.filminlatino.mx/actriz/felice-jankell"
+            },
+            {
+                "full_name": "Johan Palm",
+                "gender": "m",
+                "id": 11949,
+                "slug": "johan-palm",
+                "url": "https://www.filminlatino.mx/actor/johan-palm"
+            },
+            {
+                "full_name": "Erica Midfj\u00e4ll",
+                "gender": "f",
+                "id": 11950,
+                "slug": "erica-midfjall",
+                "url": "https://www.filminlatino.mx/actriz/erica-midfjall"
+            },
+            {
+                "full_name": "Christina Lindberg",
+                "gender": "m",
+                "id": 11951,
+                "slug": "christina-lindberg",
+                "url": "https://www.filminlatino.mx/actor/christina-lindberg"
+            }
+        ],
+        "avg_votes": 7.8,
+        "avg_votes_formatted": "7,8",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "morbido-film-festival",
+                "name": "M\u00f3rbido Film Festival",
+                "slug": "morbido-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 196,
+                "name": "Suecia",
+                "slug": "suecia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/suecia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Adri\u00e1n Garc\u00eda Bogliano",
+                "gender": "m",
+                "id": 6332,
+                "slug": "adrian-garcia-bogliano",
+                "url": "https://www.filminlatino.mx/director/adrian-garcia-bogliano"
+            }
+        ],
+        "duration_in_minutes": 101,
+        "excerpt": "Las vidas de dos hermanas cambian dram\u00e1ticamente despu\u00e9s de ser hipnotizadas por un misterioso vinilo de los 70\u2019s.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 21,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/terror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 10777,
+        "image_card": "https://static.filminlatino.mx/images/media/10777/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/10777/2/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/10777/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/10777/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/10777/2/still_3_3.jpeg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 4,
+        "original_title": "Svart Cirkle",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "negro-profundo",
+        "synopsis": "Celeste se reencuentra con su hermana Isa, despu\u00e9s de mucho tiempo distanciadas. Isa le revela el secreto de por qu\u00e9 su vida ha mejorado significativamente: escuchar un disco en vinilo de hipnosis de los a\u00f1os 70. Cuando Celeste lo escuche, entender\u00e1 el oscuro secreto que guarda este misterioso objeto.<br>",
+        "tags": [
+            {
+                "id": 428,
+                "name": "Terror",
+                "slug": "terror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror"
+            },
+            {
+                "id": 1924,
+                "name": "Ficci\u00f3n ",
+                "slug": "ficcion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ficcion"
+            },
+            {
+                "id": 660,
+                "name": "Cambio de vida",
+                "slug": "cambio-de-vida",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cambio-de-vida"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 844,
+                "name": "Terror hecho en M\u00e9xico",
+                "slug": "terror-hecho-en-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-hecho-en-mexico"
+            },
+            {
+                "id": 254,
+                "name": "Cine familiar",
+                "slug": "cine-familiar",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-familiar"
+            },
+            {
+                "id": 496,
+                "name": "Secretos",
+                "slug": "secretos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/secretos"
+            },
+            {
+                "id": 310,
+                "name": "Misterio",
+                "slug": "misterio",
+                "url": "https://www.filminlatino.mx/catalogo/tema/misterio"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 1462,
+                "name": "Ellas protagonizan",
+                "slug": "ellas-protagonizan",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ellas-protagonizan"
+            },
+            {
+                "id": 62,
+                "name": "Venganza",
+                "slug": "venganza",
+                "url": "https://www.filminlatino.mx/catalogo/tema/venganza"
+            },
+            {
+                "id": 561,
+                "name": "Fantasmas",
+                "slug": "fantasmas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasmas"
+            },
+            {
+                "id": 9,
+                "name": "Fantas\u00eda",
+                "slug": "fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fantasia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 137,
+                "name": "Desigualdad laboral",
+                "slug": "desigualdad-laboral",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-laboral"
+            },
+            {
+                "id": 284,
+                "name": "Desigualdad social",
+                "slug": "desigualdad-social",
+                "url": "https://www.filminlatino.mx/catalogo/tema/desigualdad-social"
+            },
+            {
+                "id": 273,
+                "name": "Familias disfuncionales",
+                "slug": "familias-disfuncionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-disfuncionales"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 493,
+                "name": "Miedo",
+                "slug": "miedo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedo"
+            },
+            {
+                "id": 551,
+                "name": "Miedos",
+                "slug": "miedos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/miedos"
+            },
+            {
+                "id": 500,
+                "name": "Dolor",
+                "slug": "dolor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dolor"
+            },
+            {
+                "id": 501,
+                "name": "Pasado",
+                "slug": "pasado",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasado"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 378,
+                "name": "Muerte",
+                "slug": "muerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muerte"
+            },
+            {
+                "id": 2192,
+                "name": "Embrujos",
+                "slug": "embrujos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/embrujos"
+            },
+            {
+                "id": 492,
+                "name": "Suerte",
+                "slug": "suerte",
+                "url": "https://www.filminlatino.mx/catalogo/tema/suerte"
+            },
+            {
+                "id": 646,
+                "name": "Escapar de la realidad",
+                "slug": "escapar-de-la-realidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escapar-de-la-realidad"
+            },
+            {
+                "id": 2495,
+                "name": "TVOD",
+                "slug": "tvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tvod"
+            },
+            {
+                "id": 1732,
+                "name": "Largometraje",
+                "slug": "largometraje",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje"
+            },
+            {
+                "id": 2736,
+                "name": "10 d\u00edas de terror en FilminLatino ",
+                "slug": "10-dias-de-terror-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/10-dias-de-terror-en-filminlatino"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Negro profundo",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/negro-profundo",
+        "versions": [
+            {
+                "codes": [],
+                "id": 12551,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [
+                    {
+                        "iso_code": "es",
+                        "name": "Spanish",
+                        "type": "standard"
+                    }
+                ],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/NEGROPROFUNDOTRAILER.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/NEGROPROFUNDOTRAILER/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/NEGROPROFUNDOTRAILER/master.m3u8"
+                }
+            ]
+        },
+        "year": 2018
+    }
+}

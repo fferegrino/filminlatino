@@ -1,0 +1,267 @@
+{
+    "data": {
+        "actors": [],
+        "avg_votes": 8.5,
+        "avg_votes_formatted": "8,5",
+        "awards": [],
+        "characters": [
+            {
+                "full_name": "Pedro Antonio Loyola",
+                "gender": "m",
+                "id": 2261,
+                "slug": "pedro-antonio-loyola",
+                "url": "https://www.filminlatino.mx/character/pedro-antonio-loyola"
+            },
+            {
+                "full_name": "H\u00e9ctor Marcheli",
+                "gender": "m",
+                "id": 2262,
+                "slug": "hector-marcheli",
+                "url": "https://www.filminlatino.mx/character/hector-marcheli"
+            },
+            {
+                "full_name": "\u00d3scar Olivo",
+                "gender": "m",
+                "id": 2263,
+                "slug": "oscar-olivo",
+                "url": "https://www.filminlatino.mx/character/oscar-olivo"
+            },
+            {
+                "full_name": "Gloria Rodr\u00edguez",
+                "gender": "f",
+                "id": 2264,
+                "slug": "gloria-rodriguez",
+                "url": "https://www.filminlatino.mx/character/gloria-rodriguez"
+            }
+        ],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Eva Bodenstedt",
+                "gender": "f",
+                "id": 5833,
+                "slug": "eva-bodenstedt",
+                "url": "https://www.filminlatino.mx/directora/eva-bodenstedt"
+            },
+            {
+                "full_name": "Saudhi Batalla",
+                "gender": "f",
+                "id": 1236,
+                "slug": "saudhi-batalla",
+                "url": "https://www.filminlatino.mx/directora/saudhi-batalla"
+            }
+        ],
+        "duration_in_minutes": 61,
+        "excerpt": "Hace seis d\u00e9cadas un hombre pisa el para\u00edso de Mazunte y desde ese momento se transforma, primero en un matadero de tortugas, hoy en el destino tur\u00edstico m\u00e1s aclamado, \u00bfy ma\u00f1ana?",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 5,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/genero/documental"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 9818,
+        "image_card": "https://static.filminlatino.mx/images/media/9818/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/9818/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/9818/1/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/9818/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/9818/2/still_3_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 9,
+        "original_title": "Mazunte",
+        "producers": [],
+        "qualification": {
+            "code": "TP",
+            "description": "Todos los p\u00fablicos",
+            "id": 1,
+            "name": "A"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "mazunte",
+        "synopsis": "Mazunte, ubicado en la costa del pac\u00edfico en el estado de Oaxaca, se hablan lenguas e idiomas de todo el mundo. La comunidad naci\u00f3 en los a\u00f1os 50 con el nombre del cangrejo azul que aqu\u00ed viv\u00eda. As\u00ed, como su primer habitante, se qued\u00f3 imantado por la magia del lugar: \"as\u00ed nos quedamos todos los llegamos ysin hab\u00e9rnoslo propuesto tambi\u00e9n nos vimos atrapados en las redes de su hechizo\".<br>",
+        "tags": [
+            {
+                "id": 277,
+                "name": "Oaxaca",
+                "slug": "oaxaca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/oaxaca"
+            },
+            {
+                "id": 280,
+                "name": "Historia de M\u00e9xico",
+                "slug": "historia-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historia-de-mexico"
+            },
+            {
+                "id": 1308,
+                "name": "Regiones de M\u00e9xico",
+                "slug": "regiones-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/regiones-de-mexico"
+            },
+            {
+                "id": 760,
+                "name": "Paisajes",
+                "slug": "paisajes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/paisajes"
+            },
+            {
+                "id": 306,
+                "name": "Agua",
+                "slug": "agua",
+                "url": "https://www.filminlatino.mx/catalogo/tema/agua"
+            },
+            {
+                "id": 896,
+                "name": "Documental y memoria",
+                "slug": "documental-y-memoria",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental-y-memoria"
+            },
+            {
+                "id": 269,
+                "name": "Memoria y recuerdos",
+                "slug": "memoria-y-recuerdos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/memoria-y-recuerdos"
+            },
+            {
+                "id": 1403,
+                "name": "Pueblos ind\u00edgenas",
+                "slug": "pueblos-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pueblos-indigenas"
+            },
+            {
+                "id": 366,
+                "name": "Culturas ind\u00edgenas",
+                "slug": "culturas-indigenas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/culturas-indigenas"
+            },
+            {
+                "id": 1314,
+                "name": "Cultura",
+                "slug": "cultura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cultura"
+            },
+            {
+                "id": 91,
+                "name": "Cine de mujeres",
+                "slug": "cine-de-mujeres",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-mujeres"
+            },
+            {
+                "id": 1775,
+                "name": "Largometraje documental | Muestra de Mujeres en el Cine y la TV",
+                "slug": "largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv",
+                "url": "https://www.filminlatino.mx/catalogo/tema/largometraje-documental-muestra-de-mujeres-en-el-cine-y-la-tv"
+            },
+            {
+                "id": 801,
+                "name": "Mujeres documentalistas",
+                "slug": "mujeres-documentalistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-documentalistas"
+            },
+            {
+                "id": 864,
+                "name": "Pioneras del documental",
+                "slug": "pioneras-del-documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pioneras-del-documental"
+            },
+            {
+                "id": 525,
+                "name": "Documental",
+                "slug": "documental",
+                "url": "https://www.filminlatino.mx/catalogo/tema/documental"
+            },
+            {
+                "id": 908,
+                "name": "Directoras mexicanas",
+                "slug": "directoras-mexicanas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/directoras-mexicanas"
+            },
+            {
+                "id": 916,
+                "name": "Nuestras directoras",
+                "slug": "nuestras-directoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 296,
+                "name": "Latinoam\u00e9rica",
+                "slug": "latinoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/latinoamerica"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2370,
+                "name": "Territorios en pugna | Muestra de Mujeres en el Cine y la TV 2021",
+                "slug": "territorios-en-pugna-muestra-de-mujeres-en-el-cine-y-la-tv-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/territorios-en-pugna-muestra-de-mujeres-en-el-cine-y-la-tv-2021"
+            },
+            {
+                "id": 2361,
+                "name": "Muestra de Mujeres en el Cine y la TV 2021",
+                "slug": "muestra-de-mujeres-en-el-cine-y-la-tv-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-mujeres-en-el-cine-y-la-tv-2021"
+            },
+            {
+                "id": 2434,
+                "name": "FVOD",
+                "slug": "fvod",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fvod"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Mazunte",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/mazunte",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 12918,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2021
+    }
+}

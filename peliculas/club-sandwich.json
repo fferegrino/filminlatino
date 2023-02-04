@@ -1,0 +1,557 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Mar\u00eda Ren\u00e9e Prudencio",
+                "gender": "f",
+                "id": 1286,
+                "slug": "maria-renee-prudencio",
+                "url": "https://www.filminlatino.mx/actriz/maria-renee-prudencio"
+            },
+            {
+                "full_name": "Lucio  Gim\u00e9nez Cacho",
+                "gender": "m",
+                "id": 1287,
+                "slug": "lucio-gimenez-cacho",
+                "url": "https://www.filminlatino.mx/actor/lucio-gimenez-cacho"
+            },
+            {
+                "full_name": "Danae Reynaud Romero",
+                "gender": "f",
+                "id": 792,
+                "slug": "danae-reynaud-romero",
+                "url": "https://www.filminlatino.mx/actriz/danae-reynaud-romero"
+            },
+            {
+                "full_name": "Enrique  Arreola",
+                "gender": "m",
+                "id": 1288,
+                "slug": "enrique-arreola",
+                "url": "https://www.filminlatino.mx/actor/enrique-arreola"
+            }
+        ],
+        "avg_votes": 9.4,
+        "avg_votes_formatted": "9,4",
+        "awards": [
+            {
+                "category": "Mejor director",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": 2013
+            },
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-turin",
+                "name": "Festival de Turin ",
+                "slug": "festival-de-turin",
+                "year": 2013
+            },
+            {
+                "category": "Mejor Actriz",
+                "icon": "festival-de-turin",
+                "name": "Festival de Turin ",
+                "slug": "festival-de-turin",
+                "year": 2013
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 75,
+                "name": "Francia",
+                "slug": "francia",
+                "url": "https://www.filminlatino.mx/catalogo/pais/francia"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Fernando Eimbcke",
+                "gender": "m",
+                "id": 407,
+                "slug": "fernando-eimbcke",
+                "url": "https://www.filminlatino.mx/director/fernando-eimbcke"
+            }
+        ],
+        "duration_in_minutes": 79,
+        "excerpt": "La tradicional tem\u00e1tica adolescente tratada impecablemente por Eimbcke aderezada con una exploraci\u00f3n al rol de madre moderna mexicana.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            },
+            {
+                "id": 14,
+                "name": "Romance",
+                "slug": "romance",
+                "url": "https://www.filminlatino.mx/catalogo/genero/romance"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 508,
+        "image_card": "https://static.filminlatino.mx/images/media/508/3/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/508/3/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/508/3/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/508/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/508/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/508/4/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/508/3/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/508/4/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 32,
+        "original_title": "Club S\u00e1ndwich",
+        "producers": [
+            {
+                "acronym": "IMCINE",
+                "id": 1,
+                "name": "Instituto Mexicano de Cinematograf\u00eda",
+                "slug": "imcine",
+                "url": "https://www.filminlatino.mx/producer/imcine"
+            },
+            {
+                "acronym": "CONACULTA ",
+                "id": 24,
+                "name": "Consejo Nacional para la Cultura y las Artes",
+                "slug": "consejo-nacional-para-la-cultura-y-las-artes",
+                "url": "https://www.filminlatino.mx/producer/consejo-nacional-para-la-cultura-y-las-artes"
+            },
+            {
+                "acronym": "",
+                "id": 69,
+                "name": "EFICINE",
+                "slug": "eficine",
+                "url": "https://www.filminlatino.mx/producer/eficine"
+            },
+            {
+                "acronym": "",
+                "id": 125,
+                "name": "Gobierno del Estado de Oaxaca",
+                "slug": "gobierno-del-estado-de-oaxaca",
+                "url": "https://www.filminlatino.mx/producer/gobierno-del-estado-de-oaxaca"
+            },
+            {
+                "acronym": "",
+                "id": 567,
+                "name": "CinePantera",
+                "slug": "cinepantera",
+                "url": "https://www.filminlatino.mx/producer/cinepantera"
+            },
+            {
+                "acronym": "",
+                "id": 568,
+                "name": "Funny Balloons",
+                "slug": "funny-balloons",
+                "url": "https://www.filminlatino.mx/producer/funny-balloons"
+            },
+            {
+                "acronym": "",
+                "id": 569,
+                "name": "Mexichem",
+                "slug": "mexichem",
+                "url": "https://www.filminlatino.mx/producer/mexichem"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "club-sandwich",
+        "synopsis": "Paloma y H\u00e9ctor, madre e hijo adolescente de 15 a\u00f1os, mantienen una relaci\u00f3n muy intensa y especial. Cuando pasan unas vacaciones en la costa, H\u00e9ctor conoce a Jazm\u00edn, una adolescente con la que descubre los primeros destellos del amor y el sexo. Tratando de mantener a H\u00e9ctor cerca de ella, Paloma pasa un mal trago cuando tiene que aceptar que su hijo est\u00e1 creciendo y que dejar\u00e1 de ser el mismo hijo y mejor amigo que ha tenido durante todos estos a\u00f1os.",
+        "tags": [
+            {
+                "id": 734,
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-san-sebastian"
+            },
+            {
+                "id": 244,
+                "name": "Iniciaci\u00f3n sexual",
+                "slug": "iniciacion-sexual",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iniciacion-sexual"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 248,
+                "name": "Relaciones sentimentales",
+                "slug": "relaciones-sentimentales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-sentimentales"
+            },
+            {
+                "id": 249,
+                "name": "Primer amor",
+                "slug": "primer-amor",
+                "url": "https://www.filminlatino.mx/catalogo/tema/primer-amor"
+            },
+            {
+                "id": 574,
+                "name": "Favoritas Cineteca",
+                "slug": "favoritas-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/favoritas-cineteca"
+            },
+            {
+                "id": 617,
+                "name": "Top 2015",
+                "slug": "top-2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/top-2015"
+            },
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 422,
+                "name": "Madres solteras",
+                "slug": "madres-solteras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-solteras"
+            },
+            {
+                "id": 268,
+                "name": "Verano",
+                "slug": "verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/verano"
+            },
+            {
+                "id": 728,
+                "name": "Pel\u00edculas cortas",
+                "slug": "peliculas-cortas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-cortas"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 6,
+                "name": "Sobre la adolescencia",
+                "slug": "sobre-la-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sobre-la-adolescencia"
+            },
+            {
+                "id": 774,
+                "name": "Mujeres maravilla",
+                "slug": "mujeres-maravilla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-maravilla"
+            },
+            {
+                "id": 789,
+                "name": "Cine de verano",
+                "slug": "cine-de-verano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-verano"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 841,
+                "name": "11\u00b0 FICM",
+                "slug": "110-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/110-ficm"
+            },
+            {
+                "id": 857,
+                "name": "Mujeres al borde",
+                "slug": "mujeres-al-borde",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mujeres-al-borde"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 899,
+                "name": "BFF\u00b4s",
+                "slug": "bffs",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bffs"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 939,
+                "name": "Altas temperaturas",
+                "slug": "altas-temperaturas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/altas-temperaturas"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 1050,
+                "name": "Cine Pantera",
+                "slug": "cine-pantera",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-pantera"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 919,
+                "name": "Nuestras directoras de fotograf\u00eda",
+                "slug": "nuestras-directoras-de-fotografia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-directoras-de-fotografia"
+            },
+            {
+                "id": 1242,
+                "name": "Besos a la Mx",
+                "slug": "besos-a-la-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/besos-a-la-mx"
+            },
+            {
+                "id": 920,
+                "name": "Maria Secco",
+                "slug": "maria-secco",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maria-secco"
+            },
+            {
+                "id": 918,
+                "name": "Nuestras montadoras",
+                "slug": "nuestras-montadoras",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nuestras-montadoras"
+            },
+            {
+                "id": 1236,
+                "name": "2015",
+                "slug": "2015",
+                "url": "https://www.filminlatino.mx/catalogo/tema/2015"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 1437,
+                "name": "Festival del Puerto",
+                "slug": "festival-del-puerto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-del-puerto"
+            },
+            {
+                "id": 1506,
+                "name": "Escribe Cine Recomienda",
+                "slug": "escribe-cine-recomienda",
+                "url": "https://www.filminlatino.mx/catalogo/tema/escribe-cine-recomienda"
+            },
+            {
+                "id": 1929,
+                "name": "Tu Peli Favorita en FilminLatino",
+                "slug": "tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 1930,
+                "name": "Nacionales | Tu Peli Favorita en FilminLatino",
+                "slug": "nacionales-tu-peli-favorita-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nacionales-tu-peli-favorita-en-filminlatino"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2016,
+                "name": "Michelle Couttolenc",
+                "slug": "michelle-couttolenc",
+                "url": "https://www.filminlatino.mx/catalogo/tema/michelle-couttolenc"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 777,
+                "name": "Mejor Director Ariel",
+                "slug": "mejor-director-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-director-ariel"
+            },
+            {
+                "id": 1353,
+                "name": "Mejor Actriz Ariel",
+                "slug": "mejor-actriz-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-actriz-ariel"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2577,
+                "name": "Ya no soy un ni\u00f1o",
+                "slug": "ya-no-soy-un-nino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ya-no-soy-un-nino"
+            },
+            {
+                "id": 1414,
+                "name": "Recomendadas",
+                "slug": "recomendadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/recomendadas"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            },
+            {
+                "id": 2787,
+                "name": "Calendario de Adviento | 2022",
+                "slug": "calendario-de-adviento-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/calendario-de-adviento-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1426550400,
+        "theater_release_date": 1426550400,
+        "theater_spectators_formatted": null,
+        "title": "Club S\u00e1ndwich",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/club-sandwich",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 378,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n en Espa\u00f1ol",
+                "part": null,
+                "type_id": 2
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/club-sandwich.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/club-sandwich/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/club-sandwich/master.m3u8"
+                }
+            ]
+        },
+        "year": 2013
+    }
+}

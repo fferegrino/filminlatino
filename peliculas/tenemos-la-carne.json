@@ -1,0 +1,372 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "No\u00e9 Hern\u00e1ndez",
+                "gender": "m",
+                "id": 816,
+                "slug": "noe-hernandez",
+                "url": "https://www.filminlatino.mx/actor/noe-hernandez"
+            },
+            {
+                "full_name": "Mar\u00eda  Evoli",
+                "gender": "f",
+                "id": 5897,
+                "slug": "maria-evoli",
+                "url": "https://www.filminlatino.mx/actriz/maria-evoli"
+            }
+        ],
+        "avg_votes": 6.7,
+        "avg_votes_formatted": "6,7",
+        "awards": [
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-sitges-espana",
+                "name": "Festival de Cine de Sitges, Espa\u00f1a ",
+                "slug": "festival-de-cine-de-sitges-espana",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-morelia",
+                "name": "Festival Internacional de Cine de Morelia",
+                "slug": "festival-internacional-de-cine-de-morelia",
+                "year": null
+            },
+            {
+                "category": "Prix s\u00e9quences",
+                "icon": "",
+                "name": "Brooklyn Horror Film Festival",
+                "slug": "brooklyn-horror-film-festival",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "",
+                "name": "Blood Window Galas Cannes",
+                "slug": "blood-window-galas-cannes",
+                "year": null
+            },
+            {
+                "category": "Prix s\u00e9quences",
+                "icon": "",
+                "name": "Fantasia Best Film",
+                "slug": "fantasia-best-film",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-cine-de-rotterdam",
+                "name": "Festival Internacional de Cine de Rotterdam",
+                "slug": "festival-internacional-de-cine-de-rotterdam",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-internacional-de-chicago",
+                "name": "Festival internacional de Chicago",
+                "slug": "festival-internacional-de-chicago",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "morbido-film-festival",
+                "name": "M\u00f3rbido Film Festival",
+                "slug": "morbido-film-festival",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Emiliano  Rocha Minter",
+                "gender": "m",
+                "id": 2287,
+                "slug": "emiliano-rocha-minter",
+                "url": "https://www.filminlatino.mx/director/emiliano-rocha-minter"
+            }
+        ],
+        "duration_in_minutes": 80,
+        "excerpt": "Una pel\u00edcula de horror fant\u00e1stico donde est\u00e1 el sexo, lo escatol\u00f3gico y los alimentos de dudosa procedencia.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            },
+            {
+                "id": 2,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/genero/horror"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 5120,
+        "image_card": "https://static.filminlatino.mx/images/media/5120/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/5120/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/5120/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/3/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/3/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/3/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/5120/2/still_7_3.png",
+            "https://static.filminlatino.mx/images/media/5120/1/still_7_3.png"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 48,
+        "original_title": "Tenemos la carne",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 1454,
+                "name": "Piano Producciones ",
+                "slug": "piano-producciones",
+                "url": "https://www.filminlatino.mx/producer/piano-producciones"
+            },
+            {
+                "acronym": "",
+                "id": 655,
+                "name": "Detalle Films",
+                "slug": "detalle-films",
+                "url": "https://www.filminlatino.mx/producer/detalle-films"
+            },
+            {
+                "acronym": "",
+                "id": 2118,
+                "name": "Sedna Fims",
+                "slug": "sedna-fims",
+                "url": "https://www.filminlatino.mx/producer/sedna-fims"
+            },
+            {
+                "acronym": "",
+                "id": 2119,
+                "name": "Estudios Splendor Omnia",
+                "slug": "estudios-splendor-omnia",
+                "url": "https://www.filminlatino.mx/producer/estudios-splendor-omnia"
+            },
+            {
+                "acronym": "",
+                "id": 2115,
+                "name": "Simplemente",
+                "slug": "simplemente",
+                "url": "https://www.filminlatino.mx/producer/simplemente"
+            }
+        ],
+        "qualification": {
+            "code": "21+",
+            "description": "Exclusivamente Adultos",
+            "id": 5,
+            "name": "D"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "tenemos-la-carne",
+        "synopsis": "Dos hermanos de nombre Fauna y Lucio, despu\u00e9s de vagar por una ciudad apocal\u00edptica durante a\u00f1os para encontrar un lugar seguro para vivir, afectados a la casa de Mariano, un hombre extra\u00f1o y peligroso. Los hermanos hacen un trato con el hombre para ayudarlo a construir una cueva, la cual ser\u00e1 el \u00faltimo monumento de una sociedad podr\u00eda ser de ruinas nacer\u00e1 un mundo sin l\u00edmites. Esta es la \u00f3pera prima del director.<br><br>Advertencia:<br>Esta pel\u00edcula es apta solo para mayores de 18 a\u00f1os, se recomienda que los menores de edad se abstengan.\u00a0El usuario acepta que en este material puede encontrar\u00a0sexo expl\u00edcito, alto grado de violencia f\u00edsica o verbal, misma que puede ser considerada ofensiva o cuestionable. El usuario asume la responsabilidad al acceder al contenido de clasificaci\u00f3n D, considerando que cuenta con la edad requerida. Queda estrictamente prohibido el uso indebido del material que pertenece a la plataforma. Se recomienda discreci\u00f3n.",
+        "tags": [
+            {
+                "id": 469,
+                "name": "Violencia",
+                "slug": "violencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/violencia"
+            },
+            {
+                "id": 289,
+                "name": "Ciudad de M\u00e9xico",
+                "slug": "ciudad-de-mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ciudad-de-mexico"
+            },
+            {
+                "id": 444,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mexico"
+            },
+            {
+                "id": 10,
+                "name": "Sexo",
+                "slug": "sexo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexo"
+            },
+            {
+                "id": 686,
+                "name": "Horror",
+                "slug": "horror",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror"
+            },
+            {
+                "id": 759,
+                "name": "Horror_MX",
+                "slug": "horror-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/horror-mx"
+            },
+            {
+                "id": 1310,
+                "name": "Sexualidad",
+                "slug": "sexualidad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/sexualidad"
+            },
+            {
+                "id": 738,
+                "name": "Terror moderno",
+                "slug": "terror-moderno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-moderno"
+            },
+            {
+                "id": 41,
+                "name": "Gore",
+                "slug": "gore",
+                "url": "https://www.filminlatino.mx/catalogo/tema/gore"
+            },
+            {
+                "id": 193,
+                "name": "Erotismo",
+                "slug": "erotismo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/erotismo"
+            },
+            {
+                "id": 645,
+                "name": "Mundo de fantas\u00eda",
+                "slug": "mundo-de-fantasia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mundo-de-fantasia"
+            },
+            {
+                "id": 103,
+                "name": "Apocalipsis",
+                "slug": "apocalipsis",
+                "url": "https://www.filminlatino.mx/catalogo/tema/apocalipsis"
+            },
+            {
+                "id": 563,
+                "name": "Fin del mundo",
+                "slug": "fin-del-mundo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fin-del-mundo"
+            },
+            {
+                "id": 12,
+                "name": "\u00d3pera prima",
+                "slug": "opera-prima",
+                "url": "https://www.filminlatino.mx/catalogo/tema/opera-prima"
+            },
+            {
+                "id": 651,
+                "name": "Cine de ruptura",
+                "slug": "cine-de-ruptura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-de-ruptura"
+            },
+            {
+                "id": 314,
+                "name": "Locura",
+                "slug": "locura",
+                "url": "https://www.filminlatino.mx/catalogo/tema/locura"
+            },
+            {
+                "id": 1265,
+                "name": "Drama psicol\u00f3gico",
+                "slug": "drama-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/drama-psicologico"
+            },
+            {
+                "id": 675,
+                "name": "Terror psicol\u00f3gico",
+                "slug": "terror-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/terror-psicologico"
+            },
+            {
+                "id": 816,
+                "name": "Thriller psicol\u00f3gico",
+                "slug": "thriller-psicologico",
+                "url": "https://www.filminlatino.mx/catalogo/tema/thriller-psicologico"
+            },
+            {
+                "id": 1104,
+                "name": "Piano",
+                "slug": "piano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/piano"
+            },
+            {
+                "id": 2015,
+                "name": "Carlos Cort\u00e9s",
+                "slug": "carlos-cortes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/carlos-cortes"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2657,
+                "name": "Deseo",
+                "slug": "deseo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/deseo"
+            },
+            {
+                "id": 2658,
+                "name": "Pasi\u00f3n",
+                "slug": "pasion",
+                "url": "https://www.filminlatino.mx/catalogo/tema/pasion"
+            },
+            {
+                "id": 2736,
+                "name": "10 d\u00edas de terror en FilminLatino ",
+                "slug": "10-dias-de-terror-en-filminlatino",
+                "url": "https://www.filminlatino.mx/catalogo/tema/10-dias-de-terror-en-filminlatino"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "Tenemos la carne",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/tenemos-la-carne",
+        "versions": [
+            {
+                "codes": [],
+                "id": 5113,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": null,
+        "year": 2016
+    }
+}

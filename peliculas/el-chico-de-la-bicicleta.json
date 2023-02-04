@@ -1,0 +1,377 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "C\u00e9cile De France",
+                "gender": "f",
+                "id": 2803,
+                "slug": "cecile-de-france",
+                "url": "https://www.filminlatino.mx/actriz/cecile-de-france"
+            },
+            {
+                "full_name": "Thomas Doret",
+                "gender": "m",
+                "id": 2804,
+                "slug": "thomas-doret",
+                "url": "https://www.filminlatino.mx/actor/thomas-doret"
+            },
+            {
+                "full_name": "J\u00e9r\u00e9mie Renier",
+                "gender": "m",
+                "id": 2805,
+                "slug": "jeremie-renier",
+                "url": "https://www.filminlatino.mx/actor/jeremie-renier"
+            },
+            {
+                "full_name": "Fabrizio Rongione",
+                "gender": "m",
+                "id": 2806,
+                "slug": "fabrizio-rongione",
+                "url": "https://www.filminlatino.mx/actor/fabrizio-rongione"
+            },
+            {
+                "full_name": "Olivier Gourmet",
+                "gender": "m",
+                "id": 205,
+                "slug": "olivier-gourmet",
+                "url": "https://www.filminlatino.mx/actor/olivier-gourmet"
+            }
+        ],
+        "avg_votes": 8.7,
+        "avg_votes_formatted": "8,7",
+        "awards": [
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "globo-de-oro",
+                "name": "Globo de Oro",
+                "slug": "globo-de-oro",
+                "year": 2011
+            },
+            {
+                "category": "Gran premio del jurado",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n a la Palma de Oro",
+                "icon": "festival-de-cannes",
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "premios-cesar",
+                "name": "Premios C\u00e9sar",
+                "slug": "premios-cesar",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "premios-de-la-asociacion-australiana-de-criticos-de-cine",
+                "name": "Premios de la Asociaci\u00f3n Australiana de cr\u00edticos de Cine",
+                "slug": "premios-de-la-asociacion-australiana-de-criticos-de-cine",
+                "year": 2011
+            },
+            {
+                "category": "Mejor Gui\u00f3n",
+                "icon": "premios-de-cine-europeo",
+                "name": "Premios de Cine Europeo",
+                "slug": "premios-de-cine-europeo",
+                "year": 2011
+            },
+            {
+                "category": "Nominaci\u00f3n Mejor Pel\u00edcula Extranjera",
+                "icon": "independent-spirit-awards",
+                "name": "Independent Spirit Awards",
+                "slug": "independent-spirit-awards",
+                "year": 2011
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 20,
+                "name": "B\u00e9lgica",
+                "slug": "belgica",
+                "url": "https://www.filminlatino.mx/catalogo/pais/belgica"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Jean-Pierre Dardenne",
+                "gender": "m",
+                "id": 958,
+                "slug": "jean-pierre-dardenne",
+                "url": "https://www.filminlatino.mx/director/jean-pierre-dardenne"
+            },
+            {
+                "full_name": "Luc Dardenne",
+                "gender": "m",
+                "id": 959,
+                "slug": "luc-dardenne",
+                "url": "https://www.filminlatino.mx/director/luc-dardenne"
+            }
+        ],
+        "duration_in_minutes": 88,
+        "excerpt": "Su padre lo abandona pero Cyril busca la manera de traerlo de vuelta.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 1494,
+        "image_card": "https://static.filminlatino.mx/images/media/1494/4/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/1494/4/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/1494/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/5/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/4/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/9/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/7/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/6/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/9/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/7/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/1494/11/still_6_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 27,
+        "original_title": "Le gamin au v\u00e9lo",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 492,
+                "name": "France 2 Cin\u00e9ma",
+                "slug": "france-2-cinema",
+                "url": "https://www.filminlatino.mx/producer/france-2-cinema"
+            },
+            {
+                "acronym": "",
+                "id": 1025,
+                "name": "Les Films du Fleuve",
+                "slug": "les-films-du-fleuve",
+                "url": "https://www.filminlatino.mx/producer/les-films-du-fleuve"
+            },
+            {
+                "acronym": "RTBF",
+                "id": 1026,
+                "name": "Radio T\u00e9l\u00e9vision Belge Francophone",
+                "slug": "radio-television-belge-francophone",
+                "url": "https://www.filminlatino.mx/producer/radio-television-belge-francophone"
+            },
+            {
+                "acronym": "",
+                "id": 1094,
+                "name": "Archipel 35",
+                "slug": "archipel-35",
+                "url": "https://www.filminlatino.mx/producer/archipel-35"
+            },
+            {
+                "acronym": "",
+                "id": 1095,
+                "name": "Lucky Red",
+                "slug": "lucky-red",
+                "url": "https://www.filminlatino.mx/producer/lucky-red"
+            },
+            {
+                "acronym": "",
+                "id": 1096,
+                "name": "Belgacom",
+                "slug": "belgacom",
+                "url": "https://www.filminlatino.mx/producer/belgacom"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-chico-de-la-bicicleta",
+        "synopsis": "Cyril, un ni\u00f1o de once a\u00f1os, se escapa del hogar de acogida, donde su padre lo dej\u00f3 despu\u00e9s de prometerle que volver\u00eda a buscarlo. Lo que Cyril se propone es encontrarlo. Despu\u00e9s de llamar en vano a la puerta del apartamento donde viv\u00edan, para eludir la persecuci\u00f3n del personal del hospicio, se refugia en un gabinete m\u00e9dico y se echa en brazos de una joven sentada en la sala de espera. As\u00ed es como, por pura casualidad, conoce a Samantha, una peluquera que le permite quedarse con ella los fines de semana.",
+        "tags": [
+            {
+                "id": 243,
+                "name": "Infancia y adolescencia",
+                "slug": "infancia-y-adolescencia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-adolescencia"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 584,
+                "name": "Derechos Humanos",
+                "slug": "derechos-humanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/derechos-humanos"
+            },
+            {
+                "id": 618,
+                "name": "Globos de Oro",
+                "slug": "globos-de-oro",
+                "url": "https://www.filminlatino.mx/catalogo/tema/globos-de-oro"
+            },
+            {
+                "id": 528,
+                "name": "Foro Cineteca",
+                "slug": "foro-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/foro-cineteca"
+            },
+            {
+                "id": 579,
+                "name": "Bicicletas",
+                "slug": "bicicletas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/bicicletas"
+            },
+            {
+                "id": 677,
+                "name": "Ni\u00f1os Protagonistas",
+                "slug": "ninos-protagonistas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ninos-protagonistas"
+            },
+            {
+                "id": 696,
+                "name": "Cannes 2016",
+                "slug": "cannes-2016",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cannes-2016"
+            },
+            {
+                "id": 393,
+                "name": "Festival de Cannes",
+                "slug": "festival-de-cannes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-cannes"
+            },
+            {
+                "id": 340,
+                "name": "Juventud",
+                "slug": "juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/juventud"
+            },
+            {
+                "id": 839,
+                "name": "9\u00b0 FICM",
+                "slug": "90-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/90-ficm"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 895,
+                "name": "Infancia y juventud",
+                "slug": "infancia-y-juventud",
+                "url": "https://www.filminlatino.mx/catalogo/tema/infancia-y-juventud"
+            },
+            {
+                "id": 1156,
+                "name": "Hermanos Dardenne",
+                "slug": "hermanos-dardenne",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos-dardenne"
+            },
+            {
+                "id": 1382,
+                "name": "Especial MICG\u00e9nero",
+                "slug": "especial-micgenero",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-micgenero"
+            },
+            {
+                "id": 1417,
+                "name": "M\u00e1s de 17\u00ba FICM",
+                "slug": "mas-de-17o-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-de-17o-ficm"
+            },
+            {
+                "id": 931,
+                "name": "Pel\u00edculas corales",
+                "slug": "peliculas-corales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/peliculas-corales"
+            },
+            {
+                "id": 1100,
+                "name": "NUEVA ERA",
+                "slug": "nueva-era",
+                "url": "https://www.filminlatino.mx/catalogo/tema/nueva-era"
+            },
+            {
+                "id": 1440,
+                "name": "Invierno",
+                "slug": "invierno",
+                "url": "https://www.filminlatino.mx/catalogo/tema/invierno"
+            },
+            {
+                "id": 2651,
+                "name": "Filmes internacionales",
+                "slug": "filmes-internacionales",
+                "url": "https://www.filminlatino.mx/catalogo/tema/filmes-internacionales"
+            },
+            {
+                "id": 2787,
+                "name": "Calendario de Adviento | 2022",
+                "slug": "calendario-de-adviento-2022",
+                "url": "https://www.filminlatino.mx/catalogo/tema/calendario-de-adviento-2022"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El chico de la bicicleta",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-chico-de-la-bicicleta",
+        "versions": [
+            {
+                "codes": [],
+                "id": 1017,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original con Subt\u00edtulos en Espa\u00f1ol",
+                "part": null,
+                "type_id": 1
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-chicho-de-la-bicicleta.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-chicho-de-la-bicicleta/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-chicho-de-la-bicicleta/master.m3u8"
+                }
+            ]
+        },
+        "year": 2011
+    }
+}

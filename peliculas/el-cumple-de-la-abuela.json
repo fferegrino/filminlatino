@@ -1,0 +1,308 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Susana Alexander",
+                "gender": "m",
+                "id": 4173,
+                "slug": "susana-alexander",
+                "url": "https://www.filminlatino.mx/actor/susana-alexander"
+            },
+            {
+                "full_name": "Jos\u00e9 Carlos  Rodr\u00edguez",
+                "gender": "m",
+                "id": 4174,
+                "slug": "jose-carlos-rodriguez",
+                "url": "https://www.filminlatino.mx/actor/jose-carlos-rodriguez"
+            },
+            {
+                "full_name": "Tiar\u00e9 Scanda",
+                "gender": "f",
+                "id": 1276,
+                "slug": "tiare-scanda",
+                "url": "https://www.filminlatino.mx/actriz/tiare-scanda"
+            },
+            {
+                "full_name": "Rodrigo Murray",
+                "gender": "m",
+                "id": 805,
+                "slug": "rodrigo-murray",
+                "url": "https://www.filminlatino.mx/actor/rodrigo-murray"
+            },
+            {
+                "full_name": "Luis Arrieta",
+                "gender": "m",
+                "id": 2044,
+                "slug": "luis-arrieta",
+                "url": "https://www.filminlatino.mx/actor/luis-arrieta"
+            }
+        ],
+        "avg_votes": 4.3,
+        "avg_votes_formatted": "4,3",
+        "awards": [],
+        "characters": [],
+        "countries": [
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Javier Colinas",
+                "gender": "m",
+                "id": 1327,
+                "slug": "javier-colinas",
+                "url": "https://www.filminlatino.mx/director/javier-colinas"
+            }
+        ],
+        "duration_in_minutes": 98,
+        "excerpt": "El festejo del cumplea\u00f1os de la abuela dar\u00e1 como resultado una serie de extra\u00f1as e hilarantes situaciones.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 3,
+                "name": "Comedia",
+                "slug": "comedia",
+                "url": "https://www.filminlatino.mx/catalogo/genero/comedia"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 2771,
+        "image_card": "https://static.filminlatino.mx/images/media/2771/1/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/2771/1/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/2771/8/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/2771/2/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/2771/4/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/2771/6/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/2771/10/still_5_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 5,
+        "original_title": "El cumple de la abuela",
+        "producers": [
+            {
+                "acronym": "",
+                "id": 736,
+                "name": "Los G\u00fceros Films ",
+                "slug": "los-gueros-films",
+                "url": "https://www.filminlatino.mx/producer/los-gueros-films"
+            },
+            {
+                "acronym": "",
+                "id": 739,
+                "name": "Itaca Films",
+                "slug": "itaca-films",
+                "url": "https://www.filminlatino.mx/producer/itaca-films"
+            }
+        ],
+        "qualification": {
+            "code": "12+",
+            "description": "Adolescentes de 12 a\u00f1os en adelante",
+            "id": 2,
+            "name": "B"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "el-cumple-de-la-abuela",
+        "synopsis": "Cuatro hermanos se re\u00fanen durante un fin de semana para festejar el cumplea\u00f1os de su abuela. Durante la celebraci\u00f3n se enteran de que su padre, un tipo desapegado, borracho e irresponsable, ha encontrado el amor y ha decidido cambiar su vida. La revelaci\u00f3n llega justo cuando la vida de sus hijos atraviesa su peor momento.",
+        "tags": [
+            {
+                "id": 739,
+                "name": "Amor prohibido",
+                "slug": "amor-prohibido",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-prohibido"
+            },
+            {
+                "id": 247,
+                "name": "Relaciones familiares",
+                "slug": "relaciones-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/relaciones-familiares"
+            },
+            {
+                "id": 169,
+                "name": "Fiesta",
+                "slug": "fiesta",
+                "url": "https://www.filminlatino.mx/catalogo/tema/fiesta"
+            },
+            {
+                "id": 477,
+                "name": "Mam\u00e1",
+                "slug": "mama",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mama"
+            },
+            {
+                "id": 627,
+                "name": "Hermanos",
+                "slug": "hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/hermanos"
+            },
+            {
+                "id": 84,
+                "name": "3\u00aa edad",
+                "slug": "3a-edad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/3a-edad"
+            },
+            {
+                "id": 901,
+                "name": "Y vivieron felices",
+                "slug": "y-vivieron-felices",
+                "url": "https://www.filminlatino.mx/catalogo/tema/y-vivieron-felices"
+            },
+            {
+                "id": 799,
+                "name": "Divas del cine",
+                "slug": "divas-del-cine",
+                "url": "https://www.filminlatino.mx/catalogo/tema/divas-del-cine"
+            },
+            {
+                "id": 807,
+                "name": "D\u00eda del abuelo",
+                "slug": "dia-del-abuelo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/dia-del-abuelo"
+            },
+            {
+                "id": 826,
+                "name": "Del teatro a la pantalla",
+                "slug": "del-teatro-a-la-pantalla",
+                "url": "https://www.filminlatino.mx/catalogo/tema/del-teatro-a-la-pantalla"
+            },
+            {
+                "id": 878,
+                "name": "Madres inolvidables",
+                "slug": "madres-inolvidables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-inolvidables"
+            },
+            {
+                "id": 174,
+                "name": "Reencuentros",
+                "slug": "reencuentros",
+                "url": "https://www.filminlatino.mx/catalogo/tema/reencuentros"
+            },
+            {
+                "id": 20,
+                "name": "Cine comercial",
+                "slug": "cine-comercial",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-comercial"
+            },
+            {
+                "id": 109,
+                "name": "Comedia de enredo",
+                "slug": "comedia-de-enredo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedia-de-enredo"
+            },
+            {
+                "id": 46,
+                "name": "Historias cruzadas",
+                "slug": "historias-cruzadas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/historias-cruzadas"
+            },
+            {
+                "id": 925,
+                "name": "Enredos familiares",
+                "slug": "enredos-familiares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/enredos-familiares"
+            },
+            {
+                "id": 1056,
+                "name": "Coraz\u00f3n Films",
+                "slug": "corazon-films",
+                "url": "https://www.filminlatino.mx/catalogo/tema/corazon-films"
+            },
+            {
+                "id": 1355,
+                "name": "Coactuaci\u00f3n Femenina Ariel",
+                "slug": "coactuacion-femenina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/coactuacion-femenina-ariel"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 1428,
+                "name": "Familias retorcidas",
+                "slug": "familias-retorcidas",
+                "url": "https://www.filminlatino.mx/catalogo/tema/familias-retorcidas"
+            },
+            {
+                "id": 933,
+                "name": "Madres Mx",
+                "slug": "madres-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/madres-mx"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 2179,
+                "name": "Cine mexicano contempor\u00e1neo",
+                "slug": "cine-mexicano-contemporaneo",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-mexicano-contemporaneo"
+            },
+            {
+                "id": 2611,
+                "name": "Comedias independientes",
+                "slug": "comedias-independientes",
+                "url": "https://www.filminlatino.mx/catalogo/tema/comedias-independientes"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": null,
+        "theater_release_date": null,
+        "theater_spectators_formatted": null,
+        "title": "El cumple de la abuela",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/el-cumple-de-la-abuela",
+        "versions": [
+            {
+                "codes": [
+                    "VE"
+                ],
+                "id": 2146,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "es",
+                        "name": "Spanish"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/el-cumple-de-la-abeula.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/el-cumple-de-la-abeula/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/el-cumple-de-la-abeula/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}

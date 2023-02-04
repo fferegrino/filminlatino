@@ -1,0 +1,337 @@
+{
+    "data": {
+        "actors": [
+            {
+                "full_name": "Alfredo Castro",
+                "gender": "m",
+                "id": 4018,
+                "slug": "alfredo-castro",
+                "url": "https://www.filminlatino.mx/actor/alfredo-castro"
+            },
+            {
+                "full_name": "Luis  Silva",
+                "gender": "m",
+                "id": 4807,
+                "slug": "luis-silva",
+                "url": "https://www.filminlatino.mx/actor/luis-silva"
+            }
+        ],
+        "avg_votes": 8.8,
+        "avg_votes_formatted": "8,8",
+        "awards": [
+            {
+                "category": "Mejor pel\u00edcula",
+                "icon": "festival-de-venecia",
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "year": null
+            },
+            {
+                "category": "Premio Horizontes Latinos",
+                "icon": "festival-de-san-sebastian",
+                "name": "Festival de San Sebasti\u00e1n",
+                "slug": "festival-de-san-sebastian",
+                "year": null
+            },
+            {
+                "category": "Selecci\u00f3n Oficial",
+                "icon": "festival-de-cine-de-toronto",
+                "name": "Festival de Cine de Toronto ",
+                "slug": "festival-de-cine-de-toronto",
+                "year": null
+            },
+            {
+                "category": "Nominaci\u00f3n",
+                "icon": "premios-fenix",
+                "name": "Premios F\u00e9nix",
+                "slug": "premios-fenix",
+                "year": null
+            }
+        ],
+        "characters": [],
+        "countries": [
+            {
+                "id": 237,
+                "name": "Venezuela",
+                "slug": "venezuela",
+                "url": "https://www.filminlatino.mx/catalogo/pais/venezuela"
+            },
+            {
+                "id": 157,
+                "name": "M\u00e9xico",
+                "slug": "mexico",
+                "url": "https://www.filminlatino.mx/catalogo/pais/mexico"
+            }
+        ],
+        "directors": [
+            {
+                "full_name": "Lorenzo Vigas",
+                "gender": "m",
+                "id": 1618,
+                "slug": "lorenzo-vigas",
+                "url": "https://www.filminlatino.mx/director/lorenzo-vigas"
+            }
+        ],
+        "duration_in_minutes": 93,
+        "excerpt": "Un inquietante drama, nominado al al premio Ariel a mejor pel\u00edcula, \u00f3pera prima y revelaci\u00f3n masculina.",
+        "external_links": [],
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama",
+                "slug": "drama",
+                "url": "https://www.filminlatino.mx/catalogo/genero/drama"
+            }
+        ],
+        "has_new_episodes": false,
+        "id": 3150,
+        "image_card": "https://static.filminlatino.mx/images/media/3150/12/card_0_3.jpg",
+        "image_poster": "https://static.filminlatino.mx/images/media/3150/12/poster_0_3.jpg",
+        "image_stills": [
+            "https://static.filminlatino.mx/images/media/3150/12/still_1_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/14/still_2_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/16/still_3_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/18/still_4_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/24/still_5_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/22/still_6_3.jpg",
+            "https://static.filminlatino.mx/images/media/3150/20/still_7_3.jpg"
+        ],
+        "is_serie_complete": false,
+        "language": null,
+        "num_votes": 17,
+        "original_title": "Desde all\u00e1",
+        "producers": [],
+        "qualification": {
+            "code": "15+",
+            "description": "Mayores de 15 a\u00f1os",
+            "id": 3,
+            "name": "B15"
+        },
+        "quality": "HD",
+        "seasons_count": null,
+        "slug": "desde-alla",
+        "synopsis": "Armando, es un hombre solitario que vive tranquilo en la ciudad de Caracas en Venezuela, hasta que conoce a Elder, un joven ladr\u00f3n callejero. El encuentro entre estos dos hombres se transformar\u00e1 en una peligrosa y violenta relaci\u00f3n que cambiar\u00e1 sus vidas.",
+        "tags": [
+            {
+                "id": 628,
+                "name": "Amores retorcidos",
+                "slug": "amores-retorcidos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amores-retorcidos"
+            },
+            {
+                "id": 190,
+                "name": "Amor fugaz",
+                "slug": "amor-fugaz",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-fugaz"
+            },
+            {
+                "id": 389,
+                "name": "Soledad",
+                "slug": "soledad",
+                "url": "https://www.filminlatino.mx/catalogo/tema/soledad"
+            },
+            {
+                "id": 394,
+                "name": "Cine latinoamericano",
+                "slug": "cine-latinoamericano",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-latinoamericano"
+            },
+            {
+                "id": 21,
+                "name": "Cine LGBT",
+                "slug": "cine-lgbt",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-lgbt"
+            },
+            {
+                "id": 813,
+                "name": "Festival Internacional de Cine de Toronto",
+                "slug": "festival-internacional-de-cine-de-toronto",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-internacional-de-cine-de-toronto"
+            },
+            {
+                "id": 830,
+                "name": "13\u00b0 FICM",
+                "slug": "130-ficm",
+                "url": "https://www.filminlatino.mx/catalogo/tema/130-ficm"
+            },
+            {
+                "id": 855,
+                "name": "Realidad urbana",
+                "slug": "realidad-urbana",
+                "url": "https://www.filminlatino.mx/catalogo/tema/realidad-urbana"
+            },
+            {
+                "id": 853,
+                "name": "Los Cabos Film Festival",
+                "slug": "los-cabos-film-festival",
+                "url": "https://www.filminlatino.mx/catalogo/tema/los-cabos-film-festival"
+            },
+            {
+                "id": 858,
+                "name": "Muestra de la Cineteca",
+                "slug": "muestra-de-la-cineteca",
+                "url": "https://www.filminlatino.mx/catalogo/tema/muestra-de-la-cineteca"
+            },
+            {
+                "id": 863,
+                "name": "Queridos hermanos",
+                "slug": "queridos-hermanos",
+                "url": "https://www.filminlatino.mx/catalogo/tema/queridos-hermanos"
+            },
+            {
+                "id": 868,
+                "name": "Especial F\u00e9nix",
+                "slug": "especial-fenix",
+                "url": "https://www.filminlatino.mx/catalogo/tema/especial-fenix"
+            },
+            {
+                "id": 874,
+                "name": "Premios Goya",
+                "slug": "premios-goya",
+                "url": "https://www.filminlatino.mx/catalogo/tema/premios-goya"
+            },
+            {
+                "id": 1127,
+                "name": "Personajes singulares",
+                "slug": "personajes-singulares",
+                "url": "https://www.filminlatino.mx/catalogo/tema/personajes-singulares"
+            },
+            {
+                "id": 1130,
+                "name": "Diverso",
+                "slug": "diverso",
+                "url": "https://www.filminlatino.mx/catalogo/tema/diverso"
+            },
+            {
+                "id": 900,
+                "name": "Truenes memorables",
+                "slug": "truenes-memorables",
+                "url": "https://www.filminlatino.mx/catalogo/tema/truenes-memorables"
+            },
+            {
+                "id": 902,
+                "name": "Amor MX",
+                "slug": "amor-mx",
+                "url": "https://www.filminlatino.mx/catalogo/tema/amor-mx"
+            },
+            {
+                "id": 990,
+                "name": "Maleducados",
+                "slug": "maleducados",
+                "url": "https://www.filminlatino.mx/catalogo/tema/maleducados"
+            },
+            {
+                "id": 992,
+                "name": "Ganadoras Venecia",
+                "slug": "ganadoras-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/ganadoras-venecia"
+            },
+            {
+                "id": 997,
+                "name": "Festival de Venecia",
+                "slug": "festival-de-venecia",
+                "url": "https://www.filminlatino.mx/catalogo/tema/festival-de-venecia"
+            },
+            {
+                "id": 1042,
+                "name": "Cine Canibal",
+                "slug": "cine-canibal",
+                "url": "https://www.filminlatino.mx/catalogo/tema/cine-canibal"
+            },
+            {
+                "id": 1367,
+                "name": "Revelaci\u00f3n masculina Ariel",
+                "slug": "revelacion-masculina-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/revelacion-masculina-ariel"
+            },
+            {
+                "id": 937,
+                "name": "Iberoam\u00e9rica ",
+                "slug": "iberoamerica",
+                "url": "https://www.filminlatino.mx/catalogo/tema/iberoamerica"
+            },
+            {
+                "id": 776,
+                "name": "Mejor Pel\u00edcula Ariel",
+                "slug": "mejor-pelicula-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-pelicula-ariel"
+            },
+            {
+                "id": 936,
+                "name": "Mejor \u00d3pera prima Ariel",
+                "slug": "mejor-opera-prima-ariel",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mejor-opera-prima-ariel"
+            },
+            {
+                "id": 1259,
+                "name": "A\u00f1os 2010",
+                "slug": "anos-2010",
+                "url": "https://www.filminlatino.mx/catalogo/tema/anos-2010"
+            },
+            {
+                "id": 2014,
+                "name": " Jaime Baksht",
+                "slug": "jaime-baksht",
+                "url": "https://www.filminlatino.mx/catalogo/tema/jaime-baksht"
+            },
+            {
+                "id": 2018,
+                "name": "Trayectoria de nominados al Oscar 2021",
+                "slug": "trayectoria-de-nominados-al-oscar-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/trayectoria-de-nominados-al-oscar-2021"
+            },
+            {
+                "id": 2253,
+                "name": "M\u00e1s sobre los realizadores del TIFF 2021",
+                "slug": "mas-sobre-los-realizadores-del-tiff-2021",
+                "url": "https://www.filminlatino.mx/catalogo/tema/mas-sobre-los-realizadores-del-tiff-2021"
+            }
+        ],
+        "theater_income_formatted": null,
+        "theater_release": 1466553600,
+        "theater_release_date": 1466553600,
+        "theater_spectators_formatted": null,
+        "title": "Desde all\u00e1",
+        "type": "film",
+        "url": "https://www.filminlatino.mx/pelicula/desde-alla",
+        "versions": [
+            {
+                "codes": [],
+                "id": 2456,
+                "is_multi_audio": false,
+                "language_audios": [
+                    {
+                        "is_original": false,
+                        "iso_code": "or",
+                        "name": "Original"
+                    }
+                ],
+                "language_subtitles": [],
+                "name": "Versi\u00f3n Original",
+                "part": null,
+                "type_id": 3
+            }
+        ],
+        "video_background": null,
+        "video_trailer": {
+            "sources": [
+                {
+                    "codec": "h264",
+                    "mime_type": "video/mp4",
+                    "src": "https://trailermx.filmin.com/mx/extras/mp4/desde-alla.mp4"
+                },
+                {
+                    "codec": "h264",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h264/desde-alla/master.m3u8"
+                },
+                {
+                    "codec": "hevc",
+                    "mime_type": "application/vnd.apple.mpegurl",
+                    "src": "https://trailermx.filmin.com/mx/extras/hls-h265/desde-alla/master.m3u8"
+                }
+            ]
+        },
+        "year": 2015
+    }
+}
